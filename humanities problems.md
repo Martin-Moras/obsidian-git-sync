@@ -1,4 +1,4 @@
-[[climate change 1]]
+[[climate change]]
 [[war]]
 [[food]]
 [[depression ]]
