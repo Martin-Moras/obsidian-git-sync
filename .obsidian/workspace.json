@@ -174,14 +174,21 @@
                 "file": "School/DDR/DDR Vortrag GPT V2.md"
               }
             }
+          },
+          {
+            "id": "568d1c6174482101",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,18 +200,16 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "whisper:Open recording controls": false,
-      "obsidian-tts:Text to Speech": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "5aa930d49c3d3768",
   "lastOpenFiles": [
+    "School/DDR/github test.md",
+    "School/DDR/DDR Vortrag GPT V2.md",
     "School/DDR/DDR.md",
     "School/DDR/DDR Vortrag.md",
-    "School/DDR/DDR Vortrag GPT V2.md",
     "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR/Untitled.md",
     "School/DDR/DDR Vortrag GPT V1.md",
     "Untitled 3.md",
     "School/DDR/1949.md",
