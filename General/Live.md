@@ -1,0 +1,5 @@
+[[Meaning of live]]
+[[food]]
+[[Me]]
+[[Human]]
+[[humanities problems]]

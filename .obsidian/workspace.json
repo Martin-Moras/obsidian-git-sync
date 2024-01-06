@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "368e684659486818",
+    "type": "split",
+    "children": [
+      {
+        "id": "3346467d855994d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2820e60513e7252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/DDR/1949.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ddc4ee24529919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/DDR/1949.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b048a57b32195d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/DDR/DDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa930d49c3d3768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/DDR/DDR Vortrag GPT V2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d8a8f7d004ec3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86996b734fd5e26f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e5d4e21ca60627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ddr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e89ffc2782b6fe7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "83db7763887f0569",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2629364defe0ed98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecce5b0caba97f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acbaec22872c6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87aa814a8b767fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/DDR/DDR Vortrag GPT V2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "227e6eeb40e65207",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/DDR/DDR Vortrag GPT V2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad2d111a7405b9d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "289e3d7b048bfe2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/DDR/DDR Vortrag GPT V2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "whisper:Open recording controls": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "5aa930d49c3d3768",
+  "lastOpenFiles": [
+    "School/DDR/DDR.md",
+    "School/DDR/DDR Vortrag.md",
+    "School/DDR/DDR Vortrag GPT V2.md",
+    "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR/Untitled.md",
+    "School/DDR/DDR Vortrag GPT V1.md",
+    "Untitled 3.md",
+    "School/DDR/1949.md",
+    "School/DDR/DDR-Karte.png",
+    "School/DDR/UDSSR.md",
+    "Private/DDR.md",
+    "School/DDR/Wirtschaft der DDR.md",
+    "ToDo.md",
+    "School/GGK/DDR/DDR.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "School/GGK/DDR/Untitled.md",
+    "better teacher.md",
+    "Layers.md",
+    "Linux/IP address.md",
+    "Linux/ports.md",
+    "Application layer.md",
+    "Presentation layer.md",
+    "Session management layer.md",
+    "Transport layer.md",
+    "TCP+UDP.md",
+    "Network layer.md",
+    "SMB 139",
+    "Untitled.canvas",
+    "Private/Human",
+    "Untitled"
+  ]
+}
