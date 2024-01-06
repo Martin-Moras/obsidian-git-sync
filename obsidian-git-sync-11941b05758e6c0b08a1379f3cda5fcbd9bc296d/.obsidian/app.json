@@ -1,0 +1,22 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "editor:insert-wikilink",
+    "obsidian-math-plus:insert-math-block"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
+}

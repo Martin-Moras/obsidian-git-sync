@@ -1,5 +1,0 @@
-[[Knolage]]
-[[Thoughts 1]]
-[[Pressent]]
-[[Goals 1]]
-[[Obligations 1]]
