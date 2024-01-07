@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iPad git.md",
+                "file": "General/Meaning of live.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "iPad git.md",
+            "file": "General/Meaning of live.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "iPad git.md",
+            "file": "General/Meaning of live.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "iPad git.md"
+            "file": "General/Meaning of live.md"
           }
         }
       }
@@ -137,43 +137,47 @@
   },
   "active": "401f4431ff7e895e",
   "lastOpenFiles": [
-    "POP3 110.md",
-    "Self work",
-    "SMB 139/SMB 139+445.md",
-    "SMB 139",
-    "Physical Layer.md",
-    "Telnet 23.md",
-    "Thoughts.md",
-    "Phone.md",
+    "School/Ifs.excalidraw.md",
+    "Excalidraw/IFS Model.md",
+    "Template.md",
+    "/Template.md",
+    "/School/Ifs.excalidraw.md",
+    "/School/IFS Ausrabeitung.md",
+    "/Private/DDR.md",
+    "/General/Meaning of live.md",
+    "/Excalidraw/IFS Model.md",
     "iPad git.md",
-    "Bitcoin.md",
-    "SNMP 161.md",
-    "Hermeneutik.md",
+    "Computer/UDP.md",
+    "Computer/Physical Layer.md",
+    "Computer/IANA.md",
+    "Computer/SMTP 25.md",
+    "Computer/POP3 110.md",
+    "Computer/C++.md",
+    "Computer/block reward.md",
+    "Computer/Linux.md",
+    "Computer/Presentation layer.md",
+    "Computer",
+    "Computer/Registered ports.md",
+    "Computer/IMAP 143.md",
+    "Computer/Transport layer.md",
+    "Computer/Layers.md",
+    "Computer/Hacking.md",
+    "Computer/Pasted image 20230524153716.png",
+    "Computer/Application layer.md",
+    "Computer/Fedora.md",
+    "Computer/Pasted image 20230524155355.png",
+    "/Computer/Pasted image 20230524155355.png",
+    "/Computer/Pasted image 20230524153716.png",
+    "/Computer",
+    "Self work",
+    "SMB 139",
     "Self work/Body",
-    "2023-12-17.md",
-    "Obligations.md",
-    "Self work/Body/Body.md",
-    "my problems.md",
-    "Goals.md",
-    "General/Live.md",
     "General",
-    "SSH 22.md",
-    "test.md",
-    "proof of work.md",
-    "IMAP 143.md",
-    "Unternehmensformen.md",
-    "School/DDR/DDR.md",
-    "School/DDR/github test.md",
-    "School/Ethic.md",
     "School/DDR",
-    "School/BwL.md",
     "School",
-    "Data Layer.md",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR/DDR-Karte.png",
     "Private/Coding",
-    "Private/Knolage",
-    "Private",
     "Linux/Pasted image 20230524153716.png",
     "Linux/Pasted image 20230524155355.png"
   ]
