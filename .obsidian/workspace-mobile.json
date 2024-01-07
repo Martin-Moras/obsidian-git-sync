@@ -1,44 +1,35 @@
 {
   "main": {
-    "id": "5919e0e94bf347d7",
+    "id": "975b6b8f85459725",
     "type": "split",
     "children": [
       {
-        "id": "2ddc50e708b5f68a",
+        "id": "fe58a3415be3050b",
         "type": "tabs",
         "children": [
           {
-            "id": "051ae65b8d384cf4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e5880cb3009662ae",
+            "id": "401f4431ff7e895e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phone.md",
+                "file": "iPad git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "959c97111e3336b4",
+    "id": "c348a439a85b3f77",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bb4fc87b69a035a6",
+        "id": "278092ffe488e6fa",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -48,7 +39,7 @@
         }
       },
       {
-        "id": "7b063b0310e4d906",
+        "id": "ec284c375c20c484",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +54,7 @@
         }
       },
       {
-        "id": "c3653184b5fab508",
+        "id": "5ed25762f21b5699",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +65,7 @@
         }
       },
       {
-        "id": "4c25846b6d26984f",
+        "id": "758c418c08bbb6f5",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,19 +73,20 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "2b4182491f426112",
+    "id": "5ac54219f47b51c5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8c488de421c36153",
+        "id": "069e7df745aa9a22",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Phone.md",
+            "file": "iPad git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,24 +98,24 @@
         }
       },
       {
-        "id": "5ec4784fc94cca66",
+        "id": "2712c4ffac5cfcf3",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Phone.md",
+            "file": "iPad git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e6dec080e0716501",
+        "id": "d9d2b44a883b4d4b",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Phone.md"
+            "file": "iPad git.md"
           }
         }
       }
@@ -143,46 +135,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5880cb3009662ae",
+  "active": "401f4431ff7e895e",
   "lastOpenFiles": [
+    "POP3 110.md",
+    "Self work",
+    "SMB 139/SMB 139+445.md",
+    "SMB 139",
+    "Physical Layer.md",
+    "Telnet 23.md",
+    "Thoughts.md",
     "Phone.md",
-    "what is CAD.md",
+    "iPad git.md",
+    "Bitcoin.md",
+    "SNMP 161.md",
+    "Hermeneutik.md",
+    "Self work/Body",
+    "2023-12-17.md",
+    "Obligations.md",
+    "Self work/Body/Body.md",
+    "my problems.md",
+    "Goals.md",
+    "General/Live.md",
+    "General",
+    "SSH 22.md",
     "test.md",
     "proof of work.md",
-    "my problems.md",
-    "iPad git.md",
-    "humanities problems.md",
-    "climate change.md",
-    "block reward.md",
-    "better teacher.md",
-    "Write a Book.md",
+    "IMAP 143.md",
     "Unternehmensformen.md",
-    "Transport layer.md",
-    "ToDo.md",
-    "Thoughts.md",
-    "Telnet 23.md",
-    "TCP+UDP.md",
-    "Supernatural.md",
-    "Session management layer.md",
-    "Self work/Body/Power.md",
-    "Self work/Body/Body.md",
-    "School/School.md",
-    "School/History.md",
-    "School/Ethic.md",
+    "School/DDR/DDR.md",
     "School/DDR/github test.md",
-    "School/DDR/Wirtschaft der DDR.md",
-    "School/DDR/DDR-Karte.png",
-    "School/DDR/DDR Vortrag TTS.mp3",
-    "Linux/Pasted image 20230524155355.png",
-    "Linux/Pasted image 20230524153716.png",
-    "Self work/Body",
-    "Self work",
+    "School/Ethic.md",
     "School/DDR",
+    "School/BwL.md",
     "School",
-    "SMB 139",
-    "Private/Knolage",
-    "Private/Human",
+    "Data Layer.md",
+    "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR/DDR-Karte.png",
     "Private/Coding",
-    "Private"
+    "Private/Knolage",
+    "Private",
+    "Linux/Pasted image 20230524153716.png",
+    "Linux/Pasted image 20230524155355.png"
   ]
 }
