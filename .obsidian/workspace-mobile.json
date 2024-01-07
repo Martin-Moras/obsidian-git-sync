@@ -1,36 +1,14 @@
 {
   "main": {
-    "id": "fe20e25a3285703c",
+    "id": "5919e0e94bf347d7",
     "type": "split",
     "children": [
       {
-        "id": "79218ae74a249036",
+        "id": "2ddc50e708b5f68a",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e47e8d448e3f08",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "c2698ead76e29db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/GGK/DDR/DDR.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dcf051b31f618c0d",
+            "id": "051ae65b8d384cf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -38,12 +16,12 @@
             }
           },
           {
-            "id": "9c2b7934fd483eba",
+            "id": "e5880cb3009662ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2005.md",
+                "file": "Phone.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,11 +34,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a453e752f82e040d",
+    "id": "959c97111e3336b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5f5e4b271f1a276a",
+        "id": "bb4fc87b69a035a6",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -70,22 +48,22 @@
         }
       },
       {
-        "id": "796e8fe7ba93d5eb",
+        "id": "7b063b0310e4d906",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#sasf",
-            "matchingCase": true,
-            "explainSearch": true,
-            "collapseAll": true,
-            "extraContext": true,
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
             "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "dd46189cff8559e9",
+        "id": "c3653184b5fab508",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -96,23 +74,7 @@
         }
       },
       {
-        "id": "737fb1f29b99bf80",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "1e92aa7e0b926d46",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "26921de9ba0b77c0",
+        "id": "4c25846b6d26984f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -120,20 +82,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "9e0d5d7869ac1bfc",
+    "id": "2b4182491f426112",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "061d7fa060cb5406",
+        "id": "8c488de421c36153",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/GGK/DDR/DDR.md",
+            "file": "Phone.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,93 +106,83 @@
         }
       },
       {
-        "id": "6d6dd0d3c5c2279f",
+        "id": "5ec4784fc94cca66",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/GGK/DDR/DDR.md",
+            "file": "Phone.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "8678fbcfd2a1fd86",
+        "id": "e6dec080e0716501",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/GGK/DDR/DDR.md"
+            "file": "Phone.md"
           }
-        }
-      },
-      {
-        "id": "d5ba979100a22384",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c2698ead76e29db0",
+  "active": "e5880cb3009662ae",
   "lastOpenFiles": [
-    "School/GGK/DDR/1949.md",
-    "School/GGK/DDR/DDR.md",
-    "School/GGK/DDR/Wirtschaft der DDR.md",
-    "2005.md",
-    "Excalidraw/Stick Exersice XD.md",
+    "Phone.md",
     "what is CAD.md",
-    "Questions.md",
-    "ToDo.md",
-    "Private/Pressent.md",
-    "Private/Me.md",
-    "General/Live.md",
+    "test.md",
+    "proof of work.md",
+    "my problems.md",
+    "iPad git.md",
     "humanities problems.md",
-    "Self work/Body/Body.md",
-    "School/GGK/DDR",
-    "School/GGK",
+    "climate change.md",
+    "block reward.md",
+    "better teacher.md",
+    "Write a Book.md",
+    "Unternehmensformen.md",
+    "Transport layer.md",
+    "ToDo.md",
+    "Thoughts.md",
+    "Telnet 23.md",
+    "TCP+UDP.md",
+    "Supernatural.md",
+    "Session management layer.md",
     "Self work/Body/Power.md",
-    "C++.md",
-    "Maximal strength.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
-    "Self work/Self",
-    "Self work/Mind",
-    "Self work/Body",
-    "Self work",
-    "Untitled.md",
-    "Bitcoin.md",
-    "2023-12-17.md",
+    "Self work/Body/Body.md",
     "School/School.md",
-    "School/BwL.md",
     "School/History.md",
     "School/Ethic.md",
-    "SMB 139/SMB 139+445.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Linux/Pasted image 20230524185719.png",
-    "Linux/Pasted image 20230524153716.png",
+    "School/DDR/github test.md",
+    "School/DDR/Wirtschaft der DDR.md",
+    "School/DDR/DDR-Karte.png",
+    "School/DDR/DDR Vortrag TTS.mp3",
     "Linux/Pasted image 20230524155355.png",
-    "Linux",
-    "Excalidraw",
+    "Linux/Pasted image 20230524153716.png",
+    "Self work/Body",
+    "Self work",
+    "School/DDR",
+    "School",
+    "SMB 139",
     "Private/Knolage",
-    "General"
+    "Private/Human",
+    "Private/Coding",
+    "Private"
   ]
 }
