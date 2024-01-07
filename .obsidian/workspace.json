@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4b07afc0ec6460",
+        "id": "5ed21b8b7ef930f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c46a008ba0cebeaf",
+            "id": "7694debd32cab1b0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md"
+                "file": "General/Meaning of live.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md",
+                "file": "General/Meaning of live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md",
+                "file": "General/Meaning of live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md"
+                "file": "General/Meaning of live.md"
               }
             }
           },
@@ -156,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c46a008ba0cebeaf",
+  "active": "7694debd32cab1b0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
+    "General/Live.md",
+    "School/BwL.md",
     "Excalidraw/Stick Exersice XD.md",
+    "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
     "School/Untitled mindmap.md",
     "School/Ethic.md",
     "School/IFS Ausrabeitung.md",
@@ -182,8 +186,6 @@
     "Write a Book.md",
     "Unternehmensformen.md",
     "Computer/Transport layer.md",
-    "ToDo.md",
-    "Thoughts.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
