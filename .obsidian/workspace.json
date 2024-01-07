@@ -11,28 +11,13 @@
             "id": "c46a008ba0cebeaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Ethic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e3284c8ec9e6519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IFS Ausrabeitung.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Stick Exersice XD.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
+                "file": "Excalidraw/Stick Exersice XD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
+                "file": "Excalidraw/Stick Exersice XD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IFS Ausrabeitung.md"
+                "file": "Excalidraw/Stick Exersice XD.md"
               }
             }
           },
@@ -171,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3284c8ec9e6519",
+  "active": "c46a008ba0cebeaf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
+    "Excalidraw/Stick Exersice XD.md",
+    "School/Untitled mindmap.md",
     "School/Ethic.md",
     "School/IFS Ausrabeitung.md",
     "iPad git.md",
@@ -196,9 +184,6 @@
     "Computer/Transport layer.md",
     "ToDo.md",
     "Thoughts.md",
-    "Computer/Telnet 23.md",
-    "Computer/TCP+UDP.md",
-    "Self work/Body/Power.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
