@@ -6,3 +6,4 @@ That's why the meaning of live is for me, development.
 
 2024.01.07
 
+Know thyself and from this state make every action about: Making the world a better place.

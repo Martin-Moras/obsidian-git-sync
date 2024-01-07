@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Meaning of live.md",
+                "file": "School/IFS Ausrabeitung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a60ef3a087b33c4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-07 14.38.30.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Meaning of live.md",
+                "file": "Excalidraw/Drawing 2024-01-07 14.38.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Meaning of live.md",
+                "file": "Excalidraw/Drawing 2024-01-07 14.38.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Meaning of live.md"
+                "file": "Excalidraw/Drawing 2024-01-07 14.38.30.excalidraw.md"
               }
             }
           },
@@ -158,15 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7694debd32cab1b0",
+  "active": "a60ef3a087b33c4a",
   "lastOpenFiles": [
+    "School/IFS Ausrabeitung.md",
+    "Excalidraw/Drawing 2024-01-07 14.38.30.excalidraw.md",
+    "School/Ifs.excalidraw.md",
+    "Private/DDR.md",
+    "ToDo.md",
+    "General/Meaning of live.md",
     "General/Live.md",
     "School/BwL.md",
     "Excalidraw/Stick Exersice XD.md",
     "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
     "School/Untitled mindmap.md",
     "School/Ethic.md",
-    "School/IFS Ausrabeitung.md",
     "iPad git.md",
     "Phone.md",
     "Computer/SMB 139+445.md",
@@ -181,11 +197,6 @@
     "my problems.md",
     "humanities problems.md",
     "climate change.md",
-    "Computer/block reward.md",
-    "better teacher.md",
-    "Write a Book.md",
-    "Unternehmensformen.md",
-    "Computer/Transport layer.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
