@@ -11,8 +11,12 @@
             "id": "614ba406b1a1fa9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer/SMB 139+445.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer/SMB 139+445.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer/SMB 139+445.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer/SMB 139+445.md"
+              }
             }
           }
         ]
@@ -143,24 +151,27 @@
   },
   "active": "a80fa9d4665ebbe6",
   "lastOpenFiles": [
+    "Questions.md",
+    "Computer/SHA-256.md",
+    "Supernatural.md",
     "what is CAD.md",
+    "Computer/Session management layer.md",
+    "Computer/SSH 22.md",
     "test.md",
-    "proof of work.md",
+    "Computer/proof of work.md",
     "my problems.md",
     "iPad git.md",
     "humanities problems.md",
     "climate change.md",
-    "block reward.md",
+    "Computer/block reward.md",
     "better teacher.md",
     "Write a Book.md",
     "Unternehmensformen.md",
-    "Transport layer.md",
+    "Computer/Transport layer.md",
     "ToDo.md",
     "Thoughts.md",
-    "Telnet 23.md",
-    "TCP+UDP.md",
-    "Supernatural.md",
-    "Session management layer.md",
+    "Computer/Telnet 23.md",
+    "Computer/TCP+UDP.md",
     "Self work/Body/Power.md",
     "Self work/Body/Body.md",
     "Self work/Body",
@@ -168,11 +179,8 @@
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
     "School/DDR/UDSSR.md",
-    "School/DDR/DDR.md",
     "School/DDR/DDR-Karte.png",
-    "School/DDR/DDR Vortrag.md",
     "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR/DDR Vortrag GPT V2.md",
     "School/DDR",
     "School",
     "SMB 139",
@@ -180,7 +188,7 @@
     "Private/Human",
     "Private/Coding",
     "Private",
-    "Linux/Pasted image 20230524155355.png",
-    "Linux/Pasted image 20230524153716.png"
+    "Computer/Pasted image 20230524155355.png",
+    "Computer/Pasted image 20230524153716.png"
   ]
 }

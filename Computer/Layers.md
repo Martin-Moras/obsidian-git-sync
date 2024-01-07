@@ -5,8 +5,8 @@
 - Please Do Not Throw Sausage Pizza Away
 
 
-1. [[Physical layer]]
-2. [[Data layer]]
+1. [[Physical Layer]]
+2. [[Data Layer]]
 3. [[Network layer]]
 4. [[Transport layer]]
 5. [[Session management layer]]
