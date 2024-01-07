@@ -11,11 +11,9 @@
             "id": "401f4431ff7e895e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "General/Meaning of live.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           }
@@ -86,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "General/Meaning of live.md",
+            "file": "Excalidraw/IFS Model.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "General/Meaning of live.md",
+            "file": "Excalidraw/IFS Model.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "General/Meaning of live.md"
+            "file": "Excalidraw/IFS Model.md"
           }
         }
       }
@@ -137,6 +135,7 @@
   },
   "active": "401f4431ff7e895e",
   "lastOpenFiles": [
+    "General/Meaning of live.md",
     "School/Ifs.excalidraw.md",
     "Excalidraw/IFS Model.md",
     "Template.md",
@@ -164,7 +163,6 @@
     "Computer/Hacking.md",
     "Computer/Pasted image 20230524153716.png",
     "Computer/Application layer.md",
-    "Computer/Fedora.md",
     "Computer/Pasted image 20230524155355.png",
     "/Computer/Pasted image 20230524155355.png",
     "/Computer/Pasted image 20230524153716.png",
