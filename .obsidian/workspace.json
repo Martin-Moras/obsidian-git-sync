@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3beccffea5a4eaac",
+        "id": "3a4b07afc0ec6460",
         "type": "tabs",
         "children": [
           {
-            "id": "614ba406b1a1fa9f",
+            "id": "c46a008ba0cebeaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer/SMB 139+445.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer/SMB 139+445.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer/SMB 139+445.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer/SMB 139+445.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "f1594660340934aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "614ba406b1a1fa9f",
+  "active": "c46a008ba0cebeaf",
   "lastOpenFiles": [
+    "iPad git.md",
     "Phone.md",
+    "Computer/SMB 139+445.md",
     "Questions.md",
     "Computer/SHA-256.md",
     "Supernatural.md",
@@ -161,7 +163,6 @@
     "test.md",
     "Computer/proof of work.md",
     "my problems.md",
-    "iPad git.md",
     "humanities problems.md",
     "climate change.md",
     "Computer/block reward.md",
@@ -178,7 +179,6 @@
     "Self work/Body",
     "Self work",
     "School/DDR/github test.md",
-    "School/DDR/Wirtschaft der DDR.md",
     "School/DDR/DDR-Karte.png",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR",

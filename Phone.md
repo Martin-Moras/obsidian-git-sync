@@ -1,1 +1,0 @@
-Aufstrich? 1
