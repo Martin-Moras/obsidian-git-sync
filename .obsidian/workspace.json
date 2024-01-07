@@ -11,11 +11,28 @@
             "id": "c46a008ba0cebeaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Ethic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e3284c8ec9e6519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/IFS Ausrabeitung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/IFS Ausrabeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/IFS Ausrabeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/IFS Ausrabeitung.md"
+              }
             }
           },
           {
@@ -134,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c46a008ba0cebeaf",
+  "active": "1e3284c8ec9e6519",
   "lastOpenFiles": [
+    "School/Ethic.md",
+    "School/IFS Ausrabeitung.md",
     "iPad git.md",
     "Phone.md",
     "Computer/SMB 139+445.md",
@@ -175,10 +199,8 @@
     "Computer/Telnet 23.md",
     "Computer/TCP+UDP.md",
     "Self work/Body/Power.md",
-    "Self work/Body/Body.md",
     "Self work/Body",
     "Self work",
-    "School/DDR/github test.md",
     "School/DDR/DDR-Karte.png",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR",
