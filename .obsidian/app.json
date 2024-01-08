@@ -18,5 +18,6 @@
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": false
 }
