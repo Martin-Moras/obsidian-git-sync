@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Template.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -181,50 +181,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "187c3ac38f5ffd2e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8cfb5f44216101e4",
-        "type": "window",
-        "children": [
-          {
-            "id": "8926b4514df408a9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2df8fceee5ba6c95",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Template.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 216,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2df8fceee5ba6c95",
+  "active": "9166d7d990ff63dd",
   "lastOpenFiles": [
-    "Pasted Image 20240108092608_055.jpg",
+    "Excalidraw/Template.excalidraw.md",
     "Template.md",
+    "Pasted Image 20240108092608_055.jpg",
     "School/IFS Ausrabeitung.md",
     "Pasted Image 20240108090947_391.jpg",
     "Excalidraw/IFS Model.md",
     "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 08.59.20.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.16.16.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.17.09.excalidraw.md",
