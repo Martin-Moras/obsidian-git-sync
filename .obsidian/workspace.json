@@ -11,9 +11,9 @@
             "id": "07eb44e37d6ab9ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "ToDo.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "ToDo.md"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +159,7 @@
   "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
     "Excalidraw/IFS Model.md",
+    "conflict-files-obsidian-git.md",
     "better teacher.md",
     "climate change.md",
     "Einzel Unternehmen.md",
@@ -186,7 +186,6 @@
     "School/BwL.md",
     "Excalidraw/Stick Exersice XD.md",
     "School/Untitled mindmap.md",
-    "School/Ethic.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",

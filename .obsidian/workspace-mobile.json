@@ -16,8 +16,19 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
+          },
+          {
+            "id": "7a7d29f3e4b4491b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/IFS Model.md"
+            "file": "ToDo.md"
           }
         }
       }
@@ -133,8 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401f4431ff7e895e",
+  "active": "7a7d29f3e4b4491b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "ToDo.md",
+    "2005.md",
+    "Excalidraw/IFS Model.md",
     "Pasted Image 20240108092608_055.jpg",
     "Excalidraw/Template.excalidraw.md",
     "/Template.md",
@@ -144,7 +159,6 @@
     "/Excalidraw/IFS Model.md",
     "General/Meaning of live.md",
     "School/Ifs.excalidraw.md",
-    "Excalidraw/IFS Model.md",
     "Template.md",
     "/School/Ifs.excalidraw.md",
     "/Private/DDR.md",
@@ -161,8 +175,6 @@
     "Computer/Presentation layer.md",
     "Computer",
     "Computer/Registered ports.md",
-    "Computer/IMAP 143.md",
-    "Computer/Transport layer.md",
     "Computer/Pasted image 20230524153716.png",
     "Computer/Pasted image 20230524155355.png",
     "/Computer/Pasted image 20230524155355.png",
