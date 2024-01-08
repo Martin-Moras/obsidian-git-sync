@@ -11,23 +11,9 @@
             "id": "a60ef3a087b33c4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9166d7d990ff63dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/IFS Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -42,9 +28,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "305091f2e4fe005e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "969fa1ffb020826c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b1ee38ee939d939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md"
               }
             }
           },
@@ -183,14 +197,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9166d7d990ff63dd",
+  "active": "0b1ee38ee939d939",
   "lastOpenFiles": [
-    "Angela Merkel.md",
+    "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
     "Excalidraw/IFS Model.md",
+    "School/IFS Ausrabeitung.md",
+    "Angela Merkel.md",
     "Excalidraw/Template.excalidraw.md",
     "Template.md",
     "Pasted Image 20240108092608_055.jpg",
-    "School/IFS Ausrabeitung.md",
     "Pasted Image 20240108090947_391.jpg",
     "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 08.59.20.excalidraw.md",
@@ -212,7 +227,6 @@
     "Phone.md",
     "Computer/SMB 139+445.md",
     "Questions.md",
-    "Computer/SHA-256.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
