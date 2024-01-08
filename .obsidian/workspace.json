@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,11 @@
   },
   "active": "9166d7d990ff63dd",
   "lastOpenFiles": [
-    "School/IFS Ausrabeitung.md",
+    "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 08.59.20.excalidraw.md",
     "Excalidraw/IFS Model.md",
+    "School/IFS Ausrabeitung.md",
     "Excalidraw/Drawing 2024-01-07 15.16.16.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.17.09.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.17.42.excalidraw.md",
@@ -207,9 +209,6 @@
     "Questions.md",
     "Computer/SHA-256.md",
     "Supernatural.md",
-    "what is CAD.md",
-    "Computer/Session management layer.md",
-    "Computer/SSH 22.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",

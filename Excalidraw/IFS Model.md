@@ -8,8 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-nalkdnlfsdnf ^rHswTulH
-
 [[IFS Ausrabeitung]] ^InLgCeSP
 
 %%
@@ -21,10 +19,54 @@ nalkdnlfsdnf ^rHswTulH
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
-			"type": "rectangle",
-			"version": 180,
-			"versionNonce": 1009834180,
+			"id": "InLgCeSP",
+			"type": "embeddable",
+			"x": 532.7639056935025,
+			"y": -460.64586781126815,
+			"width": 656.4705882352941,
+			"height": 241.3529411764705,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#b2f2bb",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 92538,
+			"version": 305,
+			"versionNonce": 724717820,
+			"updated": 1704699620232,
 			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[IFS Ausrabeitung]]",
+			"locked": false,
+			"scale": [
+				1,
+				1
+			],
+			"customData": {
+				"mdProps": {
+					"useObsidianDefaults": false,
+					"backgroundMatchCanvas": false,
+					"backgroundMatchElement": true,
+					"backgroundColor": "#fff",
+					"backgroundOpacity": 60,
+					"borderMatchElement": true,
+					"borderColor": "#fff",
+					"borderOpacity": 0,
+					"filenameVisible": false
+				}
+			},
+			"validated": true
+		},
+		{
+			"type": "rectangle",
+			"version": 181,
+			"versionNonce": 475083132,
+			"isDeleted": true,
 			"id": "uV9cjmAv6L-KfCTa2J37h",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -45,15 +87,15 @@ nalkdnlfsdnf ^rHswTulH
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704699465612,
+			"updated": 1704700883633,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1854980218,
-			"isDeleted": false,
+			"version": 14,
+			"versionNonce": 1477149180,
+			"isDeleted": true,
 			"id": "RwNGzGrJMleqQ8S2NHeLd",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -72,7 +114,7 @@ nalkdnlfsdnf ^rHswTulH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704636331330,
+			"updated": 1704700872584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -131,9 +173,9 @@ nalkdnlfsdnf ^rHswTulH
 		},
 		{
 			"type": "text",
-			"version": 14,
-			"versionNonce": 39166716,
-			"isDeleted": false,
+			"version": 15,
+			"versionNonce": 568503236,
+			"isDeleted": true,
 			"id": "rHswTulH",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -152,7 +194,7 @@ nalkdnlfsdnf ^rHswTulH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704698893563,
+			"updated": 1704700872584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -168,9 +210,9 @@ nalkdnlfsdnf ^rHswTulH
 		},
 		{
 			"type": "rectangle",
-			"version": 77,
-			"versionNonce": 638902970,
-			"isDeleted": false,
+			"version": 78,
+			"versionNonce": 367118332,
+			"isDeleted": true,
 			"id": "GhL0OVVNXOBwuV_8BynBK",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -191,53 +233,9 @@ nalkdnlfsdnf ^rHswTulH
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704636481240,
+			"updated": 1704700863105,
 			"link": null,
 			"locked": false
-		},
-		{
-			"id": "InLgCeSP",
-			"type": "embeddable",
-			"x": 532.7639056935025,
-			"y": -460.64586781126815,
-			"width": 656.4705882352941,
-			"height": 241.3529411764705,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "#b2f2bb",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"roundness": null,
-			"seed": 92538,
-			"version": 305,
-			"versionNonce": 724717820,
-			"updated": 1704699620232,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": "[[IFS Ausrabeitung]]",
-			"locked": false,
-			"scale": [
-				1,
-				1
-			],
-			"customData": {
-				"mdProps": {
-					"useObsidianDefaults": false,
-					"backgroundMatchCanvas": false,
-					"backgroundMatchElement": true,
-					"backgroundColor": "#fff",
-					"backgroundOpacity": 60,
-					"borderMatchElement": true,
-					"borderColor": "#fff",
-					"borderOpacity": 0,
-					"filenameVisible": false
-				}
-			},
-			"validated": true
 		}
 	],
 	"appState": {
@@ -255,10 +253,10 @@ nalkdnlfsdnf ^rHswTulH
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 60.70668254179185,
-		"scrollY": 632.9785883995035,
+		"scrollX": -167.42569783664518,
+		"scrollY": 855.6015830519098,
 		"zoom": {
-			"value": 0.8499999999999999
+			"value": 1.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
