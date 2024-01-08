@@ -7,7 +7,7 @@ Die [[DDR]] wurde [[1949]] gegründet.
 - Banken werden enteignet und gehen in den Staat über.
 - Alles gehört dem Staat
 - die [[DDR]] Bürger zogen aus der [[DDR]] aus weil sie ein besseres Leben wollten.
-![[DDR-Karte.png|300]]
+![[DDR-Karte.png]]
 ## Vision
 Die Vision für die DDR war, sozialistischen, kommunistischen Staat aufzubauen.
 
