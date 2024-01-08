@@ -1318,6 +1318,38 @@ Mental: Sinneseindrücke
 				}
 			},
 			"validated": true
+		},
+		{
+			"id": "9K3ejiL4zUnK3rNQjxW42",
+			"type": "embeddable",
+			"x": 1169.6028476566596,
+			"y": -11.98508943531192,
+			"width": 1078.7358167624834,
+			"height": 618.7710019967635,
+			"angle": 0,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2003498683,
+			"version": 266,
+			"versionNonce": 58345883,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1704732766101,
+			"link": "https://www.youtube.com",
+			"locked": false,
+			"validated": true,
+			"scale": [
+				0.5,
+				0.5
+			]
 		}
 	],
 	"appState": {
@@ -1335,10 +1367,10 @@ Mental: Sinneseindrücke
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 26.19364000191672,
-		"scrollY": 949.9845693533161,
+		"scrollX": -1103.5861406532863,
+		"scrollY": 133.86761728308397,
 		"zoom": {
-			"value": 1
+			"value": 1.3
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
