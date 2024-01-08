@@ -62,8 +62,6 @@ Mental: Sinneseindrücke
 
 [[IFS Ausrabeitung]] ^QbtUPzGN
 
-[[ToDo]] ^XMb3SvRc
-
 %%
 # Drawing
 ```json
@@ -1292,10 +1290,10 @@ Mental: Sinneseindrücke
 			"opacity": 100,
 			"roundness": null,
 			"seed": 77174,
-			"version": 206,
-			"versionNonce": 503474997,
-			"updated": 1704732100794,
-			"isDeleted": false,
+			"version": 207,
+			"versionNonce": 1514331867,
+			"updated": 1704733760333,
+			"isDeleted": true,
 			"groupIds": [],
 			"boundElements": [],
 			"link": "[[ToDo]]",
@@ -1367,8 +1365,8 @@ Mental: Sinneseindrücke
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1103.5861406532863,
-		"scrollY": 133.86761728308397,
+		"scrollX": 154.10616703902286,
+		"scrollY": 820.0214634369311,
 		"zoom": {
 			"value": 1.3
 		},
