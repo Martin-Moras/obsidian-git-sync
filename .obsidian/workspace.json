@@ -23,9 +23,11 @@
             "id": "9166d7d990ff63dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/IFS Model.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
