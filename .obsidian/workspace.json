@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "160116fef2f2fdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md"
               }
             }
           },
@@ -160,10 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07eb44e37d6ab9ea",
+  "active": "160116fef2f2fdc4",
   "lastOpenFiles": [
-    "ToDo.md",
     "Excalidraw/IFS Model.md",
+    "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
+    "ToDo.md",
     "conflict-files-obsidian-git.md",
     "better teacher.md",
     "climate change.md",
@@ -189,7 +204,6 @@
     "General/Live.md",
     "School/BwL.md",
     "Excalidraw/Stick Exersice XD.md",
-    "School/Untitled mindmap.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
