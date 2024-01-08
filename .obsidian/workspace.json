@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Template.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Template.md"
               }
             }
           },
@@ -183,16 +183,17 @@
   },
   "active": "9166d7d990ff63dd",
   "lastOpenFiles": [
+    "School/IFS Ausrabeitung.md",
+    "Template.md",
+    "Pasted Image 20240108090947_391.jpg",
+    "Excalidraw/IFS Model.md",
     "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 08.59.20.excalidraw.md",
-    "Excalidraw/IFS Model.md",
-    "School/IFS Ausrabeitung.md",
     "Excalidraw/Drawing 2024-01-07 15.16.16.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.17.09.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.17.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.18.13.excalidraw.md",
-    "Template.md",
     "School/Ifs.excalidraw.md",
     "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
     "Private/DDR.md",
@@ -208,7 +209,6 @@
     "Computer/SMB 139+445.md",
     "Questions.md",
     "Computer/SHA-256.md",
-    "Supernatural.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",

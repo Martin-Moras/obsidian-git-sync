@@ -10,6 +10,10 @@ tags: [excalidraw]
 # Text Elements
 [[IFS Ausrabeitung]] ^InLgCeSP
 
+
+# Embedded files
+38db451e14002b0f3b0222060554af3093564821: [[Pasted Image 20240108090947_391.jpg]]
+
 %%
 # Drawing
 ```json
@@ -21,8 +25,8 @@ tags: [excalidraw]
 		{
 			"id": "InLgCeSP",
 			"type": "embeddable",
-			"x": 532.7639056935025,
-			"y": -460.64586781126815,
+			"x": 394.5820875116842,
+			"y": -524.2822314476318,
 			"width": 656.4705882352941,
 			"height": 241.3529411764705,
 			"angle": 0,
@@ -35,9 +39,9 @@ tags: [excalidraw]
 			"opacity": 100,
 			"roundness": null,
 			"seed": 92538,
-			"version": 305,
-			"versionNonce": 724717820,
-			"updated": 1704699620232,
+			"version": 333,
+			"versionNonce": 1395618300,
+			"updated": 1704701171399,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -61,6 +65,39 @@ tags: [excalidraw]
 				}
 			},
 			"validated": true
+		},
+		{
+			"id": "9LbF6j9rZBYf5tA9ELwM2",
+			"type": "image",
+			"x": 452.5446543566039,
+			"y": -777.904056313942,
+			"width": 384.0681818181818,
+			"height": 214.36363636363637,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#b2f2bb",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1096952700,
+			"version": 55,
+			"versionNonce": 692881276,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704701391908,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "38db451e14002b0f3b0222060554af3093564821",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"type": "rectangle",
@@ -253,8 +290,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -167.42569783664518,
-		"scrollY": 855.6015830519098,
+		"scrollX": -365.54465435660404,
+		"scrollY": 898.7620108593965,
 		"zoom": {
 			"value": 1.1
 		},
