@@ -391,8 +391,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "embeddable",
-			"version": 1465,
-			"versionNonce": 1717900309,
+			"version": 1495,
+			"versionNonce": 1253875579,
 			"isDeleted": false,
 			"id": "QbtUPzGN",
 			"fillStyle": "hachure",
@@ -401,8 +401,8 @@ Mental: Sinneseindrücke
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 201.4185141482801,
-			"y": -1050.5583540755385,
+			"x": 115.02160473957679,
+			"y": -1130.7840556693343,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 967.2500000000001,
@@ -412,7 +412,7 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704732100792,
+			"updated": 1704734026112,
 			"link": "[[IFS Ausrabeitung]]",
 			"locked": false,
 			"customData": {
@@ -1365,10 +1365,10 @@ Mental: Sinneseindrücke
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 154.10616703902286,
-		"scrollY": 820.0214634369311,
+		"scrollX": 1106.7417523638612,
+		"scrollY": 2063.3360941895457,
 		"zoom": {
-			"value": 1.3
+			"value": 0.48612850028370463
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
