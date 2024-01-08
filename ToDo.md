@@ -17,6 +17,7 @@ kanban-plugin: basic
 
 - [ ] Make P smart more useful (Faster)
 - [ ] Read (fast)
+- [ ] Emulate:<br>- consoles<br>- Pones
 
 
 ## Done
