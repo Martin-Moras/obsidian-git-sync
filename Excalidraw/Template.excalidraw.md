@@ -15,37 +15,7 @@ tags: [excalidraw]
 	"type": "excalidraw",
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
-	"elements": [
-		{
-			"type": "rectangle",
-			"version": 45,
-			"versionNonce": 211372204,
-			"isDeleted": true,
-			"id": "3hIHhMGhUq9KaY4JyLoVd",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -242,
-			"y": -133.328125,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 371,
-			"height": 300,
-			"seed": 1072220740,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1704725189165,
-			"link": null,
-			"locked": false
-		}
-	],
+	"elements": [],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
@@ -61,10 +31,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 253,
-		"scrollY": 255.6640625,
+		"scrollX": 393,
+		"scrollY": 544.671875,
 		"zoom": {
-			"value": 2
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
