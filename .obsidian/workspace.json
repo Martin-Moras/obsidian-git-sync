@@ -11,9 +11,12 @@
             "id": "07eb44e37d6ab9ea",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo.md"
+                "file": "Excalidraw/IFS Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -141,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +162,7 @@
   },
   "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
+    "ToDo.md",
     "Excalidraw/IFS Model.md",
     "conflict-files-obsidian-git.md",
     "better teacher.md",
@@ -180,7 +185,6 @@
     "School/Ifs.excalidraw.md",
     "Excalidraw/Drawing 2023-12-17 16.28.49.excalidraw.md",
     "Private/DDR.md",
-    "ToDo.md",
     "General/Meaning of live.md",
     "General/Live.md",
     "School/BwL.md",
