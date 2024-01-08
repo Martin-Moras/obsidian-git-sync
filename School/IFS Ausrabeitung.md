@@ -1,4 +1,4 @@
-# Einleitung
+                    # Einleitung
 Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf dem Konzept, dass die Menschliche Psyche aus mehreren „Teilen" besteht. Jeder dieser Teile ist irgendwann in unserem Leben entstanden, meistens in unserer Kindheit. Ein Teil ist dazu da damit wir mit bestimmten Situationen in unserem Laben klar kommen. Zum Beispiel, wenn man gegenüber Seinen Eltern oder Freunden seine Meinung und Wünsche geäußert hat, aber immer wenn man das getan hat, wurde man Kritisiert oder ausgestoßen. Deshalb hat dieser Teil gelehrt, dass er besser nicht seine Meinung sagt, um weiterhin gemocht zu werden.
 
 An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.

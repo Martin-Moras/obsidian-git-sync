@@ -10,7 +10,9 @@ kanban-plugin: basic
 
 ## Important
 
-- [ ] [[Private/DDR]]
+- [ ] Ethik
+- [ ] BWL Presentation
+- [ ] Fahrschule
 
 
 ## Unimportant
@@ -22,6 +24,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] [[DDR]]
 
 
 
