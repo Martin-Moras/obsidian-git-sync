@@ -11,27 +11,25 @@
             "id": "07eb44e37d6ab9ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IFS Ausrabeitung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555071f4b11bcabf",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/IFS Model.md"
               }
             }
+          },
+          {
+            "id": "4f7b75f0575e8ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/hi test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "555071f4b11bcabf",
+  "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
-    "School/IFS Ausrabeitung.md",
+    "Excalidraw/hi test.md",
     "Excalidraw/IFS Model.md",
+    "School/IFS Ausrabeitung.md",
+    "Hi test.md",
+    "School/Ethic.md",
     "School/Ifs.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
@@ -191,15 +192,12 @@
     "climate change.md",
     "Einzel Unternehmen.md",
     "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
-    "Untitled.md",
     "Angela Merkel.md",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 08.59.20.excalidraw.md",
     "Excalidraw/Drawing 2024-01-07 15.16.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-07 15.17.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-07 15.17.42.excalidraw.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
