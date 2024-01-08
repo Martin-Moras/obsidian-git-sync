@@ -35,6 +35,8 @@ Rules & Assumptions ^DvrkeHW4
 
 Core belief ^3q2jCcOr
 
+[[sdfsdfsdf]] ^IMo1V4FR
+
 %%
 # Drawing
 ```json
@@ -610,8 +612,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 937,
-			"versionNonce": 517429211,
+			"version": 941,
+			"versionNonce": 320455733,
 			"isDeleted": false,
 			"id": "pph7BMYotDpj2UrBl7nS1",
 			"fillStyle": "cross-hatch",
@@ -621,17 +623,17 @@ Core belief ^3q2jCcOr
 			"opacity": 100,
 			"angle": 0,
 			"x": 366.6036261377401,
-			"y": -587.8529432766978,
+			"y": -587.8531089515357,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 184.304347826087,
-			"height": 5.378493088484333,
+			"height": 5.378600053065725,
 			"seed": 703909956,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704727350466,
+			"updated": 1704727885478,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -654,14 +656,14 @@ Core belief ^3q2jCcOr
 				],
 				[
 					184.304347826087,
-					5.378493088484333
+					5.378600053065725
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 863,
-			"versionNonce": 493718747,
+			"version": 871,
+			"versionNonce": 194674485,
 			"isDeleted": false,
 			"id": "VCFX1qcu6lmJ_6Oq9Wo-K",
 			"fillStyle": "cross-hatch",
@@ -681,7 +683,7 @@ Core belief ^3q2jCcOr
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704727350468,
+			"updated": 1704727885482,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -710,8 +712,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 874,
-			"versionNonce": 674124315,
+			"version": 882,
+			"versionNonce": 1177679349,
 			"isDeleted": false,
 			"id": "69o7cDY3QODPTRZ_jfT6w",
 			"fillStyle": "cross-hatch",
@@ -731,7 +733,7 @@ Core belief ^3q2jCcOr
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704727350469,
+			"updated": 1704727885482,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -760,8 +762,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 1515,
-			"versionNonce": 1641576347,
+			"version": 1519,
+			"versionNonce": 1647859829,
 			"isDeleted": false,
 			"id": "QMtyy2yMfQdtG0vdJYYAQ",
 			"fillStyle": "cross-hatch",
@@ -771,17 +773,17 @@ Core belief ^3q2jCcOr
 			"opacity": 100,
 			"angle": 0,
 			"x": 855.9079739638271,
-			"y": -593.0355518550574,
+			"y": -593.0355519024896,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 140.81818181818176,
-			"height": 1.2780934219937308,
+			"height": 1.278093437810071,
 			"seed": 1810619772,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704727350467,
+			"updated": 1704727885481,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -804,63 +806,19 @@ Core belief ^3q2jCcOr
 				],
 				[
 					140.81818181818176,
-					1.2780934219937308
+					1.278093437810071
 				]
 			]
 		},
 		{
-			"id": "KNOhZhRV",
+			"id": "IMo1V4FR",
 			"type": "embeddable",
-			"x": 253.15867977975017,
-			"y": -1312.8739714292003,
-			"width": 500,
-			"height": 500,
+			"x": 190.97912020888623,
+			"y": -1563.8036192270542,
+			"width": 807.2727272727278,
+			"height": 649.0909090909095,
 			"angle": 0,
 			"strokeColor": "#6741d9",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"roundness": null,
-			"seed": 78955,
-			"version": 5,
-			"versionNonce": 721076379,
-			"updated": 1704727453998,
-			"isDeleted": true,
-			"groupIds": [],
-			"boundElements": [],
-			"link": "[[IFS Intro.md]]",
-			"locked": false,
-			"scale": [
-				1,
-				1
-			],
-			"customData": {
-				"mdProps": {
-					"useObsidianDefaults": false,
-					"backgroundMatchCanvas": false,
-					"backgroundMatchElement": true,
-					"backgroundColor": "#fff",
-					"backgroundOpacity": 60,
-					"borderMatchElement": true,
-					"borderColor": "#fff",
-					"borderOpacity": 0,
-					"filenameVisible": false
-				}
-			},
-			"validated": true
-		},
-		{
-			"id": "UjrHe6vJ",
-			"type": "embeddable",
-			"x": 253.15867977975017,
-			"y": -1312.8739714292003,
-			"width": 591.4285714285718,
-			"height": 352.85714285714306,
-			"angle": 0,
-			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 4,
@@ -870,19 +828,64 @@ Core belief ^3q2jCcOr
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1204603675,
-			"version": 75,
-			"versionNonce": 774922355,
-			"isDeleted": true,
+			"seed": 1136395611,
+			"version": 46,
+			"versionNonce": 842136662,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704727390007,
-			"link": "[[IFS Intro]]",
+			"updated": 1704727708674,
+			"link": "[[sdfsdfsdf]]",
 			"locked": false,
 			"validated": true,
 			"scale": [
 				1,
 				1
 			]
+		},
+		{
+			"id": "_9PtlQeAPTTTbv65syksM",
+			"type": "arrow",
+			"x": 335.7518474816136,
+			"y": -1289.5518436588718,
+			"width": 0,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1326451291,
+			"version": 4,
+			"versionNonce": 1446325141,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704727899179,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": [
+				0,
+				0
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -900,10 +903,10 @@ Core belief ^3q2jCcOr
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 361.12703450596433,
-		"scrollY": 1666.2221857149148,
+		"scrollX": 285.4981525183864,
+		"scrollY": 1817.4815311588718,
 		"zoom": {
-			"value": 0.6999999999999997
+			"value": 0.8
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
