@@ -610,8 +610,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 311,
-			"versionNonce": 719290236,
+			"version": 315,
+			"versionNonce": 1759405182,
 			"isDeleted": false,
 			"id": "pph7BMYotDpj2UrBl7nS1",
 			"fillStyle": "cross-hatch",
@@ -621,17 +621,17 @@ Core belief ^3q2jCcOr
 			"opacity": 100,
 			"angle": 0,
 			"x": 397.9079739638271,
-			"y": -585.1596501732056,
+			"y": -585.151627782938,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 153,
-			"height": 3.393570918654632,
+			"height": 3.3887415793543596,
 			"seed": 703909956,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704705228351,
+			"updated": 1704709282427,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -654,14 +654,14 @@ Core belief ^3q2jCcOr
 				],
 				[
 					153,
-					3.393570918654632
+					3.3887415793543596
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 251,
-			"versionNonce": 343361092,
+			"version": 259,
+			"versionNonce": 1861453438,
 			"isDeleted": false,
 			"id": "VCFX1qcu6lmJ_6Oq9Wo-K",
 			"fillStyle": "cross-hatch",
@@ -681,7 +681,7 @@ Core belief ^3q2jCcOr
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704705228351,
+			"updated": 1704709282428,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -710,8 +710,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 262,
-			"versionNonce": 104476668,
+			"version": 270,
+			"versionNonce": 13008638,
 			"isDeleted": false,
 			"id": "69o7cDY3QODPTRZ_jfT6w",
 			"fillStyle": "cross-hatch",
@@ -731,7 +731,7 @@ Core belief ^3q2jCcOr
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704705228351,
+			"updated": 1704709282428,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -760,8 +760,8 @@ Core belief ^3q2jCcOr
 		},
 		{
 			"type": "arrow",
-			"version": 41,
-			"versionNonce": 901635524,
+			"version": 45,
+			"versionNonce": 1771335166,
 			"isDeleted": false,
 			"id": "QMtyy2yMfQdtG0vdJYYAQ",
 			"fillStyle": "cross-hatch",
@@ -781,7 +781,7 @@ Core belief ^3q2jCcOr
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704705228351,
+			"updated": 1704709282428,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -827,7 +827,7 @@ Core belief ^3q2jCcOr
 		"scrollX": -2.3625194183725853,
 		"scrollY": 1497.3139947211243,
 		"zoom": {
-			"value": 0.55
+			"value": 0.1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

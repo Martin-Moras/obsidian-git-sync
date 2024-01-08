@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed21b8b7ef930f9",
+        "id": "63ee19d5db72fa01",
         "type": "tabs",
         "children": [
           {
-            "id": "a60ef3a087b33c4a",
+            "id": "07eb44e37d6ab9ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,21 +16,8 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
-          },
-          {
-            "id": "7dab5d267ec1a5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "better teacher.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "better teacher.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "better teacher.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "better teacher.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -169,14 +157,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dab5d267ec1a5f5",
+  "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
+    "Excalidraw/IFS Model.md",
+    "better teacher.md",
     "climate change.md",
     "Einzel Unternehmen.md",
     "School/IFS Ausrabeitung.md",
     "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
     "Untitled.md",
-    "Excalidraw/IFS Model.md",
     "Angela Merkel.md",
     "Excalidraw/Template.excalidraw.md",
     "Template.md",
@@ -198,7 +187,6 @@
     "Excalidraw/Stick Exersice XD.md",
     "School/Untitled mindmap.md",
     "School/Ethic.md",
-    "iPad git.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
