@@ -181,10 +181,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9166d7d990ff63dd",
+  "floating": {
+    "id": "187c3ac38f5ffd2e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8cfb5f44216101e4",
+        "type": "window",
+        "children": [
+          {
+            "id": "8926b4514df408a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2df8fceee5ba6c95",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Template.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 216,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2df8fceee5ba6c95",
   "lastOpenFiles": [
-    "School/IFS Ausrabeitung.md",
+    "Pasted Image 20240108092608_055.jpg",
     "Template.md",
+    "School/IFS Ausrabeitung.md",
     "Pasted Image 20240108090947_391.jpg",
     "Excalidraw/IFS Model.md",
     "Excalidraw/Drawing 2024-01-08 08.58.57.excalidraw.md",
