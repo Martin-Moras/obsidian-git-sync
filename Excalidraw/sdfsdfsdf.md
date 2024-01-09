@@ -1,4 +1,0 @@
-asdasdaösdövx
-xc
-xcx
-cxvd

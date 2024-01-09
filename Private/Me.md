@@ -3,3 +3,4 @@
 [[Pressent]]
 [[Goals]]
 [[Obligations]]
+[[My parts]]

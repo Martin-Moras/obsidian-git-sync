@@ -11,22 +11,15 @@
             "id": "69f7a8a3290b412c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c20a23ce4e87d42",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md"
+                "file": "Private/My parts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md",
+            "file": "Private/My parts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md",
+            "file": "Private/My parts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,16 +114,23 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md"
+            "file": "Private/My parts.md"
           }
+        }
+      },
+      {
+        "id": "fd6edff38715d0e4",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -138,12 +138,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c20a23ce4e87d42",
+  "active": "69f7a8a3290b412c",
   "lastOpenFiles": [
+    "Private/Me.md",
+    "Private/My parts.md",
+    "Excalidraw/sdfsdfsdf.md",
+    "Excalidraw/hi test.md",
     "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
+    "Excalidraw/IFS Model.md",
     "Goals.md",
     "Weired things.md",
     "Questions.md",
@@ -163,13 +170,7 @@
     "better teacher.md",
     "Make the world a better place.md",
     "Supernatural.md",
-    "Unternehmensformen.md",
-    "Template.md",
     "Pasted Image 20240108092608_055.jpg",
-    "Write a Book.md",
-    "All pictures.md",
-    "Einzel Unternehmen.md",
-    "what is CAD.md",
     "General",
     "Computer/Pasted image 20230524153716.png",
     "Computer/Pasted image 20230524155355.png",
