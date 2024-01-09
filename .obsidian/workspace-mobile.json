@@ -1,42 +1,35 @@
 {
   "main": {
-    "id": "5919e0e94bf347d7",
+    "id": "c6acfc48e4b7340e",
     "type": "split",
     "children": [
       {
-        "id": "2ddc50e708b5f68a",
+        "id": "c1ec3f6a7ea8cc27",
         "type": "tabs",
         "children": [
           {
-            "id": "051ae65b8d384cf4",
+            "id": "cc519d8aa916d4d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ee7c93d0c0603cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "959c97111e3336b4",
+    "id": "507caf09954323ed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bb4fc87b69a035a6",
+        "id": "cff048535f26fae6",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +39,7 @@
         }
       },
       {
-        "id": "7b063b0310e4d906",
+        "id": "6145d699c3912443",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +54,7 @@
         }
       },
       {
-        "id": "c3653184b5fab508",
+        "id": "f04e419f148ab23d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +65,7 @@
         }
       },
       {
-        "id": "4c25846b6d26984f",
+        "id": "740f95db977e8613",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -83,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2b4182491f426112",
+    "id": "0caefc88427b3e4e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8c488de421c36153",
+        "id": "179ba5e1b6a4d072",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "Goals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,24 +97,24 @@
         }
       },
       {
-        "id": "5ec4784fc94cca66",
+        "id": "e0b4b85ee5bdc009",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "Goals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e6dec080e0716501",
+        "id": "4bc7908c0b1ead37",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/IFS Model.md"
+            "file": "Goals.md"
           }
         }
       }
@@ -141,49 +134,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ee7c93d0c0603cb",
+  "active": "cc519d8aa916d4d0",
   "lastOpenFiles": [
-    "what is CAD.md",
+    "Questions.md",
+    "Maximal strength.md",
+    "Learn c++ graphics.md",
+    "ToDo.md",
+    "Obligations.md",
     "test.md",
-    "my problems.md",
+    "History of earth.md",
+    "2005.md",
+    "Thoughts.md",
     "humanities problems.md",
+    "Learn about my mind.md",
+    "OHG.md",
+    "my problems.md",
     "climate change.md",
     "better teacher.md",
-    "Write a Book.md",
-    "Unternehmensformen.md",
-    "ToDo.md",
-    "Thoughts.md",
-    "Template.md",
+    "Make the world a better place.md",
     "Supernatural.md",
-    "Self work/Body/Power.md",
-    "Self work/Body/Body.md",
-    "School/Untitled mindmap.md",
-    "School/School.md",
-    "School/IFS Ausrabeitung.md",
-    "School/History.md",
-    "School/Ethic.md",
-    "School/DDR/github test.md",
-    "School/DDR/Wirtschaft der DDR.md",
-    "School/DDR/UDSSR.md",
-    "School/DDR/DDR.md",
-    "School/DDR/DDR-Karte.png",
-    "School/DDR/DDR Vortrag.md",
-    "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR/DDR Vortrag GPT V2.md",
-    "School/DDR/DDR Vortrag GPT V1.md",
+    "Goals.md",
+    "Unternehmensformen.md",
+    "Template.md",
     "Pasted Image 20240108092608_055.jpg",
-    "Computer/Pasted image 20230524155355.png",
+    "Write a Book.md",
+    "All pictures.md",
+    "Einzel Unternehmen.md",
+    "what is CAD.md",
+    "Hermeneutik.md",
+    "General/Meaning of live.md",
+    "General",
     "Computer/Pasted image 20230524153716.png",
+    "Computer/Pasted image 20230524155355.png",
+    "Computer",
+    "School",
+    "School/DDR/DDR-Karte.png",
+    "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR",
     "Self work/Body",
     "Self work",
-    "School/DDR",
-    "School",
-    "Private/Knolage",
-    "Private/Human",
     "Private/Coding",
-    "Private",
-    "General",
-    "Linux/Pasted image 20230524155355.png",
-    "Linux/Pasted image 20230524153716.png"
+    "Private/Knolage",
+    "Private"
   ]
 }
