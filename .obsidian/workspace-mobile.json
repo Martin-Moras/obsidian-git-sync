@@ -1,29 +1,27 @@
 {
   "main": {
-    "id": "975b6b8f85459725",
+    "id": "5919e0e94bf347d7",
     "type": "split",
     "children": [
       {
-        "id": "fe58a3415be3050b",
+        "id": "2ddc50e708b5f68a",
         "type": "tabs",
         "children": [
           {
-            "id": "401f4431ff7e895e",
+            "id": "051ae65b8d384cf4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ee7c93d0c0603cb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/IFS Model.md"
-              }
-            }
-          },
-          {
-            "id": "7a7d29f3e4b4491b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ToDo.md"
               }
             }
           }
@@ -34,11 +32,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c348a439a85b3f77",
+    "id": "959c97111e3336b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "278092ffe488e6fa",
+        "id": "bb4fc87b69a035a6",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -48,7 +46,7 @@
         }
       },
       {
-        "id": "ec284c375c20c484",
+        "id": "7b063b0310e4d906",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +61,7 @@
         }
       },
       {
-        "id": "5ed25762f21b5699",
+        "id": "c3653184b5fab508",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +72,7 @@
         }
       },
       {
-        "id": "758c418c08bbb6f5",
+        "id": "4c25846b6d26984f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,20 +80,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "5ac54219f47b51c5",
+    "id": "2b4182491f426112",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "069e7df745aa9a22",
+        "id": "8c488de421c36153",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ToDo.md",
+            "file": "Excalidraw/IFS Model.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,24 +104,24 @@
         }
       },
       {
-        "id": "2712c4ffac5cfcf3",
+        "id": "5ec4784fc94cca66",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ToDo.md",
+            "file": "Excalidraw/IFS Model.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "d9d2b44a883b4d4b",
+        "id": "e6dec080e0716501",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "ToDo.md"
+            "file": "Excalidraw/IFS Model.md"
           }
         }
       }
@@ -144,52 +141,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a7d29f3e4b4491b",
+  "active": "2ee7c93d0c0603cb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "what is CAD.md",
+    "test.md",
+    "my problems.md",
+    "humanities problems.md",
+    "climate change.md",
+    "better teacher.md",
+    "Write a Book.md",
+    "Unternehmensformen.md",
     "ToDo.md",
-    "2005.md",
-    "Excalidraw/IFS Model.md",
-    "Pasted Image 20240108092608_055.jpg",
-    "Excalidraw/Template.excalidraw.md",
-    "/Template.md",
-    "/School/IFS Ausrabeitung.md",
-    "/Pasted Image 20240108092608_055.jpg",
-    "/Excalidraw/Template.excalidraw.md",
-    "/Excalidraw/IFS Model.md",
-    "General/Meaning of live.md",
-    "School/Ifs.excalidraw.md",
+    "Thoughts.md",
     "Template.md",
-    "/School/Ifs.excalidraw.md",
-    "/Private/DDR.md",
-    "/General/Meaning of live.md",
-    "iPad git.md",
-    "Computer/UDP.md",
-    "Computer/Physical Layer.md",
-    "Computer/IANA.md",
-    "Computer/SMTP 25.md",
-    "Computer/POP3 110.md",
-    "Computer/C++.md",
-    "Computer/block reward.md",
-    "Computer/Linux.md",
-    "Computer/Presentation layer.md",
-    "Computer",
-    "Computer/Registered ports.md",
-    "Computer/Pasted image 20230524153716.png",
+    "Supernatural.md",
+    "Self work/Body/Power.md",
+    "Self work/Body/Body.md",
+    "School/Untitled mindmap.md",
+    "School/School.md",
+    "School/IFS Ausrabeitung.md",
+    "School/History.md",
+    "School/Ethic.md",
+    "School/DDR/github test.md",
+    "School/DDR/Wirtschaft der DDR.md",
+    "School/DDR/UDSSR.md",
+    "School/DDR/DDR.md",
+    "School/DDR/DDR-Karte.png",
+    "School/DDR/DDR Vortrag.md",
+    "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR/DDR Vortrag GPT V2.md",
+    "School/DDR/DDR Vortrag GPT V1.md",
+    "Pasted Image 20240108092608_055.jpg",
     "Computer/Pasted image 20230524155355.png",
-    "/Computer/Pasted image 20230524155355.png",
-    "/Computer/Pasted image 20230524153716.png",
-    "/Computer",
-    "Self work",
-    "SMB 139",
+    "Computer/Pasted image 20230524153716.png",
     "Self work/Body",
-    "General",
+    "Self work",
     "School/DDR",
     "School",
-    "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR/DDR-Karte.png",
+    "Private/Knolage",
+    "Private/Human",
     "Private/Coding",
-    "Linux/Pasted image 20230524153716.png",
-    "Linux/Pasted image 20230524155355.png"
+    "Private",
+    "General",
+    "Linux/Pasted image 20230524155355.png",
+    "Linux/Pasted image 20230524153716.png"
   ]
 }
