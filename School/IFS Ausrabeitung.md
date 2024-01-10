@@ -10,5 +10,6 @@ Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil 
 Die Nächste Eigenschaft eines Teils ist die **Reaktion**. Hier gibt es auch wieder interne und externe Reaktionen. Die externen Reaktionen sind Verhalten oder Aktionen. Die Interne Reaktionen sind Gedanken, Emotionen oder Erinnerungen. Allerdings kann eine Reaktion auch ein Sinneseindruck sein, also eine Halluzination, das kommt aber eher selten vor. In unserem Beispiel gab es mehrere Reaktionen, einmal der Gedanke „Ich sag besser nichts“, der einem meistens gar nicht so bewusst ist. Eine zweite Reaktion war eine Emotion wie Zweifel oder Angst. Und die dritte Reaktion war eine Verhaltensänderung, ein kleiner unterschied in der Körperhaltung und im Gesichtsausdruck. Wie man sieht, kann ein Gedanke sowohl ein Auslöser, als auch eine Reaktion sein.
 ## Regeln und Annahmen
 Ein weiterer Aspekt eines Teiles sind die **Regeln und Annahmen**. Diese bestimmen wie ein Teil sich verhält. Annahmen habe meistens die Struktur: Wenn dies passiert/wenn ich dies mache, wird das passieren. In unserem Beispiel währe eine Mögliche Annahme: wenn ich meine Meinung sage, werde ich ausgestoßen. 
-Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnte eine Regel sein: Ich muss meine Meinung für mich b
+Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnte eine Regel sein: Ich muss meine Meinung für mich behalten.
+Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er 
 ## Kern Glaube
