@@ -4,6 +4,7 @@ Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf d
 An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.
 Und dass ist bei allen Teilen so. Irgendetwas, irgend ein Ereignis in der Vergangenheit hat einen Teil etwas glauben machen, dann hat der Teil dieses Ereignis generalisiert, und so ist dann ein Verhalten entstanden, dass einer Person, wenn sie Alter wird, in irgendeiner weise erschränkt kann.
 # Was ist ein Teil
+Ein Teil ist das was wir denken das wir sind. Er ist das, dass reagiert auf das was er sieht. 
 ## Auslöser
 -- Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil ist. 
 
