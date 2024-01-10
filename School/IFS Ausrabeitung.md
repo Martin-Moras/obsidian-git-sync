@@ -11,5 +11,6 @@ Die Nächste Eigenschaft eines Teils ist die **Reaktion**. Hier gibt es auch wie
 ## Regeln und Annahmen
 Ein weiterer Aspekt eines Teiles sind die **Regeln und Annahmen**. Diese bestimmen wie ein Teil sich verhält. Annahmen habe meistens die Struktur: Wenn dies passiert/wenn ich dies mache, wird das passieren. In unserem Beispiel währe eine Mögliche Annahme: wenn ich meine Meinung sage, werde ich ausgestoßen. 
 Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnte eine Regel sein: Ich muss meine Meinung für mich behalten.
-Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er 
+Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er auch komplexer und kommt mit Situationen besser klar.
 ## Kern Glaube
+Der **kern Glaube** liegt unter den Regeln und Annahmen. Regeln und Annahmen sind auf ihm Basiert. 
