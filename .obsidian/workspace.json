@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63ee19d5db72fa01",
+        "id": "928cd37d83ac08db",
         "type": "tabs",
         "children": [
           {
-            "id": "07eb44e37d6ab9ea",
+            "id": "0ef6c8d3107f2cf3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ifs Model.md"
-              }
-            }
-          },
-          {
-            "id": "454d489fcda7ad3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IFS Ausrabeitung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6bcad8e9723848e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IFS Ausrabeitung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/IFS Ausrabeitung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,15 +150,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6bcad8e9723848e",
+  "active": "0ef6c8d3107f2cf3",
   "lastOpenFiles": [
-    "School/Untitled mindmap.md",
+    "Excalidraw/Ifs Model.md",
     "School/IFS Ausrabeitung.md",
+    "School/Untitled mindmap.md",
     "School/Ethic.md",
     "School/Der kluge Richter-Tagebuch.md",
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
-    "Excalidraw/Ifs Model.md",
     "Excalidraw/IFS Model.md",
     "Weired things.md",
     "Private/My parts.md",
