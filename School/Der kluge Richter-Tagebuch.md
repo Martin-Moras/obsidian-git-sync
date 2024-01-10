@@ -1,6 +1,6 @@
 2024.01.10
 
-Heute war ein interessanter Tag. Ich habe das Geld, dass ich gestern gefunden habe 
+Heute war ein interessanter Tag. Ich habe das Geld, dass ich gestern gefunden habe dem Besitzer übergeben. Aber als ich meinen Finderlohn verlangt habe, hat er behauptet, dass ich mir den Finderlohn bereits herausgenommen habe.
 
 
 
