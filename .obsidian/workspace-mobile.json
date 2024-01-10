@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/My parts.md",
+                "file": "School/Der kluge Richter-Tagebuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Private/My parts.md",
+            "file": "School/Der kluge Richter-Tagebuch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Private/My parts.md",
+            "file": "School/Der kluge Richter-Tagebuch.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Private/My parts.md"
+            "file": "School/Der kluge Richter-Tagebuch.md"
           }
         }
       },
@@ -144,8 +144,9 @@
   },
   "active": "69f7a8a3290b412c",
   "lastOpenFiles": [
-    "Private/Me.md",
     "Private/My parts.md",
+    "School/Der kluge Richter-Tagebuch.md",
+    "Private/Me.md",
     "Excalidraw/sdfsdfsdf.md",
     "Excalidraw/hi test.md",
     "Excalidraw/Drawing 2024-01-09 18.00.50.excalidraw.md",
@@ -169,7 +170,6 @@
     "climate change.md",
     "better teacher.md",
     "Make the world a better place.md",
-    "Supernatural.md",
     "Pasted Image 20240108092608_055.jpg",
     "General",
     "Computer/Pasted image 20230524153716.png",
