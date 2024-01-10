@@ -13,7 +13,12 @@ Ein weiterer Aspekt eines Teiles sind die **Regeln und Annahmen**. Diese bestimm
 Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnte eine Regel sein: Ich muss meine Meinung für mich behalten.
 Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er auch komplexer und kommt mit Situationen besser klar. Während unsere Auslöser und Reaktionen uns meistens Bewusst sind, sind die Regeln und Annahmen eines Teils meist nicht bewusst bekannt. 
 ## Kern Glaube
-Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt. Regeln und Annahmen sind auf ihm Basiert. 
+Der **kern Glaube** ist das was ein Teil 
+Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen. 
 
 nur 1.
 subconscious
+r&a sind auf ihm basiert 
+
+
+was ist das Ziel eines Teils?

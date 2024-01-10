@@ -68,7 +68,7 @@ Mental: Sinneseindrücke
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.16",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -104,8 +104,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1376,
-			"versionNonce": 1243661074,
+			"version": 1377,
+			"versionNonce": 1205258241,
 			"isDeleted": false,
 			"id": "jKv3JVRx",
 			"fillStyle": "cross-hatch",
@@ -118,14 +118,14 @@ Mental: Sinneseindrücke
 			"y": -876.6517667418939,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 99.544921875,
+			"width": 114.9124755859375,
 			"height": 35,
 			"seed": 2001554884,
 			"groupIds": [],
 			"frameId": "iUGjx6SiiPVWkywzl45Ir",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885627956,
+			"updated": 1704905629092,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -137,7 +137,7 @@ Mental: Sinneseindrücke
 			"containerId": "pD432DS2MkO8VTwUcBK20",
 			"originalText": "Auslöser",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -155,7 +155,7 @@ Mental: Sinneseindrücke
 			"y": -800.6517667418939,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 156.11328125,
+			"width": 179.9397735595703,
 			"height": 100,
 			"seed": 677541060,
 			"groupIds": [],
@@ -174,7 +174,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -192,7 +192,7 @@ Mental: Sinneseindrücke
 			"y": -824.6517667418939,
 			"strokeColor": "#ff8787",
 			"backgroundColor": "transparent",
-			"width": 147.177734375,
+			"width": 173.539794921875,
 			"height": 25,
 			"seed": 542163780,
 			"groupIds": [],
@@ -211,7 +211,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Extern: Ereignisse",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -229,7 +229,7 @@ Mental: Sinneseindrücke
 			"y": -745.1063121964394,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 199.39453125,
+			"width": 222.9797821044922,
 			"height": 100,
 			"seed": 1853957628,
 			"groupIds": [],
@@ -248,7 +248,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "frame",
@@ -319,8 +319,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1902,
-			"versionNonce": 1568708946,
+			"version": 1903,
+			"versionNonce": 1017126881,
 			"isDeleted": false,
 			"id": "x9cpUIru",
 			"fillStyle": "cross-hatch",
@@ -333,14 +333,14 @@ Mental: Sinneseindrücke
 			"y": -343.59745431708393,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 101.08984375,
+			"width": 117.15249633789062,
 			"height": 35,
 			"seed": 615764860,
 			"groupIds": [],
 			"frameId": "4VJGQWpnYS58OV-IWOlgR",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629093,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -352,7 +352,7 @@ Mental: Sinneseindrücke
 			"containerId": "I2NrS4en4At_YQRp5XIfJ",
 			"originalText": "Reaktion",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "frame",
@@ -391,19 +391,19 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "embeddable",
-			"version": 1724,
-			"versionNonce": 2082793998,
+			"version": 1745,
+			"versionNonce": 1852093185,
 			"isDeleted": false,
 			"id": "QbtUPzGN",
 			"fillStyle": "hachure",
-			"strokeWidth": 1,
+			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
 			"x": 294.4534620208891,
 			"y": -1128.8186359596195,
-			"strokeColor": "transparent",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 967.2500000000001,
 			"height": 1090.4444444444443,
@@ -412,7 +412,7 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885634327,
+			"updated": 1704905774018,
 			"link": "[[IFS Ausrabeitung]]",
 			"locked": false,
 			"customData": {
@@ -468,8 +468,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1195,
-			"versionNonce": 1885596882,
+			"version": 1196,
+			"versionNonce": 573799361,
 			"isDeleted": false,
 			"id": "yZZauAGK",
 			"fillStyle": "cross-hatch",
@@ -482,14 +482,14 @@ Mental: Sinneseindrücke
 			"y": -351.2985687220028,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 82.974609375,
+			"width": 96.09642028808594,
 			"height": 35,
 			"seed": 396343323,
 			"groupIds": [],
 			"frameId": "1lUmzyUTmH4us6y-YEZtM",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629093,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -501,7 +501,7 @@ Mental: Sinneseindrücke
 			"containerId": "pCV0zAqFb7VtCD2HRGjaU",
 			"originalText": "Trigger",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -519,7 +519,7 @@ Mental: Sinneseindrücke
 			"y": -275.2985687220028,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 184.58001708984375,
+			"width": 184.5797576904297,
 			"height": 50,
 			"seed": 549977275,
 			"groupIds": [],
@@ -538,7 +538,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physical: Actions\n         Behaviour",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -556,7 +556,7 @@ Mental: Sinneseindrücke
 			"y": -299.2985687220028,
 			"strokeColor": "#ff8787",
 			"backgroundColor": "transparent",
-			"width": 164.71998596191406,
+			"width": 164.71981811523438,
 			"height": 25,
 			"seed": 834579803,
 			"groupIds": [],
@@ -575,7 +575,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "External: Events",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -593,7 +593,7 @@ Mental: Sinneseindrücke
 			"y": -219.7531141765483,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 183.94000244140625,
+			"width": 183.93980407714844,
 			"height": 100,
 			"seed": 500582907,
 			"groupIds": [],
@@ -612,7 +612,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sensations\n        Thoughts\n        Emotions\n        Memory",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "frame",
@@ -688,8 +688,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1883,
-			"versionNonce": 1520207378,
+			"version": 1884,
+			"versionNonce": 1487952801,
 			"isDeleted": false,
 			"id": "JZuoTiyg",
 			"fillStyle": "cross-hatch",
@@ -702,14 +702,14 @@ Mental: Sinneseindrücke
 			"y": -344.63848967061944,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 117.57199096679688,
+			"width": 117.57249450683594,
 			"height": 35,
 			"seed": 1802217435,
 			"groupIds": [],
 			"frameId": "zskKL9UVWK_SFLtmkzPUZ",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629093,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -721,7 +721,7 @@ Mental: Sinneseindrücke
 			"containerId": "247txdFuyfLeswB868htm",
 			"originalText": "Reaction",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -739,7 +739,7 @@ Mental: Sinneseindrücke
 			"y": -298.63848967061944,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 184.58001708984375,
+			"width": 184.5797576904297,
 			"height": 50,
 			"seed": 1023407227,
 			"groupIds": [],
@@ -763,7 +763,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physical: Actions\n         Behaviour",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -781,7 +781,7 @@ Mental: Sinneseindrücke
 			"y": -242.63848967061944,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 216.7200164794922,
+			"width": 216.71971130371094,
 			"height": 100,
 			"seed": 1000451355,
 			"groupIds": [],
@@ -800,7 +800,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sensations\n        Thoughts\n        Esfsdfmotions\n        Memory",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "frame",
@@ -892,8 +892,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 695,
-			"versionNonce": 43708558,
+			"version": 697,
+			"versionNonce": 92173921,
 			"isDeleted": false,
 			"id": "RQaC0Kum",
 			"fillStyle": "cross-hatch",
@@ -902,18 +902,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -483.0981414197447,
+			"x": -483.0980193494322,
 			"y": -304.82030785243757,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 202.04000854492188,
+			"width": 202.03976440429688,
 			"height": 25,
 			"seed": 1992318715,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629095,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -925,7 +925,7 @@ Mental: Sinneseindrücke
 			"containerId": "v4OS3R0w_37fqbDb6csLO",
 			"originalText": "Rules & Assumptions",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -969,8 +969,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1196,
-			"versionNonce": 1531555534,
+			"version": 1198,
+			"versionNonce": 2067036577,
 			"isDeleted": false,
 			"id": "1ITWFctf",
 			"fillStyle": "cross-hatch",
@@ -979,18 +979,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -433.5242354749205,
+			"x": -441.2720229505064,
 			"y": -96.82030785243751,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
-			"width": 89.404296875,
+			"width": 104.89987182617188,
 			"height": 25,
 			"seed": 306912315,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629095,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1002,12 +1002,12 @@ Mental: Sinneseindrücke
 			"containerId": "pAeNCkeJ4L9t9YSGeXI9J",
 			"originalText": "Core belief",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 2375,
-			"versionNonce": 445115666,
+			"version": 2377,
+			"versionNonce": 1194633057,
 			"isDeleted": false,
 			"id": "Vntd6JcCqN9FWexQuwq7L",
 			"fillStyle": "cross-hatch",
@@ -1027,7 +1027,7 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629094,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1056,8 +1056,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "arrow",
-			"version": 2065,
-			"versionNonce": 604415246,
+			"version": 2069,
+			"versionNonce": 1774916129,
 			"isDeleted": false,
 			"id": "Q_uw8NZM1grIcQZ82KQUt",
 			"fillStyle": "cross-hatch",
@@ -1077,7 +1077,7 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629095,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1106,8 +1106,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "arrow",
-			"version": 2076,
-			"versionNonce": 15497938,
+			"version": 2080,
+			"versionNonce": 1156824545,
 			"isDeleted": false,
 			"id": "Y8qDFsk6CuaWwEF7wus3w",
 			"fillStyle": "cross-hatch",
@@ -1127,7 +1127,7 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629095,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1156,8 +1156,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "arrow",
-			"version": 3162,
-			"versionNonce": 776655694,
+			"version": 3164,
+			"versionNonce": 349301409,
 			"isDeleted": false,
 			"id": "wIcr9UZZ6V96GcrDnb2_a",
 			"fillStyle": "cross-hatch",
@@ -1167,17 +1167,17 @@ Mental: Sinneseindrücke
 			"opacity": 100,
 			"angle": 0,
 			"x": -221.36465964963736,
-			"y": -302.79804488924844,
+			"y": -302.8543036396839,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 60.01596598031142,
-			"height": 3.2944594000356346,
+			"width": 60.555396523042134,
+			"height": 3.716342898088442,
 			"seed": 1415161531,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1704905629095,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1199,8 +1199,8 @@ Mental: Sinneseindrücke
 					0
 				],
 				[
-					60.01596598031142,
-					-3.2944594000356346
+					60.555396523042134,
+					-3.716342898088442
 				]
 			]
 		},
@@ -1220,7 +1220,7 @@ Mental: Sinneseindrücke
 			"y": -299.165498893282,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 156.11328125,
+			"width": 179.9397735595703,
 			"height": 100,
 			"seed": 698825109,
 			"groupIds": [],
@@ -1239,7 +1239,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -1257,7 +1257,7 @@ Mental: Sinneseindrücke
 			"y": -243.6200443478275,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 199.39453125,
+			"width": 222.9797821044922,
 			"height": 100,
 			"seed": 404045557,
 			"groupIds": [],
@@ -1276,13 +1276,13 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#f0f8ff",
-		"currentItemStrokeColor": "#6741d9",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 4,
@@ -1294,10 +1294,10 @@ Mental: Sinneseindrücke
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1.5206701957411894,
-		"scrollY": 1135.4978598880762,
+		"scrollX": -137.2651835446802,
+		"scrollY": 716.7562576973586,
 		"zoom": {
-			"value": 1.1441077699032263
+			"value": 1.4139142827096034
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

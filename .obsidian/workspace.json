@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/Ifs Model.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Ifs Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/Ifs Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/Ifs Model.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
+    "Excalidraw/Ifs Model.md",
+    "Excalidraw/IFS Model.md",
     "Weired things.md",
     "School/Der kluge Richter-Tagebuch.md",
     "Private/My parts.md",
     "ToDo.md",
-    "Excalidraw/IFS Model.md",
     "School/IFS Ausrabeitung.md",
     "2023-12-17.md",
     "School/DDR/DDR.md",
@@ -183,7 +184,6 @@
     "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
     "Template.md",
     "conflict-files-obsidian-git.md",
-    "better teacher.md",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
