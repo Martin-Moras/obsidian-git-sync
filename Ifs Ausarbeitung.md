@@ -20,7 +20,7 @@ Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gericht
 # Das Ich
 Der nächste Aspekt der Ifs Therapie ist das **ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was aus ihrer Sicht das Beste ist.
 ## Wie das Ich Teile beeinflusst
-
+Unsere Teile sind nur aktiv wenn sie ausgelöst wurde. Wenn sie Aktiv sind machen sie Vorschläge was sie denken, das jetzt das beste währe. Diese Vorschläge gehen direkt an das Ich und das kann dann entscheiden ob es den Vorschlag annimmt, oder nicht. Allerdings ist das den meisten Menschen gar nicht bewusst. Denn me Aber wenn man wirklich darauf achtet, fällt einem auf, dass das stimmt. 
 # Therapie
 ## Wie bringt man Teile zum Vorschein
 ## Wie verändert man Teile
