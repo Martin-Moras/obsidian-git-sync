@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IFS Ausrabeitung.md",
+                "file": "School/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/IFS Ausrabeitung.md",
+            "file": "School/English.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/IFS Ausrabeitung.md",
+            "file": "School/English.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/IFS Ausrabeitung.md"
+            "file": "School/English.md"
           }
         }
       },
@@ -155,8 +155,10 @@
   },
   "active": "f66722fb93906f7a",
   "lastOpenFiles": [
-    "Excalidraw/IFS Model.md",
+    "School/School.md",
+    "School/English.md",
     "School/IFS Ausrabeitung.md",
+    "Excalidraw/IFS Model.md",
     "School/Ethic.md",
     "School/Der kluge Richter-Tagebuch.md",
     "Private/My parts.md",
@@ -179,8 +181,6 @@
     "humanities problems.md",
     "Learn about my mind.md",
     "OHG.md",
-    "my problems.md",
-    "climate change.md",
     "Pasted Image 20240108092608_055.jpg",
     "General",
     "Computer/Pasted image 20230524153716.png",
