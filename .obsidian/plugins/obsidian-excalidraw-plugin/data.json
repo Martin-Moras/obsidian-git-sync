@@ -25,7 +25,7 @@
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
-  "defaultMode": "zen",
+  "defaultMode": "normal",
   "defaultPenMode": "mobile",
   "allowPinchZoom": false,
   "allowWheelZoom": false,

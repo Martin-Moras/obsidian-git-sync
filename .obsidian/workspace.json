@@ -23,8 +23,10 @@
             "id": "88499f134102b29b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
             }
           }
         ],
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS model.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -173,13 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a80fa9d4665ebbe6",
+  "active": "88499f134102b29b",
   "lastOpenFiles": [
-    "Excalidraw/IFS Model.md",
     "Excalidraw/IFS Part model.md",
+    "Excalidraw/IFS Model.md",
+    "Attention gradient.png",
     "Excalidraw/IFS model.md",
     "IFS Ausarbeitung.md",
-    "Attention gradient.png",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240111214902_336.png",
     "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
@@ -203,7 +207,6 @@
     "Excalidraw/IFS Intro.md",
     "Hi test.md",
     "School/Ifs.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",
