@@ -21,11 +21,9 @@
             "id": "f66722fb93906f7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/English.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Template.excalidraw.md"
               }
             }
           }
@@ -84,7 +82,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "0caefc88427b3e4e",
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/English.md",
+            "file": "Excalidraw/Template.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/English.md",
+            "file": "Excalidraw/Template.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/English.md"
+            "file": "Excalidraw/Template.excalidraw.md"
           }
         }
       },
@@ -155,10 +154,21 @@
   },
   "active": "f66722fb93906f7a",
   "lastOpenFiles": [
-    "School/School.md",
-    "School/English.md",
-    "School/IFS Ausrabeitung.md",
+    "Excalidraw/Template.excalidraw.md",
     "Excalidraw/IFS Model.md",
+    "Excalidraw/Stick Exersice XD.md",
+    "Excalidraw/IFS Part model.md",
+    "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
+    "School/English.md",
+    "Attention gradient.png",
+    "/Ifs Ausarbeitung.md",
+    "/Excalidraw/IFS Part model.md",
+    "/Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
+    "/ToDo.md",
+    "/Excalidraw/IFS Model.md",
+    "/Attention gradient.png",
+    "School/School.md",
+    "School/IFS Ausrabeitung.md",
     "School/Ethic.md",
     "School/Der kluge Richter-Tagebuch.md",
     "Private/My parts.md",
@@ -172,15 +182,6 @@
     "Questions.md",
     "Maximal strength.md",
     "Learn c++ graphics.md",
-    "ToDo.md",
-    "Obligations.md",
-    "test.md",
-    "History of earth.md",
-    "2005.md",
-    "Thoughts.md",
-    "humanities problems.md",
-    "Learn about my mind.md",
-    "OHG.md",
     "Pasted Image 20240108092608_055.jpg",
     "General",
     "Computer/Pasted image 20230524153716.png",
