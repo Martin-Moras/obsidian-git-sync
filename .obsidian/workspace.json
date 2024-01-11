@@ -147,14 +147,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2079363203d5991f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ff0e540f427a733",
+  "active": "2079363203d5991f",
   "lastOpenFiles": [
+    "Pasted Image 20240111214902_336.png",
     "Excalidraw/IFS Model.md",
     "IFS Ausarbeitung.md",
     "ToDo.md",
@@ -196,7 +204,6 @@
     "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 15.47.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.48.44.excalidraw.md",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
