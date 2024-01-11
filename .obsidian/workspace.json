@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +179,10 @@
   },
   "active": "88499f134102b29b",
   "lastOpenFiles": [
-    "IFS Ausarbeitung.md",
     "Excalidraw/IFS Model.md",
+    "Attention gradient.png",
+    "IFS Ausarbeitung.md",
     "Pasted Image 20240108092608_055.jpg",
-    "Pasted Image 20240111223116_806.png",
     "Pasted Image 20240111214902_336.png",
     "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
     "ToDo.md",
