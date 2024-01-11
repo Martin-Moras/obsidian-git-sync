@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "IFS Ausarbeitung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ff0e540f427a733",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ifs Ausarbeitung.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -154,14 +165,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ef6c8d3107f2cf3",
+  "active": "9ff0e540f427a733",
   "lastOpenFiles": [
+    "IFS Ausarbeitung.md",
+    "Excalidraw/IFS Model.md",
     "ToDo.md",
-    "Ifs Ausarbeitung.md",
     "School/IFS Ausrabeitung.md",
     "conflict-files-obsidian-git.md",
     "Supernatural.md",
@@ -170,7 +182,6 @@
     "School/Der kluge Richter-Tagebuch.md",
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
-    "Excalidraw/IFS Model.md",
     "Excalidraw/Ifs Model.md",
     "School/Ethic.md",
     "Weired things.md",

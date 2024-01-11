@@ -60,7 +60,9 @@ Mental: Sinneseindrücke
         Emotionen
         Erinnerungen ^jeV6NNdZ
 
-[[IFS Ausrabeitung]] ^QbtUPzGN
+Self ^din1UQTT
+
+[[IFS Ausarbeitung]] ^QbtUPzGN
 
 %%
 # Drawing
@@ -68,7 +70,7 @@ Mental: Sinneseindrücke
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.16",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.17",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -104,8 +106,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1376,
-			"versionNonce": 1243661074,
+			"version": 1377,
+			"versionNonce": 1289363754,
 			"isDeleted": false,
 			"id": "jKv3JVRx",
 			"fillStyle": "cross-hatch",
@@ -118,14 +120,14 @@ Mental: Sinneseindrücke
 			"y": -876.6517667418939,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 99.544921875,
+			"width": 114.9124755859375,
 			"height": 35,
 			"seed": 2001554884,
 			"groupIds": [],
 			"frameId": "iUGjx6SiiPVWkywzl45Ir",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885627956,
+			"updated": 1705003169032,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -137,7 +139,7 @@ Mental: Sinneseindrücke
 			"containerId": "pD432DS2MkO8VTwUcBK20",
 			"originalText": "Auslöser",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -155,7 +157,7 @@ Mental: Sinneseindrücke
 			"y": -800.6517667418939,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 156.11328125,
+			"width": 179.9397735595703,
 			"height": 100,
 			"seed": 677541060,
 			"groupIds": [],
@@ -174,7 +176,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -192,7 +194,7 @@ Mental: Sinneseindrücke
 			"y": -824.6517667418939,
 			"strokeColor": "#ff8787",
 			"backgroundColor": "transparent",
-			"width": 147.177734375,
+			"width": 173.539794921875,
 			"height": 25,
 			"seed": 542163780,
 			"groupIds": [],
@@ -211,7 +213,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Extern: Ereignisse",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -229,7 +231,7 @@ Mental: Sinneseindrücke
 			"y": -745.1063121964394,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 199.39453125,
+			"width": 222.9797821044922,
 			"height": 100,
 			"seed": 1853957628,
 			"groupIds": [],
@@ -248,7 +250,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "frame",
@@ -319,8 +321,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "text",
-			"version": 1902,
-			"versionNonce": 1568708946,
+			"version": 1903,
+			"versionNonce": 403729386,
 			"isDeleted": false,
 			"id": "x9cpUIru",
 			"fillStyle": "cross-hatch",
@@ -333,14 +335,14 @@ Mental: Sinneseindrücke
 			"y": -343.59745431708393,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 101.08984375,
+			"width": 117.15249633789062,
 			"height": 35,
 			"seed": 615764860,
 			"groupIds": [],
 			"frameId": "4VJGQWpnYS58OV-IWOlgR",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003169034,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -352,7 +354,7 @@ Mental: Sinneseindrücke
 			"containerId": "I2NrS4en4At_YQRp5XIfJ",
 			"originalText": "Reaktion",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "frame",
@@ -391,8 +393,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "embeddable",
-			"version": 1724,
-			"versionNonce": 2082793998,
+			"version": 1767,
+			"versionNonce": 335245482,
 			"isDeleted": false,
 			"id": "QbtUPzGN",
 			"fillStyle": "hachure",
@@ -401,7 +403,7 @@ Mental: Sinneseindrücke
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 294.4534620208891,
+			"x": 157.4534620208891,
 			"y": -1128.8186359596195,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -412,8 +414,8 @@ Mental: Sinneseindrücke
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885634327,
-			"link": "[[IFS Ausrabeitung]]",
+			"updated": 1705003269845,
+			"link": "[[IFS Ausarbeitung]]",
 			"locked": false,
 			"customData": {
 				"mdProps": {
@@ -436,8 +438,8 @@ Mental: Sinneseindrücke
 		},
 		{
 			"type": "rectangle",
-			"version": 1696,
-			"versionNonce": 2071270158,
+			"version": 2036,
+			"versionNonce": 2118070506,
 			"isDeleted": false,
 			"id": "pCV0zAqFb7VtCD2HRGjaU",
 			"fillStyle": "cross-hatch",
@@ -446,15 +448,15 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -794.2085719298925,
-			"y": -356.2985687220028,
+			"x": -1561.809636219891,
+			"y": -880.2587380746272,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 121,
 			"height": 45,
 			"seed": 715349883,
 			"groupIds": [],
-			"frameId": "1lUmzyUTmH4us6y-YEZtM",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -462,14 +464,14 @@ Mental: Sinneseindrücke
 					"id": "yZZauAGK"
 				}
 			],
-			"updated": 1704885573510,
+			"updated": 1705003491785,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1195,
-			"versionNonce": 1885596882,
+			"version": 1536,
+			"versionNonce": 1102939050,
 			"isDeleted": false,
 			"id": "yZZauAGK",
 			"fillStyle": "cross-hatch",
@@ -478,18 +480,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -789.2085719298925,
-			"y": -351.2985687220028,
+			"x": -1556.809636219891,
+			"y": -875.2587380746272,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 82.974609375,
+			"width": 96.09642028808594,
 			"height": 35,
 			"seed": 396343323,
 			"groupIds": [],
-			"frameId": "1lUmzyUTmH4us6y-YEZtM",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491785,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -501,12 +503,12 @@ Mental: Sinneseindrücke
 			"containerId": "pCV0zAqFb7VtCD2HRGjaU",
 			"originalText": "Trigger",
 			"lineHeight": 1.25,
-			"baseline": 26
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 759,
-			"versionNonce": 700154190,
+			"version": 1091,
+			"versionNonce": 258178666,
 			"isDeleted": false,
 			"id": "mkIplKWS",
 			"fillStyle": "cross-hatch",
@@ -515,18 +517,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -794.2085719298925,
-			"y": -275.2985687220028,
+			"x": -1551.809636219891,
+			"y": -801.2587380746272,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 184.58001708984375,
+			"width": 184.5797576904297,
 			"height": 50,
 			"seed": 549977275,
 			"groupIds": [],
-			"frameId": "1lUmzyUTmH4us6y-YEZtM",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491785,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -538,12 +540,12 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physical: Actions\n         Behaviour",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 810,
-			"versionNonce": 45253266,
+			"version": 1142,
+			"versionNonce": 335290666,
 			"isDeleted": false,
 			"id": "RKQYHpEI",
 			"fillStyle": "cross-hatch",
@@ -552,18 +554,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -800.2085719298925,
-			"y": -299.2985687220028,
+			"x": -1557.809636219891,
+			"y": -825.2587380746272,
 			"strokeColor": "#ff8787",
 			"backgroundColor": "transparent",
-			"width": 164.71998596191406,
+			"width": 164.71981811523438,
 			"height": 25,
 			"seed": 834579803,
 			"groupIds": [],
-			"frameId": "1lUmzyUTmH4us6y-YEZtM",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -575,12 +577,12 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "External: Events",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 909,
-			"versionNonce": 429533070,
+			"version": 1241,
+			"versionNonce": 720530410,
 			"isDeleted": false,
 			"id": "f9JrYM2V",
 			"fillStyle": "cross-hatch",
@@ -589,18 +591,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -787.2085719298925,
-			"y": -219.7531141765483,
+			"x": -1544.809636219891,
+			"y": -745.7132835291727,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 183.94000244140625,
+			"width": 183.93980407714844,
 			"height": 100,
 			"seed": 500582907,
 			"groupIds": [],
-			"frameId": "1lUmzyUTmH4us6y-YEZtM",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -612,52 +614,12 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sensations\n        Thoughts\n        Emotions\n        Memory",
 			"lineHeight": 1.25,
-			"baseline": 92
-		},
-		{
-			"type": "frame",
-			"version": 1064,
-			"versionNonce": 36200530,
-			"isDeleted": false,
-			"id": "1lUmzyUTmH4us6y-YEZtM",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -809.2085719298925,
-			"y": -366.2985687220028,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
-			"width": 220.8260869565217,
-			"height": 255,
-			"seed": 705778331,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "Vntd6JcCqN9FWexQuwq7L",
-					"type": "arrow"
-				}
-			],
-			"updated": 1704885573510,
-			"link": null,
-			"locked": false,
-			"customData": {
-				"frameColor": {
-					"stroke": "#103359",
-					"fill": "#1B589A",
-					"nameColor": "#2370C6"
-				}
-			},
-			"name": "Trigger"
+			"baseline": 93
 		},
 		{
 			"type": "rectangle",
-			"version": 2287,
-			"versionNonce": 1531577806,
+			"version": 2604,
+			"versionNonce": 173104810,
 			"isDeleted": false,
 			"id": "247txdFuyfLeswB868htm",
 			"fillStyle": "cross-hatch",
@@ -666,15 +628,15 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -152.259955329102,
-			"y": -349.63848967061944,
+			"x": -903.5569124519847,
+			"y": -866.0298186189743,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 129.34436872850893,
 			"height": 45,
 			"seed": 1461864251,
 			"groupIds": [],
-			"frameId": "zskKL9UVWK_SFLtmkzPUZ",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -682,14 +644,14 @@ Mental: Sinneseindrücke
 					"id": "JZuoTiyg"
 				}
 			],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1883,
-			"versionNonce": 1520207378,
+			"version": 2201,
+			"versionNonce": 1858337130,
 			"isDeleted": false,
 			"id": "JZuoTiyg",
 			"fillStyle": "cross-hatch",
@@ -698,18 +660,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -147.259955329102,
-			"y": -344.63848967061944,
+			"x": -898.5569124519847,
+			"y": -861.0298186189743,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 117.57199096679688,
+			"width": 117.57249450683594,
 			"height": 35,
 			"seed": 1802217435,
 			"groupIds": [],
-			"frameId": "zskKL9UVWK_SFLtmkzPUZ",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -721,12 +683,12 @@ Mental: Sinneseindrücke
 			"containerId": "247txdFuyfLeswB868htm",
 			"originalText": "Reaction",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 1264,
-			"versionNonce": 266607630,
+			"version": 1585,
+			"versionNonce": 1200962602,
 			"isDeleted": false,
 			"id": "ttnLx6dX",
 			"fillStyle": "cross-hatch",
@@ -735,23 +697,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -154.259955329102,
-			"y": -298.63848967061944,
+			"x": -899.4489844091953,
+			"y": -802.5408112180247,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 184.58001708984375,
+			"width": 184.5797576904297,
 			"height": 50,
 			"seed": 1023407227,
 			"groupIds": [],
-			"frameId": "zskKL9UVWK_SFLtmkzPUZ",
+			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "wIcr9UZZ6V96GcrDnb2_a",
-					"type": "arrow"
-				}
-			],
-			"updated": 1704885573510,
+			"boundElements": [],
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -763,12 +720,12 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physical: Actions\n         Behaviour",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 1239,
-			"versionNonce": 1694888914,
+			"version": 1559,
+			"versionNonce": 1655711466,
 			"isDeleted": false,
 			"id": "8MFIsbXU",
 			"fillStyle": "cross-hatch",
@@ -777,18 +734,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -147.259955329102,
-			"y": -242.63848967061944,
+			"x": -892.4489844091953,
+			"y": -746.5408112180247,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 216.7200164794922,
+			"width": 216.71971130371094,
 			"height": 100,
 			"seed": 1000451355,
 			"groupIds": [],
-			"frameId": "zskKL9UVWK_SFLtmkzPUZ",
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -800,52 +757,12 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sensations\n        Thoughts\n        Esfsdfmotions\n        Memory",
 			"lineHeight": 1.25,
-			"baseline": 92
-		},
-		{
-			"type": "frame",
-			"version": 1659,
-			"versionNonce": 1298229838,
-			"isDeleted": false,
-			"id": "zskKL9UVWK_SFLtmkzPUZ",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -167.259955329102,
-			"y": -359.63848967061944,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
-			"width": 250.99999999999994,
-			"height": 227.5454545454545,
-			"seed": 985878971,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "wIcr9UZZ6V96GcrDnb2_a",
-					"type": "arrow"
-				}
-			],
-			"updated": 1704885573510,
-			"link": null,
-			"locked": false,
-			"customData": {
-				"frameColor": {
-					"stroke": "#103359",
-					"fill": "#1B589A",
-					"nameColor": "#2370C6"
-				}
-			},
-			"name": "Reaction"
+			"baseline": 93
 		},
 		{
 			"type": "rectangle",
-			"version": 722,
-			"versionNonce": 1132177810,
+			"version": 763,
+			"versionNonce": 413120938,
 			"isDeleted": false,
 			"id": "v4OS3R0w_37fqbDb6csLO",
 			"fillStyle": "cross-hatch",
@@ -854,8 +771,8 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -531.0781371472838,
-			"y": -314.82030785243757,
+			"x": -1271.6702307836383,
+			"y": -775.90317545373,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 298,
@@ -886,14 +803,14 @@ Mental: Sinneseindrücke
 					"type": "arrow"
 				}
 			],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 695,
-			"versionNonce": 43708558,
+			"version": 736,
+			"versionNonce": 2022634602,
 			"isDeleted": false,
 			"id": "RQaC0Kum",
 			"fillStyle": "cross-hatch",
@@ -902,18 +819,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -483.0981414197447,
-			"y": -304.82030785243757,
+			"x": -1223.6901129857868,
+			"y": -765.90317545373,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 202.04000854492188,
+			"width": 202.03976440429688,
 			"height": 25,
 			"seed": 1992318715,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491786,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -925,12 +842,12 @@ Mental: Sinneseindrücke
 			"containerId": "v4OS3R0w_37fqbDb6csLO",
 			"originalText": "Rules & Assumptions",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 806,
-			"versionNonce": 1026860882,
+			"version": 879,
+			"versionNonce": 2027352618,
 			"isDeleted": false,
 			"id": "pAeNCkeJ4L9t9YSGeXI9J",
 			"fillStyle": "cross-hatch",
@@ -939,8 +856,8 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -468.07813714728377,
-			"y": -106.82030785243751,
+			"x": -1206.886086869217,
+			"y": -654.4341553031661,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
 			"width": 158.51210021972656,
@@ -963,14 +880,14 @@ Mental: Sinneseindrücke
 					"type": "arrow"
 				}
 			],
-			"updated": 1704885573510,
+			"updated": 1705003491788,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1196,
-			"versionNonce": 1531555534,
+			"version": 1271,
+			"versionNonce": 776674538,
 			"isDeleted": false,
 			"id": "1ITWFctf",
 			"fillStyle": "cross-hatch",
@@ -979,18 +896,18 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -433.5242354749205,
-			"y": -96.82030785243751,
+			"x": -1180.0799726724397,
+			"y": -644.4341553031661,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
-			"width": 89.404296875,
+			"width": 104.89987182617188,
 			"height": 25,
 			"seed": 306912315,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003491788,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1002,12 +919,12 @@ Mental: Sinneseindrücke
 			"containerId": "pAeNCkeJ4L9t9YSGeXI9J",
 			"originalText": "Core belief",
 			"lineHeight": 1.25,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 2375,
-			"versionNonce": 445115666,
+			"version": 3132,
+			"versionNonce": 1089745334,
 			"isDeleted": false,
 			"id": "Vntd6JcCqN9FWexQuwq7L",
 			"fillStyle": "cross-hatch",
@@ -1016,29 +933,29 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -582.3824849733708,
-			"y": -285.5936676792221,
+			"x": -1331.1812827811023,
+			"y": -750.3611831463584,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 46.30434782608688,
-			"height": 0.3932980555957215,
+			"width": 55.90833709091544,
+			"height": 1.1036177194191055,
 			"seed": 1420942555,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003492081,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "1lUmzyUTmH4us6y-YEZtM",
-				"gap": 6,
-				"focus": -0.37203903622459217
+				"elementId": "FtEe4niDzIXRGCBidqFx9",
+				"focus": 0.024626827508437983,
+				"gap": 5.622573547071738
 			},
 			"endBinding": {
 				"elementId": "v4OS3R0w_37fqbDb6csLO",
-				"gap": 5,
-				"focus": -0.35462971294879914
+				"focus": 0.04221368608447317,
+				"gap": 3.602714906548499
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1049,15 +966,15 @@ Mental: Sinneseindrücke
 					0
 				],
 				[
-					46.30434782608688,
-					0.3932980555957215
+					55.90833709091544,
+					-1.1036177194191055
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2065,
-			"versionNonce": 604415246,
+			"version": 2288,
+			"versionNonce": 1158659126,
 			"isDeleted": false,
 			"id": "Q_uw8NZM1grIcQZ82KQUt",
 			"fillStyle": "cross-hatch",
@@ -1066,29 +983,29 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -444.7538961934001,
-			"y": -268.82030785243757,
+			"x": -1185.076808710369,
+			"y": -729.90317545373,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 1.0162777593405963,
-			"height": 150,
+			"width": 0.20830758266265548,
+			"height": 63.469020150563836,
 			"seed": 1773635963,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003492081,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "v4OS3R0w_37fqbDb6csLO",
-				"gap": 1,
-				"focus": 0.4191452818320418
+				"focus": 0.41914599725646096,
+				"gap": 1
 			},
 			"endBinding": {
 				"elementId": "pAeNCkeJ4L9t9YSGeXI9J",
-				"gap": 12.000000000000057,
-				"focus": -0.7200971775522472
+				"focus": -0.7200971775522499,
+				"gap": 12
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1099,15 +1016,15 @@ Mental: Sinneseindrücke
 					0
 				],
 				[
-					-1.0162777593405963,
-					150
+					0.20830758266265548,
+					63.469020150563836
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2076,
-			"versionNonce": 15497938,
+			"version": 2299,
+			"versionNonce": 581609142,
 			"isDeleted": false,
 			"id": "Y8qDFsk6CuaWwEF7wus3w",
 			"fillStyle": "cross-hatch",
@@ -1116,29 +1033,29 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -339.9801753560821,
-			"y": -110.82030785243751,
+			"x": -1079.016005635002,
+			"y": -658.4341553031661,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
-			"width": 0.28169572995136605,
-			"height": 155,
+			"width": 0.8361884399046176,
+			"height": 68.46902015056384,
 			"seed": 1990107675,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003492081,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "pAeNCkeJ4L9t9YSGeXI9J",
-				"gap": 4,
-				"focus": 0.615329543880541
+				"focus": 0.6153294701449027,
+				"gap": 4
 			},
 			"endBinding": {
 				"elementId": "v4OS3R0w_37fqbDb6csLO",
-				"gap": 4.000000000000057,
-				"focus": -0.2846723340788553
+				"focus": -0.28467233407885406,
+				"gap": 4
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1149,15 +1066,15 @@ Mental: Sinneseindrücke
 					0
 				],
 				[
-					0.28169572995136605,
-					-155
+					-0.8361884399046176,
+					-68.46902015056384
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 3162,
-			"versionNonce": 776655694,
+			"version": 3703,
+			"versionNonce": 1231876406,
 			"isDeleted": false,
 			"id": "wIcr9UZZ6V96GcrDnb2_a",
 			"fillStyle": "cross-hatch",
@@ -1166,29 +1083,29 @@ Mental: Sinneseindrücke
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -221.36465964963736,
-			"y": -302.79804488924844,
+			"x": -969.9225084749617,
+			"y": -748.7053942170161,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 60.01596598031142,
-			"height": 3.2944594000356346,
+			"width": 59.03932094013953,
+			"height": 1.1209409698938089,
 			"seed": 1415161531,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704885573510,
+			"updated": 1705003492082,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "v4OS3R0w_37fqbDb6csLO",
-				"gap": 11.713477497646409,
-				"focus": -0.060989920926943095
+				"focus": 0.07097250539000302,
+				"gap": 3.747722308676657
 			},
 			"endBinding": {
-				"elementId": "ttnLx6dX",
-				"gap": 10.286522502353591,
-				"focus": 1.2717882960554794
+				"elementId": "aU9Fs_ZosqtycjpwDi_43",
+				"focus": -0.023785055353627526,
+				"gap": 7.358935451431421
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1199,8 +1116,8 @@ Mental: Sinneseindrücke
 					0
 				],
 				[
-					60.01596598031142,
-					-3.2944594000356346
+					59.03932094013953,
+					1.1209409698938089
 				]
 			]
 		},
@@ -1220,7 +1137,7 @@ Mental: Sinneseindrücke
 			"y": -299.165498893282,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 156.11328125,
+			"width": 179.9397735595703,
 			"height": 100,
 			"seed": 698825109,
 			"groupIds": [],
@@ -1239,7 +1156,7 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -1257,7 +1174,7 @@ Mental: Sinneseindrücke
 			"y": -243.6200443478275,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 199.39453125,
+			"width": 222.9797821044922,
 			"height": 100,
 			"seed": 404045557,
 			"groupIds": [],
@@ -1276,13 +1193,381 @@ Mental: Sinneseindrücke
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
+		},
+		{
+			"id": "FtEe4niDzIXRGCBidqFx9",
+			"type": "rectangle",
+			"x": -1562.7846495651568,
+			"y": -880.7312710780393,
+			"width": 225.9807932369829,
+			"height": 258.93632558404295,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 393034550,
+			"version": 271,
+			"versionNonce": 612542506,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "Vntd6JcCqN9FWexQuwq7L",
+					"type": "arrow"
+				}
+			],
+			"updated": 1705003491788,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "aU9Fs_ZosqtycjpwDi_43",
+			"type": "rectangle",
+			"x": -903.5242520833907,
+			"y": -865.833007917874,
+			"width": 233.72285278919867,
+			"height": 235.50699670362013,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1133097718,
+			"version": 217,
+			"versionNonce": 304227754,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "wIcr9UZZ6V96GcrDnb2_a",
+					"type": "arrow"
+				}
+			],
+			"updated": 1705003491789,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "byQ-z7R3Jl4ZmSba_287O",
+			"type": "rectangle",
+			"x": -477.16411108249224,
+			"y": -1202.7827375660186,
+			"width": 110.35033951806517,
+			"height": 70.22294332967793,
+			"angle": 0,
+			"strokeColor": "#5f6100",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1259089898,
+			"version": 654,
+			"versionNonce": 1601628214,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "din1UQTT"
+				}
+			],
+			"updated": 1705003560116,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "din1UQTT",
+			"type": "text",
+			"x": -456.2609521266823,
+			"y": -1190.1712659011796,
+			"width": 68.54402160644531,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#5f6100",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 374732650,
+			"version": 612,
+			"versionNonce": 636706346,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1705003560116,
+			"link": null,
+			"locked": false,
+			"text": "Self",
+			"rawText": "Self",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 32,
+			"containerId": "byQ-z7R3Jl4ZmSba_287O",
+			"originalText": "Self",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "frame",
+			"version": 1178,
+			"versionNonce": 961900726,
+			"isDeleted": true,
+			"id": "1lUmzyUTmH4us6y-YEZtM",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1466.9334604082655,
+			"y": -514.5461678766255,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 220.8260869565217,
+			"height": 255,
+			"seed": 705778331,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "Vntd6JcCqN9FWexQuwq7L",
+					"type": "arrow"
+				}
+			],
+			"updated": 1705003306028,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"frameColor": {
+					"stroke": "#103359",
+					"fill": "#1B589A",
+					"nameColor": "#2370C6"
+				}
+			},
+			"name": "Trigger"
+		},
+		{
+			"type": "frame",
+			"version": 1728,
+			"versionNonce": 1598265462,
+			"isDeleted": true,
+			"id": "zskKL9UVWK_SFLtmkzPUZ",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -716.4458916718534,
+			"y": -435.92696376729594,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 250.99999999999994,
+			"height": 227.5454545454545,
+			"seed": 985878971,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "wIcr9UZZ6V96GcrDnb2_a",
+					"type": "arrow"
+				}
+			],
+			"updated": 1705003392982,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"frameColor": {
+					"stroke": "#103359",
+					"fill": "#1B589A",
+					"nameColor": "#2370C6"
+				}
+			},
+			"name": "Reaction"
+		},
+		{
+			"id": "bAOvB_jpuiUDkZXN3kc5I",
+			"type": "line",
+			"x": 241.25216388024057,
+			"y": -1260.5992546464881,
+			"width": 1149.090909090909,
+			"height": 1258.181818181818,
+			"angle": 0,
+			"strokeColor": "#6741d9",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1990224054,
+			"version": 240,
+			"versionNonce": 31750570,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705003195865,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					10.909090909090764,
+					305.4545454545455
+				],
+				[
+					160,
+					272.72727272727275
+				],
+				[
+					-636.3636363636364,
+					654.5454545454546
+				],
+				[
+					-474.5454545454545,
+					5.454545454545496
+				],
+				[
+					-709.0909090909091,
+					479.9999999999999
+				],
+				[
+					-541.8181818181818,
+					1070.909090909091
+				],
+				[
+					440,
+					798.1818181818181
+				],
+				[
+					-305.4545454545455,
+					-43.636363636363626
+				],
+				[
+					278.181818181818,
+					683.6363636363636
+				],
+				[
+					-530.909090909091,
+					1214.5454545454545
+				]
+			],
+			"lastCommittedPoint": [
+				-530.909090909091,
+				1214.5454545454545
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "hYVaYKnr",
+			"type": "text",
+			"x": -226.36788490507138,
+			"y": -1064.0088257478458,
+			"width": 9.999984741210938,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 234734634,
+			"version": 2,
+			"versionNonce": 1509854390,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705003501038,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "xLYZEEqm",
+			"type": "text",
+			"x": -231.38380942861977,
+			"y": -1072.36869995376,
+			"width": 9.999984741210938,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2105497398,
+			"version": 2,
+			"versionNonce": 407628266,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705003502729,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#f0f8ff",
-		"currentItemStrokeColor": "#6741d9",
+		"currentItemStrokeColor": "#5f6100",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 4,
@@ -1290,14 +1575,14 @@ Mental: Sinneseindrücke
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1.5206701957411894,
-		"scrollY": 1135.4978598880762,
+		"scrollX": 1487.0369151569075,
+		"scrollY": 1875.4129912524832,
 		"zoom": {
-			"value": 1.1441077699032263
+			"value": 0.5980951240226612
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
