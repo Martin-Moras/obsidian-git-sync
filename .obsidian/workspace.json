@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63ee19d5db72fa01",
+        "id": "928cd37d83ac08db",
         "type": "tabs",
         "children": [
           {
-            "id": "07eb44e37d6ab9ea",
+            "id": "0ef6c8d3107f2cf3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Ifs Ausarbeitung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Ifs Ausarbeitung.md"
               }
             }
           },
@@ -156,34 +158,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07eb44e37d6ab9ea",
+  "active": "0ef6c8d3107f2cf3",
   "lastOpenFiles": [
-    "ToDo.md",
-    "Excalidraw/IFS Model.md",
+    "Ifs Ausarbeitung.md",
     "School/IFS Ausrabeitung.md",
+    "conflict-files-obsidian-git.md",
+    "Supernatural.md",
+    "School/Untitled mindmap.md",
+    "School/English.md",
+    "School/Der kluge Richter-Tagebuch.md",
+    "School/DDR/github test.md",
+    "School/DDR/Wirtschaft der DDR.md",
+    "Excalidraw/IFS Model.md",
+    "Excalidraw/Ifs Model.md",
+    "School/Ethic.md",
+    "Weired things.md",
+    "Private/My parts.md",
+    "ToDo.md",
     "2023-12-17.md",
     "School/DDR/DDR.md",
     "Excalidraw/sdfsdfsdf.md",
     "Excalidraw/hi test.md",
     "Excalidraw/IFS Intro.md",
     "Hi test.md",
-    "School/Ethic.md",
     "School/Ifs.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 15.47.18.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 15.48.44.excalidraw.md",
-    "Excalidraw/Pasted Image 20240108090947_391.jpg.md",
-    "Excalidraw/Drawing 2024-01-08 15.46.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.46.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.45.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
-    "Template.md",
-    "conflict-files-obsidian-git.md",
-    "better teacher.md",
-    "climate change.md",
-    "Einzel Unternehmen.md",
-    "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
