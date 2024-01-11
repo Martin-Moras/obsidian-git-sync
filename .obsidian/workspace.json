@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "IFS Ausarbeitung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "88499f134102b29b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "914eea13cc4015ba",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ifs Ausarbeitung.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -136,14 +148,20 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2079363203d5991f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,13 +172,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ef6c8d3107f2cf3",
+  "active": "14d7a14669df09d7",
   "lastOpenFiles": [
-    "Ifs Ausarbeitung.md",
+    "Excalidraw/IFS Part model.md",
+    "Excalidraw/IFS Model.md",
+    "Attention gradient.png",
+    "Excalidraw/IFS model.md",
+    "IFS Ausarbeitung.md",
+    "Pasted Image 20240108092608_055.jpg",
+    "Pasted Image 20240111214902_336.png",
+    "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
+    "ToDo.md",
     "School/IFS Ausrabeitung.md",
     "conflict-files-obsidian-git.md",
     "Supernatural.md",
@@ -169,12 +195,10 @@
     "School/Der kluge Richter-Tagebuch.md",
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
-    "Excalidraw/IFS Model.md",
     "Excalidraw/Ifs Model.md",
     "School/Ethic.md",
     "Weired things.md",
     "Private/My parts.md",
-    "ToDo.md",
     "2023-12-17.md",
     "School/DDR/DDR.md",
     "Excalidraw/sdfsdfsdf.md",
@@ -182,11 +206,6 @@
     "Excalidraw/IFS Intro.md",
     "Hi test.md",
     "School/Ifs.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.47.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.48.44.excalidraw.md",
-    "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",
