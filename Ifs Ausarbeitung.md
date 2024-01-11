@@ -18,7 +18,7 @@ Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen. 
 # Das Ich
-Der nächste Aspekt
+Der nächste Aspekt der Ifs Therapie ist das **ich**  
 # Therapie
 ## Wie bringt man Teile zum Vorschein
 ## Wie verändert man Teile
