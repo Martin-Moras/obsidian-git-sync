@@ -14,13 +14,6 @@ Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnt
 Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er auch komplexer und kommt mit Situationen besser klar. Während unsere Auslöser und Reaktionen uns meistens Bewusst sind, sind die Regeln und Annahmen eines Teils meist nicht bewusst bekannt. 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
-## Was will ein Teil
-Teile wollen nur gutes für 
-- Ich 
-	- überleben 
-	- gemütlichgeit
-		suizit
-- andere
 # Das Ich
 - 8 C's
 Der nächste Aspekt der Ifs Therapie ist das **Ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was sie für das beste halten. 
@@ -45,8 +38,8 @@ Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. 
 Bei allen Varianten versucht man die Auslöser auszulösen.
 ## Teile Verstehen
 Wenn ein Teil ausgelöst wurde, muss man versuchen ihn zu verstehen. dabei gibt es ein paar Sachen die man beachten muss.
-- Ein Teil will nur gutes. Egal wie schädlich ein Teil ist und egal wie sehr man ihn verabscheut, ein Teil will nur gutes. 
-- Ich muss befragen
+- Ein Teil will nur gutes. Egal wie schädlich ein Teil ist und egal wie sehr man ihn verabscheut, ein Teil will nur gutes. Beziehungsweise will er das, was aus seiner Perspective, mit seinen Regeln, Annahmen und seinem kern Glaube, am besten scheint. Deshalb soll man seine Teile lieben, egal was sie glauben oder tun. Und anstatt gegen sie zu kämpfen, sollte man ihnen helfen, indem man ihnen die Wahrheit zeigt.
+- Was auch sehr wichtig ist, beim Umgang mit s
 
 
 ## Teile verändern
