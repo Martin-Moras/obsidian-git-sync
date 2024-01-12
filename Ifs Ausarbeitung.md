@@ -42,6 +42,9 @@ Wenn ein Teil ausgelöst wurde, muss man versuchen ihn zu verstehen. Das Ziel is
 Dabei gibt es ein paar Sachen die man beachten muss.
 - Ein Teil will nur gutes. Egal wie schädlich ein Teil ist und egal wie sehr man ihn verabscheut, ein Teil will nur gutes. Beziehungsweise will er das, was aus seiner Perspective, mit seinen Regeln, Annahmen und seinem kern Glaube, am besten scheint. Deshalb soll man seine Teile lieben, egal was sie glauben oder tun. Und anstatt gegen sie zu kämpfen, sollte man ihnen helfen, indem man ihnen die Wahrheit zeigt.
 - Was auch sehr wichtig ist, beim Umgang mit seinen Teilen, ist, dass man darauf achtet, dass kein anderer Teil sich in die Konversation einmischt. Denn wenn während man mit einem Teil redet, ein anderer sich dazwischen mischt, kann es passieren, dass sich die beiden Teile streiten. Dann kann man zu keinem Ergebnis kommen, weil die Teile dann in Verteidigungsstellung gehen. Um das zu verhindern muss man sich die ganze Zeit gut beobachten und darauf achten, dass nur die Teile Aktiv sind, die man gerade braucht.
-- Es ist meistens schwer an den kern Glauben zu kommen und man schafft es warscheinlich 
-## Teile veränder
+- Es ist meistens schwer an den kern Glauben zu kommen und man schafft es wahrscheinlich nicht beim ersten mahl, aber Übung macht den Meister und es lohnt sich auf jeden Fall sich die Mühe zu machen. Denn je mehr man sich mit seinen Teilen befasst, desto fröhlicher wird man, desto mehr hat man sich unter Kontrolle und desto mehr kann man im Leben erreichen. 
+## Teile verändern
+Wenn man weis was der kern Glaube eines Teils ist, hat man den schwierigsten Teil schon geschafft. Jetzt muss man nur noch den kern Glauben korrigieren, wenn er falsch ist. Das funktioniert am besten, wenn man:
+1. sich voll und ganz bewusst ist was der falsche kern Glaube des Teils ist.
+2. der Teil, den man 
 # Instinktive Teile
