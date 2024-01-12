@@ -8,25 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ef6c8d3107f2cf3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "88499f134102b29b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Ifs Ausarbeitung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Ifs Ausarbeitung.md"
               }
             }
           },
@@ -157,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +168,14 @@
   },
   "active": "88499f134102b29b",
   "lastOpenFiles": [
-    "Excalidraw/IFS Part model.md",
     "Excalidraw/IFS Model.md",
+    "Ifs Ausarbeitung.md",
+    "IFS Ausarbeitung.md",
+    "School/Ethic.md",
+    "IFS Ausrabeitung.md",
+    "Excalidraw/IFS Part model.md",
     "Attention gradient.png",
     "Excalidraw/IFS model.md",
-    "IFS Ausarbeitung.md",
     "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240111214902_336.png",
     "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
@@ -192,7 +189,6 @@
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
     "Excalidraw/Ifs Model.md",
-    "School/Ethic.md",
     "Weired things.md",
     "Private/My parts.md",
     "2023-12-17.md",
@@ -201,7 +197,6 @@
     "Excalidraw/hi test.md",
     "Excalidraw/IFS Intro.md",
     "Hi test.md",
-    "School/Ifs.excalidraw.md",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",

@@ -4,11 +4,9 @@ Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf d
 An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.
 Und dass ist bei allen Teilen so. Irgendetwas, irgend ein Ereignis in der Vergangenheit hat einen Teil etwas glauben machen, dann hat der Teil dieses Ereignis generalisiert, und so ist dann ein Verhalten entstanden, dass einer Person, wenn sie Alter wird, in irgendeiner weise erschränkt kann.
 # Was ist ein Teil
-Ein Teil ist das was wir denken das wir sind. Er ist das, dass reagiert auf das was er sieht. 
-## Auslöser
--- Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil ist. 
 
-Ein Teil hat einen oder mehrere **Auslöser**. Ein Auslöser kann etwas Externes sein, etwas was man spürt, hört, riecht, schmeckt, sieht, tut, oder eine Situation. Aber es kann auch etwas internes sein, wie ein Gedanke, eine Emotion, oder eine Erinnerung. In unserem Beispiel war der Auslöser eine Situation, etwas externes, in der
+## Auslöser
+Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil ist. Ein Teil hat einen oder mehrere **Auslöser**. Ein Auslöser kann etwas Externes sein, etwas was man spürt, hört, riecht, schmeckt, sieht, tut, oder eine Situation. Aber es kann auch etwas internes sein, wie ein Gedanke, eine Emotion, oder eine Erinnerung. In unserem Beispiel war der Auslöser eine Situation, etwas externes, in der
 ## Reaktion
 Die Nächste Eigenschaft eines Teils ist die **Reaktion**. Hier gibt es auch wieder interne und externe Reaktionen. Die externen Reaktionen sind Verhalten oder Aktionen. Die Interne Reaktionen sind Gedanken, Emotionen oder Erinnerungen. Allerdings kann eine Reaktion auch ein Sinneseindruck sein, also eine Halluzination, das kommt aber eher selten vor. In unserem Beispiel gab es mehrere Reaktionen, einmal der Gedanke „Ich sag besser nichts“, der einem meistens gar nicht so bewusst ist. Eine zweite Reaktion war eine Emotion wie Zweifel oder Angst. Und die dritte Reaktion war eine Verhaltensänderung, ein kleiner unterschied in der Körperhaltung und im Gesichtsausdruck. Wie man sieht, kann ein Gedanke sowohl ein Auslöser, als auch eine Reaktion sein.
 ## Regeln und Annahmen
@@ -18,7 +16,7 @@ Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
 # Das Ich
-Der nächste Aspekt der Ifs Therapie ist das **ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was aus ihrer Sicht das Beste ist.
+Der nächste Aspekt der Ifs Therapie ist das **ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was aus ihrer Sicht das Beste ist. Und hier kommt das ich ins Spiel. Denn das ich kann en
 ## Wie das Ich Teile beeinflusst
 Unsere Teile sind nur aktiv wenn sie ausgelöst wurden. Wenn sie Aktiv sind machen sie Vorschläge, über das, was sie für das beste halten. Das können Gedanken a Diese Vorschläge gehen direkt an das Ich und das kann dann entscheiden ob es den Vorschlag annimmt, oder nicht. Allerdings ist das den meisten Menschen gar nicht bewusst. Denn meistens fliest man von einem Gedanken zum nächsten. Aber wenn man wirklich darauf achtet, fällt einem auf, dass einem Teile die ganze Zeit Vorschläge machen und das Ich entscheidet . 
 # Therapie
