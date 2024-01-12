@@ -20,36 +20,6 @@
             }
           },
           {
-            "id": "0190bb2283452ee4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/IFS Model.md"
-              }
-            }
-          },
-          {
-            "id": "f9cad6967cba9303",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/IFS Model.md"
-              }
-            }
-          },
-          {
-            "id": "98e819ecfdda94f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/IFS Model.md"
-              }
-            }
-          },
-          {
             "id": "667854c7808c81d0",
             "type": "leaf",
             "state": {
@@ -59,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Ifs Ausarbeitung.md"
               }
             }
           },
@@ -207,14 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "667854c7808c81d0",
+  "active": "88499f134102b29b",
   "lastOpenFiles": [
-    "Excalidraw/Untitled 1.md",
     "Excalidraw/IFS Model.md",
+    "Ifs Ausarbeitung.md",
+    "Excalidraw/Untitled 1.md",
     "Excalidraw/Untitled.md",
     "Untitled.md",
     "Excalidraw/asdf.md",
-    "Ifs Ausarbeitung.md",
     "IFS Ausarbeitung.md",
     "School/Ethic.md",
     "IFS Ausrabeitung.md",
