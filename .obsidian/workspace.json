@@ -28,9 +28,29 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
+          },
+          {
+            "id": "8f6d478f1bf34b0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
+          },
+          {
+            "id": "4098ccba7abea52a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0190bb2283452ee4",
+  "active": "4098ccba7abea52a",
   "lastOpenFiles": [
     "Excalidraw/asdf.md",
     "Excalidraw/IFS Model.md",
