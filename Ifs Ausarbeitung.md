@@ -15,8 +15,9 @@ Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
 # Das Ich
-- 8 C's
-Der nächste Aspekt der Ifs Therapie ist das **Ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was sie für das beste halten. 
+[Das ware Ich](https://youtu.be/3bNHkg4ZPpA?si=op-axxeRfuqbGTNs)
+Der nächste Aspekt der Ifs Therapie ist das **Ich**. Das ist kein Teil, sondern der Aspekt unser psyche der sich um unsere Teile kümmert. Wenn man Teile als Kin
+Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was sie für das beste halten. 
 Und hier kommt das Ich ins Spiel. Denn das Ich kann entscheiden auf welche Teile es sich fokussiert.
 ## Wie das Ich Teile beeinflusst
 Unsere Teile sind nur aktiv wenn sie ausgelöst wurden. Wenn sie Aktiv sind machen sie Vorschläge, über das, was sie für das beste halten. Das können Gedanken, Emotionen, oder Aktionen sein. Diese Vorschläge gehen direkt an das Ich und das kann dann entscheiden ob es den Vorschlag annimmt, oder nicht. Allerdings ist das den meisten Menschen gar nicht bewusst. Denn meistens fliest man von einem Gedanken zum nächsten. Aber wenn man wirklich darauf achtet, fällt einem auf, dass einem Teile die ganze Zeit Vorschläge machen und das Ich entscheidet ob es die Vorschläge annimmt oder sie nur wahrnimmt.
@@ -46,5 +47,7 @@ Dabei gibt es ein paar Sachen die man beachten muss.
 ## Teile verändern
 Wenn man weis was der kern Glaube eines Teils ist, hat man den schwierigsten Teil schon geschafft. Jetzt muss man nur noch den kern Glauben korrigieren, wenn er falsch ist. Das funktioniert am besten, wenn man:
 1. sich voll und ganz bewusst ist was der falsche kern Glaube des Teils ist.
-2. der Teil, den man 
+2. der Teil, dem man helfen will, aktiv ist.
+3. einen klaren Beweis hat, das der kern Glaube des Teils falsch ist (am besten eine Erinnerung).
+[Erinnerungs Neukonstruktion](https://youtu.be/PWfpLtgxDi4?si=QHYjCpho2OlrE5cT)
 # Instinktive Teile
