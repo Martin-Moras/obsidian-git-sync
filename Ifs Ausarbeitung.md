@@ -17,9 +17,12 @@ Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch 
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
 # Das Ich
 Der nächste Aspekt der Ifs Therapie ist das **ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was aus ihrer Sicht das Beste ist. 
-Und hier kommt das ich ins Spiel. Denn das ich kann entscheiden auf welche Teile es sich fokussiert. 
 
-![[Excalidraw/IFS Model.md#^area=EQnas0Xf|Brain model|50]]
+Und hier kommt das ich ins Spiel. Denn das ich kann entscheiden auf welche Teile es sich fokussiert.
+## Bewusstsein und Aufmerksamkeit
+[Contiouscness vs attention](https://www.youtube.com/watch?v=_P-szUcfbMc&pp=ygUnYXdhcmVuZXNzIHZzIGNvbnNjaW91c25lc3MgcnVwZXJ0IHNwaXJh)
+
+![[Excalidraw/IFS Model.md#^area=iW3FGrM2wpcga_gTqBpCM|Brain model]]
 ## Wie das Ich Teile beeinflusst
 Unsere Teile sind nur aktiv wenn sie ausgelöst wurden. Wenn sie Aktiv sind machen sie Vorschläge, über das, was sie für das beste halten. Das können Gedanken a Diese Vorschläge gehen direkt an das Ich und das kann dann entscheiden ob es den Vorschlag annimmt, oder nicht. Allerdings ist das den meisten Menschen gar nicht bewusst. Denn meistens fliest man von einem Gedanken zum nächsten. Aber wenn man wirklich darauf achtet, fällt einem auf, dass einem Teile die ganze Zeit Vorschläge machen und das Ich entscheidet . 
 # Therapie
