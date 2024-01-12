@@ -16,19 +16,8 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
-          },
-          {
-            "id": "f66722fb93906f7a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Template.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Template.excalidraw.md",
+            "file": "Excalidraw/IFS Model.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Template.excalidraw.md",
+            "file": "Excalidraw/IFS Model.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Template.excalidraw.md"
+            "file": "Excalidraw/IFS Model.md"
           }
         }
       },
@@ -152,12 +141,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66722fb93906f7a",
+  "active": "69f7a8a3290b412c",
   "lastOpenFiles": [
-    "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/IFS Model.md",
-    "Excalidraw/Stick Exersice XD.md",
     "Excalidraw/IFS Part model.md",
+    "Excalidraw/IFS Model.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Stick Exersice XD.md",
     "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
     "School/English.md",
     "Attention gradient.png",
