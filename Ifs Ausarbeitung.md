@@ -14,6 +14,7 @@ Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnt
 Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er auch komplexer und kommt mit Situationen besser klar. Während unsere Auslöser und Reaktionen uns meistens Bewusst sind, sind die Regeln und Annahmen eines Teils meist nicht bewusst bekannt. 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
+## Was will ein 
 # Das Ich
 Der nächste Aspekt der Ifs Therapie ist das **Ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was sie für das beste halten. 
 Und hier kommt das Ich ins Spiel. Denn das Ich kann entscheiden auf welche Teile es sich fokussiert.
@@ -30,10 +31,16 @@ Um zu trainieren, seine Teile nur zu beobachten, anstatt sich mit ihnen zu ident
 # Therapie
 Jetzt kommen wir zum Praktischen Teil der Ifs Therapie. Das besondere an der Ifs Therapie ist, dass man sie auch an sich selbst ausführen kann und nicht unbedingt einen ausgebildeten Psychologen. Aber trotzdem sollte man sich an eine andere Person wenden (Freund, Familienmitglied, oder Psychologe), wenn man nicht alleine mit seinen mentalen Problemen klar kommt. 
 - warum man Ifs an sich praktizieren kann
-## Wie bringt man Teile zum Vorschein
-Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. Dafür gibt es Verschiedene Möglichkeiten:
+## Teile zum Vorschein bringen
+Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. Dafür gibt es Verschiedene Varianten:
 - Man kann einen Teil mit **Erinnerungen** zum Vorschein bringen. Bei dieser Variante versucht man sich an eine Situation zu erinnern, in der der Teil aktiviert wurde. Dadurch wird der Teil dann ausgelöst, denn der Teil denkt, dass er gebraucht wird.
-- Man kann einen Teil auch dadurch zum Vorschein bringen, indem man die Situation nach spielt, in der der Teil aktiviert wird.  
-## Wie verändert man Teile
+- Man kann einen Teil auch dadurch zum Vorschein bringen, indem man die Situation nach spielt, in der der Teil aktiviert wird. Der Fachbegriff dafür ist "Konfrontationsverfahren".
+Bei allen Varianten versucht man die Auslöser auszulösen.
+## Teile Verstehen
+Wenn ein Teil ausgelöst wurde, muss man versuchen ihn zu verstehen. dabei gibt es ein paar Sachen die man beachten muss.
+- Ein Teil will nur gutes. Egal wie schädlich ein Teil ist und egal wie sehr man ihn verabscheut, ein Teil will nur gutes. 
+- Ich muss befragen
 
+
+## Teile verändern
 # Instinktive Teile
