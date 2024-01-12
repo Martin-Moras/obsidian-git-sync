@@ -11,12 +11,8 @@
             "id": "0ef6c8d3107f2cf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IFS Ausarbeitung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -176,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14d7a14669df09d7",
+  "active": "88499f134102b29b",
   "lastOpenFiles": [
     "Excalidraw/IFS Part model.md",
     "Excalidraw/IFS Model.md",
