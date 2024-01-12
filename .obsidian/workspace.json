@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "21d0ca16d4a91f01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
+          },
+          {
             "id": "667854c7808c81d0",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ifs Ausarbeitung.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -176,10 +187,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88499f134102b29b",
+  "active": "21d0ca16d4a91f01",
   "lastOpenFiles": [
-    "Excalidraw/IFS Model.md",
     "Ifs Ausarbeitung.md",
+    "Excalidraw/IFS Model.md",
     "Excalidraw/Untitled 1.md",
     "Excalidraw/Untitled.md",
     "Untitled.md",
