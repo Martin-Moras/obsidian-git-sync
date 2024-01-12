@@ -37,10 +37,11 @@ Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. 
 - Man kann einen Teil auch dadurch zum Vorschein bringen, indem man die Situation nach spielt, in der der Teil aktiviert wird. Der Fachbegriff dafür ist "Konfrontationsverfahren".
 Bei allen Varianten versucht man die Auslöser auszulösen.
 ## Teile Verstehen
-Wenn ein Teil ausgelöst wurde, muss man versuchen ihn zu verstehen. dabei gibt es ein paar Sachen die man beachten muss.
+Wenn ein Teil ausgelöst wurde, muss man versuchen ihn zu verstehen. Das Ziel ist den kern Glauben herauszufinden. Um an ihn zu kommen, muss man 
+
+Dabei gibt es ein paar Sachen die man beachten muss.
 - Ein Teil will nur gutes. Egal wie schädlich ein Teil ist und egal wie sehr man ihn verabscheut, ein Teil will nur gutes. Beziehungsweise will er das, was aus seiner Perspective, mit seinen Regeln, Annahmen und seinem kern Glaube, am besten scheint. Deshalb soll man seine Teile lieben, egal was sie glauben oder tun. Und anstatt gegen sie zu kämpfen, sollte man ihnen helfen, indem man ihnen die Wahrheit zeigt.
-- Was auch sehr wichtig ist, beim Umgang mit s
+- Was auch sehr wichtig ist, beim Umgang mit seinen Teilen, ist, dass man darauf achtet, dass kein anderer Teil sich in die Konversation einmischt. Denn wenn während man mit einem Teil redet, ein anderer sich dazwischen mischt, kann es passieren, dass sich die beiden Teile streiten. Dann kann man zu keinem Ergebnis kommen, weil die Teile dann in Verteidigungsstellung gehen. Um das zu verhindern muss man sich die ganze Zeit gut beobachten und darauf achten, dass nur die Teile Aktiv sind, die man gerade braucht.
 
-
-## Teile verändern
+## Teile veränder
 # Instinktive Teile
