@@ -28,8 +28,13 @@ Um zu trainieren, seine Teile nur zu beobachten, anstatt sich mit ihnen zu ident
 ![[Excalidraw/IFS Model.md#^area=iW3FGrM2wpcga_gTqBpCM|Brain model|650]]
  
 # Therapie
-Jetzt kommen wir zum Praktischen Teil der Ifs Therapie. Das besondere an der Ifs Therapie ist, dass man sie auch an sich selbst ausführen kann und nicht unbedingt einen ausgebildeten Psychologen. Aber trotzdem sollte man sich an eine andere Person wenden(Freund, Familienmitglied, oder Psychologe)
+Jetzt kommen wir zum Praktischen Teil der Ifs Therapie. Das besondere an der Ifs Therapie ist, dass man sie auch an sich selbst ausführen kann und nicht unbedingt einen ausgebildeten Psychologen. Aber trotzdem sollte man sich an eine andere Person wenden (Freund, Familienmitglied, oder Psychologe), wenn man nicht alleine mit seinen mentalen Problemen klar kommt. 
+- warum man Ifs an sich praktizieren kann
 ## Wie bringt man Teile zum Vorschein
+Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. Dafür gibt es Verschiedene Möglichkeiten:
+- mem
+- Sitiuation
+- 
 ## Wie verändert man Teile
 
 # Instinktive Teile
