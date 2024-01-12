@@ -229,8 +229,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "text",
-			"version": 1112,
-			"versionNonce": 1206163617,
+			"version": 1113,
+			"versionNonce": 1778860801,
 			"isDeleted": false,
 			"id": "kS8PTa1Q",
 			"fillStyle": "cross-hatch",
@@ -250,7 +250,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": "iUGjx6SiiPVWkywzl45Ir",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319275,
+			"updated": 1705084509111,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -262,12 +262,12 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
-			"version": 1153,
-			"versionNonce": 147291631,
+			"version": 1154,
+			"versionNonce": 256059791,
 			"isDeleted": false,
 			"id": "Eke58XgE",
 			"fillStyle": "cross-hatch",
@@ -287,7 +287,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": "iUGjx6SiiPVWkywzl45Ir",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319276,
+			"updated": 1705084509112,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -299,12 +299,12 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Extern: Ereignisse",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 1263,
-			"versionNonce": 1743445121,
+			"version": 1264,
+			"versionNonce": 1493777121,
 			"isDeleted": false,
 			"id": "vVhN1HbF",
 			"fillStyle": "cross-hatch",
@@ -324,7 +324,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": "iUGjx6SiiPVWkywzl45Ir",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319277,
+			"updated": 1705084509114,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -336,7 +336,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "frame",
@@ -479,8 +479,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "text",
-			"version": 1003,
-			"versionNonce": 102754319,
+			"version": 1004,
+			"versionNonce": 56958895,
 			"isDeleted": false,
 			"id": "VQ6g3dK9",
 			"fillStyle": "cross-hatch",
@@ -500,7 +500,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": "4VJGQWpnYS58OV-IWOlgR",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319277,
+			"updated": 1705084509114,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -512,12 +512,12 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Physisch: Aktionen\n         Verhalten\n\n         ",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
-			"version": 1154,
-			"versionNonce": 1513989217,
+			"version": 1155,
+			"versionNonce": 683751105,
 			"isDeleted": false,
 			"id": "jeV6NNdZ",
 			"fillStyle": "cross-hatch",
@@ -537,7 +537,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": "4VJGQWpnYS58OV-IWOlgR",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319277,
+			"updated": 1705084509114,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -549,7 +549,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Mental: Sinneseindrücke\n        Gedanken\n        Emotionen\n        Erinnerungen",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "rectangle",
@@ -797,8 +797,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 757468719,
+			"version": 62,
+			"versionNonce": 673403343,
 			"isDeleted": false,
 			"id": "coN5Kyt0",
 			"fillStyle": "solid",
@@ -818,7 +818,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319279,
+			"updated": 1705084509116,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -830,7 +830,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "# asd\nasdf\nasdfasdf\nsadfd\nf",
 			"lineHeight": 1.25,
-			"baseline": 117
+			"baseline": 118
 		},
 		{
 			"type": "ellipse",
@@ -2862,8 +2862,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "text",
-			"version": 423,
-			"versionNonce": 715944001,
+			"version": 424,
+			"versionNonce": 1540273825,
 			"isDeleted": false,
 			"id": "neTRxwK0",
 			"fillStyle": "solid",
@@ -2883,7 +2883,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705083319280,
+			"updated": 1705084509116,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2895,7 +2895,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"containerId": null,
 			"originalText": "Aufmerksamkeit",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		}
 	],
 	"appState": {

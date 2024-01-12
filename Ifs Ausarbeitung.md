@@ -32,9 +32,8 @@ Jetzt kommen wir zum Praktischen Teil der Ifs Therapie. Das besondere an der Ifs
 - warum man Ifs an sich praktizieren kann
 ## Wie bringt man Teile zum Vorschein
 Als erstes muss man den Teil, mit dem man arbeiten will, zum Vorschein bringen. Dafür gibt es Verschiedene Möglichkeiten:
-- mem
-- Sitiuation
-- 
+- Man kann einen Teil mit **Erinnerungen** zum Vorschein bringen. Bei dieser Variante versucht man sich an eine Situation zu erinnern, in der der Teil aktiviert wurde. Dadurch wird der Teil dann ausgelöst, denn der Teil denkt, dass er gebraucht wird.
+- Man kann einen Teil auch dadurch zum Vorschein bringen, indem man die Situation nach spielt, in der der Teil aktiviert wird.  
 ## Wie verändert man Teile
 
 # Instinktive Teile
