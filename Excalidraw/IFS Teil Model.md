@@ -36,9 +36,9 @@ kern Glaube ^Ixy3voJ4
 
 Teil ^7q37AWbM
 
-Out ^IpDFMWKM
+Raus ^IpDFMWKM
 
-In ^1zIyklqt
+Rein ^1zIyklqt
 
 %%
 # Drawing
@@ -895,8 +895,8 @@ In ^1zIyklqt
 		},
 		{
 			"type": "ellipse",
-			"version": 269,
-			"versionNonce": 1149310648,
+			"version": 365,
+			"versionNonce": 685273544,
 			"isDeleted": false,
 			"id": "2-dTlhupMd02xRjSJSzsv",
 			"fillStyle": "solid",
@@ -909,7 +909,7 @@ In ^1zIyklqt
 			"y": -106.66724555082823,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#a5d8ff",
-			"width": 80.0276173665485,
+			"width": 85.02761736654844,
 			"height": 85,
 			"seed": 1439123912,
 			"groupIds": [],
@@ -921,14 +921,14 @@ In ^1zIyklqt
 					"id": "IpDFMWKM"
 				}
 			],
-			"updated": 1705098581634,
+			"updated": 1705098749951,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 301,
-			"versionNonce": 1184388536,
+			"version": 560,
+			"versionNonce": 2134182600,
 			"isDeleted": false,
 			"id": "IpDFMWKM",
 			"fillStyle": "cross-hatch",
@@ -937,28 +937,28 @@ In ^1zIyklqt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 699.0498895439503,
+			"x": 695.3121366290699,
 			"y": -76.7192837512565,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 37.179962158203125,
+			"width": 49.11993408203125,
 			"height": 25,
 			"seed": 281727176,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705098581643,
+			"updated": 1705098749883,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Out",
-			"rawText": "Out",
+			"text": "Raus",
+			"rawText": "Raus",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "2-dTlhupMd02xRjSJSzsv",
-			"originalText": "Out",
+			"originalText": "Raus",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -996,8 +996,8 @@ In ^1zIyklqt
 		},
 		{
 			"type": "text",
-			"version": 322,
-			"versionNonce": 762633912,
+			"version": 326,
+			"versionNonce": 2047941064,
 			"isDeleted": false,
 			"id": "1zIyklqt",
 			"fillStyle": "cross-hatch",
@@ -1006,28 +1006,28 @@ In ^1zIyklqt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -263.3479366623282,
+			"x": -272.3379192673087,
 			"y": -95.21255457795188,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 20.239990234375,
+			"width": 38.21995544433594,
 			"height": 25,
 			"seed": 1188249288,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705098581645,
+			"updated": 1705098724610,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "In",
-			"rawText": "In",
+			"text": "Rein",
+			"rawText": "Rein",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "KSamgwsEcBR-o6GNzc-U1",
-			"originalText": "In",
+			"originalText": "Rein",
 			"lineHeight": 1.25,
 			"baseline": 18
 		}
@@ -1047,8 +1047,8 @@ In ^1zIyklqt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 937,
-		"scrollY": 560.6484375,
+		"scrollX": 822,
+		"scrollY": 558.6484375,
 		"zoom": {
 			"value": 1
 		},

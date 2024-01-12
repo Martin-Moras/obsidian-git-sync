@@ -28,19 +28,8 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
-          },
-          {
-            "id": "bc8b6e1caaca9f31",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/IFS Teil Model.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Teil Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Teil Model.md",
+                "file": "Ifs Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Teil Model.md"
+                "file": "Ifs Ausarbeitung.md"
               }
             }
           },
@@ -187,13 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc8b6e1caaca9f31",
+  "active": "88499f134102b29b",
   "lastOpenFiles": [
-    "Excalidraw/IFS Model.md",
     "Excalidraw/IFS Teil Model.md",
+    "Ifs Ausarbeitung.md",
+    "Richard Schwatz portrait.png",
+    "Excalidraw/IFS Model.md",
     "Excalidraw/IFS Part model.md",
     "Untitled.md",
-    "Ifs Ausarbeitung.md",
     "Excalidraw/Untitled 1.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/asdf.md",
@@ -217,7 +207,6 @@
     "Excalidraw/Ifs Model.md",
     "Weired things.md",
     "Private/My parts.md",
-    "2023-12-17.md",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",

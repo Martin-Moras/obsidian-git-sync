@@ -97,6 +97,7 @@ Ein Beweis, der den kern Glaube  entkräftigt ^OzEzDITW
 # Embedded files
 42989185a1ed91a99d28a1ede061e42e1769ea0b: [[Attention gradient.png]]
 b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
+6ead8c8cfef078b214d55f0d9db5afa3f8df41e6: [[IFS Teil Model]]
 
 %%
 # Drawing
@@ -3146,39 +3147,6 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			]
 		},
 		{
-			"type": "image",
-			"version": 272,
-			"versionNonce": 1728204488,
-			"isDeleted": false,
-			"id": "oH5T9Tj_No1FLRWwBjShj",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -233.95853545087266,
-			"y": -423.64194577575654,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 500,
-			"height": 188.14192343604108,
-			"seed": 1266329016,
-			"groupIds": [],
-			"frameId": "rTl5GQo9UVvp2irr2HkEU",
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1705098463071,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "b5f6cb9e6887a241ebb2bb794430e53a3132e750",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"type": "text",
 			"version": 374,
 			"versionNonce": 777860552,
@@ -3320,41 +3288,36 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"name": "falschen Glauben korrigieren"
 		},
 		{
-			"id": "aGj7HlxU",
-			"type": "text",
-			"x": 639.1324834824451,
-			"y": -441.78358407897787,
-			"width": 8.000015258789062,
-			"height": 20,
+			"id": "1QDF8fTp",
+			"type": "image",
+			"x": -231.65959572547592,
+			"y": -426.08896774234313,
+			"width": 500,
+			"height": 187.26765799256506,
 			"angle": 0,
-			"strokeColor": "#8a0000",
+			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
 			"roundness": null,
-			"seed": 1941186504,
-			"version": 3,
-			"versionNonce": 1054481352,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1705098473664,
+			"seed": 86060,
+			"version": 89,
+			"versionNonce": 2044275640,
+			"updated": 1705098789978,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 16,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 14,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"fileId": "6ead8c8cfef078b214d55f0d9db5afa3f8df41e6",
+			"scale": [
+				1,
+				1
+			],
+			"frameId": "rTl5GQo9UVvp2irr2HkEU"
 		}
 	],
 	"appState": {
@@ -3372,10 +3335,10 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 819.2833581017127,
-		"scrollY": 952.9686088314529,
+		"scrollX": 492.9420743087812,
+		"scrollY": 1072.6008134856822,
 		"zoom": {
-			"value": 1.0100000000000005
+			"value": 1.736656941195976
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
