@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "667854c7808c81d0",
+            "id": "e918ff5e986dbeac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,9 +28,19 @@
                 "file": "Excalidraw/IFS Model.md"
               }
             }
+          },
+          {
+            "id": "bc8b6e1caaca9f31",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Teil Model.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/IFS Teil Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "Excalidraw/IFS Teil Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Excalidraw/IFS Teil Model.md"
               }
             }
           },
@@ -177,18 +187,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "667854c7808c81d0",
+  "active": "bc8b6e1caaca9f31",
   "lastOpenFiles": [
-    "Ifs Ausarbeitung.md",
     "Excalidraw/IFS Model.md",
+    "Excalidraw/IFS Teil Model.md",
+    "Excalidraw/IFS Part model.md",
+    "Untitled.md",
+    "Ifs Ausarbeitung.md",
     "Excalidraw/Untitled 1.md",
     "Excalidraw/Untitled.md",
-    "Untitled.md",
     "Excalidraw/asdf.md",
     "IFS Ausarbeitung.md",
     "School/Ethic.md",
     "IFS Ausrabeitung.md",
-    "Excalidraw/IFS Part model.md",
     "Attention gradient.png",
     "Excalidraw/IFS model.md",
     "Pasted Image 20240108092608_055.jpg",
@@ -207,7 +218,6 @@
     "Weired things.md",
     "Private/My parts.md",
     "2023-12-17.md",
-    "School/DDR/DDR.md",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",
