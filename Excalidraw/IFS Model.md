@@ -43,7 +43,11 @@ hkgkghgjhghghjghjgvjv,jjhbj ^EQnas0Xf
 Brain regions 
 Parts that don‘t require attention(mussel memory) ^CDX2p6BO
 
-[[IFS Model|x9cpUIru]] ^EoXO9rn7
+# asd
+asdf
+asdfasdf
+sadfd
+f ^coN5Kyt0
 
 
 # Embedded files
@@ -631,8 +635,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "arrow",
-			"version": 2178,
-			"versionNonce": 650616457,
+			"version": 2194,
+			"versionNonce": 1197297513,
 			"isDeleted": false,
 			"id": "1o-mHtL6JPfFY9YvGXBPw",
 			"fillStyle": "cross-hatch",
@@ -641,12 +645,12 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1273.1149041021501,
-			"y": -832.2573935102072,
+			"x": -1273.1149291315683,
+			"y": -832.2573935102071,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 264.5989420894306,
-			"height": 492.11078472147057,
+			"width": 264.59896423711723,
+			"height": 492.11078472147045,
 			"seed": 553782506,
 			"groupIds": [],
 			"frameId": null,
@@ -659,7 +663,7 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 					"id": "CgxezeZO"
 				}
 			],
-			"updated": 1705070835631,
+			"updated": 1705072083324,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -681,8 +685,8 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 					0
 				],
 				[
-					264.5989420894306,
-					492.11078472147057
+					264.59896423711723,
+					492.11078472147045
 				]
 			]
 		},
@@ -1963,40 +1967,114 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 469268487,
+			"version": 40,
+			"versionNonce": 1381291559,
 			"isDeleted": false,
-			"id": "EoXO9rn7",
+			"id": "coN5Kyt0",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -455.6209008612277,
-			"y": -773.0399471942778,
+			"x": 410.37675180159977,
+			"y": -1750.9707118681665,
 			"strokeColor": "#9c36b5",
 			"backgroundColor": "#000000",
-			"width": 153.05299377441406,
-			"height": 25,
-			"seed": 1808846727,
+			"width": 90.59988403320312,
+			"height": 125,
+			"seed": 428897351,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1705070859224,
-			"link": "[[IFS Model]]",
+			"updated": 1705071753247,
+			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "📍[[x9cpUIru]]",
-			"rawText": "[[IFS Model|x9cpUIru]]",
+			"text": "# asd\nasdf\nasdfasdf\nsadfd\nf",
+			"rawText": "# asd\nasdf\nasdfasdf\nsadfd\nf",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[x9cpUIru]]",
+			"originalText": "# asd\nasdf\nasdfasdf\nsadfd\nf",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 118
+		},
+		{
+			"id": "vqUWvcWD",
+			"type": "text",
+			"x": 5.60716363217216,
+			"y": -1550.1427900213698,
+			"width": 552.7994384765625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "#000000",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1795853223,
+			"version": 3,
+			"versionNonce": 1530511271,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705072108249,
+			"link": "[[Excalidraw/IFS Model.md#^frame=iUGjx6SiiPVWkywzl45Ir]]",
+			"locked": false,
+			"text": "Excalidraw/IFS Model.md#^frame=iUGjx6SiiPVWkywzl45Ir",
+			"rawText": "![[Excalidraw/IFS Model.md#^frame=iUGjx6SiiPVWkywzl45Ir|trig]]",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Excalidraw/IFS Model.md#^frame=iUGjx6SiiPVWkywzl45Ir",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "GJ8NQ0YD",
+			"type": "text",
+			"x": 197.44671232323435,
+			"y": -1119.1607902222709,
+			"width": 419.7196044921875,
+			"height": 25.000000000000004,
+			"angle": 0,
+			"strokeColor": "#9c36b5",
+			"backgroundColor": "#000000",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1326987145,
+			"version": 5,
+			"versionNonce": 1180860553,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1705072106434,
+			"link": "[[Excalidraw/IFS Model.md#^area=coN5Kyt0]]",
+			"locked": false,
+			"text": "Excalidraw/IFS Model.md#^area=coN5Kyt0",
+			"rawText": "![[Excalidraw/IFS Model.md#^area=coN5Kyt0|skull]]",
+			"fontSize": 20.000000000000004,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Excalidraw/IFS Model.md#^area=coN5Kyt0",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2014,10 +2092,10 @@ b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 983.0699696412769,
-		"scrollY": 1165.320516010995,
+		"scrollX": 2232.082914593026,
+		"scrollY": 1495.3461552336537,
 		"zoom": {
-			"value": 1.3912230125395944
+			"value": 0.7610526661273475
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

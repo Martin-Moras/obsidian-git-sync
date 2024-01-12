@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "8f6d478f1bf34b0a",
+            "id": "f9cad6967cba9303",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,7 +40,17 @@
             }
           },
           {
-            "id": "4098ccba7abea52a",
+            "id": "98e819ecfdda94f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IFS Model.md"
+              }
+            }
+          },
+          {
+            "id": "667854c7808c81d0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -50,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,10 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4098ccba7abea52a",
+  "active": "667854c7808c81d0",
   "lastOpenFiles": [
-    "Excalidraw/asdf.md",
+    "Excalidraw/Untitled 1.md",
     "Excalidraw/IFS Model.md",
+    "Excalidraw/Untitled.md",
+    "Untitled.md",
+    "Excalidraw/asdf.md",
     "Ifs Ausarbeitung.md",
     "IFS Ausarbeitung.md",
     "School/Ethic.md",
@@ -225,9 +238,6 @@
     "Private/My parts.md",
     "2023-12-17.md",
     "School/DDR/DDR.md",
-    "Excalidraw/sdfsdfsdf.md",
-    "Excalidraw/hi test.md",
-    "Excalidraw/IFS Intro.md",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",

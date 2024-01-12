@@ -1,0 +1,1 @@
+![[Excalidraw/IFS Model.md#^frame=iUGjx6SiiPVWkywzl45Ir|trig]]
