@@ -14,8 +14,15 @@ Die Struktur von Regeln ist: Ich sollte/muss das tun. In unserem Beispiel könnt
 Je öfter ein Teil aktiv ist, desto mehr Regeln und Annahmen hat er und dadurch wird er auch komplexer und kommt mit Situationen besser klar. Während unsere Auslöser und Reaktionen uns meistens Bewusst sind, sind die Regeln und Annahmen eines Teils meist nicht bewusst bekannt. 
 ## Kern Glaube
 Der **kern Glaube** ist das was ein Teil glaubt. Er kann auf sich selbst gerichtet sein (z.B. ich bin dumm), auf andere Personen (z.B. andere Menschen wollen mir schaden), oder auf die Welt (z.B. die Welt ist gefährlich). In unserem Beispiel könnte der kern Glaube sein: "Andere akzeptieren meine Meinung nicht". Und auf den kern Glaube haben sich dann die Regeln und Annahmen drauf aufgebaut. Der **kern Glaube** ist sogar noch mehr in unserem Unterbewusstsein versteckt als die Regeln und Annahmen.
-## Was will ein 
+## Was will ein Teil
+Teile wollen nur gutes für 
+- Ich 
+	- überleben 
+	- gemütlichgeit
+		suizit
+- andere
 # Das Ich
+- 8 C's
 Der nächste Aspekt der Ifs Therapie ist das **Ich**. Das ich ist das was wir sind und auch das einzige im Leben was wir kontrollieren können. Denn alles andere im Leben passiert einfach. Wir können es zwar beeinflussen, aber nicht kontrollieren. Genau so ist es mit unseren Teilen, wir können sie zwar beeinflussen, aber nicht kontrollieren, denn sie tun einfach nur das, was sie für das beste halten. 
 Und hier kommt das Ich ins Spiel. Denn das Ich kann entscheiden auf welche Teile es sich fokussiert.
 ## Wie das Ich Teile beeinflusst
