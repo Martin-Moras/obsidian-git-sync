@@ -20,8 +20,8 @@ Der nächste Aspekt der Ifs Therapie ist das **ich**. Das ich ist das was wir si
 
 Und hier kommt das ich ins Spiel. Denn das ich kann entscheiden auf welche Teile es sich fokussiert.
 ## Bewusstsein und Aufmerksamkeit
-[Contiouscness vs attention](https://www.youtube.com/watch?v=_P-szUcfbMc&pp=ygUnYXdhcmVuZXNzIHZzIGNvbnNjaW91c25lc3MgcnVwZXJ0IHNwaXJh)
-
+[Consciousness vs attention](https://www.youtube.com/watch?v=_P-szUcfbMc&pp=ygUnYXdhcmVuZXNzIHZzIGNvbnNjaW91c25lc3MgcnVwZXJ0IHNwaXJh)
+Es gibt zwei Sachen die das ich machen kann. Es kann etwas beobachten, oder sich auf etwas fokussieren. Wenn das ich einen Teil nur beobachtet, wenn er dem ich bewusst ist, dann weis es zwar was der Teil macht, aber bestärkt ihn nicht. Denn Teile brauchen die Aufmerksamkeit des Ichs um etwas zu tun. Dass heist, wenn ein Teil sich zum Beispiel über etwas aufregt und  
 ![[Excalidraw/IFS Model.md#^area=iW3FGrM2wpcga_gTqBpCM|Brain model]]
 ## Wie das Ich Teile beeinflusst
 Unsere Teile sind nur aktiv wenn sie ausgelöst wurden. Wenn sie Aktiv sind machen sie Vorschläge, über das, was sie für das beste halten. Das können Gedanken a Diese Vorschläge gehen direkt an das Ich und das kann dann entscheiden ob es den Vorschlag annimmt, oder nicht. Allerdings ist das den meisten Menschen gar nicht bewusst. Denn meistens fliest man von einem Gedanken zum nächsten. Aber wenn man wirklich darauf achtet, fällt einem auf, dass einem Teile die ganze Zeit Vorschläge machen und das Ich entscheidet . 
