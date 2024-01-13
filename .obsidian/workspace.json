@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "010c16a7d2edddbd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/Sundar Pichai Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/Sundar Pichai Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md"
+                "file": "School/Sundar Pichai Ausarbeitung.md"
               }
             }
           }
@@ -161,10 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "010c16a7d2edddbd",
+  "active": "92b0bc8071d6bf31",
   "lastOpenFiles": [
-    "School/Sundar Pichai Ausarbeitung.md",
     "Excalidraw/Sundar Pichai Presentation.md",
+    "School/Sundar Pichai Ausarbeitung.md",
     "Excalidraw/Drawing 2024-01-13 16.24.58.excalidraw.md",
     "School/BwL.md",
     "Untitled 1.md",
