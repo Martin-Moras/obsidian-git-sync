@@ -64,7 +64,7 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
-  "experimentalEnableFourthFont": false,
+  "experimentalEnableFourthFont": true,
   "experimantalFourthFont": "Virgil",
   "fieldSuggester": true,
   "compatibilityMode": false,
@@ -84,7 +84,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": false,
+  "defaultTrayMode": true,
   "previousRelease": "2.0.16",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
@@ -98,8 +98,7 @@
     {
       "type": "default",
       "freedrawOnly": false,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "strokeColor": "#ffffff",
       "fillStyle": "hachure",
       "strokeWidth": 0,
       "roughness": 0,
@@ -107,7 +106,7 @@
         "highlighter": false,
         "constantPressure": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
           "thinning": 0.6,
           "smoothing": 0.5,
@@ -124,7 +123,8 @@
             "easing": "linear"
           }
         }
-      }
+      },
+      "backgroundColor": "#000000"
     },
     {
       "type": "highlighter",
@@ -406,7 +406,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 4,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
