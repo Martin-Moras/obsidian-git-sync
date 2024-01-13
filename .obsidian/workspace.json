@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "a85224a6aff21fec",
+            "id": "c78ebba779595782",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,9 +40,17 @@
                 "file": "Excalidraw/Sundar Pichai Presentation.md"
               }
             }
+          },
+          {
+            "id": "29930203aec083fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md"
+                "file": "School/BwL.md"
               }
             }
           }
@@ -173,12 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85224a6aff21fec",
+  "active": "29930203aec083fc",
   "lastOpenFiles": [
+    "Excalidraw/Sundar Pichai Presentation.md",
+    "School/Sundar Pichai Ausarbeitung.md",
     "Untitled 1.md",
     "Pasted image 20240113142019.png",
     "Pasted image 20240113142014.png",
-    "Excalidraw/Sundar Pichai Presentation.md",
     "Pasted Image 20240113141109_708.jpg",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
@@ -187,7 +196,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Pasted Image 20240113140600_527.png",
-    "School/Sundar Pichai Ausarbeitung.md",
     "School/BwL.md",
     "Excalidraw/IFS Model.md",
     "what is CAD.md",

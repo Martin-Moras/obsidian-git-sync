@@ -97,8 +97,8 @@
   "customPens": [
     {
       "type": "default",
-      "freedrawOnly": false,
-      "fillStyle": "dashed",
+      "freedrawOnly": true,
+      "fillStyle": "dots",
       "strokeWidth": 5,
       "roughness": null,
       "penOptions": {
@@ -123,7 +123,7 @@
           }
         }
       },
-      "backgroundColor": "#000000",
+      "backgroundColor": "#ff0000",
       "strokeColor": "#a61717"
     },
     {
@@ -135,7 +135,7 @@
       "strokeWidth": 2,
       "roughness": null,
       "penOptions": {
-        "highlighter": true,
+        "highlighter": false,
         "constantPressure": true,
         "hasOutline": true,
         "outlineWidth": 4,
