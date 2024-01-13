@@ -1,0 +1,13 @@
+# Einleitung
+Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf dem Konzept, dass die Menschliche Psyche aus mehreren „Teilen" besteht. Jeder dieser Teile ist irgendwann in unserem Leben entstanden, meistens in unserer Kindheit. Ein Teil ist dazu da damit wir mit bestimmten Situationen in unserem Laben klar kommen. Zum Beispiel, wenn man gegenüber Seinen Eltern oder Freunden seine Meinung und Wünsche geäußert hat, aber immer wenn man das getan hat, wurde man Kritisiert oder ausgestoßen. Deshalb hat dieser Teil gelehrt, dass er besser nicht seine Meinung sagt, um weiterhin gemocht zu werden.
+
+An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.
+Und dass ist bei allen Teilen so. Irgendetwas, irgend ein Ereignis in der Vergangenheit hat einen Teil etwas glauben machen, dann hat der Teil dieses Ereignis generalisiert, und so ist dann ein Verhalten entstanden, dass einer Person, wenn sie Alter wird, in irgendeiner weise erschränkt.
+# Was ist ein Teil
+## Auslöser
+Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil ist. Ein Teil hat einen oder mehrere **Auslöser**. Ein Auslöser kann etwas Externes sein, etwas was man spürt, hört, riecht, schmeckt, sieht, tut, oder eine Situation. Aber es kann auch etwas internes sein, wie ein Gedanke, eine Emotion, oder eine Erinnerung. In unserem Beispiel war der Auslöser eine Situation, etwas externes, in der man seine Meinung oder Wünsche äußern kann. 
+## Reaktion
+Die Nächste Eigenschaft eines Teils ist die **Reaktion**. Hier gibt es auch wieder interne und externe Reaktionen. Die externen Reaktionen sind Verhalten oder Aktionen. Die Interne Reaktionen sind Gedanken, Emotionen oder Erinnerungen. Allerdings kann eine Reaktion auch ein Sinneseindruck sein, also eine Halluzination, das kommt aber eher selten vor. In unserem Beispiel gab es mehrere Reaktionen, einmal der Gedanke „Ich sag besser nichts“, der einem meistens gar nicht so bewusst ist. Eine zweite Reaktion war eine Emotion wie Zweifel oder Angst. Und die dritte Reaktion war eine Verhaltensänderung, ein kleiner unterschied in der Körperhaltung und im Gesichtsausdruck. Wie man sieht, kann ein Gedanke sowohl ein Auslöser, als auch eine Reaktion sein.
+## Regeln und Annahmen
+
+## Kern Glaube

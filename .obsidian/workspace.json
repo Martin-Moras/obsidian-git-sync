@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "928cd37d83ac08db",
+        "id": "63ee19d5db72fa01",
         "type": "tabs",
         "children": [
           {
-            "id": "88499f134102b29b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ifs Ausarbeitung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e918ff5e986dbeac",
+            "id": "07eb44e37d6ab9ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -79,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "914eea13cc4015ba",
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ifs Ausarbeitung.md",
+                "file": "Excalidraw/IFS Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ifs Ausarbeitung.md"
+                "file": "Excalidraw/IFS Model.md"
               }
             }
           },
@@ -147,16 +134,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "2079363203d5991f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,41 +152,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88499f134102b29b",
+  "active": "07eb44e37d6ab9ea",
   "lastOpenFiles": [
-    "Excalidraw/IFS Teil Model.md",
-    "Ifs Ausarbeitung.md",
-    "Richard Schwatz portrait.png",
-    "Excalidraw/IFS Model.md",
-    "Excalidraw/IFS Part model.md",
-    "Untitled.md",
-    "Excalidraw/Untitled 1.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/asdf.md",
-    "IFS Ausarbeitung.md",
-    "School/Ethic.md",
-    "IFS Ausrabeitung.md",
-    "Attention gradient.png",
-    "Excalidraw/IFS model.md",
-    "Pasted Image 20240108092608_055.jpg",
-    "Pasted Image 20240111214902_336.png",
-    "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
     "ToDo.md",
+    "Excalidraw/IFS Model.md",
     "School/IFS Ausrabeitung.md",
+    "2023-12-17.md",
+    "School/DDR/DDR.md",
+    "Excalidraw/sdfsdfsdf.md",
+    "Excalidraw/hi test.md",
+    "Excalidraw/IFS Intro.md",
+    "Hi test.md",
+    "School/Ethic.md",
+    "School/Ifs.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.47.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.48.44.excalidraw.md",
+    "Excalidraw/Pasted Image 20240108090947_391.jpg.md",
+    "Excalidraw/Drawing 2024-01-08 15.46.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.46.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.45.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
+    "Template.md",
     "conflict-files-obsidian-git.md",
-    "Supernatural.md",
-    "School/Untitled mindmap.md",
-    "School/English.md",
-    "School/Der kluge Richter-Tagebuch.md",
-    "School/DDR/github test.md",
-    "School/DDR/Wirtschaft der DDR.md",
-    "Excalidraw/Ifs Model.md",
-    "Weired things.md",
-    "Private/My parts.md",
+    "better teacher.md",
+    "climate change.md",
+    "Einzel Unternehmen.md",
+    "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
+    "Pasted Image 20240108092608_055.jpg",
     "Pasted Image 20240108090947_391.jpg",
     "Self work/Body",
     "Self work",
