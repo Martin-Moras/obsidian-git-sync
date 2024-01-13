@@ -3,3 +3,5 @@ Jahr 1972
 südindischen Stadt Madurai
 ---
 schon immer an Technologie interesiert
+- 1. Telefon
+- Semiconductors
