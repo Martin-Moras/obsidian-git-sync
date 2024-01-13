@@ -27,6 +27,22 @@ kanban-plugin: basic
 - [ ] [[DDR]]
 
 
+## Coding
+
+- [ ] Python
+- [ ] assembly
+- [ ] reverse engenering
+
+
+## Hacking
+
+**Complete**
+
+
+## Computer
+
+
+
 
 
 %% kanban:settings
