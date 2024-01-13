@@ -98,12 +98,11 @@
     {
       "type": "default",
       "freedrawOnly": false,
-      "strokeColor": "#ffffff",
-      "fillStyle": "hachure",
-      "strokeWidth": 0,
-      "roughness": 0,
+      "fillStyle": "dashed",
+      "strokeWidth": 5,
+      "roughness": null,
       "penOptions": {
-        "highlighter": false,
+        "highlighter": true,
         "constantPressure": false,
         "hasOutline": false,
         "outlineWidth": 0,
@@ -124,7 +123,8 @@
           }
         }
       },
-      "backgroundColor": "#000000"
+      "backgroundColor": "#000000",
+      "strokeColor": "#a61717"
     },
     {
       "type": "highlighter",
@@ -406,7 +406,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 4,
+  "numberOfCustomPens": 10,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
