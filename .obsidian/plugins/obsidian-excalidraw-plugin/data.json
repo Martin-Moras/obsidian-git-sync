@@ -102,8 +102,8 @@
       "strokeWidth": 5,
       "roughness": null,
       "penOptions": {
-        "highlighter": true,
-        "constantPressure": false,
+        "highlighter": false,
+        "constantPressure": true,
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
@@ -135,7 +135,7 @@
       "strokeWidth": 2,
       "roughness": null,
       "penOptions": {
-        "highlighter": false,
+        "highlighter": true,
         "constantPressure": true,
         "hasOutline": true,
         "outlineWidth": 4,
@@ -324,7 +324,7 @@
         "highlighter": false,
         "constantPressure": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
           "thinning": 0.6,
           "smoothing": 0.5,
