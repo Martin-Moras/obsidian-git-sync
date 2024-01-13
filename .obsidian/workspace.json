@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "e1e3a67fbfe018e3",
+            "id": "aed525efbaa70b4b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,9 +40,19 @@
                 "file": "Excalidraw/Sundar Pichai Presentation.md"
               }
             }
+          },
+          {
+            "id": "07bb36204ce3ed81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-13 16.24.58.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/Sundar Pichai Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md",
+                "file": "School/Sundar Pichai Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Sundar Pichai Presentation.md"
+                "file": "School/Sundar Pichai Ausarbeitung.md"
               }
             }
           }
@@ -173,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1e3a67fbfe018e3",
+  "active": "92b0bc8071d6bf31",
   "lastOpenFiles": [
     "Excalidraw/Sundar Pichai Presentation.md",
     "School/Sundar Pichai Ausarbeitung.md",
+    "Excalidraw/Drawing 2024-01-13 16.24.58.excalidraw.md",
+    "School/BwL.md",
     "Untitled 1.md",
     "Pasted image 20240113142019.png",
     "Pasted image 20240113142014.png",
@@ -188,7 +200,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Pasted Image 20240113140600_527.png",
-    "School/BwL.md",
     "Excalidraw/IFS Model.md",
     "what is CAD.md",
     "test.md",
