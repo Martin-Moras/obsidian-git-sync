@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "909d493b1b178c3d",
+    "id": "3b33f48180d6cdda",
     "type": "split",
     "children": [
       {
-        "id": "63ee19d5db72fa01",
+        "id": "2344b17862bd6928",
         "type": "tabs",
         "children": [
           {
-            "id": "07eb44e37d6ab9ea",
+            "id": "a95ac60ce8ac91dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "fed.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51a7fb1c44f969d8",
+    "id": "a952f3a89ced3f95",
     "type": "split",
     "children": [
       {
-        "id": "b5a02e0aeccd0231",
+        "id": "57ce1fc15682112f",
         "type": "tabs",
         "children": [
           {
-            "id": "a80fa9d4665ebbe6",
+            "id": "43d5514b06e79c39",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +43,7 @@
             }
           },
           {
-            "id": "cc04fe440f2db2cc",
+            "id": "2f6bf395bf2bfc60",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "9ba2086ef5a9f2ae",
+            "id": "4720dfe54812d5cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "914eea13cc4015ba",
+    "id": "9a537cf86d114346",
     "type": "split",
     "children": [
       {
-        "id": "867a521b84088d3b",
+        "id": "d42029d04b02d46e",
         "type": "tabs",
         "children": [
           {
-            "id": "14d7a14669df09d7",
+            "id": "80a829e8faccdd2b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "fed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +97,19 @@
             }
           },
           {
-            "id": "9a049a11c1180da3",
+            "id": "ddff5dd791064a20",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IFS Model.md",
+                "file": "fed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7f49f0a078d7ba43",
+            "id": "be7c913e72fc5f27",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,25 +120,16 @@
             }
           },
           {
-            "id": "9f98262ee9e83bf9",
+            "id": "0a94ab5f3a9e7ed8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "fed.md"
               }
             }
-          },
-          {
-            "id": "f1594660340934aa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,58 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "07eb44e37d6ab9ea",
+  "active": "a95ac60ce8ac91dd",
   "lastOpenFiles": [
-    "ToDo.md",
-    "Excalidraw/IFS Model.md",
-    "School/IFS Ausrabeitung.md",
-    "2023-12-17.md",
-    "School/DDR/DDR.md",
-    "Excalidraw/sdfsdfsdf.md",
-    "Excalidraw/hi test.md",
-    "Excalidraw/IFS Intro.md",
-    "Hi test.md",
-    "School/Ethic.md",
-    "School/Ifs.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.50.16.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.47.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.48.44.excalidraw.md",
-    "Excalidraw/Pasted Image 20240108090947_391.jpg.md",
-    "Excalidraw/Drawing 2024-01-08 15.46.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.46.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.45.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-08 15.29.49.excalidraw.md",
-    "Template.md",
-    "conflict-files-obsidian-git.md",
-    "better teacher.md",
+    "fed.md",
+    "what is CAD.md",
+    "test.md",
+    "my problems.md",
+    "humanities problems.md",
     "climate change.md",
-    "Einzel Unternehmen.md",
-    "Excalidraw/Drawing 2024-01-08 10.16.24.excalidraw.md",
-    "Pasted Image 20240108092608_055.jpg",
-    "Pasted Image 20240108090947_391.jpg",
+    "better teacher.md",
+    "Write a Book.md",
+    "Weired things.md",
+    "Unternehmensformen.md",
+    "ToDo.md",
+    "Thoughts.md",
+    "Template.md",
+    "Supernatural.md",
+    "Self work/Body/Power.md",
+    "Self work/Body/Body.md",
     "Self work/Body",
     "Self work",
+    "School/DDR/github test.md",
+    "School/DDR/Wirtschaft der DDR.md",
+    "School/DDR/UDSSR.md",
+    "School/DDR/DDR.md",
     "School/DDR/DDR-Karte.png",
+    "School/DDR/DDR Vortrag.md",
     "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR/DDR Vortrag GPT V2.md",
+    "School/DDR/DDR Vortrag GPT V1.md",
+    "School/DDR/1949.md",
+    "School/Untitled mindmap.md",
+    "School/School.md",
     "School/DDR",
     "School",
-    "SMB 139",
     "Private/Knolage",
     "Private/Human",
     "Private/Coding",
     "Private",
+    "Pasted Image 20240108092608_055.jpg",
+    "General",
     "Computer/Pasted image 20230524155355.png",
     "Computer/Pasted image 20230524153716.png"
   ]
