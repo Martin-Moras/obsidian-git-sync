@@ -1,3 +1,5 @@
-2024.01.13
-
+# Geboren
 Jahr 1972
+südindischen Stadt Madurai
+---
+schon immer an Technologie interesiert
