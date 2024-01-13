@@ -39,20 +39,20 @@
       "key": "-"
     }
   ],
-  "window:zoom-in": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "Backspace"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "+"
     }
   ]
 }

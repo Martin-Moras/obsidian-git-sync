@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ff86cd6150316022",
@@ -174,6 +175,10 @@
   },
   "active": "a85224a6aff21fec",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Pasted image 20240113142019.png",
+    "Pasted image 20240113142014.png",
+    "Excalidraw/Sundar Pichai Presentation.md",
     "Pasted Image 20240113141109_708.jpg",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
@@ -183,7 +188,6 @@
     "Excalidraw/Scripts",
     "Pasted Image 20240113140600_527.png",
     "School/Sundar Pichai Ausarbeitung.md",
-    "Excalidraw/Sundar Pichai Presentation.md",
     "School/BwL.md",
     "Excalidraw/IFS Model.md",
     "what is CAD.md",
@@ -206,7 +210,6 @@
     "Self work",
     "School/DDR/github test.md",
     "School/DDR/Wirtschaft der DDR.md",
-    "School/DDR/UDSSR.md",
     "School/DDR/DDR-Karte.png",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR",
