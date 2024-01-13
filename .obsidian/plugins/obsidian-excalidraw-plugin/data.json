@@ -91,7 +91,9 @@
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Slideshow.md"
+  ],
   "customPens": [
     {
       "type": "default",
