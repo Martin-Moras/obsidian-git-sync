@@ -20,5 +20,9 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "vimMode": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false
 }

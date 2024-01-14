@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b251e7ebe019e0f7",
+        "id": "6d38470dd713b710",
         "type": "tabs",
         "children": [
           {
-            "id": "92b0bc8071d6bf31",
+            "id": "dfb0c67191bd1f9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "37154bace9b8fa12",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c3c184417853050",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ff86cd6150316022",
@@ -96,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Daily/2024-01-14.md"
+              }
+            }
+          },
+          {
+            "id": "28f012122ac9f660",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +158,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "92b0bc8071d6bf31",
+  "active": "73f82ac0e87db137",
   "lastOpenFiles": [
+    "Ifs Ausarbeitung.md",
+    "Daily/2024-01-14.md",
+    "Daily",
+    "2024-01-14.md",
     "Excalidraw/Sundar Pichai Presentation.md",
     "School/Sundar Pichai Ausarbeitung.md",
     "Excalidraw/Drawing 2024-01-13 16.24.58.excalidraw.md",
@@ -190,18 +195,14 @@
     "Template.md",
     "Supernatural.md",
     "Self work/Body/Power.md",
-    "Self work/Body/Body.md",
     "Self work/Body",
     "Self work",
-    "School/DDR/github test.md",
-    "School/DDR/Wirtschaft der DDR.md",
     "School/DDR/DDR-Karte.png",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR",
     "School",
     "Private/Knolage",
     "Private/Human",
-    "Private/Coding",
     "Pasted Image 20240108092608_055.jpg",
     "Computer/Pasted image 20230524155355.png",
     "Computer/Pasted image 20230524153716.png"
