@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6d38470dd713b710",
+        "id": "b04457e33adc032e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb0c67191bd1f9c",
+            "id": "7b86ab75a67ad4d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aca116cc13ef789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Template.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Daily Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,15 +152,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3aca116cc13ef789",
+  "active": "7b86ab75a67ad4d9",
   "lastOpenFiles": [
-    "Daily/2024-01-14.md",
-    "Daily/2024-01-13.md",
-    "Templates/Daily Template.md",
+    "Templates/Generic Template.md",
     "Templates/Templater test.md",
-    "Daily/Toe.md",
-    "Focus shortcut.md",
+    "School/Untitled mindmap.md",
+    "School/Untitled.md",
+    "Templates/Untitled.md",
+    "Untitled",
+    "Daily/2024-01-13.md",
     "Daily/Untitled.md",
+    "Daily/Toe.md",
+    "Daily/2024-01-14.md",
+    "Templates/Daily Template.md",
+    "Focus shortcut.md",
     "Templates",
     "Excalidraw/Drawing 2024-01-14 11.37.06.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 11.31.58.excalidraw.md",
@@ -207,17 +191,12 @@
     "what is CAD.md",
     "test.md",
     "my problems.md",
-    "humanities problems.md",
-    "fed.md",
-    "climate change.md",
-    "better teacher.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
     "School/DDR/DDR Vortrag TTS.mp3",
     "School/DDR",
     "School",
-    "Private/Knolage",
     "Pasted Image 20240108092608_055.jpg",
     "Computer/Pasted image 20230524155355.png",
     "Computer/Pasted image 20230524153716.png"
