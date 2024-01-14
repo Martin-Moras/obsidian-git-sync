@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b050337946ac4624",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +164,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "73f82ac0e87db137",
+  "active": "b050337946ac4624",
   "lastOpenFiles": [
-    "Ifs Ausarbeitung.md",
+    "Excalidraw/Drawing 2024-01-14 11.37.06.excalidraw.md",
     "Daily/2024-01-14.md",
+    "Excalidraw/Drawing 2024-01-14 11.31.58.excalidraw.md",
+    "Ifs Ausarbeitung.md",
     "Daily",
     "2024-01-14.md",
     "Excalidraw/Sundar Pichai Presentation.md",
@@ -193,8 +205,6 @@
     "ToDo.md",
     "Thoughts.md",
     "Template.md",
-    "Supernatural.md",
-    "Self work/Body/Power.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
