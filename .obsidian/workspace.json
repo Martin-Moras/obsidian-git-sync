@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af82f71c6b7a4351",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Attention gravity.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-13.md",
+                "file": "Excalidraw/Attention gravity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-13.md",
+                "file": "Excalidraw/Attention gravity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-13.md"
+                "file": "Excalidraw/Attention gravity.md"
               }
             }
           },
@@ -174,9 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26470ff3fa77b741",
+  "active": "af82f71c6b7a4351",
   "lastOpenFiles": [
     "Daily/2024-01-13.md",
+    "Excalidraw/Attention gravity.md",
     "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
     "Toe.md",
     "Excalidraw/IFS Model.md",
@@ -204,7 +215,6 @@
     "Excalidraw/Drawing 2024-01-14 11.31.58.excalidraw.md",
     "Ifs Ausarbeitung.md",
     "Daily",
-    "2024-01-14.md",
     "Pasted image 20240113142019.png",
     "Pasted image 20240113142014.png",
     "Pasted Image 20240113141109_708.jpg",

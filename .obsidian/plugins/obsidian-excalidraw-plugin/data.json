@@ -160,7 +160,7 @@
     {
       "type": "finetip",
       "freedrawOnly": false,
-      "strokeColor": "#3E6F8D",
+      "strokeColor": "#ffffff",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
       "strokeWidth": 0.5,
@@ -168,7 +168,7 @@
       "penOptions": {
         "highlighter": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "constantPressure": true,
         "options": {
           "smoothing": 0.4,
