@@ -54,5 +54,14 @@
       ],
       "key": "+"
     }
+  ],
+  "templater-obsidian:lolö.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }
