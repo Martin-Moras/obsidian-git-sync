@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "917988883b5b0b6f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
+                "file": "Daily/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
+                "file": "Daily/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md"
+                "file": "Daily/2024-01-13.md"
               }
             }
           },
@@ -184,19 +174,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "917988883b5b0b6f",
+  "active": "26470ff3fa77b741",
   "lastOpenFiles": [
+    "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
+    "Daily/2024-01-13.md",
+    "Toe.md",
     "Excalidraw/IFS Model.md",
     "Excalidraw/IFS Part model.md",
     "Excalidraw/IFS Teil Model.md",
     "Excalidraw/Stick Exersice XD.md",
     "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
     "Excalidraw/Untitled 1.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
-    "Daily/2024-01-13.md",
-    "Toe.md",
     "Hermeneutik.md",
     "Daily/Toe.md",
     "Templates/Generic Template.md",
