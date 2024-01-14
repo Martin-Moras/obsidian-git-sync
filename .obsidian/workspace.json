@@ -35,8 +35,12 @@
             "id": "b416bdbf9cff0b01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Templater test.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Templater test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Templater test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Templater test.md"
+              }
             }
           },
           {
@@ -173,11 +181,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b416bdbf9cff0b01",
   "lastOpenFiles": [
+    "Templates/Templater test.md",
     "Daily/Toe.md",
     "Templates",
     "Daily/2024-01-13.md",
