@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af82f71c6b7a4351",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Attention gravity.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,25 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Attention gravity.md",
+                "file": "Daily/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b2b1da1137d1ef14",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/Attention gravity.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -143,12 +121,14 @@
             }
           },
           {
-            "id": "73f82ac0e87db137",
+            "id": "b2b1da1137d1ef14",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Attention gravity.md"
+                "file": "Daily/2024-01-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -159,9 +139,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c6a422895ca0cb57",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,10 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af82f71c6b7a4351",
+  "active": "26470ff3fa77b741",
   "lastOpenFiles": [
+    "Pasted image 20240114162002.png",
+    "Daily/Attention gravity.md",
     "Daily/2024-01-13.md",
     "Excalidraw/Attention gravity.md",
+    "Pasted Image 20240114161948_557.png",
     "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
     "Toe.md",
     "Excalidraw/IFS Model.md",
@@ -212,8 +203,6 @@
     "Focus shortcut.md",
     "Templates",
     "Excalidraw/Drawing 2024-01-14 11.37.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-14 11.31.58.excalidraw.md",
-    "Ifs Ausarbeitung.md",
     "Daily",
     "Pasted image 20240113142019.png",
     "Pasted image 20240113142014.png",
@@ -230,7 +219,6 @@
     "School/DDR",
     "School",
     "Pasted Image 20240108092608_055.jpg",
-    "Computer/Pasted image 20230524155355.png",
-    "Computer/Pasted image 20230524153716.png"
+    "Computer/Pasted image 20230524155355.png"
   ]
 }
