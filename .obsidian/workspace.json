@@ -13,22 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b050337946ac4624",
+            "id": "3aca116cc13ef789",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Toe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b416bdbf9cff0b01",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-01-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,10 +176,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b050337946ac4624",
+  "active": "b416bdbf9cff0b01",
   "lastOpenFiles": [
+    "Daily/Toe.md",
+    "Templates",
+    "Daily/2024-01-13.md",
     "Excalidraw/Drawing 2024-01-14 11.37.06.excalidraw.md",
-    "Daily/2024-01-14.md",
     "Excalidraw/Drawing 2024-01-14 11.31.58.excalidraw.md",
     "Ifs Ausarbeitung.md",
     "Daily",
@@ -203,8 +213,6 @@
     "Weired things.md",
     "Unternehmensformen.md",
     "ToDo.md",
-    "Thoughts.md",
-    "Template.md",
     "Self work/Body",
     "Self work",
     "School/DDR/DDR-Karte.png",
@@ -212,7 +220,6 @@
     "School/DDR",
     "School",
     "Private/Knolage",
-    "Private/Human",
     "Pasted Image 20240108092608_055.jpg",
     "Computer/Pasted image 20230524155355.png",
     "Computer/Pasted image 20230524153716.png"
