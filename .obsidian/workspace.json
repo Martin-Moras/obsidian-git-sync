@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a63352a74eb860e",
+        "id": "da331d8591a0218f",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf236d707b7bc70",
+            "id": "93eb3ea2bc36546e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eaf236d707b7bc70",
+  "active": "93eb3ea2bc36546e",
   "lastOpenFiles": [
-    "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "School/Sundar Pichai Ausarbeitung.md",
+    "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
+    "Daily/2024-01-15.md",
     "Pasted image 20240114164115.png",
     "Pasted image 20240114163438.png",
     "Toe.md",
@@ -201,7 +202,6 @@
     "Daily/Untitled.md",
     "Daily/2024-01-14.md",
     "Templates/Daily Template.md",
-    "Focus shortcut.md",
     "Templates",
     "Daily",
     "Pasted image 20240113142019.png",
