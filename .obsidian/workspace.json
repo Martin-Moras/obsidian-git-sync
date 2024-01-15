@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da331d8591a0218f",
+        "id": "6081517a422cb943",
         "type": "tabs",
         "children": [
           {
-            "id": "93eb3ea2bc36546e",
+            "id": "811ec5867e0b32f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School/Sundar Pichai Ausarbeitung.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "46ca884b36891f87",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -56,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Trend Micro ServerProtect for Linux (SPLX) 3.0 web console can ",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -73,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93eb3ea2bc36546e",
+  "active": "811ec5867e0b32f1",
   "lastOpenFiles": [
+    "Computer/Well-known ports.md",
     "School/Sundar Pichai Ausarbeitung.md",
     "Pasted image 20240115163626.png",
     "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",

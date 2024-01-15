@@ -11,6 +11,7 @@ schon immer an Technologie interesiert
 - My first year CGP was so bad I had to work hard to make up for it for the next three years,"
 - met wife
 - is IIT he was validated for Stanford University, Ca
+![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
 - How to go India -> Amerika 1993
 	- Trip costs 1000usd
 	- his fammily was poor and couldn't get a loan
@@ -27,12 +28,14 @@ schon immer an Technologie interesiert
 - launch of Gmail
 - got hired as vice president of product management and development
 ### what he changed
+#### Chrome
 - proposed that Google should have their own web browser, but Eric Schmidt(CEO of Google 2001 - 2011) said no
 - 2. presentation he convinced them
 - Chrome was released on 1. 9. 2008
-- 5.2012 Chrome overtook [[Trend Micro ServerProtect for Linux (SPLX) 3.0 web console can be accessed using [Hypertext Transfer Protocol](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol "Hypertext Transfer Protocol") (HTTP)]] and 
+- 5.2012 Chrome overtook [[Firefox]] and [[Internet explorer]]
 
-![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
-![[Pasted image 20240114163438.png]]
-
-
+[[Twitter]] wanted him but Google uped his salary
+#### Android
+- he was put in charge of [[Andriod]] 
+- with in a year, [[Andriod]] was distributed into 1.000.000.000
+- 10.2014
