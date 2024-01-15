@@ -10,4 +10,7 @@ schon immer an Technologie interesiert
 Stanford
 
 ## How to go India -> Amerika
-ö![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
+
+![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
+
+
