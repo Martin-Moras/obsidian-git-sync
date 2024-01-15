@@ -25,7 +25,7 @@ kanban-plugin: basic
 
 ## Done
 
-- [ ] [[DDR]]
+- [ ] [[5. Private/DDR]]
 - [ ] Ethik
 
 

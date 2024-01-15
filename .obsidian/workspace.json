@@ -4,28 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "733c32e38dcd8c4d",
+        "id": "1d3ce1a33fab0c13",
         "type": "tabs",
         "children": [
           {
-            "id": "103b2794ac666dba",
+            "id": "2795eed21c8f2f37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md"
+                "file": "4. Human/Brain.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "7aade9f1364f5d10",
+            "id": "95b1d755f3b43a0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Mind.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md",
+                "file": "4. Human/Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md",
+                "file": "4. Human/Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Stick Exersice XD.md"
+                "file": "4. Human/Mind.md"
               }
             }
           }
@@ -175,53 +182,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "103b2794ac666dba",
+  "active": "95b1d755f3b43a0c",
   "lastOpenFiles": [
-    "Excalidraw/IFS Teil Model.excalidraw.md",
-    "Excalidraw/IFS Part model.excalidraw.md",
-    "Excalidraw/IFS Model.excalidraw.md",
-    "Excalidraw/3D axe.excalidraw.md",
-    "General/Live.md",
-    "Private/Write a Book.md",
-    "Private/what is CAD.md",
-    "Private/Weired things.md",
-    "School/Unternehmensformen.md",
-    "Toe.md",
-    "General/Toe.md",
-    "Private/ToDo.md",
-    "Private/Thoughts.md",
-    "Spiritual/Supernatural.md",
-    "Spiritual",
-    "Private/Projects/Make the world a better place.md",
-    "School/Make the world a better place.md",
-    "Private/Projects/better teacher.md",
-    "Private/Projects/Learn c++ graphics.md",
-    "Private/Projects/Goals.md",
-    "Private/Projects/All pictures.md",
-    "Private/Projects",
-    "Private/Questions.md",
-    "Private/Obligations.md",
-    "Private/my problems.md",
-    "Projects/Learn c++ graphics.md",
-    "Knolage.md",
-    "General/Knolage.md",
-    "Projects",
-    "Files/Pasted Image 20240113140600_527.png",
-    "Pasted image 20240115163626.png",
-    "Files/Richard Schwatz portrait.png",
-    "Files/Pasted image 20240115163626.png",
-    "Richard Schwatz portrait.png",
-    "Files/Pasted image 20240115183135.jpg",
-    "Files",
-    "Untitled",
-    "Time",
-    "Human",
-    "Files/Pasted image 20240114164115.png",
-    "Files/Pasted image 20240114163438.png",
-    "Files/Pasted image 20240114162002.png",
-    "Files/Pasted Image 20240114161948_557.png",
-    "Templates",
-    "Time/Daily",
-    "Excalidraw/Scripts/Downloaded"
+    "4. Human/Brain.md",
+    "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
+    "9. Templates/Focus shortcut.md",
+    "9. Templates/Templater test.md",
+    "9. Templates/Generic Template.md",
+    "9. Templates/Daily Template.md",
+    "9. Templates",
+    "8. Spiritual/Supernatural.md",
+    "8. Spiritual",
+    "7. School/DDR/github test.md",
+    "7. School/DDR/Wirtschaft der DDR.md",
+    "7. School/DDR/UDSSR.md",
+    "7. School/DDR/DDR.md",
+    "7. School/DDR/DDR-Karte.png",
+    "7. School/DDR/DDR Vortrag.md",
+    "7. School/DDR/DDR Vortrag TTS.mp3",
+    "7. School/DDR/DDR Vortrag GPT V2.md",
+    "7. School/DDR/DDR Vortrag GPT V1.md",
+    "7. School/DDR/1949.md",
+    "7. School/Unternehmensformen.md",
+    "7. School/Sundar Pichai Ausarbeitung.md",
+    "7. School/School.md",
+    "7. School/OHG.md",
+    "7. School/Ifs Ausarbeitung.md",
+    "7. School/History.md",
+    "7. School/Ethic.md",
+    "7. School/English.md",
+    "7. School/Einzel Unternehmen.md",
+    "7. School/Der kluge Richter-Tagebuch.md",
+    "7. School/DDR",
+    "7. School/BwL.md",
+    "7. School",
+    "6. Time/Daily",
+    "6. Time",
+    "4. Human/Self work/Body",
+    "4. Human/Self work",
+    "5. Private/Projects",
+    "8. Files/Richard Schwatz portrait.png",
+    "8. Files/Pasted image 20240115183135.jpg",
+    "8. Files/Pasted image 20240115163626.png",
+    "8. Files/Pasted image 20240114164115.png",
+    "8. Files/Pasted image 20240114163438.png",
+    "8. Files/Pasted image 20240114162002.png",
+    "8. Files/Pasted image 20240113142019.png",
+    "8. Files/Pasted image 20240113142014.png",
+    "8. Files/Pasted Image 20240114161948_557.png"
   ]
 }
