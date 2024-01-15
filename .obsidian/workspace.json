@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "b9f1904fdba26dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Mind Schemas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "840564059bad293a",
             "type": "leaf",
             "state": {
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Mind Schemas.md",
+                "file": "4. Human/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Mind Schemas.md",
+                "file": "4. Human/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Human/Mind Schemas.md"
+                "file": "4. Human/Memory.md"
               }
             }
           }
@@ -206,15 +194,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9f1904fdba26dca",
+  "active": "840564059bad293a",
   "lastOpenFiles": [
-    "Pasted image 20240115203721.png",
     "4. Human/Mind.md",
     "4. Human/Mind Schemas.md",
+    "4. Human/Brain.md",
+    "4. Human/Memory.md",
+    "Pasted image 20240115203721.png",
     "Pasted image 20240115203524.png",
     "4. Human/Emotions.md",
-    "4. Human/Memory.md",
-    "4. Human/Brain.md",
     "4. Human/Sigmund Freud.md",
     "4. Human/Psychoanalytic Theory.md",
     "Templates/Daily Template.md",
@@ -252,7 +240,6 @@
     "8. Files/Pasted image 20240114164115.png",
     "8. Files/Pasted image 20240114163438.png",
     "8. Files/Pasted image 20240114162002.png",
-    "8. Files/Pasted image 20240113142019.png",
-    "8. Files/Pasted image 20240113142014.png"
+    "8. Files/Pasted image 20240113142019.png"
   ]
 }
