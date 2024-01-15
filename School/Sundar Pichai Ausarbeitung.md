@@ -29,13 +29,24 @@ schon immer an Technologie interesiert
 - got hired as vice president of product management and development
 ### what he changed
 #### Chrome
-- proposed that Google should have their own web browser, but Eric Schmidt(CEO of Google 2001 - 2011) said no
+- proposed that [[Google]] should have their own web browser, but Eric Schmidt(CEO of [[Google]] 2001 - 2011) said no
 - 2. presentation he convinced them
 - Chrome was released on 1. 9. 2008
 - 5.2012 Chrome overtook [[Firefox]] and [[Internet explorer]]
 
-[[Twitter]] wanted him but Google uped his salary
+[[Twitter]] wanted him but [[Google]] uped his salary
 #### Android
-- he was put in charge of [[Andriod]] 
-- with in a year, [[Andriod]] was distributed into 1.000.000.000
-- 10.2014
+- he was put in charge of [[Android]] 
+- with in a year, [[Android]] was distributed into 1.000.000.000
+- 10.2014 he became product chief if [[Google]] and [[Android]]
+Apps he oversaw at this time:
+1. [[Google Search]]
+2. [[Google Maps]]
+3. [[Google Play]]
+4. [[Android]]
+5. [[Chrome]]
+6. [[Gmail]]
+7. [[Google Workspace]]
+
+- [[Microsoft]] wanted him and he almost switchend, but on 10.2.2015 he became **CEO of [[Google]]**
+- 7.2014 Joined Board of directors [[Alphabet Inc.]] 
