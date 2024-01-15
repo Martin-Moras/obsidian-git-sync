@@ -49,4 +49,9 @@ Apps he oversaw at this time:
 7. [[Google Workspace]]
 
 - [[Microsoft]] wanted him and he almost switchend, but on 10.2.2015 he became **CEO of [[Google]]**
-- 7.2014 Joined Board of directors [[Alphabet Inc.]] 
+- 7.2014 Joined Board of directors for [[Alphabet Inc.]] 
+- [[Alphabet Inc.]] is [[Google]]s parent company  
+- 2019 he became CEO of [[Alphabet Inc.]]
+
+
+2022 net worth: 1.300.000.000usd
