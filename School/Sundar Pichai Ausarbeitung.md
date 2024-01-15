@@ -7,12 +7,17 @@ schon immer an Technologie interesiert
 - the world of Semiconductors
 - William Shockley 
 ![[Pasted image 20240115163626.png]]
-- IIT (Indian Institut if Technology)
-![[Pasted image 20240114163438.png]]
-Stanford
-
-## How to go India -> Amerika
+- IIT (Indian Institut if Technology) Metallurgical engineering
+- My first year CGP was so bad I had to work hard to make up for it for the next three years,"
+- met wife
+- is IIT he was validated for Stanford University, Ca
+- How to go India -> Amerika
+	- Trip costs 1000usd
+	- his fammily was poor and couldn't get a loan
+	- took money from family savings
+	- 
 
 ![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
+![[Pasted image 20240114163438.png]]
 
 
