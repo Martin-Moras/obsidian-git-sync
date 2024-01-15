@@ -1,10 +1,3 @@
-2024-01-15
-
-File Creation date: 2024-01-14 12:29
-Last modified: 2024-01-14 12:33
-File Folder: 9. Templates
-
-
-<% tp.date.now() %>
-<% tp.date.now("YYYY-MM-DD", 1) %>
-<% tp.date.now("YYYY-MM-DD", -1) %>
+---
+File Creation date: <% tp.date.now("YYYY-MM-DD") %>
+---
