@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76fa36b9072aef04",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7947808e3d2793f0",
+  "active": "76fa36b9072aef04",
   "lastOpenFiles": [
     "Daily/2024-01-15.md",
     "School/Sundar Pichai Ausarbeitung.md",
