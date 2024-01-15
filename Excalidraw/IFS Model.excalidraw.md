@@ -96,8 +96,8 @@ Ein Beweis, der den kern Glaube  entkräftigt ^OzEzDITW
 
 # Embedded files
 42989185a1ed91a99d28a1ede061e42e1769ea0b: [[Attention gradient.png]]
-b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model]]
-6ead8c8cfef078b214d55f0d9db5afa3f8df41e6: [[Excalidraw/IFS Teil Model]]
+b5f6cb9e6887a241ebb2bb794430e53a3132e750: [[IFS Part model.excalidraw]]
+6ead8c8cfef078b214d55f0d9db5afa3f8df41e6: [[IFS Teil Model.excalidraw]]
 
 %%
 # Drawing

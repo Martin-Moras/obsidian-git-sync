@@ -11,28 +11,21 @@
             "id": "103b2794ac666dba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Knolage.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Stick Exersice XD.md"
               }
             }
           },
           {
-            "id": "ce54321825cfe265",
+            "id": "7aade9f1364f5d10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Human.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human/Human.md",
+                "file": "Excalidraw/Stick Exersice XD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human/Human.md",
+                "file": "Excalidraw/Stick Exersice XD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human/Human.md"
+                "file": "Excalidraw/Stick Exersice XD.md"
               }
             }
           }
@@ -182,53 +175,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce54321825cfe265",
+  "active": "103b2794ac666dba",
   "lastOpenFiles": [
-    "Time/2005.md",
-    "Time",
-    "Human/Brain.md",
-    "Human/Human.md",
-    "Self work/Body/Body.md",
-    "Knolage.md",
-    "Toe.md",
-    "Human/Mind.md",
-    "Human/Emotions.md",
-    "Human",
-    "trash.md",
+    "Excalidraw/IFS Teil Model.excalidraw.md",
+    "Excalidraw/IFS Part model.excalidraw.md",
+    "Excalidraw/IFS Model.excalidraw.md",
+    "Excalidraw/3D axe.excalidraw.md",
     "General/Live.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "General/Meaning of live.md",
-    "School/Sundar Pichai Ausarbeitung.md",
-    "School/Android.md",
-    "Computer/Well-known ports.md",
+    "Private/Write a Book.md",
+    "Private/what is CAD.md",
+    "Private/Weired things.md",
+    "School/Unternehmensformen.md",
+    "Toe.md",
+    "General/Toe.md",
+    "Private/ToDo.md",
+    "Private/Thoughts.md",
+    "Spiritual/Supernatural.md",
+    "Spiritual",
+    "Private/Projects/Make the world a better place.md",
+    "School/Make the world a better place.md",
+    "Private/Projects/better teacher.md",
+    "Private/Projects/Learn c++ graphics.md",
+    "Private/Projects/Goals.md",
+    "Private/Projects/All pictures.md",
+    "Private/Projects",
+    "Private/Questions.md",
+    "Private/Obligations.md",
+    "Private/my problems.md",
+    "Projects/Learn c++ graphics.md",
+    "Knolage.md",
+    "General/Knolage.md",
+    "Projects",
+    "Files/Pasted Image 20240113140600_527.png",
     "Pasted image 20240115163626.png",
-    "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
-    "Time/Daily/2024-01-15.md",
-    "Pasted image 20240114164115.png",
-    "Pasted image 20240114163438.png",
-    "Time/Daily/2024-01-13.md",
-    "Pasted image 20240114162002.png",
-    "Daily/Attention gravity.md",
-    "Excalidraw/Attention gravity.md",
-    "Pasted Image 20240114161948_557.png",
-    "Excalidraw/2024-01-13 2024-01-14 13.22.47.excalidraw.md",
-    "Excalidraw/IFS Model.md",
-    "Excalidraw/IFS Part model.md",
-    "Excalidraw/IFS Teil Model.md",
+    "Files/Richard Schwatz portrait.png",
+    "Files/Pasted image 20240115163626.png",
+    "Richard Schwatz portrait.png",
+    "Files/Pasted image 20240115183135.jpg",
+    "Files",
+    "Untitled",
+    "Time",
+    "Human",
+    "Files/Pasted image 20240114164115.png",
+    "Files/Pasted image 20240114163438.png",
+    "Files/Pasted image 20240114162002.png",
+    "Files/Pasted Image 20240114161948_557.png",
     "Templates",
     "Time/Daily",
-    "Pasted image 20240113142019.png",
-    "Pasted image 20240113142014.png",
-    "Pasted Image 20240113141109_708.jpg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Self work/Body",
-    "Self work",
-    "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }

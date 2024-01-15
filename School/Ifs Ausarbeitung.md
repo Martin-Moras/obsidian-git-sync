@@ -5,7 +5,7 @@ Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf d
 An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.
 Und dass ist bei allen Teilen so. Irgendetwas, irgend ein Ereignis in der Vergangenheit hat einen Teil etwas glauben machen, dann hat der Teil dieses Ereignis generalisiert, und so ist dann ein Verhalten entstanden, dass einer Person, wenn sie Alter wird, in irgendeiner weise erschränkt kann.
 # Was ist ein Teil
-![[IFS Teil Model|650]]
+![[IFS Teil Model.excalidraw|650]]
 ## Auslöser
 Jetzt da wir wissen wie ein Teil entsteht, schauen wir mal genauer was ein Teil ist. Ein Teil hat einen oder mehrere **Auslöser**. Ein Auslöser kann etwas Externes sein, etwas was man spürt, hört, riecht, schmeckt, sieht, tut, oder eine Situation. Aber es kann auch etwas internes sein, wie ein Gedanke, eine Emotion, oder eine Erinnerung. In unserem Beispiel war der Auslöser eine Situation, etwas externes, in der
 ## Reaktion
@@ -27,7 +27,7 @@ Es gibt zwei Sachen die das Ich machen kann. Es kann etwas beobachten, oder sich
 Dass heist, wenn ein Teil sich zum Beispiel darüber aufregt, dass man einen Arzt Termin vergessen hat, dann kommen erstmal automatisch negative Gedanken auf: "Verdammt", und die Emotion Ärger. Jetzt kann das Ich entscheiden: "Gebe ich dem Teil meine Aufmerksamkeit, oder beobachte ich ihn nur?".  Wenn man dem Teil seine Aufmerksamkeit gibt, dann steigert er sich immer mehr rein. Er denkt immer mehr darüber nach. "Warum habe ich nicht auf den Kalender geschaut?" und die Emotionen werden immer stärker. Außerdem werden noch andere teile ausgelöst, die Ärger, oder diese Art von Gedanken als Auslöser haben. Aber wenn man den Teil nur beobachtet, tobt er vielleicht noch kurz rum, aber verstummt relativ schnell. Dann kann man sich auf andere Teile fokussieren. 
 Allerdings ist es schwer, einen Teil nur zu beobachten, denn normalerweise fokussiert sich das Ich auf den lautesten Teil und identifiziert sich mit ihm. Das heißt, dass das Ich glaubt, dass es der teil ist und das es sich darüber aufregt. Dabei ist es einfach nur das, was beobachtet und aufmerksam ist.
 Um zu trainieren, seine Teile nur zu beobachten, anstatt sich mit ihnen zu identifizieren, kann man meditieren, oder man konzentriert sich im Alltag darauf.
-![[Excalidraw/IFS Model.md#^area=iW3FGrM2wpcga_gTqBpCM|Brain model|650]]
+![[IFS Model.excalidraw#^area=iW3FGrM2wpcga_gTqBpCM|Brain model|650]]
  
 # Therapie
 Jetzt kommen wir zum Praktischen Teil der Ifs Therapie. Das besondere an der Ifs Therapie ist, dass man sie auch an sich selbst ausführen kann und nicht unbedingt einen ausgebildeten Psychologen. Aber trotzdem sollte man sich an eine andere Person wenden (Freund, Familienmitglied, oder Psychologe), wenn man nicht alleine mit seinen mentalen Problemen klar kommt. 
@@ -50,5 +50,5 @@ Wenn man weis was der kern Glaube eines Teils ist, hat man den schwierigsten Tei
 2. der Teil, dem man helfen will, aktiv ist.
 3. einen klaren Beweis hat, das der kern Glaube des Teils falsch ist (am besten eine Erinnerung).
 [Erinnerungs Neukonstruktion](https://youtu.be/PWfpLtgxDi4?si=QHYjCpho2OlrE5cT)
-![[Excalidraw/IFS Model.md#^frame=rTl5GQo9UVvp2irr2HkEU|Falschen Glauben korrrigieren]]
+![[IFS Model.excalidraw#^frame=rTl5GQo9UVvp2irr2HkEU|Falschen Glauben korrrigieren]]
 # Instinktive Teile
