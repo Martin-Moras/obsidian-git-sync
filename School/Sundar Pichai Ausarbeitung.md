@@ -58,5 +58,3 @@ Apps he oversaw at this time:
 
 
 1. Sundar Pichai was born on June 10, 1972 in Madurai, Tamil Nadu, India.
-2. United States
-3.  M.B.A. [from the Wharton School of the University of Pennsylvania in 2002](https://bing.com/search?q=when+Sundar+Pichai+lived+where) [2](https://www.britannica.com/biography/Sundar-Pichai). [He then joined Google in 2004 as the head of product management and development](https://www.britannica.com/biography/Sundar-Pichai) [2](https://www.britannica.com/biography/Sundar-Pichai).
