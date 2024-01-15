@@ -16,7 +16,7 @@
     "editor:insert-wikilink",
     "obsidian-math-plus:insert-math-block"
   ],
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "vimMode": false,
@@ -24,5 +24,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "trashOption": "local"
 }

@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Always
 
+- [ ] Focus
 
 
 ## Important
 
-- [ ] Ethik
 - [ ] BWL Presentation
 - [ ] Fahrschule
 
@@ -20,11 +20,13 @@ kanban-plugin: basic
 - [ ] Make P smart more useful (Faster)
 - [ ] Read (fast)
 - [ ] Emulate:<br>- consoles<br>- Pones
+- [ ] Make/get perfect buff
 
 
 ## Done
 
 - [ ] [[DDR]]
+- [ ] Ethik
 
 
 ## Coding
@@ -43,7 +45,11 @@ kanban-plugin: basic
 
 
 
+***
 
+## Archive
+
+- [ ] - döwlw @{2024-01-17}
 
 %% kanban:settings
 ```

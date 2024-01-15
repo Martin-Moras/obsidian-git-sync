@@ -26,9 +26,19 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "7eb4193645175425",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-01-15.md",
+            "file": "ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-01-15.md",
+            "file": "ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-01-15.md"
+            "file": "ToDo.md"
           }
         }
       },
@@ -135,9 +145,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "26d167247c2b41cb",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,9 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76fa36b9072aef04",
+  "active": "ef9f8d006919e37f",
   "lastOpenFiles": [
+    "Images",
     "Daily/2024-01-15.md",
+    "ToDo.md",
     "School/Sundar Pichai Ausarbeitung.md",
     "Attention gradient.png",
     "Focus shortcut.md",
@@ -186,8 +206,6 @@
     "Private/Knolage/Knolage.md",
     "Private/Coding/Programing.md",
     "Goals.md",
-    "my problems.md",
-    "Computer/SHA-256.md",
     "Computer/Pasted image 20230524155355.png",
     "Pasted Image 20240114161948_557.png",
     "School/DDR/DDR Vortrag TTS.mp3",
