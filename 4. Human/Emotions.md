@@ -30,3 +30,6 @@ Relief
 [Satisfaction](https://simple.wikipedia.org/wiki/Satisfaction "Satisfaction")
 [Sexual desire](https://simple.wikipedia.org/wiki/Sexual_desire "Sexual desire")
 Surprise
+
+
+[The Emotion Wheel - How to use it](https://www.youtube.com/watch?v=_DukOlChQQQ)

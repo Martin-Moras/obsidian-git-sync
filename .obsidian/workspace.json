@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b9f1904fdba26dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Mind Schemas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "840564059bad293a",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Memory.md",
+                "file": "4. Human/Mind Schemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Memory.md",
+                "file": "4. Human/Mind Schemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Human/Memory.md"
+                "file": "4. Human/Mind Schemas.md"
               }
             }
           }
@@ -194,11 +206,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "840564059bad293a",
+  "active": "b9f1904fdba26dca",
   "lastOpenFiles": [
+    "Pasted image 20240115203721.png",
     "4. Human/Mind.md",
-    "4. Human/Brain.md",
+    "4. Human/Mind Schemas.md",
+    "Pasted image 20240115203524.png",
+    "4. Human/Emotions.md",
     "4. Human/Memory.md",
+    "4. Human/Brain.md",
     "4. Human/Sigmund Freud.md",
     "4. Human/Psychoanalytic Theory.md",
     "Templates/Daily Template.md",
@@ -223,9 +239,6 @@
     "7. School/DDR/DDR Vortrag GPT V1.md",
     "7. School/DDR/1949.md",
     "7. School/Unternehmensformen.md",
-    "7. School/Sundar Pichai Ausarbeitung.md",
-    "7. School/School.md",
-    "7. School/OHG.md",
     "7. School/DDR",
     "7. School",
     "6. Time/Daily",
@@ -240,7 +253,6 @@
     "8. Files/Pasted image 20240114163438.png",
     "8. Files/Pasted image 20240114162002.png",
     "8. Files/Pasted image 20240113142019.png",
-    "8. Files/Pasted image 20240113142014.png",
-    "8. Files/Pasted Image 20240114161948_557.png"
+    "8. Files/Pasted image 20240113142014.png"
   ]
 }
