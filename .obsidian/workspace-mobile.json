@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "c6acfc48e4b7340e",
+    "id": "4767e26a34431a1b",
     "type": "split",
     "children": [
       {
-        "id": "c4ad9b31e04cf443",
+        "id": "437f35e065a4ff1d",
         "type": "tabs",
         "children": [
           {
-            "id": "69f7a8a3290b412c",
+            "id": "7947808e3d2793f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IFS Model.md"
+                "file": "Daily/2024-01-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "507caf09954323ed",
+    "id": "e9eae871ebffb1f5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cff048535f26fae6",
+        "id": "ef9f8d006919e37f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -37,7 +39,7 @@
         }
       },
       {
-        "id": "6145d699c3912443",
+        "id": "d205b4a9d83ddbe9",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,7 +54,7 @@
         }
       },
       {
-        "id": "f04e419f148ab23d",
+        "id": "f4fa752b74a76078",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -63,7 +65,7 @@
         }
       },
       {
-        "id": "740f95db977e8613",
+        "id": "e82c368bafdc2ef2",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -75,16 +77,16 @@
     "pinned": true
   },
   "right": {
-    "id": "0caefc88427b3e4e",
+    "id": "5d306aa4b3d80423",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "179ba5e1b6a4d072",
+        "id": "edb176d9b8f73df3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "Daily/2024-01-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,98 +98,100 @@
         }
       },
       {
-        "id": "e0b4b85ee5bdc009",
+        "id": "c2dd9403c6d6fcc1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/IFS Model.md",
+            "file": "Daily/2024-01-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "4bc7908c0b1ead37",
+        "id": "29266667594995b1",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/IFS Model.md"
+            "file": "Daily/2024-01-15.md"
           }
         }
       },
       {
-        "id": "fd6edff38715d0e4",
+        "id": "69ba8632c41c8506",
         "type": "leaf",
         "state": {
-          "type": "advanced-tables-toolbar",
+          "type": "calendar",
           "state": {}
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "69f7a8a3290b412c",
+  "active": "7947808e3d2793f0",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "Richard Schwatz portrait.png",
-    "Excalidraw/IFS Teil Model.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Sundar Pichai Presentation.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Daily/2024-01-15.md",
     "School/Sundar Pichai Ausarbeitung.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Pasted Image 20240113140600_527.png",
-    "Excalidraw/Untitled 1.md",
-    "Untitled.md",
-    "Pasted Image 20240113141109_708.jpg",
-    "/Untitled.md",
-    "/School/Sundar Pichai Ausarbeitung.md",
-    "/School/Ethic.md",
-    "/School/BwL.md",
-    "/Richard Schwatz portrait.png",
-    "/Pasted Image 20240113141109_708.jpg",
-    "/Pasted Image 20240113140600_527.png",
-    "/Ifs Ausarbeitung.md",
-    "/Excalidraw/Untitled.md",
-    "/Excalidraw/Untitled 1.md",
-    "/Excalidraw/Sundar Pichai Presentation.md",
-    "/Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "/Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "/Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "/Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "/Excalidraw/IFS Teil Model.md",
-    "/Excalidraw/IFS Model.md",
-    "Excalidraw/Scripts",
-    "Excalidraw/Scripts/Downloaded",
-    "/Excalidraw/Scripts/Downloaded",
-    "/Excalidraw/Scripts",
-    "Excalidraw/IFS Part model.md",
-    "Excalidraw/IFS Model.md",
+    "Attention gradient.png",
+    "Focus shortcut.md",
+    "Pasted image 20240114164115.png",
+    "Computer/POP3 110.md",
+    "School/BwL.md",
+    "Computer/IMAP 143.md",
     "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Stick Exersice XD.md",
-    "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
-    "School/English.md",
-    "General",
-    "Computer",
-    "School",
+    "Ifs Ausarbeitung.md",
+    "Computer/MAC address.md",
+    "Thoughts.md",
+    "General/Live.md",
+    "Computer/Network layer.md",
+    "Pasted image 20240114162002.png",
+    "Computer/HTTP 80.md",
+    "School/DDR/DDR.md",
+    "Hermeneutik.md",
+    "Pasted image 20240114163438.png",
+    "Private/Me.md",
+    "School/Ethic.md",
+    "Pasted image 20240113142014.png",
+    "Pasted Image 20240113140600_527.png",
+    "Obligations.md",
+    "Self work/Body/Body.md",
+    "Private/DDR.md",
+    "Private/Human/Human.md",
+    "Private/Knolage/Knolage.md",
+    "Private/Coding/Programing.md",
+    "Goals.md",
+    "my problems.md",
+    "Computer/SHA-256.md",
+    "Computer/Pasted image 20230524155355.png",
+    "Pasted Image 20240114161948_557.png",
     "School/DDR/DDR Vortrag TTS.mp3",
+    "School/DDR/DDR-Karte.png",
+    "Pasted image 20240113142019.png",
+    "General",
+    "Daily",
+    "Computer",
+    "Templates",
+    "School",
     "School/DDR",
-    "Self work/Body"
+    "Self work/Body",
+    "Self work",
+    "Private/Coding"
   ]
 }
