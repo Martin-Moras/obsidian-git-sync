@@ -11,11 +11,28 @@
             "id": "103b2794ac666dba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knolage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce54321825cfe265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human/Human.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Human/Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Human/Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Human/Human.md"
+              }
             }
           }
         ],
@@ -162,18 +182,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "103b2794ac666dba",
+  "active": "ce54321825cfe265",
   "lastOpenFiles": [
+    "Time/2005.md",
+    "Time",
+    "Human/Brain.md",
+    "Human/Human.md",
+    "Self work/Body/Body.md",
+    "Knolage.md",
+    "Toe.md",
+    "Human/Mind.md",
+    "Human/Emotions.md",
+    "Human",
+    "trash.md",
+    "General/Live.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "General/Meaning of live.md",
     "School/Sundar Pichai Ausarbeitung.md",
     "School/Android.md",
     "Computer/Well-known ports.md",
     "Pasted image 20240115163626.png",
     "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
-    "Daily/2024-01-15.md",
+    "Time/Daily/2024-01-15.md",
     "Pasted image 20240114164115.png",
     "Pasted image 20240114163438.png",
-    "Toe.md",
-    "Daily/2024-01-13.md",
+    "Time/Daily/2024-01-13.md",
     "Pasted image 20240114162002.png",
     "Daily/Attention gravity.md",
     "Excalidraw/Attention gravity.md",
@@ -182,22 +217,8 @@
     "Excalidraw/IFS Model.md",
     "Excalidraw/IFS Part model.md",
     "Excalidraw/IFS Teil Model.md",
-    "Excalidraw/Stick Exersice XD.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Untitled 1.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-01-11 22.00.17.excalidraw.md",
-    "Hermeneutik.md",
-    "Daily/Toe.md",
-    "Templates/Generic Template.md",
-    "Templates/Templater test.md",
-    "School/Untitled mindmap.md",
-    "School/Untitled.md",
-    "Templates/Untitled.md",
-    "Untitled",
-    "Daily/Untitled.md",
     "Templates",
-    "Daily",
+    "Time/Daily",
     "Pasted image 20240113142019.png",
     "Pasted image 20240113142014.png",
     "Pasted Image 20240113141109_708.jpg",
@@ -208,7 +229,6 @@
     "Self work/Body",
     "Self work",
     "School/DDR/DDR Vortrag TTS.mp3",
-    "School/DDR",
-    "School"
+    "School/DDR"
   ]
 }

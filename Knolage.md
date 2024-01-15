@@ -3,4 +3,4 @@
 
 [[Computer]]
 [[Supernatural]]
-[[Hum]]
+[[Human]]
