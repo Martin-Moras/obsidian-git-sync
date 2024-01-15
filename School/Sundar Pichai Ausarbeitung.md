@@ -5,8 +5,9 @@ südindischen Stadt Madurai
 schon immer an Technologie interesiert
 - 1. Telefon (1982)
 - the world of Semiconductors
-	- Wiliam 
-
+- William Shockley 
+![[Pasted image 20240115163626.png]]
+- IIT (Indian Institut if Technology)
 ![[Pasted image 20240114163438.png]]
 Stanford
 
