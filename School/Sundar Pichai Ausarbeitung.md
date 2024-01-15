@@ -25,7 +25,12 @@ schon immer an Technologie interesiert
 ## Google
 - 1. 4. 2004: first interview
 - launch of Gmail
-- 
+- got hired as vice president of product management and development
+### what he changed
+- proposed that Google should have their own web browser, but Eric Schmidt(CEO of Google 2001 - 2011) said no
+- 2. presentation he convinced them
+- Chrome was released on 1. 9. 2008
+- 5.2012 Chrome overtook [[Trend Micro ServerProtect for Linux (SPLX) 3.0 web console can be accessed using [Hypertext Transfer Protocol](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol "Hypertext Transfer Protocol") (HTTP)]] and 
 
 ![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
 ![[Pasted image 20240114163438.png]]
