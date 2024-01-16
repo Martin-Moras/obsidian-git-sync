@@ -31,9 +31,11 @@
             "id": "7eb4193645175425",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo.md"
+                "file": "Daily/2024-01-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ToDo.md",
+            "file": "Daily/2024-01-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ToDo.md",
+            "file": "Daily/2024-01-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ToDo.md"
+            "file": "Daily/2024-01-15.md"
           }
         }
       },
@@ -155,7 +157,8 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef9f8d006919e37f",
+  "active": "7eb4193645175425",
   "lastOpenFiles": [
+    "ToDo.md",
     "Images",
     "Daily/2024-01-15.md",
-    "ToDo.md",
     "School/Sundar Pichai Ausarbeitung.md",
     "Attention gradient.png",
     "Focus shortcut.md",
@@ -218,7 +221,6 @@
     "School",
     "School/DDR",
     "Self work/Body",
-    "Self work",
-    "Private/Coding"
+    "Self work"
   ]
 }
