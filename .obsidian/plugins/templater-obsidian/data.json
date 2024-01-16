@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Daily",
+      "folder": "/6. Time/Daily",
       "template": "Templates/Daily Template.md"
     },
     {

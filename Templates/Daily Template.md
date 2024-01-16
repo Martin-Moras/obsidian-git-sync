@@ -1,3 +1,3 @@
-Last modified: <% tp.date.now("YYYY-MM-DD") %>
+Last modified: 2024-01-16
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] - [[<% tp.date.now("YYYY-MM-DD", +1) %>]] >>
+<< [[2024-01-15]] - [[2024-01-17]] >>

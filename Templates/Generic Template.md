@@ -1,3 +1,3 @@
 ---
-File Creation date: <% tp.date.now("YYYY-MM-DD") %>
+File Creation date: 2024-01-16
 ---
