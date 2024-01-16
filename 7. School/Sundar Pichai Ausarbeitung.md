@@ -14,7 +14,7 @@ schon immer an Technologie interesiert
 ![[Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw]]
 - How to go India -> Amerika 1993
 	- Trip costs 1000usd
-	- his fammily was poor and couldn't get a loan
+	- his family was poor and couldn't get a loan
 	- took money from family savings
 ## Stanford
 - everything was more expensive
@@ -54,7 +54,7 @@ Apps he oversaw at this time:
 - 2019 he became CEO of [[Alphabet Inc.]]
 
 
-2022 net worth: 1.300.000.000usd
+2022 net worth: 1.300.000.000 usd
 
 
 1. Sundar Pichai was born on June 10, 1972 in Madurai, Tamil Nadu, India.
