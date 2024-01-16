@@ -1,9 +1,9 @@
 https://www.youtube.com/watch?v=QpJbeP8f55A
 
-<% tp.date.now("YYYY-MM-DD") %>
+2024-01-15
 
-File Creation date: <% tp.file.creation_date() %>
-Last modified: <% tp.file.last_modified_date() %>
-File Folder: <% tp.file.folder() %>
+File Creation date: 2024-01-14 11:58
+Last modified: 2024-01-14 12:23
+File Folder: 9. Templates
 
-<< <% tp.date.now("YYYY-MM-DD", -1) %> - <% tp.date.now("YYYY-MM-DD", +1) %> >>
+<< 2024-01-14 - 2024-01-16 >>

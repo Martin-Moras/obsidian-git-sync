@@ -25,5 +25,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "rightToLeft": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "Files"
 }
