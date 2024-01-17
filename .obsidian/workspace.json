@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b59e8760d5176c57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Multi store model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Multi store model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Human/Multi store model.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -182,11 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e61e719c62fe2a6",
+  "active": "b59e8760d5176c57",
   "lastOpenFiles": [
+    "4. Human/Multi store model.md",
     "4. Human/IFS Parts.md",
     "1. Excalidraw/IFS Part model.excalidraw.md",
-    "4. Human/Multi store model.md",
     "4. Human/Memory.md",
     "4. Human/Mind.md",
     "Files/Multi store model.excalidraw.md",
