@@ -1,3 +1,4 @@
+![[Mind model.excalidraw]]
 [[Emotions]]
 [[Habits]]
 

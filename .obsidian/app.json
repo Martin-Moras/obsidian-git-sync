@@ -26,5 +26,8 @@
   "showLineNumber": true,
   "rightToLeft": false,
   "trashOption": "local",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "8. Files",
+  "userIgnoreFilters": [
+    "1. Excalidraw/"
+  ]
 }

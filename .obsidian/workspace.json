@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d1f4ee49e544c0e7",
+        "id": "aa943bae1c49ce7b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe57b66a456387de",
+            "id": "098aef4b9ce4475a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Mind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "933b3bf434fcef5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "5e61e719c62fe2a6",
+            "id": "0355a21f03ec46e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,15 +44,37 @@
             }
           },
           {
-            "id": "b59e8760d5176c57",
+            "id": "48dc4b985996dc9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Excalidraw/Multi store model.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0cce88281d378107",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Excalidraw/Mind model.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "61889a91e8a2ccc1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Memory.md",
+                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Memory.md",
+                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Human/Memory.md"
+                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md"
               }
             }
           }
@@ -190,14 +224,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b59e8760d5176c57",
+  "active": "61889a91e8a2ccc1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
+    "Excalidraw",
+    "1. Excalidraw/Mind model.excalidraw.md",
+    "1. Excalidraw/Multi store model.excalidraw.md",
     "4. Human/Multi store model.md",
-    "4. Human/IFS Parts.md",
-    "1. Excalidraw/IFS Part model.excalidraw.md",
     "4. Human/Memory.md",
+    "1. Excalidraw/IFS Part model.excalidraw.md",
     "4. Human/Mind.md",
-    "Files/Multi store model.excalidraw.md",
+    "4. Human/IFS Parts.md",
     "4. Human/Sigmund Freud.md",
     "4. Human/Psychoanalytic Theory.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
@@ -221,8 +258,6 @@
     "8. Spiritual/Supernatural.md",
     "8. Spiritual",
     "7. School/DDR/github test.md",
-    "7. School/DDR/Wirtschaft der DDR.md",
-    "7. School/DDR/UDSSR.md",
     "7. School/DDR/DDR-Karte.png",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/DDR",
@@ -230,7 +265,6 @@
     "6. Time/Daily",
     "6. Time",
     "4. Human/Self work/Body",
-    "4. Human/Self work",
     "8. Files/Richard Schwatz portrait.png",
     "8. Files/Pasted image 20240115183135.jpg",
     "8. Files/Pasted image 20240115163626.png",
