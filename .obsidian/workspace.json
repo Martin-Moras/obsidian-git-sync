@@ -20,41 +20,19 @@
             }
           },
           {
-            "id": "933b3bf434fcef5b",
+            "id": "3e42006a302e452f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Human/Memory.md",
+                "file": "4. Human/Carl Jung.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0355a21f03ec46e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Multi store model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48dc4b985996dc9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0cce88281d378107",
+            "id": "2c395d78cf91f122",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -62,19 +40,9 @@
                 "file": "1. Excalidraw/Mind model.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "61889a91e8a2ccc1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
+                "file": "4. Human/Carl Jung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
+                "file": "4. Human/Carl Jung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md"
+                "file": "4. Human/Carl Jung.md"
               }
             }
           }
@@ -224,19 +192,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61889a91e8a2ccc1",
+  "active": "3e42006a302e452f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
-    "Excalidraw",
-    "1. Excalidraw/Mind model.excalidraw.md",
-    "1. Excalidraw/Multi store model.excalidraw.md",
-    "4. Human/Multi store model.md",
-    "4. Human/Memory.md",
-    "1. Excalidraw/IFS Part model.excalidraw.md",
+    "Templates/Daily Template.md",
+    "4. Human/Carl Jung.md",
     "4. Human/Mind.md",
-    "4. Human/IFS Parts.md",
     "4. Human/Sigmund Freud.md",
     "4. Human/Psychoanalytic Theory.md",
+    "1. Excalidraw/Mind model.excalidraw.md",
+    "4. Human/Memory.md",
+    "4. Human/Multi store model.md",
+    "1. Excalidraw/Multi store model.excalidraw.md",
+    "1. Excalidraw/Drawing 2024-01-18 18.52.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
+    "Excalidraw",
+    "1. Excalidraw/IFS Part model.excalidraw.md",
+    "4. Human/IFS Parts.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "6. Time/Daily/2024-01-16.md",
@@ -246,7 +217,6 @@
     "Pasted image 20240115203721.png",
     "Pasted image 20240115203524.png",
     "4. Human/Emotions.md",
-    "Templates/Daily Template.md",
     "Templates/Generic Template.md",
     "Untitled.md",
     "Templates/Untitled.md",
@@ -255,9 +225,7 @@
     "Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "Templates/Focus shortcut.md",
     "Templates",
-    "8. Spiritual/Supernatural.md",
     "8. Spiritual",
-    "7. School/DDR/github test.md",
     "7. School/DDR/DDR-Karte.png",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/DDR",
