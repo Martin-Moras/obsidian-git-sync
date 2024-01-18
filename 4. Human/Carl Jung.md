@@ -14,12 +14,15 @@ Unaware or suppressed thoughts and memories
 	the mask that we make others think we are.
 	
 1. The Shadow, the Dark Side, the Unknown, the Hidden Self
-	the dark 
+	the dark side of our Persona.
+	what we don't like in others might be a shadow in us, that we project on to them.
 ## Collective Unconscious
-Here are Archetypes
 
 4. The Anima, the Feminine Side, the Soul, the Muse
-5. The Animus, Masculine Side, the Spirit, the Guide
+	is in every men's psyche.
+	
+1. The Animus, Masculine Side, the Spirit, the Guide
+	is in every women's psyche.
 
 ### Archetypes
 1. The Self, the Wise Old Man/Woman, the Spirit, the Higher Self
