@@ -2,7 +2,7 @@
 File Creation date: 2024-01-18
 ---
 [Jungian Archetypes](https://www.youtube.com/watch?v=V8WuljiJFBI&list=PL_0I7-kEnl0a-LIJt0jzonLLufyjRGje6)
-
+[[Analytical psychology]]
 # Jung's 3 realms of the psyche
 ## Consciousness
 Field of [[Awareness]]. Everything we are aware off
@@ -60,5 +60,5 @@ Unaware or suppressed thoughts and memories
 25. The Everyman/Everywoman
 
 # Main goal of human psychological development
-**Self realisation**
+**Self realisation/Individuation**
 Distinguishing the Self from ones conscious and unconscious elements.
