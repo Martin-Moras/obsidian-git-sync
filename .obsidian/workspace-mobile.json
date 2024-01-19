@@ -26,9 +26,20 @@
                 "file": "1. Excalidraw/Multi store model.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "65598ffbc7c59904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Mind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Multi store model.excalidraw.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Multi store model.excalidraw.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Multi store model.excalidraw.md"
+            "file": "1. Excalidraw/Mind model.excalidraw.md"
           }
         }
       },
@@ -161,13 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e00afd79d4b848e1",
+  "active": "498c2199ae8a18f1",
   "lastOpenFiles": [
+    "1. Excalidraw/Multi store model.excalidraw.md",
     "1. Excalidraw/Mind model.excalidraw.md",
+    "4. Human/Mind.md",
     "/4. Human/Mind.md",
     "7. School/Unternehmensformen.md",
     "4. Human/Carl Jung.md",
-    "1. Excalidraw/Multi store model.excalidraw.md",
     "/4. Human/Carl Jung.md",
     "/1. Excalidraw/Multi store model.excalidraw.md",
     "/1. Excalidraw/Mind model.excalidraw.md",
@@ -190,7 +202,6 @@
     "4. Human/Self work/3. Computer/Fedora.md",
     "4. Human/Self work/3. Computer/Linux.md",
     "4. Human/Self work/3. Computer/Application layer.md",
-    "4. Human/Self work/3. Computer/SHA-256.md",
     "4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524155355.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
