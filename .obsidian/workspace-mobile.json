@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-01-16.md",
+                "file": "7. School/Unternehmensformen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-01-16.md",
+            "file": "7. School/Unternehmensformen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-01-16.md",
+            "file": "7. School/Unternehmensformen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-01-16.md"
+            "file": "7. School/Unternehmensformen.md"
           }
         }
       },
@@ -153,8 +153,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "498c2199ae8a18f1",
+  "active": "ef9f8d006919e37f",
   "lastOpenFiles": [
+    "4. Human/Carl Jung.md",
+    "1. Excalidraw/Mind model.excalidraw.md",
+    "1. Excalidraw/Multi store model.excalidraw.md",
+    "/4. Human/Mind.md",
+    "/4. Human/Carl Jung.md",
+    "/1. Excalidraw/Multi store model.excalidraw.md",
+    "/1. Excalidraw/Mind model.excalidraw.md",
+    "/1. Excalidraw/IFS Part model.excalidraw.md",
+    "7. School/BwL.md",
+    "7. School/Unternehmensformen.md",
+    "6. Time/Daily/2024-01-16.md",
     "4. Human/IFS Parts.md",
     "4. Human/Self work/3. Computer/HTTPS 443.md",
     "4. Human/Self work/3. Computer/UDP.md",
@@ -172,17 +183,6 @@
     "4. Human/Self work/3. Computer/Linux.md",
     "4. Human/Self work/3. Computer/Application layer.md",
     "4. Human/Self work/3. Computer/SHA-256.md",
-    "4. Human/Self work/3. Computer/proof of work.md",
-    "4. Human/Self work/3. Computer/Presentation layer.md",
-    "4. Human/Self work/3. Computer/FTP 21.md",
-    "4. Human/Self work/3. Computer/Transport layer.md",
-    "4. Human/Self work/3. Computer/TCP+UDP.md",
-    "4. Human/Self work/3. Computer/Telnet 23.md",
-    "4. Human/Self work/3. Computer/HTTP 80.md",
-    "4. Human/Self work/3. Computer/Well-known ports.md",
-    "4. Human/Self work/3. Computer/Bitcoin.md",
-    "4. Human/Self work/3. Computer/Layers.md",
-    "4. Human/Self work/3. Computer/Registered ports.md",
     "4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524155355.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
