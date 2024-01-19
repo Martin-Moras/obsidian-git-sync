@@ -16,8 +16,19 @@
                 "file": "1. Excalidraw/Mind model.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "e00afd79d4b848e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Excalidraw/Multi store model.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "1. Excalidraw/Multi store model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "1. Excalidraw/Multi store model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md"
+            "file": "1. Excalidraw/Multi store model.excalidraw.md"
           }
         }
       },
@@ -150,12 +161,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "498c2199ae8a18f1",
+  "active": "e00afd79d4b848e1",
   "lastOpenFiles": [
+    "1. Excalidraw/Mind model.excalidraw.md",
     "/4. Human/Mind.md",
     "7. School/Unternehmensformen.md",
     "4. Human/Carl Jung.md",
-    "1. Excalidraw/Mind model.excalidraw.md",
     "1. Excalidraw/Multi store model.excalidraw.md",
     "/4. Human/Carl Jung.md",
     "/1. Excalidraw/Multi store model.excalidraw.md",
