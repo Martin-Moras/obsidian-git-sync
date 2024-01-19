@@ -11,8 +11,12 @@
             "id": "ba77d04169493d05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Mind.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Human/Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Human/Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Human/Mind.md"
+              }
             }
           }
         ],
@@ -163,6 +171,7 @@
   },
   "active": "ba77d04169493d05",
   "lastOpenFiles": [
+    "4. Human/Mind Schemas.md",
     "4. Human/Mind.md",
     "4. Human/Carl Jung.md",
     "1. Excalidraw/Mind model.excalidraw.md",
@@ -182,7 +191,6 @@
     "6. Time/Daily/2024-01-16.md",
     "4. Human/Brain.md",
     "Files",
-    "4. Human/Mind Schemas.md",
     "Pasted image 20240115203721.png",
     "Pasted image 20240115203524.png",
     "4. Human/Emotions.md",
