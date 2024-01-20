@@ -48,7 +48,9 @@ Flow ^FyeZl7cQ
 Trigger ^0bT4x4uC
 
 Hero
- ^55ARjmfy
+I am limitless
+Masculin &feminine 
+If archetypes are over used/unbalanced they become destructive. ^55ARjmfy
 
 
 # Embedded files
@@ -13540,7 +13542,7 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		{
 			"id": "PGHhfJQUTFt255_nJs3cL",
 			"type": "image",
-			"x": 1320,
+			"x": 1360,
 			"y": 2080,
 			"width": 323.123162044906,
 			"height": 323.123162044906,
@@ -13556,11 +13558,11 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1553879706,
-			"version": 103,
-			"versionNonce": 417864154,
+			"version": 105,
+			"versionNonce": 99125594,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1705788812163,
+			"updated": 1705789456985,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -13573,7 +13575,7 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		{
 			"id": "YoaqcXcSI4llD2z1pdOiX",
 			"type": "rectangle",
-			"x": 1660,
+			"x": 1720,
 			"y": 2060,
 			"width": 420,
 			"height": 400,
@@ -13589,8 +13591,8 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 187770438,
-			"version": 38,
-			"versionNonce": 2056546054,
+			"version": 42,
+			"versionNonce": 535770906,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -13598,17 +13600,17 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 					"id": "55ARjmfy"
 				}
 			],
-			"updated": 1705788816759,
+			"updated": 1705789750718,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "55ARjmfy",
 			"type": "text",
-			"x": 1665,
+			"x": 1725,
 			"y": 2065,
-			"width": 33.31200408935547,
-			"height": 40,
+			"width": 360.2080383300781,
+			"height": 100,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -13621,22 +13623,22 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1761318406,
-			"version": 21,
-			"versionNonce": 568389276,
+			"version": 28,
+			"versionNonce": 1929145286,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1705788844598,
+			"updated": 1705789840784,
 			"link": null,
 			"locked": false,
-			"text": "Hero\n",
-			"rawText": "Hero\n",
+			"text": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they\nbecome destructive.",
+			"rawText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 34,
+			"baseline": 94,
 			"containerId": "YoaqcXcSI4llD2z1pdOiX",
-			"originalText": "Hero\n",
+			"originalText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.",
 			"lineHeight": 1.25
 		}
 	],
@@ -13655,10 +13657,10 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -1388.6398883543072,
-		"scrollY": -1987.8569130799729,
+		"scrollX": 2206.666666666666,
+		"scrollY": 2410.282945380984,
 		"zoom": {
-			"value": 2.3955952011927857
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
