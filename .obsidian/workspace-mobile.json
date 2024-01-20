@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af271160d93e428d",
+        "id": "281cb46a64932ea5",
         "type": "tabs",
         "children": [
           {
-            "id": "498c2199ae8a18f1",
+            "id": "3df09a978b57339d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "1. Excalidraw/Mind model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e00afd79d4b848e1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "65598ffbc7c59904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Mind.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -172,17 +150,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "498c2199ae8a18f1",
+  "active": "3df09a978b57339d",
   "lastOpenFiles": [
+    "4. Human/Mind.md",
+    "1. Excalidraw/Multi store model.excalidraw.md",
+    "1. Excalidraw/Mind model.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
     "Excalidraw/Scripts/Downloaded",
-    "1. Excalidraw/Multi store model.excalidraw.md",
-    "1. Excalidraw/Mind model.excalidraw.md",
     "1. Excalidraw/IFS Model.excalidraw.md",
-    "4. Human/Mind.md",
     "/4. Human/Mind.md",
     "7. School/Unternehmensformen.md",
     "4. Human/Carl Jung.md",
@@ -218,7 +196,6 @@
     "8. Files/Attention gradient.png",
     "8. Files/Pasted Image 20240113140600_527.png",
     "8. Files/Pasted image 20240114163438.png",
-    "8. Files",
-    "3. Computer"
+    "8. Files"
   ]
 }
