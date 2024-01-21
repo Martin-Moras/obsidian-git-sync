@@ -50,7 +50,8 @@ Trigger ^0bT4x4uC
 Hero
 I am limitless
 Masculin &feminine 
-If archetypes are over used/unbalanced they become destructive. ^55ARjmfy
+If archetypes are over used/unbalanced they become destructive.
+To help the world you need all archetypes. ^55ARjmfy
 
 
 # Embedded files
@@ -13542,7 +13543,7 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		{
 			"id": "PGHhfJQUTFt255_nJs3cL",
 			"type": "image",
-			"x": 1360,
+			"x": 1320,
 			"y": 2080,
 			"width": 323.123162044906,
 			"height": 323.123162044906,
@@ -13558,11 +13559,11 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1553879706,
-			"version": 105,
-			"versionNonce": 99125594,
+			"version": 107,
+			"versionNonce": 813343066,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1705789456985,
+			"updated": 1705832863809,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -13610,7 +13611,7 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"x": 1725,
 			"y": 2065,
 			"width": 360.2080383300781,
-			"height": 100,
+			"height": 120,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -13623,22 +13624,22 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1761318406,
-			"version": 28,
-			"versionNonce": 1929145286,
+			"version": 30,
+			"versionNonce": 596610266,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1705789840784,
+			"updated": 1705789933542,
 			"link": null,
 			"locked": false,
-			"text": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they\nbecome destructive.",
-			"rawText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.",
+			"text": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they\nbecome destructive.\nTo help the world you need all archetypes.",
+			"rawText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.\nTo help the world you need all archetypes.",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 94,
+			"baseline": 114,
 			"containerId": "YoaqcXcSI4llD2z1pdOiX",
-			"originalText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.",
+			"originalText": "Hero\nI am limitless\nMasculin &feminine \nIf archetypes are over used/unbalanced they become destructive.\nTo help the world you need all archetypes.",
 			"lineHeight": 1.25
 		}
 	],
@@ -13657,10 +13658,10 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 2206.666666666666,
-		"scrollY": 2410.282945380984,
+		"scrollX": -228.8821700461322,
+		"scrollY": -1567.685714447656,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.7920180245943091
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
