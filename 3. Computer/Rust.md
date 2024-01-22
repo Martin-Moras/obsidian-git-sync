@@ -7,6 +7,12 @@ File Creation date: 2024-01-22
 # How to 
 - extension: .rs
 - compile: rustc \<file name\>
+## Variables
+let \<
+
 
 ## Cargo
-create new project: <span style="color:#92d050">cargo new \<file name\></span>
+- create new project: cargo new \<file name\>
+- build: cargo build
+- build and run: cargo run
+- check if compileable: cargo check
