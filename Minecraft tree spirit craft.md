@@ -8,4 +8,5 @@ File Creation date: 2024-01-22
 - When the core is dead everyone dies
 - Core can be healed
 - Logs can be crafted into reinforced logs
-- 
+- Leaves and roots produce **energy**
+- If you right click with energy on roots or leaves they grow
