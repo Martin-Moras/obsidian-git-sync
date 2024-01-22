@@ -13543,7 +13543,7 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		{
 			"id": "PGHhfJQUTFt255_nJs3cL",
 			"type": "image",
-			"x": 1320,
+			"x": 1360,
 			"y": 2080,
 			"width": 323.123162044906,
 			"height": 323.123162044906,
@@ -13559,11 +13559,11 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1553879706,
-			"version": 107,
-			"versionNonce": 813343066,
+			"version": 113,
+			"versionNonce": 2056817306,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1705832863809,
+			"updated": 1705832869279,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -13658,10 +13658,10 @@ b39f274e1703f51bcd0447ba0ecf0c7a66510dfb: [[Pasted Image 20240120230946_420.jpg]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -228.8821700461322,
-		"scrollY": -1567.685714447656,
+		"scrollX": -367.2569775789548,
+		"scrollY": -1699.4512171030765,
 		"zoom": {
-			"value": 0.7920180245943091
+			"value": 0.9232931917538109
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
