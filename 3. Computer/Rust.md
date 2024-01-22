@@ -8,19 +8,23 @@ File Creation date: 2024-01-22
 - extension: .rs
 - compile: rustc \<file name\>
 ## Variables
-create a immutable variable (can't be changed unless it's redeclared)
+create a **immutable** variable (can't be changed unless it's redeclared)
 ```
-let <name> = <value>
+let <name> = <value>;
 ```
 specify **type** of variable
 ```
-let <name>: <type> = <value>
+let <name>: <type> = <value>;
 ```
-create a non static variable
+**constant** variables can't be changed and must have a type specified
 ```
-let mut <name> = <value>
+const <name>: <type> = <value>;
 ```
-you can redeclare a varuable
+create a **non mutable** variable
+```
+let mut <name> = <value>;
+```
+you can **redeclare** a variable
 ```
 let x = 1;
 let x = x + 3;
