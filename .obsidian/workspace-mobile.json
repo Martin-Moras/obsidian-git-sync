@@ -34,9 +34,29 @@
                 "file": "1. Excalidraw/IFS Model.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "fe5c189c07046bcd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b210b3f6de3529d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft tree spirit craft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md",
+            "file": "Minecraft tree spirit craft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md",
+            "file": "Minecraft tree spirit craft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md"
+            "file": "Minecraft tree spirit craft.md"
           }
         }
       },
@@ -169,8 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef6a7037bb654304",
+  "active": "b210b3f6de3529d5",
   "lastOpenFiles": [
+    "Minecraft.md",
+    "Minecraft tree spirit craft.md",
+    "1. Excalidraw/IFS Model.excalidraw.md",
     "1. Excalidraw/Mind model.excalidraw.md",
     "8. Files/Pasted Image 20240120230946_420.jpg",
     "1. Excalidraw/Multi store model.excalidraw.md",
@@ -180,7 +203,6 @@
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
     "Excalidraw/Scripts/Downloaded",
-    "1. Excalidraw/IFS Model.excalidraw.md",
     "/4. Human/Mind.md",
     "7. School/Unternehmensformen.md",
     "4. Human/Carl Jung.md",
@@ -202,7 +224,6 @@
     "4. Human/Self work/3. Computer/Data Layer.md",
     "4. Human/Self work/3. Computer/Session management layer.md",
     "4. Human/Self work/3. Computer/block reward.md",
-    "4. Human/Self work/3. Computer/SNMP 161.md",
     "4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524155355.png",
     "/4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
