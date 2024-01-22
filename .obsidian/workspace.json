@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Computer/TUI.md",
+                "file": "3. Computer/Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/TUI.md",
+                "file": "3. Computer/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/TUI.md",
+                "file": "3. Computer/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/TUI.md"
+                "file": "3. Computer/Rust.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "d9a466535328b00a",
   "lastOpenFiles": [
-    "3. Computer/Linux.md",
     "3. Computer/TUI.md",
+    "3. Computer/Linux.md",
     "3. Computer/Rust.md",
     "3. Computer/Vulcan.md",
     "3. Computer/Cargo.md",
