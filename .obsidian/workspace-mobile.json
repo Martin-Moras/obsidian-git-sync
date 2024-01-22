@@ -16,8 +16,27 @@
                 "file": "1. Excalidraw/Mind model.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "54cbba337bf270bd",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef6a7037bb654304",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Excalidraw/IFS Model.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "1. Excalidraw/IFS Model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "1. Excalidraw/IFS Model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md"
+            "file": "1. Excalidraw/IFS Model.excalidraw.md"
           }
         }
       },
@@ -150,11 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3df09a978b57339d",
+  "active": "ef6a7037bb654304",
   "lastOpenFiles": [
+    "1. Excalidraw/Mind model.excalidraw.md",
     "8. Files/Pasted Image 20240120230946_420.jpg",
     "1. Excalidraw/Multi store model.excalidraw.md",
-    "1. Excalidraw/Mind model.excalidraw.md",
     "4. Human/Mind.md",
     "Excalidraw",
     "Excalidraw/Scripts",
@@ -196,7 +215,6 @@
     "Files",
     "8. Files/Attention gradient.png",
     "8. Files/Pasted Image 20240113140600_527.png",
-    "8. Files/Pasted image 20240114163438.png",
     "8. Files"
   ]
 }
