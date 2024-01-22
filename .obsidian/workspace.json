@@ -11,8 +11,12 @@
             "id": "e49130678dc59505",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Computer/Vulcan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Computer/Vulcan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Computer/Vulcan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Computer/Vulcan.md"
+              }
             }
           }
         ],
@@ -163,6 +171,13 @@
   },
   "active": "e49130678dc59505",
   "lastOpenFiles": [
+    "3. Computer/Linux.md",
+    "3. Computer/Vulcan.md",
+    "Minecraft.md",
+    "Minecraft tree spirit craft.md",
+    "8. Files/Pasted Image 20240120230946_420.jpg",
+    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
+    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
@@ -193,10 +208,6 @@
     "Pasted image 20240115203524.png",
     "4. Human/Emotions.md",
     "Templates/Generic Template.md",
-    "Untitled.md",
-    "Templates/Untitled.md",
-    "Templates/Templater test.md",
-    "4. Human/Perception.md",
     "Templates",
     "8. Spiritual",
     "7. School/DDR/DDR-Karte.png",
@@ -205,8 +216,6 @@
     "7. School",
     "6. Time/Daily",
     "8. Files/Richard Schwatz portrait.png",
-    "8. Files/Pasted image 20240115183135.jpg",
-    "8. Files/Pasted image 20240115163626.png",
-    "8. Files/Pasted image 20240114164115.png"
+    "8. Files/Pasted image 20240115183135.jpg"
   ]
 }
