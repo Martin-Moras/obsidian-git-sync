@@ -1,8 +1,8 @@
 {
   "folder": "1. Excalidraw",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
-  "scriptFolderPath": "Excalidraw/Scripts",
+  "templateFilePath": "1. Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "1. Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
   "autosaveInterval": 10000,
@@ -105,7 +105,8 @@
   "taskboneAPIkey": "a6bb3adb-0cd6-46b1-b8f7-e8de2478123d",
   "pinnedScripts": [
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md"
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.md"
   ],
   "customPens": [
     {
