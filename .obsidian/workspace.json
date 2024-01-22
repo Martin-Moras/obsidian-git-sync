@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a437581d7552e54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Computer/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9a466535328b00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Computer/TUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Vulcan.md",
+                "file": "3. Computer/TUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Vulcan.md",
+                "file": "3. Computer/TUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Vulcan.md"
+                "file": "3. Computer/TUI.md"
               }
             }
           }
@@ -169,10 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e49130678dc59505",
+  "active": "d9a466535328b00a",
   "lastOpenFiles": [
     "3. Computer/Linux.md",
+    "3. Computer/TUI.md",
+    "3. Computer/Rust.md",
     "3. Computer/Vulcan.md",
+    "3. Computer/Cargo.md",
     "Minecraft.md",
     "Minecraft tree spirit craft.md",
     "8. Files/Pasted Image 20240120230946_420.jpg",
@@ -202,12 +230,9 @@
     "1. Excalidraw/IFS Part model.excalidraw.md",
     "4. Human/IFS Parts.md",
     "6. Time/Daily/2024-01-16.md",
-    "4. Human/Brain.md",
     "Files",
     "Pasted image 20240115203721.png",
     "Pasted image 20240115203524.png",
-    "4. Human/Emotions.md",
-    "Templates/Generic Template.md",
     "Templates",
     "8. Spiritual",
     "7. School/DDR/DDR-Karte.png",
