@@ -16,8 +16,21 @@
                 "file": "1. Excalidraw/Mind model.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4761bf54c295cea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Carl Jung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "4. Human/Carl Jung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "4. Human/Carl Jung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md"
+            "file": "4. Human/Carl Jung.md"
           }
         }
       },
@@ -150,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eea64131f95ebe8e",
+  "active": "4761bf54c295cea3",
   "lastOpenFiles": [
+    "1. Excalidraw/Mind model.excalidraw.md",
     "8. Files/Pasted Image 20240127190703_256.png",
     "8. Files/Pasted Image 20240127190622_196.jpg",
     "4. Human/Mind.md",
@@ -163,8 +177,6 @@
     "8. Files/Pasted image 20240115163626.png",
     "8. Files/Pasted image 20240114164115.png",
     "8. Files/Pasted image 20240114163438.png",
-    "8. Files/Pasted Image 20240114161948_557.png",
-    "1. Excalidraw/Mind model.excalidraw.md",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "1. Excalidraw/Stick Exersice.excalidraw.md",
     "4. Human/Carl Jung.md",
