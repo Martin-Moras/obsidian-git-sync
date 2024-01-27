@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3df09a978b57339d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/Mind model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ef6a7037bb654304",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/IFS Model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "65b248faba773da0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "eea64131f95ebe8e",
             "type": "leaf",
             "state": {
@@ -45,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/IFS Model.excalidraw.md"
+            "file": "1. Excalidraw/Mind model.excalidraw.md"
           }
         }
       },
@@ -166,7 +137,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
@@ -176,11 +146,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef6a7037bb654304",
+  "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
+    "4. Human/Mind.md",
+    "1. Excalidraw/IFS Model.excalidraw.md",
     "3. Computer/HTTPS 443.md",
     "3. Computer/Registered ports.md",
     "3. Computer/UDP.md",
@@ -206,8 +179,6 @@
     "3. Computer/POP3 110.md",
     "3. Computer/IMAP 143.md",
     "3. Computer/Session management layer.md",
-    "3. Computer/Private ports.md",
-    "3. Computer/DNS 53.md",
     "Excalidraw/Scripts",
     "Excalidraw",
     "3. Computer/Pasted image 20230524155355.png",
