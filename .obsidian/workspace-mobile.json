@@ -39,32 +39,14 @@
             "id": "eea64131f95ebe8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4. Human/Mind.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Excalidraw/Mind model.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "4e137a650e87b428",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b210b3f6de3529d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/Template.excalidraw.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Template.excalidraw.md",
+            "file": "1. Excalidraw/IFS Model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Template.excalidraw.md",
+            "file": "1. Excalidraw/IFS Model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Template.excalidraw.md"
+            "file": "1. Excalidraw/IFS Model.excalidraw.md"
           }
         }
       },
@@ -197,52 +179,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b210b3f6de3529d5",
+  "active": "ef6a7037bb654304",
   "lastOpenFiles": [
-    "1. Excalidraw/Mind model.excalidraw.md",
-    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
-    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "4. Human/Mind.md",
-    "1. Excalidraw/Template",
-    "1. Excalidraw/IFS Model.excalidraw.md",
-    "Minecraft tree spirit craft.md",
-    "Minecraft.md",
-    "8. Files/Pasted Image 20240120230946_420.jpg",
-    "1. Excalidraw/Multi store model.excalidraw.md",
-    "Excalidraw",
+    "3. Computer/HTTPS 443.md",
+    "3. Computer/Registered ports.md",
+    "3. Computer/UDP.md",
+    "3. Computer/TCP.md",
+    "3. Computer/proof of work.md",
+    "3. Computer/TUI.md",
+    "3. Computer/SMB 139+445.md",
+    "3. Computer/Application layer.md",
+    "3. Computer/IANA.md",
+    "3. Computer/Telnet 23.md",
+    "3. Computer/Fedora.md",
+    "3. Computer/Cargo.md",
+    "3. Computer/SMTP 25.md",
+    "3. Computer/FTP 21.md",
+    "3. Computer/MBR.md",
+    "3. Computer/MAC address.md",
+    "3. Computer/networking.md",
+    "3. Computer/SNMP 161.md",
+    "3. Computer/Transport layer.md",
+    "3. Computer",
+    "3. Computer/Hacking.md",
+    "3. Computer/Physical Layer.md",
+    "3. Computer/POP3 110.md",
+    "3. Computer/IMAP 143.md",
+    "3. Computer/Session management layer.md",
+    "3. Computer/Private ports.md",
+    "3. Computer/DNS 53.md",
     "Excalidraw/Scripts",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw",
+    "3. Computer/Pasted image 20230524155355.png",
+    "8. Files/Pasted image 20240122225910.png",
+    "8. Files/Pasted Image 20240122212818_947.png",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded",
-    "/4. Human/Mind.md",
-    "7. School/Unternehmensformen.md",
-    "4. Human/Carl Jung.md",
-    "/4. Human/Carl Jung.md",
-    "/1. Excalidraw/Multi store model.excalidraw.md",
-    "/1. Excalidraw/Mind model.excalidraw.md",
-    "/1. Excalidraw/IFS Part model.excalidraw.md",
-    "7. School/BwL.md",
-    "6. Time/Daily/2024-01-16.md",
-    "4. Human/IFS Parts.md",
-    "4. Human/Self work/3. Computer/HTTPS 443.md",
-    "4. Human/Self work/3. Computer/UDP.md",
-    "4. Human/Self work/3. Computer/Pasted image 20230524155355.png",
-    "4. Human/Self work/3. Computer/POP3 110.md",
-    "4. Human/Self work/3. Computer/MAC address.md",
-    "4. Human/Self work/3. Computer/Computer.md",
-    "4. Human/Self work/3. Computer",
-    "4. Human/Self work/3. Computer/SMB 139+445.md",
-    "4. Human/Self work/3. Computer/Data Layer.md",
-    "4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
-    "/4. Human/Self work/3. Computer/Pasted image 20230524155355.png",
-    "/4. Human/Self work/3. Computer/Pasted image 20230524153716.png",
-    "/4. Human/Self work/3. Computer",
-    "1. Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "1. Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "1. Excalidraw/Scripts/Downloaded",
-    "1. Excalidraw/Scripts",
-    "1. Excalidraw",
-    "Files",
-    "8. Files/Attention gradient.png"
+    "3. Computer/Pasted image 20230524153716.png",
+    "8. Files/Pasted Image 20240122212833_948.png",
+    "/3. Computer/Pasted image 20230524155355.png",
+    "/3. Computer/Pasted image 20230524153716.png",
+    "/Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "/8. Files/Pasted image 20240122225910.png",
+    "/Excalidraw/Scripts/Downloaded",
+    "/Excalidraw/Scripts",
+    "/Excalidraw",
+    "/3. Computer",
+    "1. Excalidraw/Template",
+    "4. Human/Self work/3. Computer"
   ]
 }
