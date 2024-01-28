@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Human/Carl Jung.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Human/Carl Jung.md",
+            "file": "1. Excalidraw/Mind model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Human/Carl Jung.md"
+            "file": "1. Excalidraw/Mind model.excalidraw.md"
           }
         }
       },
@@ -163,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4761bf54c295cea3",
+  "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
+    "4. Human/Carl Jung.md",
     "1. Excalidraw/Mind model.excalidraw.md",
     "8. Files/Pasted Image 20240127190703_256.png",
     "8. Files/Pasted Image 20240127190622_196.jpg",
@@ -179,7 +179,6 @@
     "8. Files/Pasted image 20240114163438.png",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "1. Excalidraw/Stick Exersice.excalidraw.md",
-    "4. Human/Carl Jung.md",
     "1. Excalidraw/IFS Model.excalidraw.md",
     "3. Computer/HTTPS 443.md",
     "3. Computer/Registered ports.md",
