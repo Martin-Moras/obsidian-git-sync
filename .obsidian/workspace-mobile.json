@@ -11,9 +11,11 @@
             "id": "eea64131f95ebe8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1. Excalidraw/Mind model.excalidraw.md"
+                "file": "3. Computer/Games.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +85,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "5d306aa4b3d80423",
@@ -95,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "3. Computer/Games.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "3. Computer/Games.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md"
+            "file": "3. Computer/Games.md"
           }
         }
       },
@@ -164,8 +167,9 @@
   },
   "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
-    "4. Human/Carl Jung.md",
     "1. Excalidraw/Mind model.excalidraw.md",
+    "3. Computer/Games.md",
+    "4. Human/Carl Jung.md",
     "8. Files/Pasted Image 20240127190703_256.png",
     "8. Files/Pasted Image 20240127190622_196.jpg",
     "4. Human/Mind.md",
