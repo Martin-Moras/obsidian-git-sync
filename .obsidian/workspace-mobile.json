@@ -11,11 +11,9 @@
             "id": "eea64131f95ebe8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3. Computer/Games.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Excalidraw/3D axe.excalidraw.md"
               }
             }
           },
@@ -98,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. Computer/Games.md",
+            "file": "1. Excalidraw/3D axe.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. Computer/Games.md",
+            "file": "1. Excalidraw/3D axe.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. Computer/Games.md"
+            "file": "1. Excalidraw/3D axe.excalidraw.md"
           }
         }
       },
@@ -167,8 +165,8 @@
   },
   "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
-    "1. Excalidraw/Mind model.excalidraw.md",
     "3. Computer/Games.md",
+    "1. Excalidraw/Mind model.excalidraw.md",
     "4. Human/Carl Jung.md",
     "8. Files/Pasted Image 20240127190703_256.png",
     "8. Files/Pasted Image 20240127190622_196.jpg",
