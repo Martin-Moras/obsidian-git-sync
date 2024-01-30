@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b18464e5bf6f04f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "4761bf54c295cea3",
             "type": "leaf",
             "state": {
@@ -41,8 +31,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "cdbc78df1a7818e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18464e5bf6f04f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
