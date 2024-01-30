@@ -11,9 +11,12 @@ Was wird einem normalen Arbeitnehmer vom Bruttolohn abgezogen?
 | Sozialabrechnug          | %   |     |
 | Rentenversicherung       | 9,3 |     |
 | Krankenversicherung      | 7,3 |     |
-| Pflegeversicherung       |     |     |
-| Arbeitslosenversicherung |     |     |
+| Pflegeversicherung       | 1,7 |     |
+| Arbeitslosenversicherung | 1,3 |     |
 | = Nettolohn              |     |     |
+
+Arbeitnehmer und Arbeitgeber zahlen 50% der Sozialversicherung.
+Krankenversicherung: Man muss maximal 59.850€/4.987,5€ (West/Ost) zahlen
 
 ![[Pasted image 20240130135233.png]]
 [[Zusatzbeitrag]]
