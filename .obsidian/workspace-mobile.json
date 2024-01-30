@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b18464e5bf6f04f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "4761bf54c295cea3",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/Gehaltsabrechnung.md",
+            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/Gehaltsabrechnung.md",
+            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/Gehaltsabrechnung.md"
+            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
           }
         }
       },
@@ -164,14 +175,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eea64131f95ebe8e",
+  "active": "b18464e5bf6f04f9",
   "lastOpenFiles": [
+    "8. Files/Pasted Image 20240130141512_139.jpg",
+    "7. School/Gehaltsabrechnung.md",
+    "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "1. Excalidraw/3D axe.excalidraw.md",
+    "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
     "7. School/Solidaritätszuschlag.md",
     "6. Time/Daily/2024-01-30.md",
-    "7. School/Gehaltsabrechnung.md",
     "7. School/BwL.md",
-    "1. Excalidraw/3D axe.excalidraw.md",
     "3. Computer/Games.md",
     "1. Excalidraw/Mind model.excalidraw.md",
     "4. Human/Carl Jung.md",
@@ -184,8 +198,6 @@
     "8. Files/Pasted Image 20240120230946_420.jpg",
     "8. Files/Pasted image 20240115183135.jpg",
     "8. Files/Pasted image 20240115163626.png",
-    "8. Files/Pasted image 20240114164115.png",
-    "8. Files/Pasted image 20240114163438.png",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "1. Excalidraw/Stick Exersice.excalidraw.md",
     "1. Excalidraw/IFS Model.excalidraw.md",
@@ -201,7 +213,6 @@
     "3. Computer/Telnet 23.md",
     "3. Computer/Fedora.md",
     "3. Computer/Cargo.md",
-    "3. Computer/SMTP 25.md",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",

@@ -21,7 +21,7 @@
   "newFileLocation": "current",
   "vimMode": false,
   "showUnsupportedFiles": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
   "rightToLeft": false,

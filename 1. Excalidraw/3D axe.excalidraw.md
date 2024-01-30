@@ -266,33 +266,38 @@ Decision ^gOpr9Ynb
 			"baseline": 17
 		},
 		{
-			"id": "LOmvbk9iptcG-CysOSAEJ",
 			"type": "line",
-			"x": 171.8821349475749,
-			"y": 366.2210016134559,
-			"width": 349.23741624673863,
-			"height": 26.86441663436449,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 36,
+			"versionNonce": 547424050,
+			"isDeleted": false,
+			"id": "LOmvbk9iptcG-CysOSAEJ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 171.8821349475749,
+			"y": 366.2210016134559,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 349.23741624673863,
+			"height": 26.86441663436449,
+			"seed": 164652368,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 164652368,
-			"version": 36,
-			"versionNonce": 547424050,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1706518211802,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -302,21 +307,59 @@ Decision ^gOpr9Ynb
 					349.23741624673863,
 					26.86441663436449
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"backgroundProps": "transparent"
+			]
 		},
 		{
-			"id": "gU7-i9zJESQAA7wIkbrrR",
 			"type": "line",
+			"version": 59,
+			"versionNonce": 429750608,
+			"isDeleted": false,
+			"id": "gU7-i9zJESQAA7wIkbrrR",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": 173.67309605653253,
 			"y": 302.6418822454599,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
 			"width": 363.56510511839974,
 			"height": 87.75709433892405,
+			"seed": 1193239984,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1706518188303,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					363.56510511839974,
+					87.75709433892405
+				]
+			]
+		},
+		{
+			"id": "ETk7nOnW",
+			"type": "text",
+			"x": 1206.1889556439457,
+			"y": -254.63393678574994,
+			"width": 10,
+			"height": 25,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -327,32 +370,25 @@ Decision ^gOpr9Ynb
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1193239984,
-			"version": 59,
-			"versionNonce": 429750608,
-			"isDeleted": false,
+			"roundness": null,
+			"seed": 825603413,
+			"version": 2,
+			"versionNonce": 1042558747,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1706518188303,
+			"updated": 1706620391401,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					363.56510511839974,
-					87.75709433892405
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -370,10 +406,10 @@ Decision ^gOpr9Ynb
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -171.88213494757497,
-		"scrollY": -224.6821669425949,
+		"scrollX": 872.5516047683143,
+		"scrollY": 821.8776171644698,
 		"zoom": {
-			"value": 3.4780691257371634
+			"value": 0.5782347364029001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
