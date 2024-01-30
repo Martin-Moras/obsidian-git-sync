@@ -3,34 +3,17 @@ File Creation date: 2024-01-30
 ---
 Was wird einem normalen Arbeitnehmer vom Bruttolohn abgezogen?
 
-| Bruttogehalt    |     | 133 |
-| --------------- | --- | --- |
-|                 |     |     |
-|                 |     |     |
-|                 |     |     |
-| Sozialabrechnug | %   |     |
-|                 |     |     |
-|                 |     |     |
-|                 |     |     |
-|                 |     |     |
-| = Nettolohn     |     |     |
+| Bruttogehalt             |     | 133 |
+| ------------------------ | --- | --- |
+| Lohnsteuer               |     |     |
+| Kirchensteuer            |     |     |
+| [[Solidaritätszuschlag]] |     |     |
+| Sozialabrechnug          | %   |     |
+| Rentenversicherung       | 9,3 |     |
+| Krankenversicherung      | 7,3 |     |
+| Pflegeversicherung       |     |     |
+| Arbeitslosenversicherung |     |     |
+| = Nettolohn              |     |     |
 
-
-| 123 |   Pijpojaeo  |   Ojpwopejf  |
-| --- | --- | --- |
-|     Ksuaocnxyio| linking    |  jop9jwfep   |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-
-
-|ddl | |
-|-|
-| öf| |
-
-
-| |
-|-|
+![[Pasted image 20240130135233.png]]
+[[Zusatzbeitrag]]

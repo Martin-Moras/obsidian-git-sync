@@ -85,8 +85,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "5d306aa4b3d80423",
@@ -168,8 +167,11 @@
   },
   "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
-    "7. School/BwL.md",
+    "8. Files/Pasted image 20240130135233.png",
+    "7. School/Solidaritätszuschlag.md",
+    "6. Time/Daily/2024-01-30.md",
     "7. School/Gehaltsabrechnung.md",
+    "7. School/BwL.md",
     "1. Excalidraw/3D axe.excalidraw.md",
     "3. Computer/Games.md",
     "1. Excalidraw/Mind model.excalidraw.md",
@@ -201,9 +203,6 @@
     "3. Computer/Fedora.md",
     "3. Computer/Cargo.md",
     "3. Computer/SMTP 25.md",
-    "3. Computer/FTP 21.md",
-    "3. Computer/MBR.md",
-    "3. Computer/MAC address.md",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",
