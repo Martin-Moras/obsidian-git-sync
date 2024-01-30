@@ -20,24 +20,6 @@
             }
           },
           {
-            "id": "4761bf54c295cea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Carl Jung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cdbc78df1a7818e2",
-        "type": "tabs",
-        "children": [
-          {
             "id": "b18464e5bf6f04f9",
             "type": "leaf",
             "state": {
@@ -47,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,9 +165,9 @@
   },
   "active": "b18464e5bf6f04f9",
   "lastOpenFiles": [
-    "8. Files/Pasted Image 20240130141512_139.jpg",
     "7. School/Gehaltsabrechnung.md",
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "8. Files/Pasted Image 20240130141512_139.jpg",
     "1. Excalidraw/3D axe.excalidraw.md",
     "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
@@ -202,7 +185,6 @@
     "8. Files/Pasted Image 20240122212818_947.png",
     "8. Files/Pasted Image 20240120230946_420.jpg",
     "8. Files/Pasted image 20240115183135.jpg",
-    "8. Files/Pasted image 20240115163626.png",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "1. Excalidraw/Stick Exersice.excalidraw.md",
     "1. Excalidraw/IFS Model.excalidraw.md",
