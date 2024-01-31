@@ -238,7 +238,7 @@
       "freedrawOnly": true,
       "strokeColor": "#B83E3E",
       "backgroundColor": "#FF7C7C",
-      "fillStyle": "dashed",
+      "fillStyle": "zigzag",
       "strokeWidth": 2,
       "roughness": 3,
       "penOptions": {
