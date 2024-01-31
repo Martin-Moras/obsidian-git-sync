@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9a466535328b00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Computer/Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "3. Computer/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "3. Computer/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Rust.md"
+                "file": "3. Computer/Linux.md"
               }
             }
           }
@@ -194,8 +182,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9a466535328b00a",
+  "active": "a437581d7552e54e",
   "lastOpenFiles": [
+    "8. Files/Pasted image 20240130140546.png",
+    "8. Files/Pasted image 20240130135233.png",
+    "8. Files/Pasted Image 20240130141512_139.jpg",
+    "8. Files/Pasted Image 20240127190703_256.png",
+    "8. Files/Pasted Image 20240127190622_196.jpg",
+    "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "7. School/Solidaritätszuschlag.md",
+    "7. School/Gehaltsabrechnung.md",
+    "3. Computer/Games.md",
     "3. Computer/Rust.md",
     "8. Files/Pasted image 20240122225910.png",
     "3. Computer/TUI.md",
@@ -226,20 +223,12 @@
     "4. Human/Memory.md",
     "4. Human/Multi store model.md",
     "1. Excalidraw/Multi store model.excalidraw.md",
-    "1. Excalidraw/Drawing 2024-01-18 18.52.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 18.50.59.excalidraw.md",
-    "1. Excalidraw/IFS Part model.excalidraw.md",
-    "4. Human/IFS Parts.md",
     "Files",
-    "Pasted image 20240115203721.png",
-    "Pasted image 20240115203524.png",
     "Templates",
     "8. Spiritual",
-    "7. School/DDR/DDR-Karte.png",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/DDR",
     "7. School",
-    "6. Time/Daily",
-    "8. Files/Richard Schwatz portrait.png"
+    "6. Time/Daily"
   ]
 }
