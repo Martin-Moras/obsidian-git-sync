@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4e67eb5cb827e4",
+        "id": "f7571cd444fcefd6",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea4579f188d9bd2",
+            "id": "f81ac9861f52f0bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft tree spirit craft.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c40a31197a1a5599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minecraft tree spirit craft.md",
+                "file": "Templates/Generic Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft tree spirit craft.md",
+                "file": "Templates/Generic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft tree spirit craft.md",
+                "file": "Templates/Generic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft tree spirit craft.md"
+                "file": "Templates/Generic Template.md"
               }
             }
           },
@@ -173,17 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c40a31197a1a5599",
+  "active": "f81ac9861f52f0bc",
   "lastOpenFiles": [
-    "Minecraft.md",
-    "Minecraft tree spirit craft.md",
+    "Templates/Untitled.md",
+    "5. Private/Weired things.md",
+    "5. Private/Minecraft tree spirit craft.md",
+    "5. Private/Minecraft.md",
     "Templates/Generic Template.md",
     "Untitled 1.md",
     "Untitled.md",
     "Templates/Untitled 1.md",
     "Templates/Focus shortcut.md",
     "Templates/bug test.md",
-    "Templates/Untitled.md",
     "Templates/Templater test.md",
     "5. Private/Projects/Goals.md",
     "8. Files/Pasted image 20240115203721 1.png",
@@ -217,7 +205,6 @@
     "7. School/DDR/1949.md",
     "7. School/Unternehmensformen.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
-    "7. School/Solidaritätszuschlag.md",
     "7. School/DDR",
     "7. School",
     "6. Time/Daily"
