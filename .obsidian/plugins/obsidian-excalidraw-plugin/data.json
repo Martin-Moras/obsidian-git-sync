@@ -110,35 +110,35 @@
   ],
   "customPens": [
     {
-      "type": "default",
+      "type": "finetip",
       "freedrawOnly": true,
-      "fillStyle": "dots",
+      "fillStyle": "hachure",
       "strokeWidth": 0.5,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": true,
         "hasOutline": false,
         "outlineWidth": 0,
+        "constantPressure": true,
         "options": {
-          "thinning": 0.6,
-          "smoothing": 0.5,
-          "streamline": 0.5,
-          "easing": "easeOutSine",
+          "smoothing": 0.4,
+          "thinning": -0.5,
+          "streamline": 0.4,
+          "easing": "linear",
           "start": {
-            "cap": true,
             "taper": 0,
+            "cap": false,
             "easing": "linear"
           },
           "end": {
-            "cap": true,
             "taper": 0,
-            "easing": "linear"
+            "cap": false,
+            "easing": "easeOutQuart"
           }
         }
       },
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent"
+      "backgroundColor": "transparent",
+      "strokeColor": "#ffffff"
     },
     {
       "type": "highlighter",
