@@ -10,3 +10,5 @@ Silent
 Loving
 Every action is done to achieve my [[Goals]]
 Curious
+# What do I want to achieve?
+[[Make the world a better place]]
