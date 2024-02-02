@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
+                "file": "5. Private/Me.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d93a1107ce0dbee9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+                "file": "5. Private/Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+                "file": "5. Private/Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md"
+                "file": "5. Private/Me.md"
               }
             }
           },
@@ -171,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d93a1107ce0dbee9",
+  "active": "ec7e5fd930a55ee3",
   "lastOpenFiles": [
     "5. Private/Projects/Make the world a better place.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "Untitled.md",
     "5. Private/Projects/Goals.md",
     "Templates/Generic Template.md",
     "Templates/Untitled.md",
@@ -182,7 +172,6 @@
     "5. Private/Minecraft tree spirit craft.md",
     "5. Private/Minecraft.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Templates/Untitled 1.md",
     "Templates/Focus shortcut.md",
     "Templates/bug test.md",
