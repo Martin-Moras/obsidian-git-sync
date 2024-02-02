@@ -113,7 +113,7 @@
       "type": "finetip",
       "freedrawOnly": true,
       "fillStyle": "hachure",
-      "strokeWidth": 0.5,
+      "strokeWidth": 0,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
@@ -131,7 +131,7 @@
             "easing": "linear"
           },
           "end": {
-            "taper": 0,
+            "taper": 2,
             "cap": false,
             "easing": "easeOutQuart"
           }
