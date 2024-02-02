@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+            "file": "7. School/Gehaltsabrechnung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+            "file": "7. School/Gehaltsabrechnung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
+            "file": "7. School/Gehaltsabrechnung.md"
           }
         }
       },
@@ -163,10 +162,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b18464e5bf6f04f9",
+  "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
-    "7. School/Gehaltsabrechnung.md",
+    "5. Private/Minecraft.md",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "8. Files/Pasted image 20240115203524.png",
+    "5. Private/Minecraft tree spirit craft.md",
+    "8. Files/Pasted image 20240115203721 1.png",
+    "/8. Files/Pasted image 20240115203721 1.png",
+    "/8. Files/Pasted image 20240115203524.png",
+    "/5. Private/Projects/Goals.md",
+    "/Templates/Generic Template.md",
+    "/8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "/5. Private/Projects/Make the world a better place.md",
+    "/4. Human/Mind Schemas.md",
+    "/5. Private/Minecraft.md",
+    "/5. Private/Minecraft tree spirit craft.md",
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "7. School/Gehaltsabrechnung.md",
     "8. Files/Pasted Image 20240130141512_139.jpg",
     "1. Excalidraw/3D axe.excalidraw.md",
     "8. Files/Pasted image 20240130140546.png",
@@ -181,25 +194,12 @@
     "8. Files/Pasted Image 20240127190622_196.jpg",
     "4. Human/Mind.md",
     "8. Files/Pasted image 20240122225910.png",
-    "8. Files/Pasted Image 20240122212833_948.png",
-    "8. Files/Pasted Image 20240122212818_947.png",
-    "8. Files/Pasted Image 20240120230946_420.jpg",
-    "8. Files/Pasted image 20240115183135.jpg",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw.md",
     "1. Excalidraw/Stick Exersice.excalidraw.md",
     "1. Excalidraw/IFS Model.excalidraw.md",
     "3. Computer/HTTPS 443.md",
     "3. Computer/Registered ports.md",
     "3. Computer/UDP.md",
-    "3. Computer/TCP.md",
-    "3. Computer/proof of work.md",
-    "3. Computer/TUI.md",
-    "3. Computer/SMB 139+445.md",
-    "3. Computer/Application layer.md",
-    "3. Computer/IANA.md",
-    "3. Computer/Telnet 23.md",
-    "3. Computer/Fedora.md",
-    "3. Computer/Cargo.md",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",
