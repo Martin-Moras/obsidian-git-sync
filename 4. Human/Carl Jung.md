@@ -33,32 +33,27 @@ Unaware or suppressed thoughts and memories
 4. The Anima, the Feminine Side, the Soul, the Muse
 5. The Animus, Masculine Side, the Spirit, the Guide
 6. The Mother
-
-1. The Self
-2. The Shadow
-3. The Anima/Animus
-4. The Persona
-5. The Hero
-6. The Mother
-7. The Father
-8. The Child
-9. The Wise Old Man/Woman
-10. The Trickster
-11. The Maiden
-12. The Warrior
-13. The Lover
-14. The Sage
-15. The Jester
-16. The Explorer
-17. The Creator
-18. The Destroyer
-19. The Ruler
-20. The Rebel
-21. The Caregiver
-22. The Orphan
-23. The Seeker
-24. The Innocent
-25. The Everyman/Everywoman
+9. The Hero
+10. The Mother
+11. The Father
+12. The Child
+13. The Wise Old Man/Woman
+14. The Trickster
+15. The Maiden
+16. The Warrior
+17. The Lover
+18. The Sage
+19. The Jester
+20. The Explorer
+21. The Creator
+22. The Destroyer
+23. The Ruler
+24. The Rebel
+25. The Caregiver
+26. The Orphan
+27. The Seeker
+28. The Innocent
+29. The Everyman/Everywoman
 
 # Main goal of human psychological development
 **Self realisation/Individuation**
