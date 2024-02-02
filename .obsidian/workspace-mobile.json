@@ -11,34 +11,15 @@
             "id": "eea64131f95ebe8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Excalidraw/Mind model.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a14790b07122a41e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "082e823153ae2c83",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "5. Private/Me.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5d306aa4b3d80423",
@@ -104,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "5. Private/Me.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "5. Private/Me.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "5. Private/Me.md"
           }
         }
       },
@@ -167,13 +148,14 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "082e823153ae2c83",
+  "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
-    "Untitled.md",
     "1. Excalidraw/Mind model.excalidraw.md",
+    "Untitled.md",
     "202402021229.md",
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "4. Human/Mind.md",
