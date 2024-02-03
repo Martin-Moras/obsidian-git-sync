@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Me.md",
+                "file": "4. Human/Nutrition/Nutrition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Me.md",
+                "file": "4. Human/Nutrition/Nutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Me.md",
+                "file": "4. Human/Nutrition/Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Me.md"
+                "file": "4. Human/Nutrition/Nutrition.md"
               }
             }
           },
@@ -162,8 +162,10 @@
   },
   "active": "ec7e5fd930a55ee3",
   "lastOpenFiles": [
-    "4. Human/Carl Jung.md",
     "5. Private/Me.md",
+    "4. Human/Nutrition/Nutrition.md",
+    "4. Human/Nutrition",
+    "4. Human/Carl Jung.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "5. Private/Projects/Make the world a better place.md",
     "Untitled.md",
@@ -204,9 +206,7 @@
     "7. School/DDR/DDR.md",
     "7. School/DDR/DDR Vortrag.md",
     "7. School/DDR/DDR Vortrag TTS.mp3",
-    "7. School/DDR/DDR Vortrag GPT V2.md",
     "7. School/DDR",
-    "7. School",
-    "6. Time/Daily"
+    "7. School"
   ]
 }
