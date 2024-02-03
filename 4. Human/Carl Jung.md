@@ -5,6 +5,14 @@ File Creation date: 2024-01-18
 [[Analytical psychology]]
 [[Innate knowledge]]
 
+Awareness of mind activity. Why is the mind doing what it is doing?
+
+Curious
+Gain knowledge 
+Save energy
+Have fun 
+Socalise
+
 
 # Jung's 3 realms of the psyche
 - Children play to develop their Archetypes.

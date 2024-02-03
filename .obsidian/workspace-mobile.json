@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Me.md",
+                "file": "/4. Human/Carl Jung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Private/Me.md",
+            "file": "/4. Human/Carl Jung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Private/Me.md",
+            "file": "/4. Human/Carl Jung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Private/Me.md"
+            "file": "/4. Human/Carl Jung.md"
           }
         }
       },
@@ -154,6 +154,7 @@
   },
   "active": "eea64131f95ebe8e",
   "lastOpenFiles": [
+    "5. Private/Me.md",
     "4. Human/Nutrition/Nutrition.md",
     "4. Human/Nutrition",
     "/8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
@@ -188,7 +189,6 @@
     "7. School/Solidaritätszuschlag.md",
     "6. Time/Daily/2024-01-30.md",
     "7. School/BwL.md",
-    "3. Computer/Games.md",
     "8. Files/Pasted Image 20240127190703_256.png",
     "8. Files/Pasted Image 20240127190622_196.jpg",
     "8. Files/Pasted image 20240122225910.png",
