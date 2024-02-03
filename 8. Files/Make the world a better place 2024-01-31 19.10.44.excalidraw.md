@@ -27,6 +27,10 @@ Mind created  Problems ^EeE4P2XZ
 
 Set a goal ^D0Yf8luo
 
+Want to achieve this goal ^zI7oTk8L
+
+To achieve this goal, dedicate your whole attention to it ^fXEoabYb
+
 %%
 # Drawing
 ```json
@@ -37,8 +41,8 @@ Set a goal ^D0Yf8luo
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 214,
-			"versionNonce": 421494024,
+			"version": 216,
+			"versionNonce": 815674744,
 			"isDeleted": false,
 			"id": "Wb-e6izYch3xyimVSB-Ni",
 			"fillStyle": "solid",
@@ -65,14 +69,14 @@ Set a goal ^D0Yf8luo
 					"id": "IIFRA2lb"
 				}
 			],
-			"updated": 1706979632759,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 677951352,
+			"version": 202,
+			"versionNonce": 1470365192,
 			"isDeleted": false,
 			"id": "IIFRA2lb",
 			"fillStyle": "solid",
@@ -92,7 +96,7 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706979632759,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -108,8 +112,8 @@ Set a goal ^D0Yf8luo
 		},
 		{
 			"type": "rectangle",
-			"version": 255,
-			"versionNonce": 869928968,
+			"version": 257,
+			"versionNonce": 1663616632,
 			"isDeleted": false,
 			"id": "i-8w2_46ps0FbAiAGqn_h",
 			"fillStyle": "solid",
@@ -140,14 +144,14 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706979798439,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 542698504,
+			"version": 219,
+			"versionNonce": 1434909960,
 			"isDeleted": false,
 			"id": "NsXJ5nFq",
 			"fillStyle": "solid",
@@ -167,7 +171,7 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706979731080,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -202,8 +206,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 1367237128,
-			"version": 252,
-			"versionNonce": 412373880,
+			"version": 254,
+			"versionNonce": 1748580216,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -219,7 +223,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706980210756,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false
 		},
@@ -242,11 +246,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 2028114952,
-			"version": 342,
-			"versionNonce": 13855352,
+			"version": 344,
+			"versionNonce": 1018305544,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980218352,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"text": "Help Humans",
@@ -281,8 +285,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 60078344,
-			"version": 251,
-			"versionNonce": 1574422536,
+			"version": 253,
+			"versionNonce": 873695352,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -294,7 +298,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706979791886,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false
 		},
@@ -317,11 +321,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 741656072,
-			"version": 304,
-			"versionNonce": 387885064,
+			"version": 306,
+			"versionNonce": 1864456968,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706979731080,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"text": "Show Humans\nproblems and give\nthem a solution",
@@ -356,8 +360,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 1762280968,
-			"version": 1473,
-			"versionNonce": 154915192,
+			"version": 1475,
+			"versionNonce": 310098296,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -373,7 +377,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706980052499,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false
 		},
@@ -396,11 +400,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 827899656,
-			"version": 1317,
-			"versionNonce": 373170696,
+			"version": 1319,
+			"versionNonce": 793819656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980052499,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"text": "Problems",
@@ -435,11 +439,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 2111619704,
-			"version": 2653,
-			"versionNonce": 1212670984,
+			"version": 2655,
+			"versionNonce": 917883512,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980030013,
+			"updated": 1706981006771,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -487,11 +491,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 984704264,
-			"version": 20,
-			"versionNonce": 64479608,
+			"version": 22,
+			"versionNonce": 272382216,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706979795310,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -535,11 +539,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 1643635576,
-			"version": 32,
-			"versionNonce": 1872589064,
+			"version": 34,
+			"versionNonce": 1267055480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706979798439,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -587,8 +591,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 348005128,
-			"version": 154,
-			"versionNonce": 1622512904,
+			"version": 156,
+			"versionNonce": 1700780040,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -600,7 +604,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706980109999,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
@@ -623,11 +627,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 1251799816,
-			"version": 115,
-			"versionNonce": 374191112,
+			"version": 117,
+			"versionNonce": 53447800,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980109999,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"text": "Personal",
@@ -662,11 +666,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 1074234888,
-			"version": 257,
-			"versionNonce": 1491489288,
+			"version": 259,
+			"versionNonce": 850892552,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980109999,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -714,8 +718,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 832571768,
-			"version": 138,
-			"versionNonce": 1781937160,
+			"version": 140,
+			"versionNonce": 662125944,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -727,7 +731,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706980107989,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
@@ -750,11 +754,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 1868218232,
-			"version": 91,
-			"versionNonce": 73560840,
+			"version": 93,
+			"versionNonce": 482309640,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980107989,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"text": "Global",
@@ -789,11 +793,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 255254792,
-			"version": 50,
-			"versionNonce": 749654536,
+			"version": 52,
+			"versionNonce": 698404472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980107990,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -837,8 +841,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 678391816,
-			"version": 119,
-			"versionNonce": 2048276344,
+			"version": 121,
+			"versionNonce": 1483961608,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -850,7 +854,7 @@ Set a goal ^D0Yf8luo
 					"type": "arrow"
 				}
 			],
-			"updated": 1706980157094,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
@@ -873,11 +877,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 1738258552,
-			"version": 82,
-			"versionNonce": 38832248,
+			"version": 84,
+			"versionNonce": 846217080,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980157094,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"text": "Mind created \nProblems",
@@ -912,11 +916,11 @@ Set a goal ^D0Yf8luo
 				"type": 2
 			},
 			"seed": 333580664,
-			"version": 72,
-			"versionNonce": 286833016,
+			"version": 74,
+			"versionNonce": 458200072,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980157094,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -960,11 +964,11 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 550392840,
-			"version": 80,
-			"versionNonce": 1346299144,
+			"version": 82,
+			"versionNonce": 841584760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980179697,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
@@ -989,8 +993,8 @@ Set a goal ^D0Yf8luo
 				"type": 3
 			},
 			"seed": 1443487608,
-			"version": 15,
-			"versionNonce": 372688392,
+			"version": 17,
+			"versionNonce": 189780744,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -998,7 +1002,7 @@ Set a goal ^D0Yf8luo
 					"id": "D0Yf8luo"
 				}
 			],
-			"updated": 1706980403999,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
@@ -1021,11 +1025,11 @@ Set a goal ^D0Yf8luo
 			"frameId": null,
 			"roundness": null,
 			"seed": 651357560,
-			"version": 25,
-			"versionNonce": 814099720,
+			"version": 27,
+			"versionNonce": 1888534904,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980413398,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
 			"text": "Set a goal",
@@ -1040,14 +1044,14 @@ Set a goal ^D0Yf8luo
 			"lineHeight": 1.25
 		},
 		{
-			"id": "fuaEAa1zyHL7tp0b8aNXR",
+			"id": "ODeb-yXAnMLYuvN-TozHD",
 			"type": "rectangle",
-			"x": -205.7115201124854,
-			"y": 35.628213372208734,
-			"width": 125.6422041679836,
-			"height": 36.22812022021611,
+			"x": -570.3300788671036,
+			"y": 417.8002637253514,
+			"width": 197.69230769230774,
+			"height": 60,
 			"angle": 0,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#4dabf7",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -1059,198 +1063,27 @@ Set a goal ^D0Yf8luo
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1783958136,
-			"version": 59,
-			"versionNonce": 1136212488,
-			"isDeleted": true,
-			"boundElements": [],
-			"updated": 1706979632760,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "xgVhJsG6",
-			"type": "text",
-			"x": -147.89041039909907,
-			"y": 41.24227348231679,
-			"width": 9.999984741210938,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1775846008,
-			"version": 2,
-			"versionNonce": 1145863688,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706979628770,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "fuaEAa1zyHL7tp0b8aNXR",
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "V2pOrswE",
-			"type": "text",
-			"x": 313.81514006678435,
-			"y": 205.20664844556083,
-			"width": 95.89990234375,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1789621000,
-			"version": 12,
-			"versionNonce": 1692927240,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706979776226,
-			"link": null,
-			"locked": false,
-			"text": "ASDfasdf",
-			"rawText": "ASDfasdf",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "ASDfasdf",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "tygrQhyVnLgAJ3mTFXGk0",
-			"type": "rectangle",
-			"x": 187.40212483028552,
-			"y": 137.37527441622004,
-			"width": 1.5416221370304584,
-			"height": 7.708110685152349,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1253188616,
-			"version": 7,
-			"versionNonce": 432752248,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706979780637,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "wKHeOntfDQmLIk7DtyQsm",
-			"type": "arrow",
-			"x": 378.56326982206417,
-			"y": 236.80990225468554,
-			"width": 0,
-			"height": 1.5416221370305152,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1275833864,
-			"version": 135,
-			"versionNonce": 202345336,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706979805472,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.5416221370305152
-				]
+			"seed": 635787384,
+			"version": 55,
+			"versionNonce": 787493384,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "zI7oTk8L"
+				}
 			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "rrjYFOYXwNRi_ac8i2q22",
-			"type": "rectangle",
-			"x": 115.71669545836852,
-			"y": 275.35045568044734,
-			"width": 114.08003814025506,
-			"height": 32.37406487763985,
-			"angle": 0,
-			"strokeColor": "#ffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 59345016,
-			"version": 75,
-			"versionNonce": 799474552,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706979912083,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "gNnOrBSn",
+			"id": "zI7oTk8L",
 			"type": "text",
-			"x": 55.218306154665726,
-			"y": 390.03428198546146,
-			"width": 9.999984741210938,
-			"height": 25,
+			"x": -552.1138307216333,
+			"y": 422.8002637253514,
+			"width": 161.2598114013672,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#4dabf7",
 			"backgroundColor": "transparent",
@@ -1262,24 +1095,124 @@ Set a goal ^D0Yf8luo
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 257520648,
-			"version": 2,
-			"versionNonce": 284222328,
-			"isDeleted": true,
+			"seed": 955985272,
+			"version": 51,
+			"versionNonce": 485085816,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706980134325,
+			"updated": 1706981006772,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "Want to achieve\nthis goal",
+			"rawText": "Want to achieve this goal",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "igNky-VFhbUpTbgzamYpj",
-			"originalText": "",
+			"baseline": 43,
+			"containerId": "ODeb-yXAnMLYuvN-TozHD",
+			"originalText": "Want to achieve this goal",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "fkQ2ufhKJBqz54MjTHRHv",
+			"type": "rectangle",
+			"x": -565.791617328642,
+			"y": 498.3387252638129,
+			"width": 182.30769230769238,
+			"height": 135,
+			"angle": 0,
+			"strokeColor": "#4dabf7",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2071396872,
+			"version": 50,
+			"versionNonce": 1563209992,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "fXEoabYb"
+				}
+			],
+			"updated": 1706981006772,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "fXEoabYb",
+			"type": "text",
+			"x": -551.4176784013583,
+			"y": 515.8387252638129,
+			"width": 153.559814453125,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#4dabf7",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1450432776,
+			"version": 88,
+			"versionNonce": 1576584056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706981006772,
+			"link": null,
+			"locked": false,
+			"text": "To achieve this\ngoal, dedicate\nyour whole\nattention to it",
+			"rawText": "To achieve this goal, dedicate your whole attention to it",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 93,
+			"containerId": "fkQ2ufhKJBqz54MjTHRHv",
+			"originalText": "To achieve this goal, dedicate your whole attention to it",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Ug62HIzqJYYVIsNh2iyGi",
+			"type": "rectangle",
+			"x": -551.9454634824883,
+			"y": 649.8771868022745,
+			"width": 126.15384615384617,
+			"height": 104.61538461538464,
+			"angle": 0,
+			"strokeColor": "#4dabf7",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1944821768,
+			"version": 311,
+			"versionNonce": 1354524024,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706981008683,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1298,7 +1231,7 @@ Set a goal ^D0Yf8luo
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1115.0223865594112,
-		"scrollY": -20.297859879197564,
+		"scrollY": -204.91324449458216,
 		"zoom": {
 			"value": 1.3
 		},
