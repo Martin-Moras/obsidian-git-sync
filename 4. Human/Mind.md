@@ -22,3 +22,4 @@ File Creation date: 2024-01-16
 
 # How the mind works
 [Rupert Spira: Do We Choose our Thoughts?](https://www.youtube.com/watch?v=tJxL4s4cI8s)
+https://www.youtube.com/watch?v=nnJTUU8Fzxs
