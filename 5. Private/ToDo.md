@@ -7,12 +7,16 @@ kanban-plugin: basic
 ## Always
 
 - [ ] Focus
+- [ ] CAT toilete
+- [ ] Trash
+- [ ] Self work<br>- [ ] communication: <br>- [ ] English skills
 
 
 ## Important
 
-- [ ] BWL Presentation
 - [ ] Fahrschule
+- [ ] Car lights
+- [ ] Plan life
 
 
 ## Unimportant
@@ -26,6 +30,7 @@ kanban-plugin: basic
 ## Done
 
 - [ ] [[5. Private/DDR]]
+- [ ] BWL Presentation
 - [ ] Ethik
 
 
