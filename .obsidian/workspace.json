@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
+                "file": "4. Human/Mind.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8da764bea27de50e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+                "file": "4. Human/Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+                "file": "4. Human/Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md"
+                "file": "4. Human/Mind.md"
               }
             }
           },
@@ -172,10 +161,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8da764bea27de50e",
+  "active": "fde89e21ffcdbf60",
   "lastOpenFiles": [
-    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "5. Private/Projects/Make the world a better place.md",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "8. Files/Pasted image 20240206135900.jpg",
+    "8. Files/Pasted Image 20240206140034_129.jpg",
+    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
+    "7. School/Beitragsbemessungsgrenze.md",
+    "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "4. Human/Nutrition/Nutrition.md",
     "5. Private/Me.md",
     "4. Human/Nutrition",
@@ -208,15 +202,9 @@
     "8. Files/Pasted image 20240130135233.png",
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115183135.jpg",
-    "8. Files/Pasted image 20240115163626.png",
-    "8. Files/Pasted image 20240114164115.png",
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "8. Files",
     "7. School/DDR/github test.md",
-    "7. School/DDR/Wirtschaft der DDR.md",
-    "7. School/DDR/UDSSR.md",
-    "7. School/DDR/DDR.md",
-    "7. School/DDR/DDR Vortrag.md",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/DDR",
     "7. School"
