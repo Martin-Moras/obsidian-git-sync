@@ -18,30 +18,14 @@
             }
           },
           {
-            "id": "a1d1dab18425dae3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cc6c40480a70ff60",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md"
+                "file": "7. School/Beitragsbemessungsgrenze.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -180,9 +164,10 @@
   },
   "active": "0fe4b65834352c86",
   "lastOpenFiles": [
+    "7. School/Beitragsbemessungsgrenze.md",
+    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
     "7. School/Gehaltsabrechnung.md",
     "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
-    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
     "7. School/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "8. Files/Pasted Image 20240206140034_129.jpg",
     "7. School/BwL.md",
@@ -213,7 +198,6 @@
     "/Templates/Generic Template.md",
     "/4. Human/Mind Schemas.md",
     "/5. Private/Minecraft.md",
-    "/5. Private/Minecraft tree spirit craft.md",
     "8. Files/Pasted Image 20240130141512_139.jpg",
     "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
