@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "281cb46a64932ea5",
+        "id": "1e36c712c0e7d7d1",
         "type": "tabs",
         "children": [
           {
-            "id": "eea64131f95ebe8e",
+            "id": "0fe4b65834352c86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. School/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1d1dab18425dae3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md"
+          }
         }
       },
       {
@@ -144,8 +163,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eea64131f95ebe8e",
+  "active": "a1d1dab18425dae3",
   "lastOpenFiles": [
+    "7. School/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "7. School/Gehaltsabrechnung.md",
+    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
+    "8. Files/Pasted Image 20240206140034_129.jpg",
+    "7. School/BwL.md",
+    "8. Files/Pasted image 20240206135900.jpg",
     "/8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "/5. Private/Projects/Make the world a better place.md",
     "5. Private/Me.md",
@@ -161,7 +186,6 @@
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "4. Human/Mind.md",
     "4. Human/Carl Jung.md",
-    "7. School/Gehaltsabrechnung.md",
     "5. Private/Minecraft.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Pasted image 20240115203524.png",
@@ -175,15 +199,9 @@
     "/5. Private/Minecraft.md",
     "/5. Private/Minecraft tree spirit craft.md",
     "8. Files/Pasted Image 20240130141512_139.jpg",
-    "1. Excalidraw/3D axe.excalidraw.md",
     "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
-    "7. School/Solidaritätszuschlag.md",
-    "6. Time/Daily/2024-01-30.md",
-    "7. School/BwL.md",
     "8. Files/Pasted Image 20240127190703_256.png",
-    "8. Files/Pasted Image 20240127190622_196.jpg",
-    "8. Files/Pasted image 20240122225910.png",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",
