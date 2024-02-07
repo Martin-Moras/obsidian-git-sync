@@ -16,29 +16,8 @@
                 "file": "5. Private/ToDo.md"
               }
             }
-          },
-          {
-            "id": "76173d9bce10b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "50931a638750cb61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Mind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Human/Mind.md",
+            "file": "5. Private/ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Human/Mind.md",
+            "file": "5. Private/ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Human/Mind.md"
+            "file": "5. Private/ToDo.md"
           }
         }
       },
@@ -171,10 +150,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50931a638750cb61",
+  "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
-    "Untitled.md",
     "5. Private/ToDo.md",
+    "4. Human/Mind.md",
+    "Untitled.md",
     "7. School/BwL.md",
     "/4. Human/Mind.md",
     "7. School/Gehaltsabrechnung.md",
@@ -196,7 +176,6 @@
     "1. Excalidraw/Mind model.excalidraw.md",
     "202402021229.md",
     "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
-    "4. Human/Mind.md",
     "4. Human/Carl Jung.md",
     "5. Private/Minecraft.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",

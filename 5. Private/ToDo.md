@@ -9,7 +9,7 @@ kanban-plugin: basic
 - [ ] Focus
 - [ ] CAT toilete
 - [ ] Trash 🗑️
-- [ ] Read 📚
+- [ ] Read 📚<br>- fast<br>- out loud<br>	- right pronounciation<br>	- fast
 - [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
