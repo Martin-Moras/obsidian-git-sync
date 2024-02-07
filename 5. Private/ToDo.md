@@ -8,7 +8,8 @@ kanban-plugin: basic
 
 - [ ] Focus
 - [ ] CAT toilete
-- [ ] Trash
+- [ ] Trash 🗑️
+- [ ] Read 📚
 - [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
@@ -27,6 +28,8 @@ kanban-plugin: basic
 - [ ] Read (fast)
 - [ ] Emulate:<br>- consoles<br>- Pones
 - [ ] Produce own clothes<br>- Make/get perfect buff<br>- Backpack<br>- Trowsers
+- [ ] Voice recognition that converts speech to IPA and than IPA to written words
+- [ ] How emoji's work(code wise)
 
 
 ## Done
