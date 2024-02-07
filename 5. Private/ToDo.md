@@ -20,6 +20,7 @@ kanban-plugin: basic
 - [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
 - [ ] Enlighten
 - [ ] How to teach yourself something
+- [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
 
 
 ## Unimportant
