@@ -11,3 +11,6 @@
 [[Speed]]
 [[Hypertrophy]]
 [[Tone]]
+
+# practices 
+[[Yoga]]

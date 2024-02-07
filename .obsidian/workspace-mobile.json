@@ -11,9 +11,11 @@
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "5. Private/ToDo.md"
+                "file": "4. Human/Self work/Body/Yoga.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "4. Human/Self work/Body/Yoga.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "4. Human/Self work/Body/Yoga.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Private/ToDo.md"
+            "file": "4. Human/Self work/Body/Yoga.md"
           }
         }
       },
@@ -152,6 +154,9 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "4. Human/Self work/Body/Body.md",
+    "4. Human/Self work/Body/Yoga.md",
+    "4. Human/Human.md",
     "5. Private/ToDo.md",
     "4. Human/Mind.md",
     "Untitled.md",
@@ -180,12 +185,9 @@
     "5. Private/Minecraft.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Pasted image 20240115203524.png",
-    "5. Private/Minecraft tree spirit craft.md",
     "8. Files/Pasted image 20240115203721 1.png",
     "/8. Files/Pasted image 20240115203721 1.png",
     "/8. Files/Pasted image 20240115203524.png",
-    "/5. Private/Projects/Goals.md",
-    "/Templates/Generic Template.md",
     "8. Files/Pasted Image 20240130141512_139.jpg",
     "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
