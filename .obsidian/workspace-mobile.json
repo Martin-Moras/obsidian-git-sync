@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "4. Human/Mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "4. Human/Mind.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "4. Human/Mind.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "4. Human/Mind.md"
           }
         }
       },
