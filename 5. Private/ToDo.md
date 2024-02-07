@@ -9,14 +9,16 @@ kanban-plugin: basic
 - [ ] Focus
 - [ ] CAT toilete
 - [ ] Trash
-- [ ] Self work<br>- [ ] communication: <br>- [ ] English skills
+- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
 ## Important
 
 - [ ] Fahrschule
 - [ ] Car lights
-- [ ] Plan life
+- [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
+- [ ] Enlighten
+- [ ] How to teach yourself something
 
 
 ## Unimportant
@@ -24,7 +26,7 @@ kanban-plugin: basic
 - [ ] Make P smart more useful (Faster)
 - [ ] Read (fast)
 - [ ] Emulate:<br>- consoles<br>- Pones
-- [ ] Make/get perfect buff
+- [ ] Produce own clothes<br>- Make/get perfect buff<br>- Backpack<br>- Trowsers
 
 
 ## Done
