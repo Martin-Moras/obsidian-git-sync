@@ -23,4 +23,11 @@ Nr. 1 Beleg **kann** auch Bedarfsmeldung heißen, aber nur wenn wir Käufer sind
 | 2400 | Forderungen |      |   X   |
 
 # Grundbegriffe
-Waren
+Warenbegleitpapiere = Lieferschein, Rechnung
+Debitoren = Kunden
+Kreditoren = Lieferanten
+
+# Berechnung Kundenrabatt
+Die Ware kostet 175€ 
+Kunde bestellt für 160€
+Berechne 
