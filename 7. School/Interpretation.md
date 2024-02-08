@@ -11,7 +11,8 @@ Die Kurzgeschichte „Das Auto“ wurde von Lily Brett im Jahre 2014 geschrieben
 #### Inhalts angabe
 In der Kurzgeschichte geht es um einen Mann, der seinen Sommerurlaub in einem kleinen Ort namens Shelter Island verbringen will. Es ist ein Ruhiger Ort mit wenig Kriminalität, einer schönen Landschaft und netten Leuten. Aber dann werden seine Urlaubspläne durch sein Auto gestört, welches auf einem Supermarktparkplatz den Geist aufgibt. 
 Daraufhin beginnt er sofort sich darüber zu ärgern. Seine Vorfreude über seinen ruhigen Urlaub geht den Bach runter. Ganz viele negative Erinnerungen die er mit seinem Auto hatte kommen hoch. Wie sein Lincoln Continental langsam begann auseinander zu fallen. Wie die Außentemperatur und die Fahrtrichtung nicht mehr richtig angezeigt wurden. Und wie der Protagonist im Kreis fuhr um zu schauen ob der Wagen die richtige Fahrtrichtung anzeigt.
-Er stieg aus trat gegen den Reifen, um zu schauen ob das Auto dadurch anspringen würde, doch es half nichts. Er versuchte sich 
+Er stieg aus trat gegen den Reifen, um zu schauen ob das Auto dadurch anspringen würde, doch es half nichts. Er versuchte sich zu beruhigen. Dann kamen mehrere Leute vorbei und boten ihm ihre Hilfe an. Er merkte wie es ihm spaß machte mit diesen Freundlichen Fremden zu reden. Nach einer Stunde sprang das Auto wieder an und er fuhr zum Automechaniker. Und-obwohl er unterwegs ein paar mal noch liegen blieb, Gabe es doch immer wieder Leute die ihm halfen.
+Nachdem sein Auto repariert wurde, viel ihm auf, dass er heute seinen schönsten Tag auf dem Land verbracht hatte.
 #### Sprachanalyse/Bedeutung/Interpretation
 
 #### Zusammenfassung
