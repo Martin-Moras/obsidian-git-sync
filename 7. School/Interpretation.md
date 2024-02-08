@@ -9,7 +9,8 @@ File Creation date: 2024-02-08
 #### Einleitung
 Die Kurzgeschichte „Das Auto“ wurde von Lily Brett im Jahre 2014 geschrieben. Die Geschichte wurde in einem alltäglichen Deutsch geschrieben. In der 
 #### Inhalts angabe
-In der Kurzgeschichte geht es um einen Mann, der 
+In der Kurzgeschichte geht es um einen Mann, der seinen Sommerurlaub in einem kleinen Ort namens Shelter Island verbringen will. Es ist ein Ruhiger Ort mit wenig Kriminalität, einer schönen Landschaft und netten Leuten. Aber dann werden seine Urlaubspläne durch sein Auto gestört, welches auf einem Supermarktparkplatz den Geist aufgibt. 
+Daraufhin beginnt er sofort sich darüber zu ärgern. 
 #### Sprachanalyse/Bedeutung/Interpretation
 
 #### Zusammenfassung
