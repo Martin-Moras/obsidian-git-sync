@@ -11,11 +11,36 @@
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "7. School/BwL.md",
-                "mode": "source",
-                "source": false
+                "file": "8. Files/BWL alle Versicherungen.png"
+              }
+            }
+          },
+          {
+            "id": "e5df1eb6c0f18dbf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3f54826e25dd7a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b797c6124ea0d54c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "8. Files/BWL alle Versicherungen.png"
               }
             }
           }
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/BwL.md"
+            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md"
           }
         }
       },
@@ -152,8 +177,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6b300f5ac127a40",
+  "active": "e5df1eb6c0f18dbf",
   "lastOpenFiles": [
+    "8. Files/BWL alle Versicherungen.png",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "7. School/Gehaltsabrechnung.md",
+    "8. Files/Pasted Image 20240208114721_908.jpg",
+    "7. School/BwL.md",
     "7. School/Interpretation.md",
     "7. School/Deutsch.md",
     "7. School/School.md",
@@ -165,9 +195,7 @@
     "5. Private/ToDo.md",
     "4. Human/Mind.md",
     "Untitled.md",
-    "7. School/BwL.md",
     "/4. Human/Mind.md",
-    "7. School/Gehaltsabrechnung.md",
     "7. School/Beitragsbemessungsgrenze.md",
     "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
     "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
@@ -183,14 +211,11 @@
     "/4. Human/Nutrition/Nutrition.md",
     "/4. Human/Carl Jung.md",
     "/4. Human/Nutrition",
-    "1. Excalidraw/Mind model.excalidraw.md",
     "8. Files/Pasted image 20240115203524.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "/8. Files/Pasted image 20240115203721 1.png",
     "/8. Files/Pasted image 20240115203524.png",
     "8. Files/Pasted Image 20240130141512_139.jpg",
-    "8. Files/Pasted image 20240130140546.png",
-    "8. Files/Pasted image 20240130135233.png",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",
