@@ -20,3 +20,9 @@
 3. D
 4. A
 5. B
+
+## S.160
+Communicate online
+When you visit other countries 
+At work 
+If you‘re forced to as a au pair
