@@ -15,3 +15,9 @@ File Creation date: 2024-02-08
 Eingenbeleg: alles was wir schreiben
 Fremdbeleg: alles was andere schreiben
 Nr. 1 Beleg **kann** auch Bedarfsmeldung heißen, aber nur wenn wir Käufer sind
+
+
+| Nr.  |             | Soll | Haben |
+| ---- | ----------- |:----:|:-----:|
+| 2800 | Bank        |  X   |       |
+| 2400 | Forderungen |      |   X   |
