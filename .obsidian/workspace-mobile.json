@@ -6,7 +6,6 @@
       {
         "id": "1e36c712c0e7d7d1",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "e6b300f5ac127a40",
@@ -14,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Gehaltsabrechnung.md",
+                "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,34 +26,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3f54826e25dd7a32",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "b797c6124ea0d54c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "8. Files/BWL alle Versicherungen.png"
-              }
-            }
-          },
-          {
-            "id": "448cb1ca0beb62fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "8. Files/BWL SteuerKlassen.png"
               }
             }
           }
@@ -124,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md"
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md"
           }
         }
       },
@@ -174,7 +145,8 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 4,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +163,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af53bbf3353be3ee",
+  "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "7. School/BwL.md",
+    "Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "Bearbeitungsprozesse Einkauf",
+    "7. School/Gehaltsabrechnung.md",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
-    "7. School/Gehaltsabrechnung.md",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/Pasted image 20240208124148.jpg",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "7. School/Zusatzbeitrag.md",
     "8. Files/BWL SteuerKlassen.png",
     "8. Files/Pasted Image 20240208114721_908.jpg",
-    "7. School/BwL.md",
     "7. School/Interpretation.md",
     "7. School/Deutsch.md",
     "7. School/School.md",
@@ -236,7 +210,6 @@
     "Excalidraw/Scripts/Downloaded",
     "/Excalidraw/Scripts/Downloaded",
     "/Excalidraw/Scripts",
-    "/Excalidraw",
-    "/3. Computer"
+    "/Excalidraw"
   ]
 }
