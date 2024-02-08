@@ -13,50 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Interpretation.md",
+                "file": "7. School/BwL.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "89ee8a66c444082e"
-          }
-        ]
-      },
-      {
-        "id": "d2385f9851547c10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e52de49e5d079bb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "7. School/Interpretation.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "89ee8a66c444082e"
-          }
-        ]
-      },
-      {
-        "id": "2ebc3a4e9385b5ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b8d229d8dbdb8122",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "8. Files/Pasted image 20240208100846.jpg"
               }
             }
           }
@@ -126,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/Interpretation.md",
+            "file": "7. School/BwL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/Interpretation.md",
+            "file": "7. School/BwL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/Interpretation.md"
+            "file": "7. School/BwL.md"
           }
         }
       },
@@ -193,12 +152,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4e52de49e5d079bb",
+  "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "7. School/Interpretation.md",
     "7. School/Deutsch.md",
     "7. School/School.md",
     "7. School/English.md",
-    "7. School/Interpretation.md",
     "8. Files/Pasted image 20240208100846.jpg",
     "4. Human/Self work/Body/Yoga.md",
     "4. Human/Self work/Body/Body.md",
