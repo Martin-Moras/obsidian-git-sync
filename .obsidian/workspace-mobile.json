@@ -6,6 +6,7 @@
       {
         "id": "1e36c712c0e7d7d1",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "e6b300f5ac127a40",
@@ -13,7 +14,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "8. Files/BWL alle Versicherungen.png"
+                "file": "8. Files/Pasted image 20240130140546.png"
               }
             }
           },
@@ -27,12 +28,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3f54826e25dd7a32",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "b797c6124ea0d54c",
@@ -43,8 +44,17 @@
                 "file": "8. Files/BWL alle Versicherungen.png"
               }
             }
+          },
+          {
+            "id": "448cb1ca0beb62fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+            "file": "8. Files/Pasted image 20240130140546.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+            "file": "8. Files/Pasted image 20240130140546.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md"
+            "file": "8. Files/Pasted image 20240130140546.png"
           }
         }
       },
@@ -177,11 +187,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e5df1eb6c0f18dbf",
+  "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "7. School/Gehaltsabrechnung.md",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
-    "7. School/Gehaltsabrechnung.md",
     "8. Files/Pasted Image 20240208114721_908.jpg",
     "7. School/BwL.md",
     "7. School/Interpretation.md",
