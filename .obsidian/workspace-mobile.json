@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/English.md",
+                "file": "7. School/Interpretation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/English.md",
+            "file": "7. School/Interpretation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/English.md",
+            "file": "7. School/Interpretation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/English.md"
+            "file": "7. School/Interpretation.md"
           }
         }
       },
@@ -154,6 +154,11 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "8. Files/Pasted image 20240208100846.jpg",
+    "7. School/Interpretation.md",
+    "7. School/Deutsch.md",
+    "7. School/School.md",
+    "7. School/English.md",
     "4. Human/Self work/Body/Yoga.md",
     "4. Human/Self work/Body/Body.md",
     "4. Human/Human.md",
@@ -179,11 +184,6 @@
     "/4. Human/Carl Jung.md",
     "/4. Human/Nutrition",
     "1. Excalidraw/Mind model.excalidraw.md",
-    "202402021229.md",
-    "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
-    "4. Human/Carl Jung.md",
-    "5. Private/Minecraft.md",
-    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Pasted image 20240115203524.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "/8. Files/Pasted image 20240115203721 1.png",
@@ -191,7 +191,6 @@
     "8. Files/Pasted Image 20240130141512_139.jpg",
     "8. Files/Pasted image 20240130140546.png",
     "8. Files/Pasted image 20240130135233.png",
-    "8. Files/Pasted Image 20240127190703_256.png",
     "3. Computer",
     "Excalidraw/Scripts",
     "Excalidraw",

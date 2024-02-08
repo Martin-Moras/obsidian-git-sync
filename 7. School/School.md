@@ -2,3 +2,4 @@
 [[Ethic]]
 [[History]]
 [[English]]
+[[Deutsch]]
