@@ -26,3 +26,18 @@ Communicate online
 When you visit other countries 
 At work 
 If you‘re forced to as a au pair
+
+3. common  language 17
+	
+	computer languages 28
+	Official languages 35
+	Native languages 34
+	Mager language 36
+	Company languages
+	Only language 38
+	World language 41
+	
+	local language 53
+	
+
+	
