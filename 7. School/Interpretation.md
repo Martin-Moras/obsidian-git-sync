@@ -14,6 +14,9 @@ Daraufhin beginnt er sofort sich darüber zu ärgern. Seine Vorfreude über sein
 Er stieg aus trat gegen den Reifen, um zu schauen ob das Auto dadurch anspringen würde, doch es half nichts. Er versuchte sich zu beruhigen. Dann kamen mehrere Leute vorbei und boten ihm ihre Hilfe an. Er merkte wie es ihm spaß machte mit diesen Freundlichen Fremden zu reden. Nach einer Stunde sprang das Auto wieder an und er fuhr zum Automechaniker. Und-obwohl er unterwegs ein paar mal noch liegen blieb, Gabe es doch immer wieder Leute die ihm halfen.
 Nachdem sein Auto repariert wurde, viel ihm auf, dass er heute seinen schönsten Tag auf dem Land verbracht hatte.
 #### Sprachanalyse/Bedeutung/Interpretation
-Gleich im ersten Satz merkt man anhand der Formulierung: „als ich zum ersten Mal wieder in Shelter Island war“, dass der Protagonist öfters nach Shelter Island kommt. Da Shelter Island sein Rückzugs- und Entspannungsort ist, wie man in Zeile 11 „Ich hatte mich auf Ruhe und Einsamkeit 
+Gleich im ersten Satz merkt man anhand der Formulierung: „als ich zum ersten Mal wieder in Shelter Island war“, dass der Protagonist öfters nach Shelter Island kommt. %%Da Shelter Island sein Rückzugs- und Entspannungsort ist, wie man in Zeile 11 „Ich hatte mich auf Ruhe und Einsamkeit gefreut.“ merkt, muss sein Leben wohl sehr unentspannt sein. 
+%%
+Im 2. Absatz 
+Im dritten Absatz wird anhand eines 
 #### Zusammenfassung
 #### Fazit

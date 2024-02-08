@@ -17,7 +17,32 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "89ee8a66c444082e"
+          }
+        ]
+      },
+      {
+        "id": "d2385f9851547c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e52de49e5d079bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. School/Interpretation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "89ee8a66c444082e"
           }
         ]
       },
@@ -168,7 +193,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6b300f5ac127a40",
+  "active": "4e52de49e5d079bb",
   "lastOpenFiles": [
     "7. School/Deutsch.md",
     "7. School/School.md",
