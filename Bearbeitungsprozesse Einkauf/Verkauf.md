@@ -21,3 +21,6 @@ Nr. 1 Beleg **kann** auch Bedarfsmeldung heißen, aber nur wenn wir Käufer sind
 | ---- | ----------- |:----:|:-----:|
 | 2800 | Bank        |  X   |       |
 | 2400 | Forderungen |      |   X   |
+
+# Grundbegriffe
+Waren
