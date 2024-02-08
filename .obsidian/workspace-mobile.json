@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2ebc3a4e9385b5ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d229d8dbdb8122",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "8. Files/Pasted image 20240208100846.jpg"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
