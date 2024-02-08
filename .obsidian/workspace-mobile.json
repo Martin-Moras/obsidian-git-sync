@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Human/Self work/Body/Yoga.md",
+                "file": "7. School/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Human/Self work/Body/Yoga.md",
+            "file": "7. School/English.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Human/Self work/Body/Yoga.md",
+            "file": "7. School/English.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Human/Self work/Body/Yoga.md"
+            "file": "7. School/English.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
-    "4. Human/Self work/Body/Body.md",
     "4. Human/Self work/Body/Yoga.md",
+    "4. Human/Self work/Body/Body.md",
     "4. Human/Human.md",
     "5. Private/ToDo.md",
     "4. Human/Mind.md",

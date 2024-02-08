@@ -13,3 +13,10 @@
 6. There are many people who 
 7. There are many people who 
 8. There are many people who 
+
+## S. 157
+1. b
+2. C
+3. D
+4. A
+5. B
