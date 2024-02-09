@@ -39,3 +39,13 @@ If you‘re forced to as a au pair
 	
 	local language 53
 	foreign language 61
+
+2024.02.09
+## S. 160
+### B
+1. it‘s spoken all around the world.
+2. able to speak multiple languages.
+3. You were raised speaking German.
+4. Something that is nessesary.
+5. You can speak and understand English fluently.
+6. Have little to no doubt that what their doing is the right thing.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
+                "file": "7. School/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
+            "file": "7. School/English.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
+            "file": "7. School/English.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md"
+            "file": "7. School/English.md"
           }
         }
       },
@@ -165,8 +165,8 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
-    "7. School/BwL.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "7. School/BwL.md",
     "Bearbeitungsprozesse Einkauf",
     "7. School/Gehaltsabrechnung.md",
     "8. Files/BWL alle Versicherungen.png",
