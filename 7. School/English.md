@@ -49,3 +49,9 @@ If you‘re forced to as a au pair
 4. Something that is nessesary.
 5. You can speak and understand English very good.
 6. Have little to no doubt that what their doing is the right thing.
+### C
+Completely->totaly (L.10)
+To exchange->swapping (L.13)
+### D
+Well != badly
+Basic != advanced 
