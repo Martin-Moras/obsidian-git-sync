@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Reported speech.md",
+                "file": "4. Human/Mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/Reported speech.md",
+            "file": "4. Human/Mind.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/Reported speech.md",
+            "file": "4. Human/Mind.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/Reported speech.md"
+            "file": "4. Human/Mind.md"
           }
         }
       },
@@ -154,8 +154,8 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
-    "7. School/English Grama.md",
     "7. School/Reported speech.md",
+    "7. School/English Grama.md",
     "7. School/English.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
