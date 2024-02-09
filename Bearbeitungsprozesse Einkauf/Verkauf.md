@@ -30,4 +30,4 @@ Kreditoren = Lieferanten
 # Berechnung Kundenrabatt
 Die Ware kostet 175€ 
 Kunde bestellt für 160€
-Berechne 
+Berechne rabat:
