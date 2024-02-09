@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/English.md",
+                "file": "7. School/English Grama.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af53bbf3353be3ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md"
+                "source": true
               }
             }
           }
@@ -95,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/English.md",
+            "file": "7. School/English Grama.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/English.md",
+            "file": "7. School/English Grama.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/English.md"
+            "file": "7. School/English Grama.md"
           }
         }
       },
@@ -145,8 +135,7 @@
         }
       }
     ],
-    "currentTab": 4,
-    "pinned": true
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +154,14 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "7. School/English.md",
+    "7. School/English Grama.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/BwL.md",
     "Bearbeitungsprozesse Einkauf",
     "7. School/Gehaltsabrechnung.md",
     "8. Files/BWL alle Versicherungen.png",
-    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/Pasted image 20240208124148.jpg",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
@@ -180,7 +171,6 @@
     "7. School/Interpretation.md",
     "7. School/Deutsch.md",
     "7. School/School.md",
-    "7. School/English.md",
     "8. Files/Pasted image 20240208100846.jpg",
     "4. Human/Self work/Body/Yoga.md",
     "4. Human/Self work/Body/Body.md",
@@ -200,7 +190,6 @@
     "5. Private/Me.md",
     "4. Human/Nutrition/Nutrition.md",
     "4. Human/Nutrition",
-    "/5. Private/Me.md",
     "/4. Human/Nutrition",
     "8. Files/Pasted image 20240115203524.png",
     "8. Files/Pasted image 20240115203721 1.png",
