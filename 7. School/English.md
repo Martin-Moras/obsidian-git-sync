@@ -47,5 +47,5 @@ If you‘re forced to as a au pair
 2. able to speak multiple languages.
 3. You were raised speaking German.
 4. Something that is nessesary.
-5. You can speak and understand English fluently.
+5. You can speak and understand English very good.
 6. Have little to no doubt that what their doing is the right thing.
