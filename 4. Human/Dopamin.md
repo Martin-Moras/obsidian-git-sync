@@ -1,6 +1,7 @@
 ---
 File Creation date: 2024-02-02
 ---
+https://www.youtube.com/watch?v=v0NQlROczN0
 Dopamin is a Motivation [[Neurochemicals]] 
 
 # ADHD
