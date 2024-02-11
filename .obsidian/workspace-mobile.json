@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Human/Mind.md",
+                "file": "5. Private/My parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Human/Mind.md",
+            "file": "5. Private/My parts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Human/Mind.md",
+            "file": "5. Private/My parts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Human/Mind.md"
+            "file": "5. Private/My parts.md"
           }
         }
       },
@@ -154,6 +154,8 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "4. Human/IFS Parts.md",
+    "4. Human/Mind.md",
     "7. School/Reported speech.md",
     "7. School/English Grama.md",
     "7. School/English.md",
@@ -177,7 +179,6 @@
     "4. Human/Self work/Body/Body.md",
     "4. Human/Human.md",
     "5. Private/ToDo.md",
-    "4. Human/Mind.md",
     "Untitled.md",
     "/4. Human/Mind.md",
     "7. School/Beitragsbemessungsgrenze.md",
@@ -188,7 +189,6 @@
     "8. Files/Pasted image 20240206135900.jpg",
     "/8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "/5. Private/Projects/Make the world a better place.md",
-    "5. Private/Me.md",
     "4. Human/Nutrition",
     "/4. Human/Nutrition",
     "8. Files/Pasted image 20240115203524.png",
