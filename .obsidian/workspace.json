@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f2962493382c679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Neurobiology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179d575d364b1346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Dopamin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c31472dc0226cb8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Neurochemicals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a79e0fc0fd8b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Dopamin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Mind.md",
+                "file": "4. Human/Dopamin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Mind.md",
+                "file": "4. Human/Dopamin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Human/Mind.md"
+                "file": "4. Human/Dopamin.md"
               }
             }
           },
           {
-            "id": "9ea4d738f9030487",
+            "id": "95e1929c278294a7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -161,52 +210,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fde89e21ffcdbf60",
+  "active": "179d575d364b1346",
   "lastOpenFiles": [
+    "4. Human/Neurotransmitters.md",
+    "4. Human/Gaba.md",
+    "4. Human/Serotonin.md",
+    "4. Human/Neurobiology.md",
+    "4. Human/Dopamin.md",
+    "4. Human/Neurotypical brain.md",
+    "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
+    "4. Human/Neurochemicals.md",
+    "4. Human/Endorphins.md",
+    "8. Files/Dopamin 2024-02-09 16.49.47.excalidraw.md",
+    "4. Human/Oxitocin.md",
+    "4. Human/Pleasure chemicals.md",
+    "4. Human/Mind.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+    "Untitled.md",
+    "Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "Bearbeitungsprozesse Einkauf",
+    "8. Files/Pasted image 20240208124148.jpg",
+    "8. Files/Pasted image 20240208100846.jpg",
+    "8. Files/Pasted Image 20240208114721_908.jpg",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "8. Files/BWL alle Versicherungen.png",
+    "8. Files/BWL SteuerKlassen.png",
+    "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
+    "7. School/Zusatzbeitrag.md",
+    "7. School/Reported speech.md",
+    "7. School/Interpretation.md",
+    "7. School/English Grama.md",
+    "7. School/Deutsch.md",
+    "4. Human/Self work/Body/Yoga.md",
     "5. Private/Projects/Make the world a better place.md",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Pasted image 20240206135900.jpg",
     "8. Files/Pasted Image 20240206140034_129.jpg",
     "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
-    "7. School/Beitragsbemessungsgrenze.md",
-    "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
-    "4. Human/Nutrition/Nutrition.md",
-    "5. Private/Me.md",
     "4. Human/Nutrition",
-    "4. Human/Carl Jung.md",
-    "Untitled.md",
-    "5. Private/Projects/Goals.md",
-    "Templates/Generic Template.md",
-    "Templates/Untitled.md",
-    "5. Private/Weired things.md",
-    "5. Private/Minecraft tree spirit craft.md",
-    "5. Private/Minecraft.md",
-    "Untitled 1.md",
-    "Templates/Untitled 1.md",
-    "Templates/Focus shortcut.md",
-    "Templates/bug test.md",
-    "Templates/Templater test.md",
     "8. Files/Pasted image 20240115203721 1.png",
     "8. Files/Pasted image 20240115203524.png",
-    "Templates/Daily Template.md",
     "Templates",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "8. Spiritual/Supernatural.md",
     "8. Spiritual",
-    "8. Files/Richard Schwatz portrait.png",
-    "8. Files/Pasted image 20240130140546.png",
-    "8. Files/Pasted image 20240130135233.png",
-    "8. Files/Pasted image 20240122225910.png",
-    "8. Files/Pasted image 20240115183135.jpg",
-    "8. Files/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
     "8. Files",
-    "7. School/DDR/github test.md",
     "7. School/DDR/DDR Vortrag TTS.mp3",
-    "7. School/DDR",
-    "7. School"
+    "7. School/DDR"
   ]
 }
