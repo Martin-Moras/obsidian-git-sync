@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82356fe65bdd091b",
+        "id": "672463515f0948ac",
         "type": "tabs",
         "children": [
           {
-            "id": "fde89e21ffcdbf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Mind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f2962493382c679",
+            "id": "5e41efaf38c867c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "179d575d364b1346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Dopamin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c31472dc0226cb8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Neurochemicals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a79e0fc0fd8b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Human/Dopamin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Human/Dopamin.md",
+                "file": "4. Human/Neurobiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Human/Dopamin.md",
+                "file": "4. Human/Neurobiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Human/Dopamin.md"
+                "file": "4. Human/Neurobiology.md"
               }
             }
           },
@@ -210,21 +161,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "179d575d364b1346",
+  "active": "5e41efaf38c867c4",
   "lastOpenFiles": [
+    "4. Human/Dopamin.md",
+    "4. Human/Neurochemicals.md",
+    "4. Human/Mind.md",
+    "4. Human/Neurobiology.md",
     "4. Human/Neurotransmitters.md",
     "4. Human/Gaba.md",
     "4. Human/Serotonin.md",
-    "4. Human/Neurobiology.md",
-    "4. Human/Dopamin.md",
     "4. Human/Neurotypical brain.md",
     "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
-    "4. Human/Neurochemicals.md",
     "4. Human/Endorphins.md",
     "8. Files/Dopamin 2024-02-09 16.49.47.excalidraw.md",
     "4. Human/Oxitocin.md",
     "4. Human/Pleasure chemicals.md",
-    "4. Human/Mind.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "Untitled.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
