@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "6b7b6c00f0b69a55",
+            "id": "16b5f6fc236219f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,10 +174,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b7b6c00f0b69a55",
+  "active": "16b5f6fc236219f1",
   "lastOpenFiles": [
-    "3. Computer/Cargo.md",
     "3. Computer/Rust.md",
+    "3. Computer/Cargo.md",
     "3. Computer/Hacking.md",
     "3. Computer/OSINT.md",
     "3. Computer/SOCMINT.md",
