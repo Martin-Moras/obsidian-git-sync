@@ -7,3 +7,15 @@ create new rust project with cargo:
 ```
 cargo new <project name>
 ```
+compile:
+```
+cargo build
+```
+run and compile:
+```
+cargo run
+```
+check if project is compileable:
+```
+cargo check
+```
