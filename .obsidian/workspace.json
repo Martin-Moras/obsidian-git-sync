@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "16b5f6fc236219f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Computer/Cargo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Cargo.md",
+                "file": "3. Computer/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Cargo.md",
+                "file": "3. Computer/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Cargo.md"
+                "file": "3. Computer/Rust.md"
               }
             }
           },
@@ -174,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16b5f6fc236219f1",
+  "active": "5e41efaf38c867c4",
   "lastOpenFiles": [
-    "3. Computer/Rust.md",
     "3. Computer/Cargo.md",
+    "3. Computer/Rust.md",
     "3. Computer/Hacking.md",
     "3. Computer/OSINT.md",
     "3. Computer/SOCMINT.md",

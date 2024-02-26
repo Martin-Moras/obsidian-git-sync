@@ -14,6 +14,10 @@ format:
 ```
 rustfmt <file name>
 ```
+update rust to its newest version:
+```
+rustup update
+```
 ## Variables
 create a **immutable** variable (can't be changed unless it's redeclared)
 ```
