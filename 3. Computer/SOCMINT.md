@@ -1,7 +1,7 @@
 ---
 File Creation date: 2024-02-02
 ---
-social media intelligence
+ssocial media intelligence
 
 ## Tools & Techniques:
 
