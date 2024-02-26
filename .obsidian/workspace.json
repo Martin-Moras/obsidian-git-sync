@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6352f91a66b1cf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Computer/Bevy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "3. Computer/Bevy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "3. Computer/Bevy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Rust.md"
+                "file": "3. Computer/Bevy.md"
               }
             }
           },
@@ -161,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e41efaf38c867c4",
+  "active": "6352f91a66b1cf2b",
   "lastOpenFiles": [
-    "3. Computer/Cargo.md",
     "3. Computer/Rust.md",
+    "3. Computer/Bevy.md",
+    "3. Computer/Cargo.md",
     "3. Computer/Hacking.md",
     "3. Computer/OSINT.md",
     "3. Computer/SOCMINT.md",
@@ -195,7 +209,6 @@
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "7. School/Zusatzbeitrag.md",
     "7. School/Reported speech.md",
-    "7. School/Interpretation.md",
     "8. Files/Pasted image 20240206135900.jpg",
     "8. Files/Pasted Image 20240206140034_129.jpg",
     "4. Human/Nutrition",
