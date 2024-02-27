@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "5. Private/Projects/Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d0f2247df7a7b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Time/Daily/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "6. Time/Daily/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "6. Time/Daily/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Rust.md"
+                "file": "6. Time/Daily/2024-02-27.md"
               }
             }
           },
@@ -173,10 +186,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e41efaf38c867c4",
+  "active": "1d0f2247df7a7b7a",
   "lastOpenFiles": [
-    "3. Computer/Bevy.md",
+    "5. Private/Projects/Make the world a better place.md",
+    "6. Time/Daily/2024-02-27.md",
+    "5. Private/Projects/Goals.md",
+    "5. Private/Projects/better teacher.md",
     "3. Computer/Rust.md",
+    "3. Computer/Bevy.md",
     "3. Computer/Cargo.md",
     "3. Computer/Hacking.md",
     "3. Computer/OSINT.md",
@@ -197,17 +214,13 @@
     "4. Human/Pleasure chemicals.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "Untitled.md",
-    "Bearbeitungsprozesse Einkauf/Verkauf.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240208124148.jpg",
     "8. Files/Pasted image 20240208100846.jpg",
     "8. Files/Pasted Image 20240208114721_908.jpg",
-    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL SteuerKlassen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
-    "7. School/Zusatzbeitrag.md",
-    "7. School/Reported speech.md",
     "8. Files/Pasted image 20240206135900.jpg",
     "8. Files/Pasted Image 20240206140034_129.jpg",
     "4. Human/Nutrition",
