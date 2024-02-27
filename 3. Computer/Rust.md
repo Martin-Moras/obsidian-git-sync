@@ -3,10 +3,22 @@ File Creation date: 2024-01-22
 ---
 [[Vulcan]]
 [[Cargo]]
+[[Bevy]]
 
 # How to 
 - extension: .rs
-- compile: rustc \<file name\>
+compile:
+```
+rustc <file name>
+```
+format:
+```
+rustfmt <file name>
+```
+update rust to its newest version:
+```
+rustup update
+```
 ## Variables
 create a **immutable** variable (can't be changed unless it's redeclared)
 ```
