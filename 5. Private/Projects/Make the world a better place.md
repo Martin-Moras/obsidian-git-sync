@@ -11,4 +11,9 @@ To make the world a better place, one must first see the problems our world has.
 - [[climate change]]
 - [[reckless people]]
 
-# A
+# Approaches
+I rephrased my ultimate goal: "Make the world a more beautiful place." of course there are multiple aspects to beautifulness:
+1. Visual aspect
+2. Mental aspect
+3. Nature aspect (Climate, animal welfare)
+4. Development aspect (technological development, medical development, science development)
