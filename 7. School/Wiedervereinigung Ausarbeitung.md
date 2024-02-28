@@ -20,13 +20,3 @@ Die Öffnung der Grenzen und der Fall der Mauer waren der Beginn eines rasanten 
 Die Wiedervereinigung war ein großes Unterfangen voller Herausforderungen. Die wirtschaftliche Angleichung Ost und West, die politische Integration und die sozialen und mentalen Unterschiede mussten bewältigt werden.
 
 Die Wiedervereinigung hatte tiefgreifende Auswirkungen auf Deutschland, Europa und die Welt. Sie beendete den Kalten Krieg und trug zur Neugestaltung Europas bei.
-
-**In dieser Ausarbeitung**
-
-- tauchen wir tiefer in die Geschichte der deutschen Teilung und Wiedervereinigung ein
-- beleuchten wir die wichtigsten Ereignisse und Daten
-- stellen wir die Schlüsselfiguren dieser Zeit vor
-- diskutieren wir die Herausforderungen und Folgen der Wiedervereinigung
-- und bewerten wir die Bedeutung dieses historischen Ereignisses für Deutschland und die Welt.
-
-**Begeben Sie sich mit uns auf eine spannende Reise durch die Zeit und entdecken Sie die Geschichte der deutschen Wiedervereinigung!**
