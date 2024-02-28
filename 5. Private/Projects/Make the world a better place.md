@@ -26,4 +26,9 @@ Right now(01.12.2023-27.02.2024 and beyond) I'm focusing on the Mental aspect.
 #### Approaches 
 1. make a video series where I teach people how to heal and improve their mind.
 	first, show a animated or real video of a person in first person and make their thoughts and emotions audible.
-	than, take apart their psyche more and more (parts -> functions, memories, sensory input... -> neurons )
+	than, take apart their psyche more and more (parts -> functions, memories, sensory input... -> neurons ) and explain how it works.
+	
+	how to: 
+	1. create a script 
+	2. show it to friends, teachers, online psychological- and spiritual communities.
+	3. turn the script into a video

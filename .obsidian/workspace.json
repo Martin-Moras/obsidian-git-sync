@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb066d74a8a3b7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6352f91a66b1cf2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Time/Daily/2024-02-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dba31e4fe5fa471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
+                "file": "5. Private/Projects/Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Projects/Make the world a better place.md",
+                "file": "5. Private/Projects/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Projects/Make the world a better place.md"
+                "file": "5. Private/Projects/Goals.md"
               }
             }
           },
@@ -198,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dba31e4fe5fa471",
+  "active": "5e41efaf38c867c4",
   "lastOpenFiles": [
-    "6. Time/Daily/2024-02-27.md",
     "5. Private/Projects/Make the world a better place.md",
+    "6. Time/Daily/2024-02-27.md",
     "5. Private/Projects/Goals.md",
     "3. Computer/Bevy.md",
     "5. Private/Projects/better teacher.md",
