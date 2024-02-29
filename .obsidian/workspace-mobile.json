@@ -11,9 +11,11 @@
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "5. Private/ToDo.md"
+                "file": "7. School/BwL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "7. School/BwL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "7. School/BwL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Private/ToDo.md"
+            "file": "7. School/BwL.md"
           }
         }
       },
@@ -152,6 +154,10 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "7. School/BwL.md",
+    "7. School/Gehaltsabrechnung.md",
+    "5. Private/ToDo.md",
     "1. Excalidraw/Mind model.excalidraw.md",
     "3. Computer/IMINT.md",
     "3. Computer/SOCMINT.md",
@@ -174,10 +180,6 @@
     "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
     "4. Human/Oxitocin.md",
     "4. Human/Neurotypical brain.md",
-    "4. Human/Neurobiology.md",
-    "4. Human/Dopamin.md",
-    "4. Human/Neurochemicals.md",
-    "/4. Human/Neurochemicals.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
