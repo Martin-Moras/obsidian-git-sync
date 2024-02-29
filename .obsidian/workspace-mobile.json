@@ -11,9 +11,9 @@
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "1. Excalidraw/Mind model.excalidraw.md"
+                "file": "5. Private/ToDo.md"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "5. Private/ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md",
+            "file": "5. Private/ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Excalidraw/Mind model.excalidraw.md"
+            "file": "5. Private/ToDo.md"
           }
         }
       },
@@ -152,6 +152,19 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "1. Excalidraw/Mind model.excalidraw.md",
+    "3. Computer/IMINT.md",
+    "3. Computer/SOCMINT.md",
+    "3. Computer/Bevy.md",
+    "3. Computer/OSINT.md",
+    "/3. Computer/SOCMINT.md",
+    "/3. Computer/Rust.md",
+    "/3. Computer/IMINT.md",
+    "/4. Human/Neurobiology.md",
+    "/3. Computer/OSINT.md",
+    "/3. Computer/Hacking.md",
+    "/3. Computer/Cargo.md",
+    "/3. Computer/Bevy.md",
     "4. Human/Mind.md",
     "5. Private/My parts.md",
     "4. Human/Neurotransmitters.md",
@@ -165,19 +178,6 @@
     "4. Human/Dopamin.md",
     "4. Human/Neurochemicals.md",
     "/4. Human/Neurochemicals.md",
-    "/4. Human/Dopamin.md",
-    "/8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
-    "/8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
-    "/4. Human/Pleasure chemicals.md",
-    "/4. Human/Neurotypical brain.md",
-    "/4. Human/Neurotransmitters.md",
-    "/4. Human/Neurobiology.md",
-    "/4. Human/Mind.md",
-    "/4. Human/Gaba.md",
-    "/4. Human/Oxitocin.md",
-    "/4. Human/Endorphins.md",
-    "4. Human/IFS Parts.md",
-    "7. School/Reported speech.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",

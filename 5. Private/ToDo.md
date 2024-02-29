@@ -21,6 +21,8 @@ kanban-plugin: basic
 - [ ] Enlighten
 - [ ] How to teach yourself something
 - [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
+- [ ] Ethic: Jugendstrafrecht
+- [ ] GGK: Wiedervereinigung
 
 
 ## Unimportant
