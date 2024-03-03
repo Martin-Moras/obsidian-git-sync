@@ -28,15 +28,6 @@ Am 12.09.1990 wurde der **„Zwei-plus-Vier-Vertrag“** unterzeichnet. Die �
 
 Am **03.10.1990** trat die DDR offiziell der Bundesrepublik Deutschland bei, womit die Deutsche Demokratische Republik aufhörte, als Staat zu existieren. Endlich, 40 Jahre nach der Gründung der beiden deutschen Staaten, war das Ziel des ersten bundesdeutschen Kanzlers Konrad Adenauer, die Wiedervereinigung Deutschlands, erreicht und das deutsche Volk war in einem gemeinsamen Staat vereint.
 
-|            |                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------- |
-| 28.11.1989 | Verkündung des 10-Punkte-Plans zur Überwindung der deutschen Teilung durch Helmut Kohl                     |
-| 22.12.1989 | Eröffnung des Brandenburger Tors als Grenzübergang                                                         |
-| 01.07.1990 | Wirtschafts- und Währungsunion                                                                             |
-| 23.08.1990 | Die Volkskammer der DDR legt den 03.10.1990 als Tag der Wiedervereinigung fest.                            |
-| 31.08.1990 | Unterzeichnung des Einigungsvertrags durch Vertreter von BRD und DDR                                       |
-| 12.09.1990 | Unterzeichnung des Zwei-plus-Vier-Vertrags durch BRD, DDR, USA, Sowjetunion, Großbritannien und Frankreich |
-| 03.10.1990 | offizieller Beitritt der DDR zur BRD                                                                       |
 
 ### Die Folgen der Wiedervereinigung
 
@@ -47,3 +38,19 @@ Nach der Wiedervereinigung veränderte sich für die Menschen der östlichen Bun
 Zugleich aber zog die Wiedervereinigung Probleme mit sich. Einige Menschen waren überfordert mit der neuen Ideologie, in der sie nun lebten, oder sie wurden arbeitslos, da ihr Wissen aus der DDR im Westen weniger wert war. Am schwerwiegendsten waren jedoch die wirtschaftlichen Folgen der Wiedervereinigung. Die meisten Betriebe der ehemaligen DDR wurden entweder geschlossen oder privatisiert und schafften den Übergang zur Marktwirtschaft nicht. Dadurch verloren Millionen Menschen der neuen Bundesländer ihren Arbeitsplatz.
 
 Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar
+
+
+
+
+
+
+
+|            |                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------- |
+| 28.11.1989 | Verkündung des 10-Punkte-Plans zur Überwindung der deutschen Teilung durch Helmut Kohl                     |
+| 22.12.1989 | Eröffnung des Brandenburger Tors als Grenzübergang                                                         |
+| 01.07.1990 | Wirtschafts- und Währungsunion                                                                             |
+| 23.08.1990 | Die Volkskammer der DDR legt den 03.10.1990 als Tag der Wiedervereinigung fest.                            |
+| 31.08.1990 | Unterzeichnung des Einigungsvertrags durch Vertreter von BRD und DDR                                       |
+| 12.09.1990 | Unterzeichnung des Zwei-plus-Vier-Vertrags durch BRD, DDR, USA, Sowjetunion, Großbritannien und Frankreich |
+| 03.10.1990 | offizieller Beitritt der DDR zur BRD                                                                       |
