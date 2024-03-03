@@ -17,10 +17,46 @@ Im Herbst 1989 befand sich die DDR im Zusammenbruch. Tausende Bürgerinnen und B
 
 Am 28.11.1989 verkündete der Bundeskanzler der BRD, Helmut Kohl, einen **10-Punkte-Plan** zur Überwindung der deutschen Teilung. Dieser Plan machte deutlich, dass Helmut Kohl die Wiedervereinigung von BRD und DDR anstrebte und wie er dieses Ziel erreichen wollte.  
 Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenzübergang feierlich eröffnet. Es war ein historischer Moment, dem mehr als 100 000 Menschen beiwohnten. Heute wird das Brandenburger Tor als Symbol der Wiedervereinigung angesehen.
+### Punkt 1 – Sofortmaßnahmen humanitärer Art
+Es muss die Möglichkeit bestehen, frei in die DDR ein- sowie auszureisen. Dies ist eine sachliche Voraussetzung, damit Hilfe im humanitären und medizinischen Bereich wirken kann.
+
+### Punkt 2 – Umfassende Wirtschaftshilfe
+
+### Punkt 3 – Ausbau der Zusammenarbeit beider Staaten[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=5 "Abschnitt bearbeiten: Punkt 3 – Ausbau der Zusammenarbeit beider Staaten") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=5 "Quellcode des Abschnitts bearbeiten: Punkt 3 – Ausbau der Zusammenarbeit beider Staaten")]
+
+Die Bundesrepublik Deutschland zielt auf eine umfassende Ausweitung der Zusammenarbeit, wenn ein grundlegender Wandel des politischen und wirtschaftlichen Systems in der DDR vollzogen wird. Das heißt im Konkreten, dass die [Suprematie](https://de.wikipedia.org/wiki/Supremat "Supremat") der [SED](https://de.wikipedia.org/wiki/SED "SED") abgeschafft wird und freie, geheime Wahlen eingeführt werden, das Recht auf Opposition eingeführt wird und der Staat ein demokratisches Antlitz erhält, das politische Strafrecht abgeschafft wird und politische Gefangene freigelassen werden und die bürokratische [Planwirtschaft](https://de.wikipedia.org/wiki/Planwirtschaft "Planwirtschaft") der Vergangenheit angehört.
+
+### Punkt 4 – Vertragsgemeinschaft[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=6 "Abschnitt bearbeiten: Punkt 4 – Vertragsgemeinschaft") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=6 "Quellcode des Abschnitts bearbeiten: Punkt 4 – Vertragsgemeinschaft")]
+
+Es ist zunächst eine Vertragsgemeinschaft anzustreben. Diese beinhaltet ein dichtes Netz von Vereinbarungen und in naher Zukunft auch gemeinsame Institutionen. Bereits bestehende oder neu gegründete Kommissionen könnten neue Aufgaben in Wirtschaft, Verkehr, Umweltschutz, Wissenschaft und Technik, Gesundheit oder Kultur übernehmen.
+
+### Punkt 5 – Schaffung konföderativer Strukturen[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=7 "Abschnitt bearbeiten: Punkt 5 – Schaffung konföderativer Strukturen") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=7 "Quellcode des Abschnitts bearbeiten: Punkt 5 – Schaffung konföderativer Strukturen")]
+
+Es ist sogar denkbar, [konföderative](https://de.wikipedia.org/wiki/Konf%C3%B6deration "Konföderation") Strukturen zu erschaffen, um in Deutschland eine bundesstaatliche Ordnung zu errichten. Voraussetzung für einen solchen Schritt ist allerdings eine vom Volk legitimierte und demokratisch gewählte Regierung der DDR. Vorstellbar sind in diesem Rahmen ein gemeinsamer Regierungsausschuss zur ständigen Konsultation und politischen Abstimmung, gemeinsame Fachausschüsse, ein gemeinsames parlamentarisches Gremium. Sogar eine deutsche Einheit ist greifbar, wenn dies im Sinne der Entwicklung in der DDR ist.
+
+### Punkt 6 – Einbettung des deutschen Einheitsprozesses in gesamteuropäische Entwicklung[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=8 "Abschnitt bearbeiten: Punkt 6 – Einbettung des deutschen Einheitsprozesses in gesamteuropäische Entwicklung") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=8 "Quellcode des Abschnitts bearbeiten: Punkt 6 – Einbettung des deutschen Einheitsprozesses in gesamteuropäische Entwicklung")]
+
+Der deutsche Einheitsprozess ist in die gesamteuropäische Entwicklung einzubetten. Ein neues Deutschland muss von seiner Architektur her in den europäischen Kontext passen. Ein vereintes Deutschland ist ein Zeichen für die [Vereinigung Europas](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Integration "Europäische Integration").
+
+### Punkt 7 – EG-Beitritt reformorientierter Ostblockstaaten[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=9 "Abschnitt bearbeiten: Punkt 7 – EG-Beitritt reformorientierter Ostblockstaaten") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=9 "Quellcode des Abschnitts bearbeiten: Punkt 7 – EG-Beitritt reformorientierter Ostblockstaaten")]
+
+Die reformorientierten [Ostblockstaaten](https://de.wikipedia.org/wiki/Ostblockstaaten "Ostblockstaaten") sollen der [Europäischen Gemeinschaft](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Gemeinschaft "Europäische Gemeinschaft") beitreten und samt der DDR an den westlichen Markt herangeführt werden, damit das wirtschaftliche und soziale Gefälle in Europa abgebaut werden kann. Soweit die Staaten Mittel- und Südosteuropas die erforderlichen Voraussetzungen erfüllen, sind sie auch willkommen, dem [Europarat](https://de.wikipedia.org/wiki/Europarat "Europarat") und insbesondere auch der [Konvention zum Schutze der Menschenrechte](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Menschenrechtskonvention "Europäische Menschenrechtskonvention") beizutreten.
+
+### Punkt 8 – Forcierung des [KSZE](https://de.wikipedia.org/wiki/Konferenz_%C3%BCber_Sicherheit_und_Zusammenarbeit_in_Europa "Konferenz über Sicherheit und Zusammenarbeit in Europa")-Prozesses[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=10 "Abschnitt bearbeiten: Punkt 8 – Forcierung des KSZE-Prozesses") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=10 "Quellcode des Abschnitts bearbeiten: Punkt 8 – Forcierung des KSZE-Prozesses")]
+
+Innerhalb dieses Prozesses sollen sich die jeweiligen Mitgliedstaaten über Menschenrechte, wirtschaftliche Zusammenarbeit, kulturelles Erbe und Umweltfragen verständigen.
+
+### Punkt 9 – Abrüstung und Rüstungskontrolle[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=11 "Abschnitt bearbeiten: Punkt 9 – Abrüstung und Rüstungskontrolle") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=11 "Quellcode des Abschnitts bearbeiten: Punkt 9 – Abrüstung und Rüstungskontrolle")]
+
+Die Überwindung der Trennung Europas und der Teilung Deutschlands erfordern weitreichende und zügige Schritte in der [Abrüstung](https://de.wikipedia.org/wiki/Abr%C3%BCstung "Abrüstung") und [Rüstungskontrolle](https://de.wikipedia.org/wiki/R%C3%BCstungskontrolle "Rüstungskontrolle"). Vor allem die Nuklearpotenziale der beiden Supermächte [USA](https://de.wikipedia.org/wiki/USA "USA") und [UdSSR](https://de.wikipedia.org/wiki/UdSSR "UdSSR") sollten auf ein strategisches Minimum reduziert werden. Konventionelle Streitkräfte in Europa sollen abgebaut und [chemische Waffen](https://de.wikipedia.org/wiki/Chemische_Waffen) weltweit verboten werden.
+
+### Punkt 10 – Deutsche Einheit[[Bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&veaction=edit&section=12 "Abschnitt bearbeiten: Punkt 10 – Deutsche Einheit") | [Quelltext bearbeiten](https://de.wikipedia.org/w/index.php?title=Zehn-Punkte-Programm&action=edit&section=12 "Quellcode des Abschnitts bearbeiten: Punkt 10 – Deutsche Einheit")]
+
+Mit dieser Politik wird auf einen Zustand des europäischen Friedens hingewirkt, in dem das deutsche Volk in freier Selbstbestimmung seine Einheit wiedererlangen kann. Die Wiedervereinigung, das heißt die Wiedergewinnung der staatlichen Einheit Deutschlands, bleibt das politische Ziel der Bundesregierung.
 
 Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt.
 
-Inzwischen war klar, dass die DDR der Bundesrepublik beitreten würde – die Frage war nur noch, wann dies geschehen soll. Am 23.08.1990 fand die Volkskammer der DDR eine Antwort darauf und legte für die Wiedervereinigung ein Datum fest: Der 3. Oktober 1990 wurde als Tag der Wiedervereinigung bestimmt.
+Inzwischen war klar, dass die DDR der Bundesrepublik beitreten würde – die Frage war nur noch, wann dies  geschehen soll. Am 23.08.1990 fand die Volkskammer der DDR eine Antwort darauf und legte für die Wiedervereinigung ein Datum fest: Der 3. Oktober 1990 wurde als Tag der Wiedervereinigung bestimmt.
 
 Ein weiterer wichtiger Schritt war die Unterzeichnung des Vertrags über die Herstellung der Einheit Deutschlands durch die Vertreter der DDR und der BRD am 31.08.1990. Dieser Vertrag, der auch als **„Einigungsvertrag“** bezeichnet wird, regelte die Bedingungen der Wiedervereinigung. Beispielsweise wurde hier festgelegt, dass die BRD das Vermögen sowie die Schulden der DDR übernehmen soll.
 
