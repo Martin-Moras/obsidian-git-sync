@@ -20,3 +20,6 @@ Die Öffnung der Grenzen und der Fall der Mauer waren der Beginn eines rasanten 
 Die Wiedervereinigung war ein großes Unterfangen voller Herausforderungen. Die wirtschaftliche Angleichung Ost und West, die politische Integration und die sozialen und mentalen Unterschiede mussten bewältigt werden.
 
 Die Wiedervereinigung hatte tiefgreifende Auswirkungen auf Deutschland, Europa und die Welt. Sie beendete den Kalten Krieg und trug zur Neugestaltung Europas bei.
+
+
+## Ostmark -> D-Mark
