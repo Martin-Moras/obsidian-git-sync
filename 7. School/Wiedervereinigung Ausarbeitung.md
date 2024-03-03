@@ -15,40 +15,9 @@ Im Herbst 1989 befand sich die DDR im Zusammenbruch. Tausende Bürgerinnen und B
 
 ### Die Etappen der Wiedervereinigung
 
-Am 28.11.1989 verkündete der Bundeskanzler der BRD, Helmut Kohl, einen **10-Punkte-Plan** zur Überwindung der deutschen Teilung. Dieser Plan machte deutlich, dass Helmut Kohl die Wiedervereinigung von BRD und DDR anstrebte und wie er dieses Ziel erreichen wollte.  
+Am 28.11.1989 verkündete der Bundeskanzler der BRD, Helmut Kohl, einen [10 Punkte Plan](https://de.wikipedia.org/wiki/Zehn-Punkte-Programm#:~:text=Punkt%201%20%E2%80%93%20Sofortma%C3%9Fnahmen%20humanit%C3%A4rer%20Art%5B,bleibt%20das%20politische%20Ziel%20der%20Bundesregierung) zur Überwindung der deutschen Teilung. Dieser Plan machte deutlich, dass Helmut Kohl die Wiedervereinigung von BRD und DDR anstrebte und wie er dieses Ziel erreichen wollte.  
 Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenzübergang feierlich eröffnet. Es war ein historischer Moment, dem mehr als 100 000 Menschen beiwohnten. Heute wird das Brandenburger Tor als Symbol der Wiedervereinigung angesehen.
-
-## 10 Punkte Plan
-
-### Punkt 1 – Sofortmaßnahmen humanitärer Art
-Es muss die Möglichkeit bestehen, frei in die DDR ein- sowie auszureisen. Dies ist eine sachliche Voraussetzung, damit Hilfe im humanitären und medizinischen Bereich wirken kann.
-
-### Punkt 2 – Umfassende Wirtschaftshilfe
-Die Bundesrepublik Deutschland ist bereit, wirtschaftlich, wissenschaftlich-technologisch und kulturell eng mit der Deutschen Demokratischen Republik (DDR) zusammenzuarbeiten. Dazu muss aber eine Angleichung der Verhältnisse geschaffen werden, indem zum Beispiel das marode und spärliche Telefonnetz der DDR und Eisenbahnverbindungen jeglicher Art von Grund auf saniert und erweitert werden. Überregionale Verbindungen wie Hannover–Berlin oder Moskau–Warschau–Berlin–Paris sind wieder aufzunehmen.
-
-### Punkt 3 – Ausbau der Zusammenarbeit beider Staaten
-Die Bundesrepublik Deutschland zielt auf eine umfassende Ausweitung der Zusammenarbeit, wenn ein grundlegender Wandel des politischen und wirtschaftlichen Systems in der DDR vollzogen wird. Das heißt im Konkreten, dass die Suprematie der SED abgeschafft wird und freie, geheime Wahlen eingeführt werden, das Recht auf Opposition eingeführt wird und der Staat ein demokratisches Antlitz erhält, das politische Strafrecht abgeschafft wird und politische Gefangene freigelassen werden und die bürokratische Planwirtschaft der Vergangenheit angehört.
-
-### Punkt 4 – Vertragsgemeinschaft
-Es ist zunächst eine Vertragsgemeinschaft anzustreben. Diese beinhaltet ein dichtes Netz von Vereinbarungen und in naher Zukunft auch gemeinsame Institutionen. Bereits bestehende oder neu gegründete Kommissionen könnten neue Aufgaben in Wirtschaft, Verkehr, Umweltschutz, Wissenschaft und Technik, Gesundheit oder Kultur übernehmen.
-
-### Punkt 5 – Schaffung konföderativer Strukturen
-Es ist sogar denkbar, konföderative Strukturen zu erschaffen, um in Deutschland eine bundesstaatliche Ordnung zu errichten. Voraussetzung für einen solchen Schritt ist allerdings eine vom Volk legitimierte und demokratisch gewählte Regierung der DDR. Vorstellbar sind in diesem Rahmen ein gemeinsamer Regierungsausschuss zur ständigen Konsultation und politischen Abstimmung, gemeinsame Fachausschüsse, ein gemeinsames parlamentarisches Gremium. Sogar eine deutsche Einheit ist greifbar, wenn dies im Sinne der Entwicklung in der DDR ist.
-
-### Punkt 6 – Einbettung des deutschen Einheitsprozesses in gesamteuropäische Entwicklung
-Der deutsche Einheitsprozess ist in die gesamteuropäische Entwicklung einzubetten. Ein neues Deutschland muss von seiner Architektur her in den europäischen Kontext passen. Ein vereintes Deutschland ist ein Zeichen für die Vereinigung Europas.
-
-### Punkt 7 – EG-Beitritt reformorientierter Ostblockstaaten
-Die reformorientierten Ostblockstaaten sollen der Europäischen Gemeinschaft beitreten und samt der DDR an den westlichen Markt herangeführt werden, damit das wirtschaftliche und soziale Gefälle in Europa abgebaut werden kann. Soweit die Staaten Mittel- und Südosteuropas die erforderlichen Voraussetzungen erfüllen, sind sie auch willkommen, dem Europarat und insbesondere auch der Konvention zum Schutze der Menschenrechte beizutreten.
-
-### Punkt 8 – Forcierung des KSZE-Prozesses
-Innerhalb dieses Prozesses sollen sich die jeweiligen Mitgliedstaaten über Menschenrechte, wirtschaftliche Zusammenarbeit, kulturelles Erbe und Umweltfragen verständigen.
-
-### Punkt 9 – Abrüstung und Rüstungskontrolle
-Die Überwindung der Trennung Europas und der Teilung Deutschlands erfordern weitreichende und zügige Schritte in der Abrüstung und Rüstungskontrolle. Vor allem die Nuklearpotenziale der beiden Supermächte USA und UdSSR sollten auf ein strategisches Minimum reduziert werden. Konventionelle Streitkräfte in Europa sollen abgebaut und chemische Waffen weltweit verboten werden.
-
-### Punkt 10 – Deutsche Einheit
-Mit dieser Politik wird auf einen Zustand des europäischen Friedens hingewirkt, in dem das deutsche Volk in freier Selbstbestimmung seine Einheit wiedererlangen kann. Die Wiedervereinigung, das heißt die Wiedergewinnung der staatlichen Einheit Deutschlands, bleibt das politische Ziel der Bundesregierung.
+[10 Punkte Plan](https://de.wikipedia.org/wiki/Zehn-Punkte-Programm#:~:text=Punkt%201%20%E2%80%93%20Sofortma%C3%9Fnahmen%20humanit%C3%A4rer%20Art%5B,bleibt%20das%20politische%20Ziel%20der%20Bundesregierung)
 
 
 
