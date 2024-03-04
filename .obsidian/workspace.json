@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "7. School/GGK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Rust.md",
+                "file": "7. School/GGK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Computer/Rust.md"
+                "file": "7. School/GGK.md"
               }
             }
           },
@@ -195,18 +195,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f289fc3b92c2c2b",
+  "active": "8f953e19cf39a31e",
   "lastOpenFiles": [
+    "7. School/School.md",
+    "3. Computer/Rust.md",
     "3. Computer/Bevy.md",
     "7. School/Wiedervereinigung Ausarbeitung.md",
     "6. Time/Daily/2024-02-28.md",
     "7. School/GGK.md",
-    "7. School/School.md",
     "5. Private/Projects/Goals.md",
     "5. Private/Projects/Make the world a better place.md",
     "6. Time/Daily/2024-02-27.md",
     "5. Private/Projects/better teacher.md",
-    "3. Computer/Rust.md",
     "3. Computer/Cargo.md",
     "3. Computer/Hacking.md",
     "3. Computer/OSINT.md",
