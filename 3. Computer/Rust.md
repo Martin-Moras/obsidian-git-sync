@@ -5,8 +5,7 @@ File Creation date: 2024-01-22
 [[Cargo]]
 [[Bevy]]
 
-# How to 
-- extension: .rs
+# How to kjkk
 compile:
 ```
 rustc <file name>
