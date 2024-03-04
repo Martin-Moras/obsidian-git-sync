@@ -9,6 +9,9 @@ File Creation date: 2024-02-28
 9.11.1989 Mauerfall
 3.10.1990 Wiedervereinigung
 
+
+![[Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw]]
+
 ### Die „Friedliche Revolution“ und der Mauerfall
 
 Im Herbst 1989 befand sich die DDR im Zusammenbruch. Tausende Bürgerinnen und Bürger der DDR demonstrierten für Reformen und eine demokratische Erneuerung, da sie mit den bestehenden Zuständen unzufrieden waren und mehr Freiheit wollten. Die sogenannte „Friedliche Revolution“ war schließlich erfolgreich: Am 9. November 1989 kam es zum **Mauerfall** und die Grenze zum Westen war nun für alle offen. Zwischen dem Mauerfall und der Wiedervereinigung Deutschlands lagen knapp 11 Monate, in denen einige wichtige Meilensteine erreicht werden mussten.
