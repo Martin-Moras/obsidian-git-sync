@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md"
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md"
               }
             }
           },
@@ -211,10 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20492fdc126c6d8e",
+  "active": "8f953e19cf39a31e",
   "lastOpenFiles": [
-    "7. School/Wiedervereinigung Ausarbeitung.md",
     "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
+    "7. School/Wiedervereinigung Ausarbeitung.md",
     "3. Computer/Rust.md",
     "5. Private/My parts.md",
     "7. School/School.md",

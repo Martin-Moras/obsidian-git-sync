@@ -51,12 +51,12 @@ Am **03.10.1990** trat die DDR offiziell der Bundesrepublik Deutschland bei, w
 
 
 ### Die Folgen der Wiedervereinigung
-
+#### Hauptstadt
 Da Berlin vor der Wiedervereinigung geteilt war, hatte man 1949 beschlossen, eine andere Stadt zur Hauptstadt Deutschlands zu ernennen. So war die Hauptstadt von Deutschland vor der Wiedervereinigung Bonn. Nach dem 3. Oktober 1990 wollte man dies jedoch wieder ändern, dazu wurde am 20.06.1991 der „Hauptstadtbeschluss“ erlassen. Obwohl **Berlin nun offiziell wieder die deutsche Hauptstadt** war, dauerte es allerdings noch über acht Jahre, bis der Bundestag wieder dort zusammentrat.
-
+#### was sich für die DDRler veränderte
 Nach der Wiedervereinigung veränderte sich für die Menschen der östlichen Bundesländer einiges. Viele lebten nun erstmals in einer demokratischen Gesellschaft, sie konnten an freien Wahlen teilnehmen und selbst über ihre berufliche und private Zukunft entscheiden. Außerdem wurde durch den Einzug der westdeutschen Konsumwelt die ostdeutsche Mangelwirtschaft beendet.
-
-Zugleich aber zog die Wiedervereinigung Probleme mit sich. Einige Menschen waren überfordert mit der neuen Ideologie, in der sie nun lebten, oder sie wurden arbeitslos, da ihr Wissen aus der DDR im Westen weniger wert war. Am schwerwiegendsten waren jedoch die wirtschaftlichen Folgen der Wiedervereinigung. Die meisten Betriebe der ehemaligen DDR wurden entweder geschlossen oder privatisiert und schafften den Übergang zur Marktwirtschaft nicht. Dadurch verloren Millionen Menschen der neuen Bundesländer ihren Arbeitsplatz.
+#### Probleme
+Zugleich aber zog die Wiedervereinigung Probleme mit sich. Einige Menschen waren überfordert mit der neuen Ideologie, in der sie nun lebten, oder sie wurden **arbeitslos**, da ihr **Wissen aus der DDR im Westen weniger wert** war. Am schwerwiegendsten waren jedoch die wirtschaftlichen Folgen der Wiedervereinigung. Die meisten **Betriebe der ehemaligen DDR wurden entweder geschlossen** oder privatisiert und schafften den Übergang zur Marktwirtschaft nicht. Dadurch verloren Millionen Menschen der neuen Bundesländer ihren Arbeitsplatz.
 
 Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar
 
