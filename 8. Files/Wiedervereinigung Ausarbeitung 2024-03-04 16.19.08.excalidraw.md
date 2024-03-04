@@ -677,10 +677,10 @@ März 1990: ^6XDCFD61
 		{
 			"id": "TxFPbfYCjCKv-EXKnmW6m",
 			"type": "rectangle",
-			"x": -464.9665253569232,
+			"x": -440.494540493642,
 			"y": 3112.5948531293707,
-			"width": 91.28735351562501,
-			"height": 27.38623046875,
+			"width": 57.815368652343764,
+			"height": 28.90768432617188,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -695,11 +695,11 @@ März 1990: ^6XDCFD61
 				"type": 3
 			},
 			"seed": 598644183,
-			"version": 56,
-			"versionNonce": 890992185,
+			"version": 94,
+			"versionNonce": 1135056343,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709566636785,
+			"updated": 1709567023617,
 			"link": null,
 			"locked": false
 		},
