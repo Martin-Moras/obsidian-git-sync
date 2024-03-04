@@ -11,11 +11,9 @@
             "id": "e6b300f5ac127a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "7. School/BwL.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Excalidraw/Multi store model.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "1. Excalidraw/Multi store model.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "1. Excalidraw/Multi store model.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/BwL.md"
+            "file": "1. Excalidraw/Multi store model.excalidraw.md"
           }
         }
       },
@@ -154,6 +152,10 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "4. Human/Multi store model.md",
+    "4. Human/Memory.md",
+    "4. Human/Mind.md",
+    "7. School/BwL.md",
     "/7. School/Wiedervereinigung Ausarbeitung.md",
     "6. Time/Daily/2024-02-28.md",
     "7. School/Wiedervereinigung Ausarbeitung.md",
@@ -167,7 +169,6 @@
     "/5. Private/Projects/Goals.md",
     "/6. Time/Daily/2024-02-28.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "7. School/BwL.md",
     "7. School/Gehaltsabrechnung.md",
     "5. Private/ToDo.md",
     "1. Excalidraw/Mind model.excalidraw.md",
@@ -177,9 +178,6 @@
     "3. Computer/OSINT.md",
     "/3. Computer/SOCMINT.md",
     "/3. Computer/Rust.md",
-    "/3. Computer/IMINT.md",
-    "/4. Human/Neurobiology.md",
-    "/3. Computer/OSINT.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
