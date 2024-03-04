@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "file": "3. Computer/Cargo.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "file": "3. Computer/Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "file": "3. Computer/Cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md"
+                "file": "3. Computer/Cargo.md"
               }
             }
           },
@@ -213,14 +213,15 @@
   },
   "active": "8f953e19cf39a31e",
   "lastOpenFiles": [
-    "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
-    "7. School/Wiedervereinigung Ausarbeitung.md",
     "3. Computer/Rust.md",
+    "3. Computer/Bevy.md",
+    "7. School/Sundar Pichai Ausarbeitung.md",
+    "7. School/Wiedervereinigung Ausarbeitung.md",
+    "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
     "5. Private/My parts.md",
     "7. School/School.md",
     "Learn about my mind.md",
     "7. School/GGK.md",
-    "3. Computer/Bevy.md",
     "6. Time/Daily/2024-02-28.md",
     "5. Private/Projects/Goals.md",
     "5. Private/Projects/Make the world a better place.md",
@@ -238,7 +239,6 @@
     "4. Human/Neurotransmitters.md",
     "4. Human/Gaba.md",
     "4. Human/Serotonin.md",
-    "4. Human/Neurotypical brain.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240208124148.jpg",
     "8. Files/Pasted image 20240208100846.jpg",
