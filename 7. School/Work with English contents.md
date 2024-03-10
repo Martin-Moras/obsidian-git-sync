@@ -10,6 +10,10 @@ File Creation date: 2024-03-10
 ***
 ## Unit 4: Facing life's challenges
 ## Unit 5: Sustainable shopping
+- [no packaging shoping](https://www.youtube.com/watch?v=M7ikhWfHQc8)
+- buy what you need
+- recycling
+- 
 ## Unit 6: Screenagers
 ## Unit 7: A Scottish holiday
 # World of Work (8-14)
