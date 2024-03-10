@@ -12,9 +12,9 @@ File Creation date: 2024-03-10
 ## Unit 5: Sustainable shopping
 ## Unit 6: Screenagers
 ## Unit 7: A Scottish holiday
+# World of Work (8-14)**
 ## Unit 8: Relationships: families and friends*
-# World of Work (8-14)*
-## Unit 9: Moving out into the world
+## Unit 9: Moving out into the world*
 ## Unit 10: Welcome to the Rockies
 ## Unit 11: Becoming an adult
 ## Unit 12: A place for everyone*
