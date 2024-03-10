@@ -13,8 +13,14 @@ File Creation date: 2024-03-10
 - [no packaging shoping](https://www.youtube.com/watch?v=M7ikhWfHQc8)
 - buy what you need
 - recycling
-- 
+- second hand
 ## Unit 6: Screenagers
+- addiction
+- peer pressure
+- mental illness
+	- depression 
+	- reduced attention span
+- 
 ## Unit 7: A Scottish holiday
 # World of Work (8-14)
 ## Unit 8: Relationships: families and friends
