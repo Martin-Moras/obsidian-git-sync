@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BwL.md",
+                "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/BwL.md",
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/BwL.md"
+            "file": "Bearbeitungsprozesse Einkauf/Verkauf.md"
           }
         }
       },
@@ -154,6 +154,10 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "7. School/Work with English contents.md",
+    "/7. School/Work with English contents.md",
+    "/7. School/English.md",
+    "7. School/BwL.md",
     "1. Excalidraw/Multi store model.excalidraw.md",
     "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
     "/8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
@@ -163,7 +167,6 @@
     "4. Human/Multi store model.md",
     "4. Human/Memory.md",
     "4. Human/Mind.md",
-    "7. School/BwL.md",
     "6. Time/Daily/2024-02-28.md",
     "7. School/Wiedervereinigung Ausarbeitung.md",
     "7. School/GGK.md",
@@ -177,9 +180,6 @@
     "/6. Time/Daily/2024-02-28.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/Gehaltsabrechnung.md",
-    "5. Private/ToDo.md",
-    "1. Excalidraw/Mind model.excalidraw.md",
-    "3. Computer/IMINT.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",

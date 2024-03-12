@@ -1,6 +1,7 @@
 ---
 File Creation date: 2024-02-08
 ---
+
 | Nr. | Beleg               | Willenserklärung | Eingen/Fremdbeleg (Verkäufer) | Tätigkeit wird ausgelöst (Verkäufer                        |
 |:---:|:------------------- |:----------------:|:-----------------------------:|:---------------------------------------------------------- |
 |  1  | Anfrage             |       Nein       |             fremd             | Prüfen Liefer Liefer-willig/fähig-keit & Kreditlimit       |
