@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a53c4d910373b86d",
+        "id": "edea7812f2b98107",
         "type": "tabs",
         "children": [
           {
-            "id": "8f953e19cf39a31e",
+            "id": "262f94c9cd11cffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/English.md",
+                "file": "7. School/GGK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "209f30629b308b01",
+            "id": "fd9ab733dd941720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Work with English contents.md",
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/Work with English contents.md",
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/Work with English contents.md",
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/Work with English contents.md"
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md"
               }
             }
           },
@@ -183,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "209f30629b308b01",
+  "active": "fd9ab733dd941720",
   "lastOpenFiles": [
+    "7. School/GGK.md",
     "7. School/English.md",
     "7. School/Work with English contents.md",
     "5. Private/My parts.md",
@@ -196,7 +197,6 @@
     "7. School/Sundar Pichai Ausarbeitung.md",
     "7. School/Wiedervereinigung Ausarbeitung.md",
     "Learn about my mind.md",
-    "7. School/GGK.md",
     "6. Time/Daily/2024-02-28.md",
     "5. Private/Projects/Goals.md",
     "5. Private/Projects/Make the world a better place.md",

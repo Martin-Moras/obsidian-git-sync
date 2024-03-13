@@ -10,14 +10,11 @@ File Creation date: 2024-02-28
 3.10.1990 Wiedervereinigung
 
 
-![[Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw]]
+[[Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw]]
 
 ### Die „Friedliche Revolution“ und der Mauerfall
-
 Im Herbst 1989 befand sich die DDR im Zusammenbruch. Tausende Bürgerinnen und Bürger der DDR demonstrierten für Reformen und eine demokratische Erneuerung, da sie mit den bestehenden Zuständen unzufrieden waren und mehr Freiheit wollten. Die sogenannte „Friedliche Revolution“ war schließlich erfolgreich: Am 9. November 1989 kam es zum **Mauerfall** und die Grenze zum Westen war nun für alle offen. Zwischen dem Mauerfall und der Wiedervereinigung Deutschlands lagen knapp 11 Monate, in denen einige wichtige Meilensteine erreicht werden mussten.
-
 ### Die Etappen der Wiedervereinigung
-
 Am 28.11.1989 verkündete der Bundeskanzler der BRD, Helmut Kohl, einen [10 Punkte Plan](https://de.wikipedia.org/wiki/Zehn-Punkte-Programm#:~:text=Punkt%201%20%E2%80%93%20Sofortma%C3%9Fnahmen%20humanit%C3%A4rer%20Art%5B,bleibt%20das%20politische%20Ziel%20der%20Bundesregierung) zur Überwindung der deutschen Teilung. Dieser Plan machte deutlich, dass Helmut Kohl die Wiedervereinigung von BRD und DDR anstrebte und wie er dieses Ziel erreichen wollte.  
 Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenzübergang feierlich eröffnet. Es war ein historischer Moment, dem mehr als 100 000 Menschen beiwohnten. Heute wird das Brandenburger Tor als Symbol der Wiedervereinigung angesehen.
 [10 Punkte Plan](https://de.wikipedia.org/wiki/Zehn-Punkte-Programm#:~:text=Punkt%201%20%E2%80%93%20Sofortma%C3%9Fnahmen%20humanit%C3%A4rer%20Art%5B,bleibt%20das%20politische%20Ziel%20der%20Bundesregierung)
@@ -25,7 +22,6 @@ Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenz
 
 
 ## wer
-
 Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt.
 
 Inzwischen war klar, dass die DDR der Bundesrepublik beitreten würde – die Frage war nur noch, wann dies  geschehen soll. Am 23.08.1990 fand die Volkskammer der DDR eine Antwort darauf und legte für die Wiedervereinigung ein Datum fest: Der 3. Oktober 1990 wurde als Tag der Wiedervereinigung bestimmt.
