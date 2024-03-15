@@ -6,6 +6,29 @@ File Creation date: 2024.01.09
 | ---- | --- |:--- | --- |
 |      |     |     |     |
 
+# My mind map
+- Addict
+	- Games
+	- YouTube
+	- Junk eater
+	- Jerk of
+- Social
+	- Teacher
+	- Lover
+	- Want to be accepted 
+	- Compeditor
+	- Want to look good
+- Usefull
+	- Coder
+	- Hacker
+	- Writer
+	- Planer
+	- Problem solver
+- Beautiful 
+
+
+# Conversations
+
 %%2024.02.11 22:30%%
 ## I must be smarter than Hagen
 Hagen said that holding your breath helps against higups. I emedietly denied it. Later I thought about it and realized that he was right and I was wrong. I inquired into the part that denied Hagens suggestion.

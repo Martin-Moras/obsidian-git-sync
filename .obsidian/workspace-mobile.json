@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-03-12.md",
+                "file": "5. Private/My parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5d306aa4b3d80423",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-03-12.md",
+            "file": "5. Private/My parts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-03-12.md",
+            "file": "5. Private/My parts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-03-12.md"
+            "file": "5. Private/My parts.md"
           }
         }
       },
@@ -154,9 +154,10 @@
   },
   "active": "e6b300f5ac127a40",
   "lastOpenFiles": [
+    "5. Private/Me.md",
+    "6. Time/Daily/2024-03-12.md",
     "/7. School/Wiedervereinigung Ausarbeitung.md",
     "Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "6. Time/Daily/2024-03-12.md",
     "7. School/Work with English contents.md",
     "/7. School/Work with English contents.md",
     "/7. School/English.md",
@@ -179,7 +180,6 @@
     "/7. School/GGK.md",
     "/5. Private/Projects/better teacher.md",
     "/5. Private/Projects/Goals.md",
-    "/6. Time/Daily/2024-02-28.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
