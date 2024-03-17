@@ -24,8 +24,14 @@ File Creation date: 2024.01.09
 	- Writer
 	- Planer
 	- Problem solver
+	- Now
+	- Knowledge seeker
 - Beautiful 
+	- Singer
+	- Flow movement
+	- Drawer
 
+Wh
 
 # Conversations
 
