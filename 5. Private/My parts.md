@@ -31,7 +31,11 @@ File Creation date: 2024.01.09
 	- Flow movement
 	- Drawer
 
-Wh
+What to be different than others
+Want to be better than others
+Want that everyone does beautiful things 
+Don‘t want to do the things other ones do
+
 
 # Conversations
 
