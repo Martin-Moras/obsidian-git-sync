@@ -60,5 +60,12 @@ E.g. dive 25m every 1 min
 - increase hypoxic threashhold
 ### Walk and hold breath
 ## Journal
+
 2:00
 2:10
+2:38
+2:36
+
+| Set | Hold | Breath |     |
+| --- | ---- | ------ | --- |
+|     |      |        |     |
