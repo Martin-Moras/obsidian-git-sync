@@ -15,6 +15,7 @@ Time to train: Weeks to Months to years
 #### Use lactic acid as a fuel source 
 
 # Training 
+Train only twice a week
 ## Static breath hold
 | Set | Hold | Breath | Interval |
 | --- | ---- | ------ | -------- |
@@ -49,4 +50,10 @@ If your able to do this table increase interval to 5 min.
 E.g. dive 25m every 1 min
 
 **Benefits**:
-1. 
+1. Learn optimum diving speed
+2. Learn fining 
+3. CO2 tolerance 
+4. trains the ability to use lactic acid as fuel source
+## Swim as far as you can
+**Benifits:
+- increase hypoxic threashhold
