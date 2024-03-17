@@ -10,20 +10,27 @@ Time to train: Days to weeks
 ### Deal with low oxygen levels (Hypoxic threshold)
 Time to train: Weeks to Months to years
 ### Mammalian dive reflex
-
+- gets trained each time you hold your breath 
 ### Aerobic Processes
 #### Use lactic acid as a fuel source 
 
 # Training 
 ## Static breath hold
-| Set | Hold | Breath |
-| --- | ---- | ------ |
-| 1   | 2:00 |        |
-| 2   | 3:00 |        |
-| 3   | 3:00 |        |
-| 4   | 3:00 |        |
-| 5   | 3:00 |        |
-| 6   | 3:00 |        |
-| 7   | 3:00 |        |
-| 8   | 3:00 |        |
-![[Pasted image 20240317181232.png|200]]
+| Set | Hold | Breath | Interval |
+| --- | ---- | ------ | -------- |
+| 1   | 2:00 | 2:00   | 4        |
+| 2   | 3:00 | 1:00   | 4        |
+| 3   | 3:00 | 1:00   | 4        |
+| 4   | 3:00 | 1:00   | 4        |
+| 5   | 3:00 | 1:00   | 4        |
+| 6   | 3:00 | 1:00   | 4        |
+| 7   | 3:00 | 1:00   | 4        |
+| 8   | 3:00 | 1:00   | 4        |
+E.g. set 1: hold for 2 min breathe for 2 min(Interval=2+2=4)
+If your able to do this table increase interval to 5 min.
+**Benefits**: 
+ 1. makes you comfortable with involuntary contractions 
+ 2. Deeper levels of relaxation 
+ 3. gain body control 
+ 4. experience high levels of CO2
+ 5. Mammalian dive 
