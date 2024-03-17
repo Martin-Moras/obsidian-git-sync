@@ -14,9 +14,9 @@ Time to train: Weeks to Months to years
 ### Aerobic Processes
 #### Use lactic acid as a fuel source 
 
-# Training 
+## Training 
 Train only twice a week
-## Static breath hold
+### Static breath hold
 | Set | Hold | Breath | Interval |
 | --- | ---- | ------ | -------- |
 | 1   | 2:00 | 2:00   | 4        |
@@ -36,7 +36,8 @@ If your able to do this table increase interval to 5 min.
  4. experience high levels of CO2
  5. train
  6. Mammalian dive reflex
-## Diving ability 
+
+### Diving ability 
 | Set | Length | Interval |
 | --- | ------ | -------- |
 | 1   | 25m    | 1:00     |
@@ -54,6 +55,10 @@ E.g. dive 25m every 1 min
 2. Learn fining 
 3. CO2 tolerance 
 4. trains the ability to use lactic acid as fuel source
-## Swim as far as you can
+### Swim as far as you can
 **Benifits:
 - increase hypoxic threashhold
+### Walk and hold breath
+## Journal
+2:00
+2:10
