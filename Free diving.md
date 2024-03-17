@@ -33,4 +33,20 @@ If your able to do this table increase interval to 5 min.
  2. Deeper levels of relaxation 
  3. gain body control 
  4. experience high levels of CO2
- 5. Mammalian dive 
+ 5. train
+ 6. Mammalian dive reflex
+## Diving ability 
+| Set | Length | Interval |
+| --- | ------ | -------- |
+| 1   | 25m    | 1:00     |
+| 2   | 25m    | 1:00     |
+| 3   | 25m    | 1:00     |
+| 4   | 25m    | 1:00     |
+| 5   | 25m    | 1:00     |
+| 6   | 25m    | 1:00     |
+| 7   | 25m    | 1:00     |
+| 8   | 25m    | 1:00     |
+E.g. dive 25m every 1 min
+
+**Benefits**:
+1. 
