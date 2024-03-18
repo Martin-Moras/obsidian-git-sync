@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] CAT toilete
 - [ ] Trash 🗑️
 - [ ] Read 📚<br>- fast<br>- out loud<br>	- right pronounciation<br>	- fast
-- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
+- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
 ## Important
@@ -46,23 +46,23 @@ kanban-plugin: basic
 
 - [ ] Python
 - [ ] assembly
-- [ ] reverse engenering
 
 
 ## Hacking
 
-**Complete**
+- [ ] osint
+- [ ] Bug bounty
 
 
 ## Computer
 
 
 
-***
-
 ## Archive
 
-- [ ] - döwlw @{2024-01-17}
+
+
+
 
 %% kanban:settings
 ```

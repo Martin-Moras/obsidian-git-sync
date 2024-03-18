@@ -44,11 +44,13 @@
             }
           },
           {
-            "id": "f739e4696738f2c6",
+            "id": "cc05be5edae40314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "5. Private/ToDo.md"
+              }
             }
           }
         ],
@@ -119,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Private/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Private/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Private/ToDo.md"
+              }
             }
           },
           {
@@ -199,9 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f739e4696738f2c6",
+  "active": "cc05be5edae40314",
   "lastOpenFiles": [
     "6. Time/Daily/2024-03-18.md",
+    "5. Private/ToDo.md",
     "8. Files/Pasted image 20240317181232.png",
     "7. School/Wiedervereinigung Ausarbeitung.md",
     "6. Time/Daily/What is intelligence.md",
