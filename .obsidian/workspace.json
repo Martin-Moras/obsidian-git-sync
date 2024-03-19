@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "534219b6c33361a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Time/Daily/2024-03-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc05be5edae40314",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "5. Private/ToDo.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "file": "5. Private/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "file": "5. Private/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/Wiedervereinigung Ausarbeitung.md"
+                "file": "5. Private/ToDo.md"
               }
             }
           },
@@ -183,8 +205,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd9ab733dd941720",
+  "active": "cc05be5edae40314",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-03-18.md",
+    "5. Private/ToDo.md",
+    "8. Files/Pasted image 20240317181232.png",
+    "7. School/Wiedervereinigung Ausarbeitung.md",
+    "6. Time/Daily/What is intelligence.md",
+    "Free diving.md",
+    "6. Time/Daily/2024-03-12.md",
     "7. School/GGK.md",
     "7. School/English.md",
     "7. School/Work with English contents.md",
@@ -195,7 +224,6 @@
     "3. Computer/Rust.md",
     "3. Computer/Bevy.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
-    "7. School/Wiedervereinigung Ausarbeitung.md",
     "Learn about my mind.md",
     "6. Time/Daily/2024-02-28.md",
     "5. Private/Projects/Goals.md",
@@ -206,11 +234,6 @@
     "3. Computer/OSINT.md",
     "3. Computer/SOCMINT.md",
     "3. Computer/IMINT.md",
-    "4. Human/Neurobiology.md",
-    "4. Human/Dopamin.md",
-    "4. Human/Neurochemicals.md",
-    "4. Human/Mind.md",
-    "4. Human/Neurotransmitters.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240208124148.jpg",
     "8. Files/Pasted image 20240208100846.jpg",
@@ -222,7 +245,6 @@
     "8. Files/Pasted Image 20240206140034_129.jpg",
     "4. Human/Nutrition",
     "8. Files/Pasted image 20240115203721 1.png",
-    "8. Files/Pasted image 20240115203524.png",
     "Templates",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
