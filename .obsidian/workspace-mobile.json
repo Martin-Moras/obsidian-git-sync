@@ -23,9 +23,9 @@
             "id": "9e37c45943e55d06",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "7. School/_com.apple.Pasteboard.BPSDd7.pdf"
+                "file": "5. Private/ToDo.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
+            "file": "5. Private/ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
+            "file": "5. Private/ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/_com.apple.Pasteboard.BPSDd7.pdf"
+            "file": "5. Private/ToDo.md"
           }
         }
       },
@@ -145,8 +145,7 @@
           "state": {}
         }
       }
-    ],
-    "pinned": true
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +164,8 @@
   },
   "active": "9e37c45943e55d06",
   "lastOpenFiles": [
-    "Free diving.md",
     "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
+    "Free diving.md",
     "6. Time/Daily/2024-03-18.md",
     "6. Time/Daily/What is intelligence.md",
     "/6. Time/Daily/2024-03-18.md",

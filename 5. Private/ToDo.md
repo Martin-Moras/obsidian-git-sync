@@ -25,6 +25,14 @@ kanban-plugin: basic
 - [ ] GGK: Wiedervereinigung
 
 
+## Today
+
+- [ ] pack Sport
+- [ ] fahrschule
+- [ ] walzen
+- [ ] Schülerzeitung Blatt ausfüllen
+
+
 ## Unimportant
 
 - [ ] Make P smart more useful (Faster)
@@ -58,11 +66,11 @@ kanban-plugin: basic
 
 
 
+***
+
 ## Archive
 
-
-
-
+- [ ] asd
 
 %% kanban:settings
 ```
