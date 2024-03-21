@@ -27,10 +27,7 @@ kanban-plugin: basic
 
 ## Today
 
-- [ ] pack Sport
 - [ ] fahrschule
-- [ ] walzen
-- [ ] Schülerzeitung Blatt ausfüllen
 
 
 ## Unimportant
@@ -71,6 +68,8 @@ kanban-plugin: basic
 ## Archive
 
 - [ ] asd
+- [ ] Schülerzeitung Blatt ausfüllen
+- [ ] walzen
 
 %% kanban:settings
 ```
