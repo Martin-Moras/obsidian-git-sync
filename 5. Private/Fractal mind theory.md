@@ -1,23 +1,23 @@
 ---
 File Creation date: 2024-03-21
 ---
-## Processing 
+## Cognitive processing 
 - Personalities 
+	- Emotions
+	- Beliefs
+	- Opinions 
+	- Fears
+	- (dis)Likes 
+	- Behaviors
+	- Memories
+	- Goals
+	- Predictions
+	- Expectations
+	- Desires
+	- Routinen
 - Ego
-- Beliefs
-- Opinions 
-- Fears
-- (dis)Likes 
-- Behaviors
-- Memories
-- Goals
-- Predictions
-- Expectations
-- Desires
-- Emotions
-- Routinen
 ## Inputs
-Sensory perseption 
+Sensory perception 
 ## Outputs
 Movement
 
