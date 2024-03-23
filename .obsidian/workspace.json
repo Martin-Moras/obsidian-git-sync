@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,8 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbf03fdb45086e60",
+  "active": "cb4f855d574b0d9a",
   "lastOpenFiles": [
+    "5. Private/Goals.md",
+    "5. Private/Fractal mind theory.md",
+    "5. Private/Projects/My Goals.md",
+    "4. Human/Memory.md",
+    "4. Human/Multi store model.md",
+    "4. Human/Emotions.md",
+    "8. Files/Pasted image 20240323175104.png",
     "4. Human/Mind.md",
     "Untitled.md",
     "Templates/Untitled.md",
@@ -190,7 +198,6 @@
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "8. Files/Pasted image 20240115203524.png",
-    "8. Files/Pasted image 20240115183135.jpg",
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
@@ -199,13 +206,7 @@
     "8. Files",
     "7. School/DDR/github test.md",
     "7. School/DDR/Wirtschaft der DDR.md",
-    "7. School/DDR/UDSSR.md",
-    "7. School/DDR/DDR.md",
-    "7. School/DDR/DDR Vortrag.md",
     "7. School/DDR/DDR Vortrag TTS.mp3",
-    "7. School/DDR/DDR Vortrag GPT V2.md",
-    "7. School/DDR/DDR Vortrag GPT V1.md",
-    "7. School/DDR/1949.md",
     "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
     "7. School/DDR"
   ]

@@ -1,16 +1,19 @@
 ---
 File Creation date: 2024-03-21
 ---
+# Awareness
+
+# Nodes
 ## Cognitive processing 
 - Personalities 
-	- Emotions
+	- [[Emotions]]
 	- Beliefs
 	- Opinions 
 	- Fears
 	- (dis)Likes 
 	- Behaviors
-	- Memories
-	- Goals
+	- [[Memory]]
+	- [[Goals]]
 	- Predictions
 	- Expectations
 	- Desires
@@ -20,6 +23,8 @@ File Creation date: 2024-03-21
 Sensory perception 
 ## Outputs
 Movement
+
+
 
 # other
 [[5 Skandas]]
