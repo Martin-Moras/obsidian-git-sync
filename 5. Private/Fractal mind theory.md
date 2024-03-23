@@ -6,25 +6,30 @@ File Creation date: 2024-03-21
 # Nodes
 ## Cognitive processing 
 - Personalities 
-	- [[Emotions]]
-	- Beliefs
-	- Opinions 
-	- Fears
-	- (dis)Likes 
-	- Behaviors
-	- [[Memory]]
-	- [[Goals]]
-	- Predictions
-	- Expectations
-	- Desires
-	- Routinen
+	- Cognition
+	- Fealing
+		- [[Emotions]]
+		- Beliefs
+		- Opinions 
+		- Fears
+		- (dis)Likes 
+		- Behaviors
+		- [[Memory]]
+		- [[Goals]]
+		- Plans
+		- Ideas
+		- Interpretations
+		- Predictions
+		- Expectations
+		- Desires
+		- Routinen
 - Ego
 ## Inputs
 Sensory perception 
 ## Outputs
 Movement
 
-
+# Connections
 
 # other
 [[5 Skandas]]
