@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6677508f1c360a5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Fractal mind theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Fractal mind theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Private/Fractal mind theory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4f855d574b0d9a",
+  "active": "6677508f1c360a5d",
   "lastOpenFiles": [
-    "5. Private/Goals.md",
     "5. Private/Fractal mind theory.md",
+    "5. Private/Goals.md",
     "5. Private/Projects/My Goals.md",
     "4. Human/Memory.md",
     "4. Human/Multi store model.md",
