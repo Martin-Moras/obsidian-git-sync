@@ -3,6 +3,7 @@ File Creation date: 2024-03-21
 ---
 ## Processing 
 - Personalities 
+- Ego
 - Beliefs
 - Opinions 
 - Fears
@@ -16,8 +17,10 @@ File Creation date: 2024-03-21
 - Emotions
 - Routinen
 ## Inputs
-Sensory 
+Sensory perseption 
 ## Outputs
+Movement
 
+# other
 [[5 Skandas]]
-1
+[Map your emotions](https://www.youtube.com/watch?v=EGvYWWKf2UQ)
