@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md"
+                "file": "1. Excalidraw/IFS Model.excalidraw.md"
               }
             }
           },
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skand",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md",
+                "file": "1. Excalidraw/IFS Model.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md",
+                "file": "1. Excalidraw/IFS Model.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Excalidraw/Multi store model.excalidraw.md"
+                "file": "1. Excalidraw/IFS Model.excalidraw.md"
               }
             }
           },
@@ -194,9 +193,14 @@
   },
   "active": "46b3a4e908441e59",
   "lastOpenFiles": [
+    "5. Private/Fractal mind theory.md",
+    "1. Excalidraw/Template.excalidraw.md",
+    "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw (copy).md",
+    "1. Excalidraw/Template.excalidraw 1.md",
+    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "1. Excalidraw/Multi store model.excalidraw.md",
     "4. Human/Multi store model.md",
     "4. Human/Memory.md",
-    "5. Private/Fractal mind theory.md",
     "5. Private/Goals.md",
     "5. Private/Projects/My Goals.md",
     "4. Human/Emotions.md",
@@ -216,8 +220,7 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "Bearbeitungsprozesse Einkauf",
+    "7. School/Bearbeitungsprozesse Einkauf",
     "8. Spiritual/Supernatural.md",
     "8. Spiritual",
     "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
@@ -232,11 +235,7 @@
     "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
-    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
-    "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
     "8. Files",
-    "7. School/DDR/github test.md",
-    "7. School/DDR/Wirtschaft der DDR.md",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
     "7. School/DDR"
