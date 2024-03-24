@@ -20,8 +20,14 @@
 ## Legs
 Explosive
 Endurance 
+## Feet
+Explosive
 ## Arms
-Maximal
+## Scholders
+## Belly
+
+## Back
+Endurence
 
 ## Hands 
 Endurence
