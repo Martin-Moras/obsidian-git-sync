@@ -57,12 +57,14 @@
             "id": "6835ef865456298f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Mind ToDo.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,6 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "6. Time/Daily/2024-03-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,6 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "6. Time/Daily/2024-03-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +158,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "6. Time/Daily/2024-03-24.md"
+          }
         }
       },
       {
@@ -191,8 +197,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6835ef865456298f",
+  "active": "ec301e7f24d22a73",
   "lastOpenFiles": [
+    "Mind ToDo.md",
     "6. Time/Daily/2024-03-24.md",
     "4. Human/Self work/Body/Body.md",
     "Relative strength.md",
@@ -223,7 +230,6 @@
     "Free diving.md",
     "6. Time/Daily/2024-03-18.md",
     "6. Time/Daily/What is intelligence.md",
-    "/6. Time/Daily/2024-03-18.md",
     "8. Files/Pasted image 20240317181232.png",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
