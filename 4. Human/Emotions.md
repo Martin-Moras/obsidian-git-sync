@@ -2,7 +2,7 @@
 
 
 ### All Emotions:
-
+![[Pasted image 20240323175104.png|500]]
 Admiration
 [Adoration](https://simple.wikipedia.org/wiki/Adoration "Adoration")
 Aesthetic Appreciation
