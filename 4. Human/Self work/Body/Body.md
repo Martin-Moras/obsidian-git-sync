@@ -14,3 +14,17 @@
 
 # practices 
 [[Yoga]]
+
+
+# What I want to achieve 
+## Legs
+Explosive
+Endurance 
+## Arms
+Maximal
+
+## Hands 
+Endurence
+Maximal
+
+##

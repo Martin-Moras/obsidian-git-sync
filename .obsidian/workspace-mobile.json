@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "979618d63f1405eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Self work/Body/Body.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-03-24.md",
+            "file": "4. Human/Self work/Body/Body.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-03-24.md",
+            "file": "4. Human/Self work/Body/Body.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-03-24.md"
+            "file": "4. Human/Self work/Body/Body.md"
           }
         }
       },
@@ -157,7 +169,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +187,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec301e7f24d22a73",
+  "active": "979618d63f1405eb",
   "lastOpenFiles": [
+    "Relative strength.md",
+    "4. Human/Self work/Body/Body.md",
+    "4. Human/Self work/Body/Power.md",
+    "6. Time/Daily/2024-03-24.md",
     "5. Private/ToDo.md",
     "6. Time/Daily/Read.md",
-    "6. Time/Daily/2024-03-24.md",
     "5. Private/Fractal mind theory.md",
     "7. School/Bearbeitungsprozesse Einkauf",
     "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
@@ -204,10 +220,7 @@
     "6. Time/Daily/2024-03-18.md",
     "6. Time/Daily/What is intelligence.md",
     "/6. Time/Daily/2024-03-18.md",
-    "/6. Time/Daily/What is intelligence.md",
-    "/5. Private/ToDo.md",
     "8. Files/Pasted image 20240317181232.png",
-    "5. Private/Me.md",
     "Bearbeitungsprozesse Einkauf",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
