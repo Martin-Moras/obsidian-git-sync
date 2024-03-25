@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-03-25.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf4cd19f7a970c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Human/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b3a4e908441e59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Excalidraw/IFS Model.excalidraw.md"
               }
             }
           },
@@ -23,14 +45,12 @@
             "id": "6677508f1c360a5d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "5. Private/ToDo.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/ToDo.md",
+                "file": "1. Excalidraw/IFS Model.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/ToDo.md",
+                "file": "1. Excalidraw/IFS Model.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/ToDo.md"
+                "file": "1. Excalidraw/IFS Model.excalidraw.md"
               }
             }
           },
@@ -171,22 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6677508f1c360a5d",
+  "active": "46b3a4e908441e59",
   "lastOpenFiles": [
-    "6. Time/Daily/2024-03-25.md",
     "5. Private/Fractal mind theory.md",
-    "4. Human/Memory.md",
-    "Relative strength.md",
-    "Mind ToDo.md",
-    "6. Time/Daily/Read.md",
-    "6. Time/Daily/2024-03-24.md",
-    "1. Excalidraw/IFS Model.excalidraw.md",
     "1. Excalidraw/Template.excalidraw.md",
     "1. Excalidraw/Sundar Pichai Ausarbeitung 2024-01-14 16.41.52.excalidraw (copy).md",
     "1. Excalidraw/Template.excalidraw 1.md",
     "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "1. Excalidraw/Multi store model.excalidraw.md",
     "4. Human/Multi store model.md",
+    "4. Human/Memory.md",
     "5. Private/Goals.md",
     "5. Private/Projects/My Goals.md",
     "4. Human/Emotions.md",
@@ -202,11 +216,14 @@
     "SIM Vertrag.md",
     "Free diving.md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "7. School/Bearbeitungsprozesse Einkauf",
+    "8. Spiritual/Supernatural.md",
     "8. Spiritual",
+    "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
     "8. Files/Richard Schwatz portrait.png",
     "8. Files/Pasted image 20240317181232.png",
     "8. Files/Pasted image 20240208124148.jpg",
@@ -215,6 +232,9 @@
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "8. Files/Pasted image 20240115203524.png",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "8. Files",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/_com.apple.Pasteboard.BPSDd7.pdf",

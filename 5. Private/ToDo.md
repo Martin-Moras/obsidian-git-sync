@@ -7,18 +7,18 @@ kanban-plugin: basic
 ## Always
 
 - [ ] Focus
-- [ ] Enlighten
 - [ ] CAT toilete
 - [ ] Trash 🗑️
 - [ ] Read 📚<br>- fast<br>- out loud<br>	- right pronounciation<br>	- fast
-- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind
-- [ ] Fractal node verse:<br>1. Mind<br>2. Code<br>3. OS<br>4. Knowledge base<br>5. Note app or system<br>6. IUS<br>7. Computer
+- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
 ## Important
 
 - [ ] Fahrschule
+- [ ] Car lights
 - [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
+- [ ] Enlighten
 - [ ] How to teach yourself something
 - [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
 - [ ] Ethic: Jugendstrafrecht
@@ -33,10 +33,12 @@ kanban-plugin: basic
 ## Unimportant
 
 - [ ] Make P smart more useful (Faster)
+- [ ] Read (fast)
 - [ ] Emulate:<br>- consoles<br>- Pones
 - [ ] Produce own clothes<br>- Make/get perfect buff<br>- Backpack<br>- Trowsers
 - [ ] Voice recognition that converts speech to IPA and than IPA to written words
 - [ ] How emoji's work(code wise)
+- [ ] Phone contract
 
 
 ## Done
@@ -44,15 +46,12 @@ kanban-plugin: basic
 - [ ] [[5. Private/DDR]]
 - [ ] BWL Presentation
 - [ ] Ethik
-- [ ] Car lights
 
 
 ## Coding
 
 - [ ] Python
 - [ ] assembly
-- [ ] rust
-- [ ] Ai
 
 
 ## Hacking
