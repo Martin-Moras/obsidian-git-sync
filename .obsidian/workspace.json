@@ -23,11 +23,14 @@
             "id": "6677508f1c360a5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "5. Private/ToDo.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Time/Daily/2024-03-25.md",
+                "file": "5. Private/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Time/Daily/2024-03-25.md",
+                "file": "5. Private/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Time/Daily/2024-03-25.md"
+                "file": "5. Private/ToDo.md"
               }
             }
           },
@@ -168,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbf03fdb45086e60",
+  "active": "6677508f1c360a5d",
   "lastOpenFiles": [
-    "5. Private/Fractal mind theory.md",
     "6. Time/Daily/2024-03-25.md",
+    "5. Private/Fractal mind theory.md",
     "4. Human/Memory.md",
     "Relative strength.md",
     "Mind ToDo.md",
