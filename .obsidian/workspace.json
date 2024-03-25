@@ -11,26 +11,15 @@
             "id": "fbf03fdb45086e60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "6. Time/Daily/2024-03-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6677508f1c360a5d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "5. Private/ToDo.md"
+                "staged": false,
+                "hash": "1ac036f4aa671b2e958cac35d05e67dfad74b71e"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/ToDo.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Private/ToDo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,13 +132,29 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ecfdfdf54addaeb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb8825b8d40f7c07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,9 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6677508f1c360a5d",
+  "active": "ecfdfdf54addaeb2",
   "lastOpenFiles": [
     "6. Time/Daily/2024-03-25.md",
+    "5. Private/ToDo.md",
     "5. Private/Fractal mind theory.md",
     "4. Human/Memory.md",
     "Relative strength.md",
@@ -200,7 +202,6 @@
     "Templates/Daily Template.md",
     "Templates",
     "SIM Vertrag.md",
-    "Free diving.md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
