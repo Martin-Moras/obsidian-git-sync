@@ -11,7 +11,7 @@ kanban-plugin: basic
 - [ ] CAT toilete
 - [ ] Trash 🗑️
 - [ ] Read 📚<br>- fast<br>- out loud<br>	- right pronounciation<br>	- fast
-- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
+- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind
 - [ ] Fractal node verse:<br>1. Mind<br>2. Code<br>3. OS<br>4. Knowledge base<br>5. Note app or system<br>6. IUS<br>7. Computer
 
 
@@ -52,6 +52,7 @@ kanban-plugin: basic
 - [ ] Python
 - [ ] assembly
 - [ ] rust
+- [ ] Ai
 
 
 ## Hacking
