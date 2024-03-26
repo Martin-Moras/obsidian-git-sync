@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "/6. Time/Daily/2024-03-26.md",
+                "file": "6. Time/Daily/2024-03-24.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8385caa1cca89a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Grundbegriffe",
+            "query": "Joga",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5d306aa4b3d80423",
@@ -85,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "/6. Time/Daily/2024-03-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "/6. Time/Daily/2024-03-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "/6. Time/Daily/2024-03-26.md"
-          }
+          "state": {}
         }
       },
       {
@@ -152,9 +157,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "40eeb594fa8c31c5",
+  "active": "d205b4a9d83ddbe9",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-03-24.md",
     "6. Time/Daily/2024-03-25.md",
+    "/6. Time/Daily/2024-03-26.md",
     "6. Time/Daily/2024-03-26.md",
     "8. Files/Self Shadow work.jpeg",
     "2. General/What is intelligence.md",
@@ -163,7 +170,6 @@
     "/Templates/Generic Template.md",
     "/Templates/Daily Template.md",
     "/8. Files/Self Shadow work.jpeg",
-    "/6. Time/Daily/2024-03-26.md",
     "/6. Time/2005.md",
     "/5. Private/ToDo.md",
     "/2. General/Toe.md",
@@ -175,7 +181,6 @@
     "Mind ToDo.md",
     "4. Human/Self work/Body/Body.md",
     "6. Time/Daily/2024-03-23.md",
-    "6. Time/Daily/2024-03-24.md",
     "Relative strength.md",
     "4. Human/Self work/Body/Power.md",
     "5. Private/Fractal mind theory.md",
