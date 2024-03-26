@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-03-25.md",
+                "file": "/6. Time/Daily/2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-03-25.md",
+            "file": "/6. Time/Daily/2024-03-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-03-25.md",
+            "file": "/6. Time/Daily/2024-03-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-03-25.md"
+            "file": "/6. Time/Daily/2024-03-26.md"
           }
         }
       },
@@ -154,6 +154,7 @@
   },
   "active": "40eeb594fa8c31c5",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-03-25.md",
     "6. Time/Daily/2024-03-26.md",
     "8. Files/Self Shadow work.jpeg",
     "2. General/What is intelligence.md",
@@ -169,7 +170,6 @@
     "/2. General/Read 📚.md",
     "/2. General/Meaning of live.md",
     "/6. Time/Daily/2024-03-25.md",
-    "6. Time/Daily/2024-03-25.md",
     "5. Private/ToDo.md",
     "6. Time/Daily/Read.md",
     "Mind ToDo.md",
