@@ -9,7 +9,7 @@ kanban-plugin: basic
 - [ ] Focus
 - [ ] CAT toilete
 - [ ] Trash 🗑️
-- [ ] Read 📚<br>- fast<br>- out loud<br>	- right pronounciation<br>	- fast
+- [ ] [[Read 📚]]
 - [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
 
 
@@ -74,6 +74,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","new-note-folder":"1. Excalidraw"}
 ```
 %%
