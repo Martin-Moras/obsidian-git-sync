@@ -1,3 +1,3 @@
 ---
-File Creation date: 2024-03-26 [object Object]
+File Creation date: <% tp.date.now() %>
 ---

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Generic Template.md",
+                "file": "6. Time/Daily/2024-03-26.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Generic Template.md",
+                "file": "6. Time/Daily/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Generic Template.md",
+                "file": "6. Time/Daily/2024-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Generic Template.md"
+                "file": "6. Time/Daily/2024-03-26.md"
               }
             }
           },
@@ -162,12 +162,12 @@
   },
   "active": "67166d82bfe74b92",
   "lastOpenFiles": [
+    "Templates/Daily Template.md",
+    "6. Time/Daily/2024-03-26.md",
+    "Templates/Generic Template.md",
     "2. General/climate change.md",
     "2. General/Untitled.md",
-    "6. Time/Daily/2024-03-26.md",
     "6. Time/Daily/Untitled.md",
-    "Templates/Daily Template.md",
-    "Templates/Generic Template.md",
     "Templates/Focus shortcut.md",
     "Untitled.md",
     "2. General/Toe.md",
