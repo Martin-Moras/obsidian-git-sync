@@ -1,4 +1,4 @@
-<< [[<% tp.date.yesterday() %>]] - [[<% tp.date.tomorrow() %>]] >>
+<< [[2024-03-25]] - [[2024-03-27]] >>
 
 # Log
 | From | To  | Activity |
