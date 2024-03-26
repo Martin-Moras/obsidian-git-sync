@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "Templates/Generic Template.md"
+      "folder": "6. Time/Daily",
+      "template": "Templates/Daily Template.md"
     },
     {
-      "folder": "/6. Time/Daily",
-      "template": "Templates/Daily Template.md"
+      "folder": "/",
+      "template": "Templates/Generic Template.md"
     }
   ],
   "syntax_highlighting": true,

@@ -39,14 +39,6 @@
       "key": "-"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Backspace"
-    }
-  ],
   "window:zoom-in": [
     {
       "modifiers": [
@@ -62,6 +54,14 @@
         "Mod"
       ],
       "key": "I"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Delete"
     }
   ]
 }

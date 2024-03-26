@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/Generic Template.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/Generic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "Templates/Generic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Template.md"
+                "file": "Templates/Generic Template.md"
               }
             }
           },
@@ -162,7 +162,10 @@
   },
   "active": "67166d82bfe74b92",
   "lastOpenFiles": [
+    "2. General/climate change.md",
+    "2. General/Untitled.md",
     "6. Time/Daily/2024-03-26.md",
+    "6. Time/Daily/Untitled.md",
     "Templates/Daily Template.md",
     "Templates/Generic Template.md",
     "Templates/Focus shortcut.md",
@@ -186,10 +189,7 @@
     "6. Time/Daily/2024-01-15.md",
     "6. Time/Daily/2024-01-14.md",
     "6. Time/Daily/2024-01-13.md",
-    "Templates/Untitled.md",
-    "Templates/Templater test.md",
     "Templates",
-    "SIM Vertrag.md",
     "8. Spiritual",
     "8. Files/Richard Schwatz portrait.png",
     "8. Files/Pasted image 20240323175104.png",
