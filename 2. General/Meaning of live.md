@@ -10,4 +10,4 @@ Know thyself and from this state make every action about: Making the world a bet
 
 # 2024.03.07
 
-Make the world a more beautiful place. T
+Make the world a more beautiful place. That includes your body-mind and the interactions with the outside world.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da34a92b22308a2b",
+        "id": "2e5d5f3f9aba66db",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6ff9285062aa96",
+            "id": "67166d82bfe74b92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. General/Meaning of live.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. General/Meaning of live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. General/Meaning of live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. General/Meaning of live.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +152,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6ff9285062aa96",
+  "active": "67166d82bfe74b92",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2. General/Toe.md",
+    "2. General/Meaning of live.md",
     "6. Time/2005.md",
     "5. Private/ToDo.md",
     "2. General/Read 📚.md",
@@ -180,7 +175,6 @@
     "6. Time/Daily/2024-01-15.md",
     "6. Time/Daily/2024-01-14.md",
     "6. Time/Daily/2024-01-13.md",
-    "Untitled.md",
     "Templates/Untitled.md",
     "Templates/Templater test.md",
     "Templates/Generic Template.md",
@@ -188,8 +182,6 @@
     "Templates/Daily Template.md",
     "Templates",
     "SIM Vertrag.md",
-    "Relative strength.md",
-    "Mind ToDo.md",
     "8. Spiritual",
     "8. Files/Richard Schwatz portrait.png",
     "8. Files/Pasted image 20240323175104.png",
