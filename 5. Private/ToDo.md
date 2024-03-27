@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Always
 
 - [ ] Focus
+- [ ] Train Imagination
 - [ ] CAT toilete
 - [ ] Trash 🗑️
 - [ ] [[Read 📚]]
