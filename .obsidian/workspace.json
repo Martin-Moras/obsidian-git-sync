@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e5d5f3f9aba66db",
+        "id": "3edc0ab613b1456a",
         "type": "tabs",
         "children": [
           {
-            "id": "67166d82bfe74b92",
+            "id": "0f2a462cf0e9547d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "6. Time/Daily/2024-03-26.md",
-                "mode": "source",
-                "source": false
+                "file": "5. Private/ToDo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Time/Daily/2024-03-26.md",
+                "file": "5. Private/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Time/Daily/2024-03-26.md",
+                "file": "5. Private/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Time/Daily/2024-03-26.md"
+                "file": "5. Private/ToDo.md"
               }
             }
           },
@@ -160,15 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67166d82bfe74b92",
+  "active": "0f2a462cf0e9547d",
   "lastOpenFiles": [
-    "8. Files/Self Shadow work.jpeg",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "6. Time/Daily/Untitled.md",
+    "6. Time/Daily/2024-03-27.md",
+    "Templates/Generic Template.md",
     "Templates/Daily Template.md",
     "6. Time/Daily/2024-03-26.md",
-    "Templates/Generic Template.md",
+    "8. Files/Self Shadow work.jpeg",
     "2. General/climate change.md",
     "2. General/Untitled.md",
-    "6. Time/Daily/Untitled.md",
     "Templates/Focus shortcut.md",
     "Untitled.md",
     "2. General/Toe.md",
@@ -187,8 +188,6 @@
     "6. Time/Daily/2024-02-28.md",
     "5. Private/Projects/Make the world a better place.md",
     "6. Time/Daily/2024-01-16.md",
-    "6. Time/Daily/2024-01-15.md",
-    "6. Time/Daily/2024-01-14.md",
     "Templates",
     "8. Spiritual",
     "8. Files/Richard Schwatz portrait.png",
@@ -200,7 +199,6 @@
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "8. Files/Pasted image 20240115203524.png",
-    "8. Files/Pasted image 20240115183135.jpg",
     "8. Files",
     "7. School/DDR/DDR Vortrag TTS.mp3",
     "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
