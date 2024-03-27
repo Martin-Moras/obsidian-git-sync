@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily Template.md",
+            "file": "6. Time/Daily/2024-03-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily Template.md",
+            "file": "6. Time/Daily/2024-03-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily Template.md"
+            "file": "6. Time/Daily/2024-03-27.md"
           }
         }
       },
@@ -164,10 +165,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "40eeb594fa8c31c5",
+  "active": "f8385caa1cca89a8",
   "lastOpenFiles": [
-    "6. Time/Daily/2024-03-27.md",
     "Templates/Daily Template.md",
+    "6. Time/Daily/2024-03-27.md",
     "4. Human/Self work/Body/Yoga.md",
     "Templates/Focus shortcut.md",
     "6. Time/Daily/2024-03-26.md",
