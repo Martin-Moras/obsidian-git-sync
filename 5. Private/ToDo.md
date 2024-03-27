@@ -11,7 +11,7 @@ kanban-plugin: basic
 - [ ] CAT toilete
 - [ ] Trash 🗑️
 - [ ] [[Read 📚]]
-- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- hack, computer hardware, coding<br>- cooking<br>- information gathering(osint, gpt, google, community forums)
+- [ ] Self work<br>- [ ] communication: talking to others<br>- [ ] English skills<br>- [ ] Map my mind<br># learn<br>- cooking
 
 
 ## Important
