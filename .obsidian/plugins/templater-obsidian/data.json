@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": true,
+  "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -24,7 +24,7 @@
     }
   ],
   "syntax_highlighting": true,
-  "syntax_highlighting_mobile": false,
+  "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     "Focus shortcut.md"
   ],
