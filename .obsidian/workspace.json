@@ -16,8 +16,21 @@
                 "file": "5. Private/ToDo.md"
               }
             }
+          },
+          {
+            "id": "0191f6c04f714e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Time/Daily/2024-03-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/ToDo.md",
+                "file": "6. Time/Daily/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/ToDo.md",
+                "file": "6. Time/Daily/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/ToDo.md"
+                "file": "6. Time/Daily/2024-03-27.md"
               }
             }
           },
@@ -158,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f2a462cf0e9547d",
+  "active": "0191f6c04f714e9f",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-03-27.md",
+    "5. Private/ToDo.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "6. Time/Daily/Untitled.md",
-    "6. Time/Daily/2024-03-27.md",
     "Templates/Generic Template.md",
     "Templates/Daily Template.md",
     "6. Time/Daily/2024-03-26.md",
@@ -175,7 +189,6 @@
     "2. General/Toe.md",
     "2. General/Meaning of live.md",
     "6. Time/2005.md",
-    "5. Private/ToDo.md",
     "2. General/Read 📚.md",
     "1. ToDo",
     "2. General/What is intelligence.md",
