@@ -40,6 +40,7 @@ kanban-plugin: basic
 - [ ] Voice recognition that converts speech to IPA and than IPA to written words
 - [ ] How emoji's work(code wise)
 - [ ] Phone contract
+- [ ] Develop a language that closely mirrors how we think and feel.
 
 
 ## Done

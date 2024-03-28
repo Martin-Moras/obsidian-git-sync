@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c5fbbabf22bce677","x":-587,"y":-920,"width":540,"height":660,"type":"group","label":"Teeth Untitled group"},
+		{"id":"e32bb193e99565b1","x":-516,"y":400,"width":400,"height":400,"type":"file","file":"7. School/_com.apple.Pasteboard.BPSDd7.pdf"},
+		{"id":"59043fe4f1ea888f","x":863,"y":-123,"width":400,"height":400,"type":"file","file":"6. Time/Daily/2024-03-27.md"},
+		{"id":"ce6f95288360ec9c","x":-220,"y":-400,"width":153,"height":120,"color":"3","type":"text","text":"Pojfeoejofps\nFwefew\nFewef\nE\nFeed"},
+		{"id":"7e28d8640ca516ce","x":-567,"y":-900,"width":391,"height":400,"type":"file","file":"8. Files/Pasted image 20240323175104.png"}
+	],
+	"edges":[]
+}

@@ -28,8 +28,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b97fa0b3a7e22e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 687.34699810089,
+                  "y": -52.3096930249269,
+                  "zoom": -0.85804357000303
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "Untitled.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "Untitled.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Private/ToDo.md"
+            "file": "Untitled.canvas"
           }
         }
       },
@@ -162,8 +178,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "40eeb594fa8c31c5",
+  "active": "6b97fa0b3a7e22e6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "5. Private/ToDo.md",
     "6. Time/Daily/2024-03-28.md",
     "6. Time/Daily/2024-03-27.md",
     "Untitled 2.md",
@@ -175,7 +193,6 @@
     "/Templates/Daily Template.md",
     "/6. Time/Daily/2024-03-27.md",
     "/5. Private/ToDo.md",
-    "5. Private/ToDo.md",
     "Templates/Daily Template.md",
     "4. Human/Self work/Body/Yoga.md",
     "Templates/Focus shortcut.md",
@@ -191,7 +208,6 @@
     "/8. Files/Self Shadow work.jpeg",
     "/6. Time/2005.md",
     "/2. General/Toe.md",
-    "/2. General/Read 📚.md",
     "7. School/Bearbeitungsprozesse Einkauf",
     "/7. School/Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240323175104.png",
