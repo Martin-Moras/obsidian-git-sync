@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-03-27.md",
+                "file": "6. Time/Daily/2024-03-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-03-27.md",
+            "file": "5. Private/ToDo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-03-27.md",
+            "file": "5. Private/ToDo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-03-27.md"
+            "file": "5. Private/ToDo.md"
           }
         }
       },
@@ -163,8 +162,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8385caa1cca89a8",
+  "active": "40eeb594fa8c31c5",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-03-28.md",
+    "6. Time/Daily/2024-03-27.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "/Untitled 1.md",
@@ -176,7 +177,6 @@
     "/5. Private/ToDo.md",
     "5. Private/ToDo.md",
     "Templates/Daily Template.md",
-    "6. Time/Daily/2024-03-27.md",
     "4. Human/Self work/Body/Yoga.md",
     "Templates/Focus shortcut.md",
     "6. Time/Daily/2024-03-26.md",
@@ -192,7 +192,6 @@
     "/6. Time/2005.md",
     "/2. General/Toe.md",
     "/2. General/Read 📚.md",
-    "/2. General/Meaning of live.md",
     "7. School/Bearbeitungsprozesse Einkauf",
     "/7. School/Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240323175104.png",
