@@ -2,9 +2,16 @@
 	"nodes":[
 		{"id":"c5fbbabf22bce677","x":-587,"y":-920,"width":540,"height":660,"type":"group","label":"Teeth Untitled group"},
 		{"id":"e32bb193e99565b1","x":-516,"y":400,"width":400,"height":400,"type":"file","file":"7. School/_com.apple.Pasteboard.BPSDd7.pdf"},
-		{"id":"59043fe4f1ea888f","x":863,"y":-123,"width":400,"height":400,"type":"file","file":"6. Time/Daily/2024-03-27.md"},
+		{"id":"59043fe4f1ea888f","x":566,"y":-123,"width":697,"height":807,"type":"file","file":"6. Time/Daily/2024-03-27.md"},
 		{"id":"ce6f95288360ec9c","x":-220,"y":-400,"width":153,"height":120,"color":"3","type":"text","text":"Pojfeoejofps\nFwefew\nFewef\nE\nFeed"},
-		{"id":"7e28d8640ca516ce","x":-567,"y":-900,"width":391,"height":400,"type":"file","file":"8. Files/Pasted image 20240323175104.png"}
+		{"id":"7e28d8640ca516ce","x":-588,"y":-840,"width":391,"height":400,"type":"file","file":"8. Files/Pasted image 20240323175104.png"},
+		{"id":"3b813a679ceb002b","x":2242,"y":369,"width":250,"height":60,"type":"text","text":""},
+		{"id":"89e1b36a63b98177","x":1948,"y":-94,"width":250,"height":60,"type":"text","text":"Fege"},
+		{"id":"cc9bb748033ccb33","x":2312,"y":-32,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0c6bbfd9a26d6234","fromNode":"59043fe4f1ea888f","fromSide":"right","toNode":"3b813a679ceb002b","toSide":"left"},
+		{"id":"241d536cc167a723","fromNode":"3b813a679ceb002b","fromSide":"top","toNode":"89e1b36a63b98177","toSide":"bottom"},
+		{"id":"80435236c31256ac","fromNode":"3b813a679ceb002b","fromSide":"top","toNode":"cc9bb748033ccb33","toSide":"bottom"}
+	]
 }
