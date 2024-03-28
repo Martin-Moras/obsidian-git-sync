@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Human/Emotions.md",
+            "file": "6. Time/Daily/2024-03-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Human/Emotions.md",
+            "file": "6. Time/Daily/2024-03-28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Human/Emotions.md"
+            "file": "6. Time/Daily/2024-03-28.md"
           }
         }
       },
@@ -175,8 +175,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9e76222d144f7b8e",
+  "active": "9e5c5b6542ecd07b",
   "lastOpenFiles": [
+    "4. Human/Emotions.md",
     "6. Time/Daily/2024-03-28.md",
     "5. Private/ToDo.md",
     "Templates/Daily Template.md",
@@ -205,7 +206,6 @@
     "/2. General/What is intelligence.md",
     "/8. Files/Self Shadow work.jpeg",
     "/6. Time/2005.md",
-    "/2. General/Toe.md",
     "7. School/Bearbeitungsprozesse Einkauf",
     "/7. School/Bearbeitungsprozesse Einkauf",
     "8. Files/Pasted image 20240323175104.png",
