@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-03-29.md",
+                "file": "6. Time/Daily/2024-03-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6. Time/Daily/2024-03-29.md",
+            "file": "6. Time/Daily/2024-03-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "6. Time/Daily/2024-03-29.md",
+            "file": "6. Time/Daily/2024-03-31.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "6. Time/Daily/2024-03-29.md"
+            "file": "6. Time/Daily/2024-03-31.md"
           }
         }
       },
@@ -177,8 +177,9 @@
   },
   "active": "9e5c5b6542ecd07b",
   "lastOpenFiles": [
-    "6. Time/Daily/2024-03-28.md",
     "6. Time/Daily/2024-03-29.md",
+    "6. Time/Daily/2024-03-31.md",
+    "6. Time/Daily/2024-03-28.md",
     "4. Human/Emotions.md",
     "5. Private/ToDo.md",
     "Templates/Daily Template.md",
@@ -204,7 +205,6 @@
     "8. Files/Self Shadow work.jpeg",
     "2. General/What is intelligence.md",
     "2. General/Read 📚.md",
-    "/2. General/What is intelligence.md",
     "/8. Files/Self Shadow work.jpeg",
     "7. School/Bearbeitungsprozesse Einkauf",
     "/7. School/Bearbeitungsprozesse Einkauf",
