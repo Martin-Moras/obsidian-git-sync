@@ -11,8 +11,12 @@
             "id": "40eeb594fa8c31c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +137,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md"
+          }
         }
       },
       {
@@ -170,6 +178,8 @@
   },
   "active": "40eeb594fa8c31c5",
   "lastOpenFiles": [
+    "7. School/BwL.md",
+    "7. School/Gehaltsabrechnung.md",
     "6. Time/Daily/2024-04-08.md",
     "5. Private/ToDo.md",
     "6. Time/Daily/2024-03-31.md",
@@ -195,9 +205,7 @@
     "6. Time/Daily/2024-03-26.md",
     "4. Human/Self work/Body/Body.md",
     "6. Time/Daily/2024-03-25.md",
-    "/6. Time/Daily/2024-03-26.md",
     "8. Files/Self Shadow work.jpeg",
-    "2. General/What is intelligence.md",
     "/8. Files/Self Shadow work.jpeg",
     "7. School/Bearbeitungsprozesse Einkauf",
     "/7. School/Bearbeitungsprozesse Einkauf",
