@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Always
 
+- [ ] Enlighten
 - [ ] Focus
 - [ ] Train Imagination
 - [ ] CAT toilete
@@ -17,11 +18,6 @@ kanban-plugin: basic
 ## Important
 
 - [ ] Fahrschule
-- [ ] Car lights
-- [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
-- [ ] Enlighten
-- [ ] How to teach yourself something
-- [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
 - [ ] Ethic: Jugendstrafrecht
 - [ ] GGK: Wiedervereinigung
 
@@ -33,6 +29,9 @@ kanban-plugin: basic
 
 ## Unimportant
 
+- [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
+- [ ] How to teach yourself something
+- [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
 - [ ] Make P smart more useful (Faster)
 - [ ] Read (fast)
 - [ ] Emulate:<br>- consoles<br>- Pones
@@ -48,6 +47,7 @@ kanban-plugin: basic
 ## Done
 
 - [ ] [[5. Private/DDR]]
+- [ ] Car lights
 - [ ] BWL Presentation
 - [ ] Ethik
 
