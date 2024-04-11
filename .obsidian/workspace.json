@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e90fc892b3982ecb",
@@ -173,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c9463bfa35df84b",
+  "active": "e6b0c6f2d23ce0c4",
   "lastOpenFiles": [
     "7. School/Ethic.md",
     "7. School/Jugendstrafrecht Ausarbeitung.md",

@@ -23,7 +23,7 @@
   "showUnsupportedFiles": true,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "rightToLeft": false,
   "trashOption": "local",
   "attachmentFolderPath": "8. Files",
