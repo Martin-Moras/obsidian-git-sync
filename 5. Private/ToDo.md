@@ -42,6 +42,7 @@ kanban-plugin: basic
 - [ ] Develop a language that closely mirrors how we think and feel.
 - [ ] How music triggers emotions <br>Learn to make music
 - [ ] Make a math mind map
+- [ ] Understand the meaning of abstract art
 
 
 ## Done
