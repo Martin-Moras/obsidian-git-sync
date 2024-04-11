@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9253827129abc479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Private/Fractal mind theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md"
+                "file": "5. Private/Fractal mind theory.md"
               }
             }
           },
@@ -174,11 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b0c6f2d23ce0c4",
+  "active": "9253827129abc479",
   "lastOpenFiles": [
-    "7. School/Ethic.md",
-    "7. School/Jugendstrafrecht Ausarbeitung.md",
     "5. Private/ToDo.md",
+    "7. School/Jugendstrafrecht Ausarbeitung.md",
+    "7. School/Ethic.md",
     "7. School/GGK.md",
     "7. School/Wiedervereinigung Ausarbeitung.md",
     "6. Time/Daily/2024-04-08.md",

@@ -36,7 +36,7 @@ Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nä
 - **Jugendgefängnis**
 	Das Jugendgefängnis ist zum Großteil wie ein normales Gefängnis. Die Hauptunterschiede sind die maximale Strafzeit und der Umgang miteinander. Die maximale Strafzeit beruft sich auf 10 Jahre, da man ab dann sowieso Volljährig ist.
 	
-      - Wachen bieten soziale und psychologische Unterstützung
+	- Wachen bieten soziale und psychologische Unterstützung
 
 
 warum gibt’s das
