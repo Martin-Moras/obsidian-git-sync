@@ -29,7 +29,7 @@ kanban-plugin: basic
 
 ## Unimportant
 
-- [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ
+- [ ] Connect neurobiology with my mind theory https://youtu.be/4bIATTQHooM?si=GIOn7NvdZNOdpmSZ<br>https://youtu.be/FBpry4OYbyE?si=63RMsOr8cz0GaDNo
 - [ ] How to teach yourself something
 - [ ] Plan life<br>- what to do if:<br>	- I can‘t go to école 42<br>	- if I‘m taken, after piscine<br>	-
 - [ ] Make P smart more useful (Faster)
