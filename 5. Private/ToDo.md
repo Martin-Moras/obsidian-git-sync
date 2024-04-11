@@ -43,6 +43,7 @@ kanban-plugin: basic
 - [ ] How music triggers emotions <br>Learn to make music
 - [ ] Make a math mind map
 - [ ] Understand the meaning of abstract art
+- [ ] Tomas Mann Texte -> fractal node text
 
 
 ## Done
