@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/GbR.md",
+                "file": "7. School/Unternehmensformen.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "7. School/GbR.md",
+            "file": "7. School/Unternehmensformen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "7. School/GbR.md",
+            "file": "7. School/Unternehmensformen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "7. School/GbR.md"
+            "file": "7. School/Unternehmensformen.md"
           }
         }
       },
@@ -178,8 +178,8 @@
   },
   "active": "40eeb594fa8c31c5",
   "lastOpenFiles": [
-    "7. School/Unternehmensformen.md",
     "7. School/GbR.md",
+    "7. School/Unternehmensformen.md",
     "7. School/Gehaltsabrechnung.md",
     "7. School/Zusatzbeitrag.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
