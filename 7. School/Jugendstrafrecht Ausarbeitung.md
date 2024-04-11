@@ -29,15 +29,14 @@ Wenn ein Mensch im Alter von 14 - 21 eine Straftat begeht tritt das **Jugendgeri
 Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nämlich mehr auf die Erziehung des Angeklagten ausgelegt. Ein paar beispiele für mögliche Strafen sind:
 - **Aufsatz schreiben** der mit der Strafe in Verbindung liegt. 
 	Damit die Jugendlichen lernen welchen Umfang ihre Taten haben und damit ihnen bewusster wird welche Folgen Ihre Taten für sie und oder andere haben.
-- Sozial stunden
+- **Sozial stunden**
 	Um ihre schlechten Taten auszugleichen indem sie etwas für das Gemeinwohl tuen.
-- Entschuldigen
-	Um den schaden den sie angerichtet 
-- Wieder gut machen
-- ## Jugendgefängnis
-	- maximale Strafzeit: 10 Jahre
-	Das Jugendgefängnis ist wie ein normales Gefängnis nur mit mehr sozialen Aspekten:
-	- Wachen bieten soziale und psychologische Unterstützung
+- Bei Betroffenen **Entschuldigen**
+	Um den schaden den sie angerichtet haben wieder gut zu machen und um gute Manieren zu lernen.
+- **Jugendgefängnis**
+	Das Jugendgefängnis ist zum Großteil wie ein normales Gefängnis. Die Hauptunterschiede sind die maximale Strafzeit und der Umgang miteinander. Die maximale Strafzeit beruft sich auf 10 Jahre, da man ab dann sowieso Volljährig ist.
+	
+      - Wachen bieten soziale und psychologische Unterstützung
 
 
 warum gibt’s das
