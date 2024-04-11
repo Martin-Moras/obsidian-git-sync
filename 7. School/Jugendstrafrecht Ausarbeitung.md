@@ -35,8 +35,9 @@ Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nä
 	Um den schaden den sie angerichtet haben wieder gut zu machen und um gute Manieren zu lernen.
 - **Jugendgefängnis**
 	Das Jugendgefängnis ist zum Großteil wie ein normales Gefängnis. Die Hauptunterschiede sind die maximale Strafzeit und der Umgang miteinander. Die maximale Strafzeit beruft sich auf 10 Jahre, da man ab dann sowieso Volljährig ist.
-	Der Umgang zwischen Wachen und Gefangenen ist der Hauptunterschied. Denn die Wachen sollen nicht nur als Aufpasser dienen, sondern auch als Vertrauens- und Erziehungsperson. 
-	- Wachen bieten soziale und psychologische Unterstützung
+	Der Umgang zwischen Wachen und Gefangenen ist der Hauptunterschied. Denn die Wachen sollen nicht nur als Aufpasser dienen, sondern auch als Vertrauens- und Erziehungsperson. Die Gefangenen sollen mit ihren Problemen zu den Wachen wenden können und zu ihnen kommen wenn sie einen Rat brauchen.
+	Generell ist die Stimmung in einem Jugendgefängnis viel entspannter als in einem normalen Gefängnis.
+	Damit die Jugendlichen als soziale, funktionale 
 
 
 warum gibt’s das
