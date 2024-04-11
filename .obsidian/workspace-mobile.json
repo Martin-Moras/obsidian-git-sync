@@ -11,9 +11,11 @@
             "id": "40eeb594fa8c31c5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "5. Private/ToDo.md"
+                "file": "7. School/Gehaltsabrechnung.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -107,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "7. School/Gehaltsabrechnung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Private/ToDo.md",
+            "file": "7. School/Gehaltsabrechnung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Private/ToDo.md"
+            "file": "7. School/Gehaltsabrechnung.md"
           }
         }
       },
@@ -176,11 +178,14 @@
   },
   "active": "40eeb594fa8c31c5",
   "lastOpenFiles": [
-    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "7. School/BwL.md",
+    "7. School/Zusatzbeitrag.md",
     "7. School/Gehaltsabrechnung.md",
-    "6. Time/Daily/2024-04-08.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "7. School/BwL.md",
+    "7. School/Unternehmensformen.md",
+    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "5. Private/ToDo.md",
+    "6. Time/Daily/2024-04-08.md",
     "6. Time/Daily/2024-03-31.md",
     "6. Time/Daily/2024-03-29.md",
     "6. Time/Daily/2024-03-28.md",
@@ -200,9 +205,6 @@
     "/6. Time/Daily/2024-03-27.md",
     "/5. Private/ToDo.md",
     "4. Human/Self work/Body/Yoga.md",
-    "Templates/Focus shortcut.md",
-    "6. Time/Daily/2024-03-26.md",
-    "4. Human/Self work/Body/Body.md",
     "8. Files/Self Shadow work.jpeg",
     "/8. Files/Self Shadow work.jpeg",
     "7. School/Bearbeitungsprozesse Einkauf",
