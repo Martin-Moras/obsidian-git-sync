@@ -22,7 +22,7 @@ Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenz
 
 
 ## wer
-Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt. Dies kam mit einigen Komplikationen. 
+Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt.
 
 Inzwischen war klar, dass die DDR der Bundesrepublik beitreten würde – die Frage war nur noch, wann dies  geschehen soll. Am 23.08.1990 fand die Volkskammer der DDR eine Antwort darauf und legte für die Wiedervereinigung ein Datum fest: Der 3. Oktober 1990 wurde als Tag der Wiedervereinigung bestimmt.
 
