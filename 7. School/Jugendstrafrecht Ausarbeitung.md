@@ -9,5 +9,7 @@ File Creation date: 2024-04-11
 - Sozial stunden
 - Entschuldigen
 - Wieder gut machen
-- Jugendgefängnis
-- 
+- ## Jugendgefängnis
+	- maximale Strafzeit: 10 Jahre
+	Das Jugendgefängnis ist wie ein normales Gefängnis nur mit mehr sozialen Aspekten:
+	- Wachen bieten soziale und psychologische Unterstützung
