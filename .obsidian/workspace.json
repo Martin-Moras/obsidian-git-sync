@@ -11,11 +11,28 @@
             "id": "5933da4e93135b65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. School/GGK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95e619c4486068c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/Wiedervereinigung Ausarbeitung.md"
+              }
             }
           },
           {
@@ -152,8 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5933da4e93135b65",
+  "active": "95e619c4486068c9",
   "lastOpenFiles": [
+    "7. School/GGK.md",
+    "6. Time/Daily/2024-04-08.md",
+    "6. Time/Daily/2024-03-29.md",
+    "6. Time/Daily/2024-03-31.md",
+    "7. School/GbR.md",
+    "6. Time/Daily/2024-03-28.md",
     "6. Time/Daily/2024-03-27.md",
     "6. Time/Daily/2024-03-26.md",
     "6. Time/Daily/2024-03-25.md",
@@ -175,13 +202,7 @@
     "2. General/Toe.md",
     "2. General/Meaning of live.md",
     "6. Time/2005.md",
-    "2. General/Read 📚.md",
     "1. ToDo",
-    "2. General/What is intelligence.md",
-    "6. Time/Daily/2024-02-27.md",
-    "6. Time/Daily/2024-03-12.md",
-    "6. Time/Daily/2024-02-28.md",
-    "5. Private/Projects/Make the world a better place.md",
     "Templates",
     "8. Spiritual",
     "8. Files/Richard Schwatz portrait.png",

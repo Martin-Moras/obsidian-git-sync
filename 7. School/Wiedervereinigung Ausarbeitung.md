@@ -22,7 +22,7 @@ Kurz vor Weihnachten, am 22.12.1989, wurde das Brandenburger Tor als neuer Grenz
 
 
 ## wer
-Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt.
+Am 01.07.1990 kam es zur **Wirtschafts- und Währungsunion**, im Zuge derer die DDR die D-Mark der BRD als Zahlungsmittel übernahm. Außerdem wurde in der DDR nun ebenfalls die soziale Marktwirtschaft eingeführt. Dies kam mit einigen Komplikationen. 
 
 Inzwischen war klar, dass die DDR der Bundesrepublik beitreten würde – die Frage war nur noch, wann dies  geschehen soll. Am 23.08.1990 fand die Volkskammer der DDR eine Antwort darauf und legte für die Wiedervereinigung ein Datum fest: Der 3. Oktober 1990 wurde als Tag der Wiedervereinigung bestimmt.
 
@@ -54,8 +54,4 @@ Nach der Wiedervereinigung veränderte sich für die Menschen der östlichen Bun
 #### Probleme
 Zugleich aber zog die Wiedervereinigung Probleme mit sich. Einige Menschen waren überfordert mit der neuen Ideologie, in der sie nun lebten, oder sie wurden **arbeitslos**, da ihr **Wissen aus der DDR im Westen weniger wert** war. Am schwerwiegendsten waren jedoch die wirtschaftlichen Folgen der Wiedervereinigung. Die meisten **Betriebe der ehemaligen DDR wurden entweder geschlossen** oder privatisiert und schafften den Übergang zur Marktwirtschaft nicht. Dadurch verloren Millionen Menschen der neuen Bundesländer ihren Arbeitsplatz.
 
-Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar
-
-
-
-
+Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar sind.
