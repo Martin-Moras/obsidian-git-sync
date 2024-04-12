@@ -38,7 +38,7 @@ Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nä
 	Der Umgang zwischen Wachen und Gefangenen ist der Hauptunterschied. Denn die Wachen sollen nicht nur als Aufpasser dienen, sondern auch als Vertrauens- und Erziehungsperson. Die Gefangenen sollen sich mit ihren Problemen zu den Wachen wenden können und zu ihnen kommen wenn sie einen Rat brauchen.
 	Generell ist die Stimmung in einem Jugendgefängnis viel entspannter als in einem normalen Gefängnis.
 	Damit die Jugendlichen als soziale, funktionale Bürger aus dem Jugendgefängnis kommen, gibt es für die Gefangenen Erziehungsmaßnahmen und die Möglichkeit eine Ausbildung zu machen.
-Wie auch im allgemeinen Strafrecht, gilt beim JGG: Je schlimmer eine Straftat ist und ja
+Wie auch im allgemeinen Strafrecht, gilt beim JGG: Je schlimmer eine Straftat ist und je öfter eine Straftat begangen wird, desto härter wird die Strafe ausfallen.
 
 
 warum gibt’s das
