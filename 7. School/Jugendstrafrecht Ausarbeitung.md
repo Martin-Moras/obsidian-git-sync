@@ -21,7 +21,13 @@ File Creation date: 2024-04-11
 		- Moral
 			- Deine Taten können schlimme Folgen für dich und Andere haben
 	- Kriminalität reduzieren
-
+warum gibt’s das
+	 Die Welt einen schöneren Ort machen
+	- Kinder in die richtige Spur bringen
+		- Bildung
+		- Moral
+			- Deine Taten können schlimme Folgen für dich und Andere haben
+	- Kriminalität reduzieren
 # Struktur
 ## was ist das
 Wenn ein Mensch im Alter von<span style="color:#ffc000"> 14 - 21 </span>eine Straftat begeht tritt das **Jugendgerichtsgesetz** (JGG, umgangssprachlich: Jugendstrafrecht) in kraft. Das ist zumindest in Deutschland so. In anderen Ländern tritt es schon im Alter von 10 Jahren in kraft. Das JGG umfasst in etwa die gleichen Straftaten wie das allgemeine Strafrecht. 
@@ -40,9 +46,9 @@ Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nä
 	Damit die Jugendlichen als soziale, funktionale Bürger aus dem Jugendgefängnis kommen, gibt es für die Gefangenen Erziehungsmaßnahmen und die Möglichkeit eine Ausbildung zu machen.
 Wie auch im allgemeinen Strafrecht, gilt beim JGG: Je schlimmer eine Straftat ist und je öfter eine Straftat begangen wird, desto härter wird die Strafe ausfallen.
 
-
-warum gibt’s das
-	 Die Welt einen schöneren Ort machen
+# Warum gibt´s das
+Wie alle Gesätze, ist das JGG auch dazu da um die Welt einen besseren Ort zu machen. Und ich finde es hat diesen Zweck sehr gut erfüllt. Etwa 80% aller Jugendlichen die in einem Jugendgefängnis waren, haben seit dem keine Straftaten mehr begangen (zumindest keine bei denen sie erwischt wurden). Generell ist es ein sehr gutes Konzept, Straftaten nicht nur zu bestrafen, sondern den Straftätern einen guten Weg 
+Die Welt einen schöneren Ort machen
 	- Kinder in die richtige Spur bringen
 		- Bildung
 		- Moral
