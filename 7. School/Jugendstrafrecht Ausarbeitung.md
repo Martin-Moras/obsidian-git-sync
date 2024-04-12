@@ -24,7 +24,7 @@ File Creation date: 2024-04-11
 
 # Struktur
 ## was ist das
-Wenn ein Mensch im Alter von 14 - 21 eine Straftat begeht tritt das **Jugendgerichtsgesetz** (JGG, umgangssprachlich: Jugendstrafrecht) in kraft. Das ist zumindest in Deutschland so. In anderen Ländern tritt es schon im Alter von 10 Jahren in kraft. Das JGG umfasst in etwa die gleichen Straftaten wie das allgemeine Strafrecht. 
+Wenn ein Mensch im Alter von<span style="color:#ffc000"> 14 - 21 </span>eine Straftat begeht tritt das **Jugendgerichtsgesetz** (JGG, umgangssprachlich: Jugendstrafrecht) in kraft. Das ist zumindest in Deutschland so. In anderen Ländern tritt es schon im Alter von 10 Jahren in kraft. Das JGG umfasst in etwa die gleichen Straftaten wie das allgemeine Strafrecht. 
 # Strafe
 Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nämlich mehr auf die Erziehung des Angeklagten ausgelegt. Ein paar beispiele für mögliche Strafen sind:
 - Bei Betroffenen **Entschuldigen**
@@ -37,7 +37,8 @@ Der Hauptunterschied ist die Strafe die die Verurteilten bekommen. Diese ist nä
 	Das Jugendgefängnis ist zum Großteil wie ein normales Gefängnis. Die Hauptunterschiede sind die maximale Strafzeit und der Umgang miteinander. Die maximale Strafzeit beruft sich auf 10 Jahre, da man ab dann sowieso Volljährig ist.
 	Der Umgang zwischen Wachen und Gefangenen ist der Hauptunterschied. Denn die Wachen sollen nicht nur als Aufpasser dienen, sondern auch als Vertrauens- und Erziehungsperson. Die Gefangenen sollen sich mit ihren Problemen zu den Wachen wenden können und zu ihnen kommen wenn sie einen Rat brauchen.
 	Generell ist die Stimmung in einem Jugendgefängnis viel entspannter als in einem normalen Gefängnis.
-	Damit die Jugendlichen als soziale, funktionale Bürger aus dem Jugendgefängnis kommen
+	Damit die Jugendlichen als soziale, funktionale Bürger aus dem Jugendgefängnis kommen, gibt es für die Gefangenen Erziehungsmaßnahmen und die Möglichkeit eine Ausbildung zu machen.
+Wie auch im allgemeinen Strafrecht, gilt beim JGG: Je schlimmer eine Straftat ist und ja
 
 
 warum gibt’s das
