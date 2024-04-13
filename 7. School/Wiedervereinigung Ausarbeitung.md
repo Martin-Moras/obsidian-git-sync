@@ -54,8 +54,4 @@ Nach der Wiedervereinigung veränderte sich für die Menschen der östlichen Bun
 #### Probleme
 Zugleich aber zog die Wiedervereinigung Probleme mit sich. Einige Menschen waren überfordert mit der neuen Ideologie, in der sie nun lebten, oder sie wurden **arbeitslos**, da ihr **Wissen aus der DDR im Westen weniger wert** war. Am schwerwiegendsten waren jedoch die wirtschaftlichen Folgen der Wiedervereinigung. Die meisten **Betriebe der ehemaligen DDR wurden entweder geschlossen** oder privatisiert und schafften den Übergang zur Marktwirtschaft nicht. Dadurch verloren Millionen Menschen der neuen Bundesländer ihren Arbeitsplatz.
 
-Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar
-
-
-
-
+Es gibt also einige Vor- und Nachteile der Wiedervereinigung. Zum Teil sind diese noch heute spürbar sind.
