@@ -93,8 +93,8 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.7,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -102,7 +102,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2962962962962963,
+                  "scale": 0.4444444444444444,
                   "close": true
                 }
               }
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ad3f0c58d827a7d",
+  "active": "5f59e1d71245ae0c",
   "lastOpenFiles": [
     "Fractal node.md",
     "7. School/BWL/Einzel Unternehmen.md",
