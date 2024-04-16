@@ -1,2 +1,2 @@
-[[IFS Ausarbeitung]]
+[[Ifs Ausarbeitung]]
 [[Jugendstrafrecht Ausarbeitung]]

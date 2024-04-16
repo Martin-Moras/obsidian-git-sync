@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5e699e8085d6a263",
+    "id": "7135ce368b4d4da0",
     "type": "split",
     "children": [
       {
-        "id": "f80ade928bd9230e",
+        "id": "1f118c6dcbf55a31",
         "type": "tabs",
         "children": [
           {
-            "id": "f40b49a99375aa06",
+            "id": "0ad3f0c58d827a7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md",
+                "file": "7. School/BWL/BwL.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be5adaee44cd740b",
+    "id": "55d7442289e5a48d",
     "type": "split",
     "children": [
       {
-        "id": "60efaa70e0897aba",
+        "id": "3402caf0d6f3392f",
         "type": "tabs",
+        "dimension": 65.2671755725191,
         "children": [
           {
-            "id": "e6b0c6f2d23ce0c4",
+            "id": "7dbd3fa264a924ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "d1051e6e4e0a2296",
+            "id": "9d310e21d2847a0f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +59,7 @@
             }
           },
           {
-            "id": "942af40475ae68ef",
+            "id": "38a5ba3d259b0728",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,27 +67,68 @@
             }
           }
         ]
+      },
+      {
+        "id": "34dbaaa6cd7fada4",
+        "type": "tabs",
+        "dimension": 34.73282442748092,
+        "children": [
+          {
+            "id": "5f59e1d71245ae0c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "7. School/BWL/BwL.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2962962962962963,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e90fc892b3982ecb",
+    "id": "29ea960dc4acb4cd",
     "type": "split",
     "children": [
       {
-        "id": "fa824635d8d5c9dd",
+        "id": "08dd8f7731a30d46",
         "type": "tabs",
         "children": [
           {
-            "id": "3437daa82e3d9422",
+            "id": "f7f6e1da424e7e03",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +140,19 @@
             }
           },
           {
-            "id": "15bc9bf5ca752824",
+            "id": "67f17dba5843583c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "91f26e842ff2ab3b",
+            "id": "427dd41677a034c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +163,17 @@
             }
           },
           {
-            "id": "d3959268ee557664",
+            "id": "b22bf5b1b41a22a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/Jugendstrafrecht Ausarbeitung.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
           {
-            "id": "d4bbaef46b7813e5",
+            "id": "134d7631f4d43f97",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -142,58 +184,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f40b49a99375aa06",
+  "active": "0ad3f0c58d827a7d",
   "lastOpenFiles": [
-    "7. School/Jugendstrafrecht Ausarbeitung.md",
-    "7. School/Ethic.md",
-    "8. Files/Pasted image 20240411201521.jpg",
-    "5. Private/Fractal mind theory.md",
-    "5. Private/ToDo.md",
-    "7. School/GGK.md",
-    "7. School/Wiedervereinigung Ausarbeitung.md",
-    "6. Time/Daily/2024-04-08.md",
-    "6. Time/Daily/2024-03-29.md",
-    "6. Time/Daily/2024-03-31.md",
-    "7. School/GbR.md",
-    "6. Time/Daily/2024-03-28.md",
-    "6. Time/Daily/2024-03-27.md",
-    "6. Time/Daily/2024-03-26.md",
-    "6. Time/Daily/2024-03-25.md",
-    "6. Time/Daily/2024-03-24.md",
-    "6. Time/Daily/2024-03-23.md",
-    "6. Time/Daily/2024-03-18.md",
-    "Templates/Templater test.md",
-    "Templates/Daily Template.md",
+    "Fractal node.md",
+    "7. School/BWL/Einzel Unternehmen.md",
+    "7. School/Englisch/Work with English contents.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
+    "7. School/BWL/Solidaritätszuschlag.md",
+    "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
+    "7. School/Englisch",
+    "7. School/Untitled.md",
+    "7. School/GGK",
+    "7. School/Deutsch",
+    "7. School/History.md",
+    "7. School/BWL/Zusatzbeitrag.md",
+    "7. School/Ethik",
+    "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
+    "7. School/Beitragsbemessungsgrenze.md",
+    "7. School/BWL/GbR.md",
+    "7. School/BWL",
+    "1. Excalidraw/Gehaltsabrechnung 2024-01-30 14.14.50.excalidraw.md",
+    "1. Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "6. Time/Daily/Untitled.md",
+    "Untitled.md",
+    "Templates/Untitled.md",
+    "Templates/Templater test.md",
     "Templates/Generic Template.md",
-    "8. Files/Self Shadow work.jpeg",
-    "2. General/climate change.md",
-    "2. General/Untitled.md",
-    "1. ToDo",
+    "Templates/Focus shortcut.md",
+    "Templates/Daily Template.md",
     "Templates",
+    "SIM Vertrag.md",
+    "Relative strength.md",
+    "Mind ToDo.md",
     "8. Spiritual",
+    "8. Files/Self Shadow work.jpeg",
     "8. Files/Richard Schwatz portrait.png",
+    "8. Files/Pasted image 20240411201521.jpg",
     "8. Files/Pasted image 20240323175104.png",
     "8. Files/Pasted image 20240317181232.png",
     "8. Files/Pasted image 20240208124148.jpg",
@@ -202,11 +249,6 @@
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115203721 1.png",
     "8. Files",
-    "7. School/DDR/DDR Vortrag TTS.mp3",
-    "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
-    "7. School/DDR",
-    "7. School/Bearbeitungsprozesse Einkauf",
-    "7. School",
-    "6. Time/Daily"
+    "7. School/DDR/DDR Vortrag TTS.mp3"
   ]
 }
