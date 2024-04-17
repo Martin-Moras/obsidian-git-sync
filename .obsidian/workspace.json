@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "6. Time/Daily/2024-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "6. Time/Daily/2024-04-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "6. Time/Daily/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "6. Time/Daily/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/BwL.md"
+                "file": "6. Time/Daily/2024-04-17.md"
               }
             }
           },
@@ -203,8 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f59e1d71245ae0c",
+  "active": "0ad3f0c58d827a7d",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-04-17.md",
+    "7. School/BWL/BwL.md",
+    "7. School/Sundar Pichai Ausarbeitung.md",
+    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "Fractal node.md",
     "7. School/BWL/Einzel Unternehmen.md",
     "7. School/Englisch/Work with English contents.md",
@@ -233,11 +237,7 @@
     "Templates/Templater test.md",
     "Templates/Generic Template.md",
     "Templates/Focus shortcut.md",
-    "Templates/Daily Template.md",
     "Templates",
-    "SIM Vertrag.md",
-    "Relative strength.md",
-    "Mind ToDo.md",
     "8. Spiritual",
     "8. Files/Self Shadow work.jpeg",
     "8. Files/Richard Schwatz portrait.png",
