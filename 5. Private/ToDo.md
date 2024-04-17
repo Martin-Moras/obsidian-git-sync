@@ -44,6 +44,7 @@ kanban-plugin: basic
 - [ ] Make a math mind map
 - [ ] Understand the meaning of abstract art
 - [ ] Tomas Mann Texte -> fractal node text
+- [ ] Obsidian vim shortcuts
 
 
 ## Done
