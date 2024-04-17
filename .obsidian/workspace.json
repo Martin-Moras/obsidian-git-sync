@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f118c6dcbf55a31",
+        "id": "ccd7e848ba31f5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad3f0c58d827a7d",
+            "id": "fa91dfa5b855a0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
+                "file": "5. Private/Fractal mind theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md"
+                "file": "5. Private/Fractal mind theory.md"
               }
             }
           },
@@ -203,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ad3f0c58d827a7d",
+  "active": "fa91dfa5b855a0dd",
   "lastOpenFiles": [
     "6. Time/Daily/2024-04-17.md",
     "7. School/BWL/BwL.md",
