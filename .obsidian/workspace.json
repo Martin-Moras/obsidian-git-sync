@@ -11,12 +11,8 @@
             "id": "fa91dfa5b855a0dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Time/Daily/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Time/Daily/2024-04-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +196,10 @@
   },
   "active": "fa91dfa5b855a0dd",
   "lastOpenFiles": [
+    "6. Time/Daily/2024-04-17.md",
     "Templates/Generic Template.md",
     "Templates/Daily Template.md",
     "5. Private/ToDo.md",
-    "6. Time/Daily/2024-04-17.md",
     "5. Private/Fractal mind theory.md",
     "7. School/BWL/BwL.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
