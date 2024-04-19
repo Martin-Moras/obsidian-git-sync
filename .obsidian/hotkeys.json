@@ -72,5 +72,13 @@
       ],
       "key": "B"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

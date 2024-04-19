@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "6. Time/Daily",
-      "template": "Templates/Daily Template.md"
-    },
-    {
       "folder": "1. Excalidraw/Scripts",
       "template": "Templates/Generic Template.md"
     },

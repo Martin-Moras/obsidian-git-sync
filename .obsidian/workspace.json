@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "ff6d2ba3758e44fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Darlehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca8654a4dad7f510",
+            "id": "3a7a0333bf2ce965",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,12 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca8654a4dad7f510",
+  "active": "3a7a0333bf2ce965",
   "lastOpenFiles": [
     "7. School/BWL/Grundschuldkredit.md",
+    "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/Sicherungsübereignung.md",
-    "8. Files/Kreditsicherheit 2024-04-19 19.07.58.excalidraw.md",
     "8. Files/Kreditsicherheit 2024-04-19 18.41.21.excalidraw.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/Bürgschaft.md",
+    "7. School/BWL/Blancokredit.md",
+    "8. Files/Kreditsicherheit 2024-04-19 19.07.58.excalidraw.md",
+    "7. School/BWL/egarargegraearegargeaerg.md",
+    "7. School/BWL/ADHD.md",
+    "7. School/BWL/Untitled.md",
+    "7. School/BWL/Darlehen.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
@@ -208,22 +205,13 @@
     "8. Files/Pasted image 20240113142019.png",
     "8. Files/Pasted Image 20240114161948_557.png",
     "7. School/BWL/Besitzkonstitut.md",
-    "7. School/BWL/Bürgschaft.md",
     "Untitled.md",
-    "7. School/BWL/Kreditsicherheit.md",
-    "7. School/BWL/Blancokredit.md",
-    "7. School/BWL/Darlehen.md",
     "7. School/Ethik/Ifs Ausarbeitung.md",
     "7. School/Ethik/Einleitung.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/OHG.md",
     "7. School/BWL/Fälligkeitsdarlehen.md",
     "7. School/BWL/Annuitätendarlehen.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
-    "7. School/School.md",
-    "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
-    "7. School/GGK/GGK.md",
-    "7. School/GGK/DDR/github test.md",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
     "7. School/GGK/DDR",
     "7. School/GGK",
