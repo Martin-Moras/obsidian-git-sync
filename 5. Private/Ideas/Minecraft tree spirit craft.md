@@ -1,0 +1,12 @@
+---
+File Creation date: 2024-01-22
+---
+- every type of tree has different special abilities 
+	- fire resistance 
+	- Travel through the roots
+	- Water, trident
+- When the core is dead everyone dies
+- Core can be healed
+- Logs can be crafted into reinforced logs
+- Leaves and roots produce **energy**
+- If you right click with energy on roots or leaves they grow
