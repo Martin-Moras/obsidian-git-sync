@@ -22,19 +22,43 @@
             }
           },
           {
-            "id": "3a7a0333bf2ce965",
+            "id": "ac2b782b7c45dd34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "7. School/BWL/Darlehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a52a73026561a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Jahreszinsen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f4fb41a1ef279ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Effectivzins.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "7. School/BWL/Effectivzins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "7. School/BWL/Effectivzins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md"
+                "file": "7. School/BWL/Effectivzins.md"
               }
             }
           },
@@ -156,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a7a0333bf2ce965",
+  "active": "3f4fb41a1ef279ee",
   "lastOpenFiles": [
-    "7. School/BWL/Grundschuldkredit.md",
+    "7. School/BWL/Jahreszinsen.md",
+    "7. School/BWL/Effectivzins.md",
+    "7. School/BWL/Darlehen.md",
     "7. School/BWL/Kreditsicherheit.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/Grundschuldkredit.md",
     "7. School/BWL/Sicherungsübereignung.md",
     "8. Files/Kreditsicherheit 2024-04-19 18.41.21.excalidraw.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Bürgschaft.md",
     "7. School/BWL/Blancokredit.md",
@@ -188,7 +216,6 @@
     "7. School/BWL/egarargegraearegargeaerg.md",
     "7. School/BWL/ADHD.md",
     "7. School/BWL/Untitled.md",
-    "7. School/BWL/Darlehen.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
@@ -210,8 +237,6 @@
     "7. School/Ethik/Einleitung.md",
     "7. School/BWL/OHG.md",
     "7. School/BWL/Fälligkeitsdarlehen.md",
-    "7. School/BWL/Annuitätendarlehen.md",
-    "7. School/Sundar Pichai Ausarbeitung.md",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
     "7. School/GGK/DDR",
     "7. School/GGK",
