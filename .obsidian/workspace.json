@@ -41,7 +41,7 @@
               "state": {
                 "file": "7. School/BWL/Effektivzins.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -190,8 +190,8 @@
   "active": "c15dacfbaa55c862",
   "lastOpenFiles": [
     "7. School/BWL/Jahreszinsen.md",
-    "7. School/BWL/Darlehen.md",
     "7. School/BWL/Effektivzins.md",
+    "7. School/BWL/Darlehen.md",
     "7. School/BWL/Nominalzins.md",
     "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/BwL.md",

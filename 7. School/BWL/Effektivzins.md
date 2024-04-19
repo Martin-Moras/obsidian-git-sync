@@ -2,10 +2,10 @@
 File Creation date: 2024-04-19
 ---
 $$
-Disagio=Kredit*(100-Auszahlung)
+Disagio=Kredit*(1-Auszahlung)
 $$
 $$
-
+Jahreszinsen=Kredit*Zinssatz
 $$
 $$
 Effektivzins=\frac{Jahreszinsen (in\, Euro) +\frac{Disagio}{Laufzeit}}{Auszahlungsbetrag}*100
