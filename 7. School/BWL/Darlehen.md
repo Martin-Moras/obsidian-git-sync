@@ -3,7 +3,8 @@ File Creation date: 2024-04-19
 ---
 # Formeln
 [[Jahreszinsen]]
-[[Effectivzins]]
+[[Effektivzins]]
+[[Nominalzins]]
 # Darlehens arten
 [[Ratendarlehen]]
 [[Annuitätendarlehen]]

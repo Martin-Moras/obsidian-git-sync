@@ -34,31 +34,19 @@
             }
           },
           {
-            "id": "7a52a73026561a80",
+            "id": "c15dacfbaa55c862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Jahreszinsen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f4fb41a1ef279ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Effectivzins.md",
+                "file": "7. School/BWL/Effektivzins.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Effectivzins.md",
+                "file": "7. School/BWL/Effektivzins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Effectivzins.md",
+                "file": "7. School/BWL/Effektivzins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Effectivzins.md"
+                "file": "7. School/BWL/Effektivzins.md"
               }
             }
           },
@@ -199,11 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f4fb41a1ef279ee",
+  "active": "c15dacfbaa55c862",
   "lastOpenFiles": [
-    "7. School/BWL/Jahreszinsen.md",
-    "7. School/BWL/Effectivzins.md",
     "7. School/BWL/Darlehen.md",
+    "7. School/BWL/Nominalzins.md",
+    "7. School/BWL/Jahreszinsen.md",
+    "7. School/BWL/Effektivzins.md",
     "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Grundschuldkredit.md",
@@ -236,7 +225,6 @@
     "7. School/Ethik/Ifs Ausarbeitung.md",
     "7. School/Ethik/Einleitung.md",
     "7. School/BWL/OHG.md",
-    "7. School/BWL/Fälligkeitsdarlehen.md",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
     "7. School/GGK/DDR",
     "7. School/GGK",
