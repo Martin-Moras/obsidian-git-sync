@@ -24,55 +24,31 @@
     },
     {
       "folder": "2. General",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
       "folder": "3. Computer",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
       "folder": "7. School",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
       "folder": "4. Human",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
       "folder": "8. Spiritual",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
       "folder": "5. Private",
-      "template": ""
+      "template": "Templates/Generic Template.md"
     },
     {
-      "folder": "6. Time",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "8. Files",
+      "template": "Templates/Generic Template.md"
     }
   ],
   "syntax_highlighting": true,

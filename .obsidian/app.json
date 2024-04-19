@@ -29,5 +29,6 @@
   "attachmentFolderPath": "8. Files",
   "userIgnoreFilters": [
     "1. Excalidraw/"
-  ]
+  ],
+  "propertiesInDocument": "hidden"
 }
