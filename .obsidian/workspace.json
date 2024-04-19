@@ -1,75 +1,49 @@
 {
   "main": {
-    "id": "7135ce368b4d4da0",
+    "id": "41f59215e53dc094",
     "type": "split",
     "children": [
       {
-        "id": "ccd7e848ba31f5e9",
+        "id": "d8241aa73146403f",
         "type": "tabs",
         "children": [
           {
-            "id": "fa91dfa5b855a0dd",
+            "id": "1312ea20c4e245ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/BwL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d66e86c87fff8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Darlehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c49163d0e2526d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55d7442289e5a48d",
+    "id": "f556f0ddf6727ac4",
     "type": "split",
     "children": [
       {
-        "id": "3402caf0d6f3392f",
+        "id": "2e07b4b867401a3e",
         "type": "tabs",
-        "dimension": 65.26717557251908,
         "children": [
           {
-            "id": "7dbd3fa264a924ce",
+            "id": "e9e53cfd78508078",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "9d310e21d2847a0f",
+            "id": "a5564c6be4d8982e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,53 +58,11 @@
             }
           },
           {
-            "id": "38a5ba3d259b0728",
+            "id": "851e51c6466e12f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "34dbaaa6cd7fada4",
-        "type": "tabs",
-        "dimension": 34.732824427480914,
-        "children": [
-          {
-            "id": "5f59e1d71245ae0c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.7,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4444444444444444,
-                  "close": true
-                }
-              }
             }
           }
         ]
@@ -140,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "29ea960dc4acb4cd",
+    "id": "ae35418cbbd1ada6",
     "type": "split",
     "children": [
       {
-        "id": "08dd8f7731a30d46",
+        "id": "ffbdcfd7c944ab96",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f6e1da424e7e03",
+            "id": "7d8a2981cce45318",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,19 +97,19 @@
             }
           },
           {
-            "id": "67f17dba5843583c",
+            "id": "6289f01a1ae0a59a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "427dd41677a034c9",
+            "id": "c952aa9d58802157",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,33 +120,24 @@
             }
           },
           {
-            "id": "b22bf5b1b41a22a2",
+            "id": "25e94c43a91174a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Kreditsicherheit.md"
+                "file": "Untitled 2.md"
               }
             }
           },
           {
-            "id": "134d7631f4d43f97",
+            "id": "15cf8d298b9d1efd",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "af8f30dad556a07f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,42 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49163d0e2526d7e",
+  "active": "1312ea20c4e245ed",
   "lastOpenFiles": [
-    "7. School/BWL/Darlehen.md",
-    "7. School/BWL/Kreditsicherheit.md",
-    "7. School/BWL/Jahreszinsen.md",
-    "7. School/BWL/Fälligkeitsdarlehen.md",
-    "7. School/BWL/Ratendarlehen.md",
-    "Templates/Templater test.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Templates/Untitled.md",
-    "7. School/BWL/Annuitätendarlehen.md",
-    "7. School/BWL/BwL.md",
-    "7. School/School.md",
-    "5. Private/Pressent.md",
-    "7. School/BWL/Unternehmensformen.md",
-    "7. School/BWL/GbR.md",
-    "6. Time/Daily/2024-04-17.md",
+    "Templates/Templater test.md",
     "Templates/Generic Template.md",
     "Templates/Daily Template.md",
-    "5. Private/ToDo.md",
-    "5. Private/Fractal mind theory.md",
-    "7. School/Sundar Pichai Ausarbeitung.md",
-    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "Fractal node.md",
-    "7. School/BWL/Einzel Unternehmen.md",
-    "7. School/Englisch/Work with English contents.md",
-    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
-    "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
-    "7. School/BWL/Solidaritätszuschlag.md",
-    "7. School/Englisch",
-    "7. School/GGK",
-    "7. School/Deutsch",
-    "7. School/Ethik",
-    "7. School/_com.apple.Pasteboard.BPSDd7.pdf",
-    "7. School/BWL",
     "Templates",
+    "SIM Vertrag.md",
+    "Relative strength.md",
+    "Mind ToDo.md",
+    "Free diving.md",
+    "Fractal node.md",
+    "8. Spiritual/Supernatural.md",
     "8. Spiritual",
+    "8. Files/Wiedervereinigung Ausarbeitung 2024-03-04 16.19.08.excalidraw.md",
     "8. Files/Self Shadow work.jpeg",
     "8. Files/Richard Schwatz portrait.png",
     "8. Files/Pasted image 20240411201521.jpg",
@@ -283,7 +188,25 @@
     "8. Files/Pasted image 20240206135900.jpg",
     "8. Files/Pasted image 20240122225910.png",
     "8. Files/Pasted image 20240115203721 1.png",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
+    "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
     "8. Files",
-    "7. School/DDR/DDR Vortrag TTS.mp3"
+    "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
+    "7. School/GGK/GGK.md",
+    "7. School/Ethik/Jugendstrafrecht Ausarbeitung.md",
+    "7. School/Ethik/Ifs Ausarbeitung.md",
+    "7. School/Ethik/Ethic.md",
+    "7. School/Englisch/Work with English contents.md",
+    "7. School/Englisch/Reported speech.md",
+    "7. School/DDR/DDR Vortrag TTS.mp3",
+    "7. School/GGK",
+    "7. School/Ethik",
+    "7. School/Englisch",
+    "7. School/Deutsch",
+    "7. School/DDR",
+    "7. School/Bearbeitungsprozesse Einkauf"
   ]
 }
