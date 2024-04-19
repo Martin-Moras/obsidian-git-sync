@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md",
+                "file": "7. School/BWL/Jahreszinsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md",
+                "file": "7. School/BWL/Jahreszinsen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md"
+                "file": "7. School/BWL/Jahreszinsen.md"
               }
             }
           },
@@ -187,10 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c15dacfbaa55c862",
+  "active": "ac2b782b7c45dd34",
   "lastOpenFiles": [
-    "7. School/BWL/Jahreszinsen.md",
     "7. School/BWL/Effektivzins.md",
+    "7. School/BWL/Jahreszinsen.md",
     "7. School/BWL/Darlehen.md",
     "7. School/BWL/Nominalzins.md",
     "7. School/BWL/Kreditsicherheit.md",
