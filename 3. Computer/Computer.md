@@ -1,5 +1,0 @@
-[[Programing]]
-[[Ai]]
-[[Raspbary pi]]
-[[Bitcoin]]
-[[Linux]]

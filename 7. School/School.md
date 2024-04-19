@@ -1,6 +1,0 @@
-[[BwL]]
-[[Ethic]]
-[[GGK]]
-[[History]]
-[[English]]
-[[Deutsch]]

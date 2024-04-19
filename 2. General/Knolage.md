@@ -1,6 +1,0 @@
-[[Universe]]
-
-
-[[Computer]]
-[[Supernatural]]
-[[Human]]

@@ -1,1 +1,0 @@
-mental to physical  
