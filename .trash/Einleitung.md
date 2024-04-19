@@ -1,0 +1,10 @@
+# Einleitung
+![[Richard Schwatz portrait.png|300]]
+Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf dem Konzept, dass die Menschliche Psyche aus mehreren „Teilen" besteht. Jeder dieser Teile ist irgendwann in unserem Leben entstanden, meistens in unserer Kindheit. Ein Teil ist dazu da damit wir mit bestimmten Situationen in unserem Laben klar kommen. Zum Beispiel, wenn man gegenüber Seinen Eltern oder Freunden seine Meinung und Wünsche geäußert hat, aber immer wenn man das getan hat, wurde man Kritisiert oder ausgestoßen. Deshalb ist ein Teil entstanden, der einem in diesen Situationen sagt, dass ich besser nicht seine Meinung sagt, um weiterhin gemocht zu werden.
+
+# Einleitung
+![[Richard Schwatz portrait.png|300]]
+Ifs Therapie wurde 1980 von Richard Schwarz erfunden. Die Therapie basiert auf dem Konzept, dass die Menschliche Psyche aus mehreren „Teilen" besteht. Jeder dieser Teile ist irgendwann in unserem Leben entstanden, meistens in unserer Kindheit. Ein Teil ist dazu da damit wir mit bestimmten Situationen in unserem Laben klar kommen. Zum Beispiel, wenn man gegenüber Seinen Eltern oder Freunden seine Meinung und Wünsche geäußert hat, aber immer wenn man das getan hat, wurde man Kritisiert oder ausgestoßen. Deshalb ist ein Teil entstanden, der einem in diesen Situationen sagt, dass ich besser nicht seine Meinung sagt, um weiterhin gemocht zu werden.
+
+An diesem Beispiel sieht man, wie ein Teil entstehen kann, der einen früher zwar beschützt hat, aber wenn man älter ist, kann dieser Teil eine Person ein ich einschränken und daran hindern ihr volles potenzial zu erreichen.
+Und dass ist bei allen Teilen so. Irgendetwas, irgend ein Ereignis in der Vergangenheit hat einen Teil etwas glauben machen, dann hat der Teil dieses Ereignis generalisiert, und so ist dann ein Verhalten entstanden, dass einer Person, wenn sie Alter wird, in irgendeiner weise erschränkt kann.

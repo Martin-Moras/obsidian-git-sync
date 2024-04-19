@@ -34,24 +34,12 @@
             }
           },
           {
-            "id": "adbd925922497866",
+            "id": "ca8654a4dad7f510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "7. School/BWL/Kreditsicherheit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ab2da993d5b4955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Files/Besitzkonstitut.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,14 +186,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adbd925922497866",
+  "active": "ca8654a4dad7f510",
   "lastOpenFiles": [
-    "8. Files/Besitzkonstitut.md",
-    "7. School/BWL/Kreditsicherheit.md",
-    "7. School/BWL/Darlehen.md",
-    "8. Files/Kreditsicherheit 2024-04-19 18.41.21.excalidraw.md",
+    "7. School/BWL/Grundschuldkredit.md",
+    "7. School/BWL/Sicherungsübereignung.md",
     "8. Files/Kreditsicherheit 2024-04-19 19.07.58.excalidraw.md",
+    "8. Files/Kreditsicherheit 2024-04-19 18.41.21.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
+    "8. Files/Gehaltsabrechnung 2024-02-06 14.00.23.excalidraw.md",
+    "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
+    "8. Files/BWL SteuerKlassen.png",
+    "8. Files/Attention gradient.png",
+    "8. Files/BWL alle Versicherungen.png",
+    "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "8. Files/Pasted image 20240115163626.png",
+    "8. Files/Pasted Image 20240113140600_527.png",
+    "8. Files/Pasted image 20240113142014.png",
+    "8. Files/Pasted Image 20240113141109_708.jpg",
+    "8. Files/Pasted image 20240113142019.png",
+    "8. Files/Pasted Image 20240114161948_557.png",
+    "7. School/BWL/Besitzkonstitut.md",
+    "7. School/BWL/Bürgschaft.md",
+    "Untitled.md",
+    "7. School/BWL/Kreditsicherheit.md",
+    "7. School/BWL/Blancokredit.md",
+    "7. School/BWL/Darlehen.md",
+    "7. School/Ethik/Ifs Ausarbeitung.md",
+    "7. School/Ethik/Einleitung.md",
     "7. School/BWL/BwL.md",
+    "7. School/BWL/OHG.md",
     "7. School/BWL/Fälligkeitsdarlehen.md",
     "7. School/BWL/Annuitätendarlehen.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
@@ -214,38 +224,15 @@
     "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
     "7. School/GGK/GGK.md",
     "7. School/GGK/DDR/github test.md",
-    "7. School/GGK/DDR/Wirtschaft der DDR.md",
-    "7. School/GGK/DDR/UDSSR.md",
-    "7. School/GGK/DDR/DDR.md",
-    "7. School/GGK/DDR/DDR-Karte.png",
-    "7. School/GGK/DDR/DDR Vortrag.md",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
-    "7. School/GGK/DDR/DDR Vortrag GPT V2.md",
-    "7. School/GGK/DDR/DDR Vortrag GPT V1.md",
-    "7. School/GGK/DDR/DDR 1.md",
-    "7. School/GGK/DDR/1949.md",
     "7. School/GGK/DDR",
     "7. School/GGK",
-    "7. School/Ethik/Ethic.md",
-    "7. School/Ethik/Jugendstrafrecht Ausarbeitung.md",
-    "7. School/Ethik/Ifs Ausarbeitung.md",
     "7. School/Ethik",
-    "7. School/Englisch/Work with English contents.md",
-    "7. School/Englisch/Reported speech.md",
     "7. School/Englisch",
     "7. School/Deutsch",
     "7. School/BWL",
     "7. School/Bearbeitungsprozesse Einkauf",
     "7. School",
-    "6. Time",
-    "3. Computer/Pasted image 20230524155355.png",
-    "3. Computer/Pasted image 20230524153716.png",
-    "1. Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "1. Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "1. Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
-    "8. Files/Self Shadow work.jpeg",
-    "8. Files/Richard Schwatz portrait.png",
-    "8. Files/Pasted image 20240323175104.png",
-    "8. Files/Pasted image 20240411201521.jpg"
+    "6. Time"
   ]
 }
