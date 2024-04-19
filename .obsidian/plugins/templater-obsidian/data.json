@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -19,8 +19,60 @@
       "template": "Templates/Daily Template.md"
     },
     {
-      "folder": "/",
+      "folder": "1. Excalidraw/Scripts",
       "template": "Templates/Generic Template.md"
+    },
+    {
+      "folder": "2. General",
+      "template": ""
+    },
+    {
+      "folder": "3. Computer",
+      "template": ""
+    },
+    {
+      "folder": "7. School",
+      "template": ""
+    },
+    {
+      "folder": "4. Human",
+      "template": ""
+    },
+    {
+      "folder": "8. Spiritual",
+      "template": ""
+    },
+    {
+      "folder": "5. Private",
+      "template": ""
+    },
+    {
+      "folder": "6. Time",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,

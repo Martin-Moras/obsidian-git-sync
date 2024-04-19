@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "98715349fdfaf890",
+            "id": "c49163d0e2526d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Jahreszinsen.md",
+                "file": "7. School/BWL/Kreditsicherheit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Darlehen.md",
+                "file": "7. School/BWL/Kreditsicherheit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Darlehen.md",
+                "file": "7. School/BWL/Kreditsicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Darlehen.md",
+                "file": "7. School/BWL/Kreditsicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Darlehen.md"
+                "file": "7. School/BWL/Kreditsicherheit.md"
               }
             }
           },
@@ -237,16 +237,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d66e86c87fff8d",
+  "active": "c49163d0e2526d7e",
   "lastOpenFiles": [
-    "7. School/BWL/Fälligkeitsdarlehen.md",
     "7. School/BWL/Darlehen.md",
+    "7. School/BWL/Kreditsicherheit.md",
+    "7. School/BWL/Jahreszinsen.md",
+    "7. School/BWL/Fälligkeitsdarlehen.md",
     "7. School/BWL/Ratendarlehen.md",
     "Templates/Templater test.md",
     "Templates/Untitled.md",
     "7. School/BWL/Annuitätendarlehen.md",
     "7. School/BWL/BwL.md",
-    "7. School/BWL/Jahreszinsen.md",
     "7. School/School.md",
     "5. Private/Pressent.md",
     "7. School/BWL/Unternehmensformen.md",
@@ -264,7 +265,6 @@
     "8. Files/Gehaltsabrechnung 2024-02-08 11.47.11.excalidraw.md",
     "7. School/GGK/Wiedervereinigung Ausarbeitung.md",
     "7. School/BWL/Solidaritätszuschlag.md",
-    "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
     "7. School/Englisch",
     "7. School/GGK",
     "7. School/Deutsch",

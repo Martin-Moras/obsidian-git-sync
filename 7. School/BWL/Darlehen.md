@@ -7,3 +7,6 @@ File Creation date: 2024-04-19
 [[Ratendarlehen]]
 [[Annuitätendarlehen]]
 [[Fälligkeitsdarlehen]]
+
+# Andere
+[[Kreditsicherheit]]
