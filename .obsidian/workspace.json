@@ -22,43 +22,43 @@
             }
           },
           {
-            "id": "ac2b782b7c45dd34",
+            "id": "c1185415cf3a0975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Jahreszinsen.md",
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c15dacfbaa55c862",
+            "id": "aa476e5af5241027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60f4169eff47742a",
+            "id": "46bfcc1952c51e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Nominalzins.md",
+                "file": "7. School/BWL/HGB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md",
+                "file": "7. School/BWL/HGB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md",
+                "file": "7. School/BWL/HGB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Effektivzins.md"
+                "file": "7. School/BWL/HGB.md"
               }
             }
           },
@@ -199,13 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c15dacfbaa55c862",
+  "active": "46bfcc1952c51e3d",
   "lastOpenFiles": [
-    "7. School/BWL/Nominalzins.md",
-    "7. School/BWL/Darlehen.md",
+    "7. School/BWL/Kaufman.md",
+    "7. School/BWL/HGB.md",
+    "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Jahreszinsen.md",
     "7. School/BWL/Effektivzins.md",
+    "7. School/BWL/Nominalzins.md",
+    "7. School/BWL/Darlehen.md",
     "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/Grundschuldkredit.md",
     "7. School/BWL/Sicherungsübereignung.md",
@@ -234,9 +237,6 @@
     "8. Files/Pasted Image 20240114161948_557.png",
     "7. School/BWL/Besitzkonstitut.md",
     "Untitled.md",
-    "7. School/Ethik/Ifs Ausarbeitung.md",
-    "7. School/Ethik/Einleitung.md",
-    "7. School/BWL/OHG.md",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
     "7. School/GGK/DDR",
     "7. School/GGK",

@@ -3,6 +3,4 @@
 [[Gehaltsabrechnung]]
 [[Verkauf]]
 [[Darlehen]]
-
-
-
+[[Handelsrechtliche Grundlagen]]

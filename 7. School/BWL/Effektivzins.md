@@ -1,7 +1,7 @@
 ---
 File Creation date: 2024-04-19
 ---
-$$
+ $$
 Disagio=Kredit*(1-Auszahlung)
 $$
 $$
