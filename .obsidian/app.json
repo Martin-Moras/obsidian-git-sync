@@ -18,7 +18,7 @@
   ],
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "vimMode": false,
   "showUnsupportedFiles": true,
   "readableLineLength": true,
@@ -30,5 +30,6 @@
   "userIgnoreFilters": [
     "1. Excalidraw/"
   ],
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "newFileFolderPath": "2. New"
 }
