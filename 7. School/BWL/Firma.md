@@ -11,9 +11,9 @@ Unter Firma versteht man den Namen eines [[Unternehmen]]s.
 
 # Firmengrundsätze
 
-| Gesetzname               | Gesetz                                  |
-| ------------------------ | --------------------------------------- |
-| Rechtsformzusatz         | [[Unternehmensformen]] muss dabeistehen |
-| Firmenwahrheit           | Firma darf nicht irreführend sein       |
-| Firmenausschließlichkeit | Firma muss einzih vjh                   |
-| Firmenbeständigkeit      |                                         |
+| Gesetzname               |     | Gesetz                                  |
+| ------------------------ | --- | --------------------------------------- |
+| Rechtsformzusatz         | ->  | [[Unternehmensformen]] muss dabeistehen |
+| Firmenwahrheit           | ->  | Firma darf nicht irreführend sein       |
+| Firmenausschließlichkeit | ->  | Firma muss einzigartig sein             |
+| Firmenbeständigkeit      | ->  | Firma darf sich nicht verändern         |
