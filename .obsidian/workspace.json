@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "064415d2be1d2a91",
+            "id": "8a2c88386c1118a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md"
+                "file": "7. School/BWL/Unternehmensformen.md"
               }
             }
           },
@@ -230,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "064415d2be1d2a91",
+  "active": "8a2c88386c1118a0",
   "lastOpenFiles": [
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/Handelsregister.md",
