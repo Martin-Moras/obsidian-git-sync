@@ -31,5 +31,6 @@
     "1. Excalidraw/"
   ],
   "propertiesInDocument": "hidden",
-  "newFileFolderPath": "2. New"
+  "newFileFolderPath": "2. New",
+  "showInlineTitle": false
 }

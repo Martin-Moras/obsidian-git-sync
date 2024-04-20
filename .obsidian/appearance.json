@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 12
+  "baseFontSize": 13,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": true
 }

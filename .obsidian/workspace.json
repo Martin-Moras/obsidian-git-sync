@@ -41,7 +41,7 @@
               "state": {
                 "file": "7. School/BWL/Kaufman.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -58,7 +58,7 @@
       {
         "id": "2e07b4b867401a3e",
         "type": "tabs",
-        "dimension": 62.11832061068703,
+        "dimension": 62.11832061068702,
         "children": [
           {
             "id": "e9e53cfd78508078",
@@ -98,7 +98,7 @@
       {
         "id": "18f45635630ff4b4",
         "type": "tabs",
-        "dimension": 37.88167938931298,
+        "dimension": 37.88167938931297,
         "children": [
           {
             "id": "e8deb4832622c96c",
@@ -216,29 +216,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "obsidian-full-calendar:Open Full Calendar": true,
+      "templater-obsidian:Templater": true,
+      "markdown-importer:Open format converter": true,
+      "audio-recorder:Start/stop recording": true,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": true
     }
   },
   "active": "72122bfd42aca68e",
   "lastOpenFiles": [
-    "7. School/BWL/Unternehmen.md",
+    "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/Kaufman.md",
+    "7. School/BWL/Kannkaufmann.md",
+    "7. School/BWL/Istkaufmann.md",
+    "7. School/BWL/Formkaufmann.md",
+    "7. School/BWL/Unternehmen.md",
     "7. School/BWL/Handelsgewerbe.md",
     "7. School/BWL/Gewerbebetrieb.md",
     "7. School/BWL/Betrieb.md",
     "2. New",
-    "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/Firma.md",
     "7. School/BWL/HGB.md",
     "7. School/BWL/BwL.md",
@@ -250,9 +253,6 @@
     "7. School/BWL/Mischfirma.md",
     "7. School/BWL/Personenfirma.md",
     "7. School/BWL/Sachfirma.md",
-    "7. School/BWL/Formkaufmann.md",
-    "7. School/BWL/Kannkaufmann.md",
-    "7. School/BWL/Istkaufmann.md",
     "8. Files/Pasted image 20240420094300.png",
     "7. School/BWL/Jahreszinsen.md",
     "7. School/BWL/Effektivzins.md",
