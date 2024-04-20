@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c1185415cf3a0975",
+            "id": "5983e56cf9394ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,15 +218,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1185415cf3a0975",
+  "active": "5983e56cf9394ec5",
   "lastOpenFiles": [
-    "7. School/BWL/Unternehmensformen.md",
-    "7. School/BWL/Firma.md",
+    "7. School/BWL/HGB.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/Handelsregister.md",
+    "7. School/BWL/Firma.md",
     "7. School/BWL/Kaufman.md",
     "7. School/BWL/Solidaritätszuschlag.md",
-    "7. School/BWL/BwL.md",
-    "7. School/BWL/Handelsregister.md",
     "7. School/BWL/[[Firma]].md",
     "7. School/BWL/Fantasiefirma.md",
     "7. School/BWL/Mischfirma.md",
@@ -236,7 +237,6 @@
     "7. School/BWL/Kannkaufmann.md",
     "7. School/BWL/Istkaufmann.md",
     "7. School/BWL/Handelsgewerbe.md",
-    "7. School/BWL/HGB.md",
     "7. School/BWL/Gewerbebetrieb.md",
     "8. Files/Pasted image 20240420094300.png",
     "7. School/BWL/Jahreszinsen.md",
