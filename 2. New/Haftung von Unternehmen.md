@@ -1,9 +1,9 @@
 ---
 File Creation date: 2024-04-20
 ---
-[[Volle Haftung]]
+#askJohn [[Volle Haftung]]
 [[Beschränkte Haftung]]
-[[Persönliche Haftung]]
+#askJohn[[Persönliche Haftung]]
 XX
 [[Unmittelbare Haftung]]
 [[Solidarische Haftung]]
