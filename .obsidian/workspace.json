@@ -62,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "18f45635630ff4b4",
@@ -161,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. New/ToDo.md"
+              }
             }
           },
           {
@@ -195,8 +196,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c726342998994694",
+  "active": "e9e53cfd78508078",
   "lastOpenFiles": [
+    "2. New/ToDo.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/BwL.md",
     "2. New/Haftung von Unternehmen.md",
@@ -224,7 +226,6 @@
     "7. School/BWL/Sachfirma.md",
     "8. Files/Pasted image 20240420094300.png",
     "7. School/BWL/Jahreszinsen.md",
-    "7. School/BWL/Effektivzins.md",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/BWL SteuerKlassen.png",
     "8. Files/Attention gradient.png",
