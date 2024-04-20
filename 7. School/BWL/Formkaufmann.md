@@ -2,8 +2,7 @@
 File Creation date: 2024-04-20
 ---
 # Definition
-Alle [[GmbH]]s und [[AG]]s. Ein Formkaufmann ist kein Mensch, sondern ein Unternehmen selbst.
-
+Alle [[GmbH]]s, [[KG]]s, [[OHG]]s, [[GbR]]s, wenn sie ein Handelsgewerbe betreibt und [[AG]]s. Ein Formkaufmann ist kein Mensch, sondern ein Unternehmen selbst.
 # Beispiel
 - Juristische Person (Stadt, Land, Betrieb...)
 - Eine Aktiengesellschaft (AG), die an einer Börse gehandelt wird und Kapital durch den Verkauf von Aktien an Investoren aufnimmt.

@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "71aede4e212d60aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Unternehmensformen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7b55156d917f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Haftung von Unternehmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72122bfd42aca68e",
             "type": "leaf",
             "state": {
@@ -46,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Kaufman.md",
+                "file": "2. New/Haftung von Unternehmen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Kaufman.md",
+                "file": "2. New/Haftung von Unternehmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Kaufman.md",
+                "file": "2. New/Haftung von Unternehmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Kaufman.md"
+                "file": "2. New/Haftung von Unternehmen.md"
               }
             }
           },
@@ -230,13 +254,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "72122bfd42aca68e",
+  "active": "ad7b55156d917f05",
   "lastOpenFiles": [
-    "7. School/BWL/Istkaufmann.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "2. New/Haftung von Unternehmen.md",
     "7. School/BWL/Kaufman.md",
-    "7. School/BWL/Kannkaufmann.md",
-    "7. School/BWL/Formkaufmann.md",
+    "2. New/Unbeschränkte Haftung.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
+    "7. School/BWL/Formkaufmann.md",
+    "7. School/BWL/Istkaufmann.md",
+    "7. School/BWL/Kannkaufmann.md",
     "7. School/BWL/Unternehmen.md",
     "7. School/BWL/Handelsgewerbe.md",
     "7. School/BWL/Gewerbebetrieb.md",
@@ -245,7 +272,6 @@
     "7. School/BWL/Firma.md",
     "7. School/BWL/HGB.md",
     "7. School/BWL/BwL.md",
-    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Handelsregister.md",
     "7. School/BWL/Solidaritätszuschlag.md",
     "7. School/BWL/[[Firma]].md",
@@ -258,7 +284,6 @@
     "7. School/BWL/Effektivzins.md",
     "7. School/BWL/Nominalzins.md",
     "7. School/BWL/Darlehen.md",
-    "7. School/BWL/Kreditsicherheit.md",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/BWL SteuerKlassen.png",
     "8. Files/Attention gradient.png",
