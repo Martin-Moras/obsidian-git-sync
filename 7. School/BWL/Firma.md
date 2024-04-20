@@ -10,4 +10,10 @@ Unter Firma versteht man den Namen eines [[Unternehmen]]s.
 ![[Fantasiefirma]]
 
 # Firmengrundsätze
-1. Rechtsformzusatz 
+
+| Gesetzname               | Gesetz                                  |
+| ------------------------ | --------------------------------------- |
+| Rechtsformzusatz         | [[Unternehmensformen]] muss dabeistehen |
+| Firmenwahrheit           | Firma darf nicht irreführend sein       |
+| Firmenausschließlichkeit | Firma muss einzih vjh                   |
+| Firmenbeständigkeit      |                                         |
