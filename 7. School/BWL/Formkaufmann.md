@@ -5,6 +5,7 @@ File Creation date: 2024-04-20
 Alle [[GmbH]]s und [[AG]]s. Ein Formkaufmann ist kein Mensch, sondern ein Unternehmen selbst.
 
 # Beispiel
+- Juristische Person (Stadt, Land, Betrieb...)
 - Eine Aktiengesellschaft (AG), die an einer Börse gehandelt wird und Kapital durch den Verkauf von Aktien an Investoren aufnimmt.
 - Eine Kommanditgesellschaft auf Aktien (KGaA), die eine Mischform aus einer Kommanditgesellschaft und einer Aktiengesellschaft ist und sowohl Kommanditisten als auch Aktionäre hat.
 - Eine GmbH & Co. KG, bei der eine GmbH als persönlich haftender Gesellschafter auftritt und eine Kommanditgesellschaft (KG) als weiterer Gesellschafter beteiligt ist.
