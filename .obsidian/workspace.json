@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a2c88386c1118a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,9 +94,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -129,7 +117,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4444444444444444,
+                  "scale": 0.44444444444444425,
                   "close": true
                 }
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md"
+                "file": "7. School/BWL/Kaufman.md"
               }
             }
           },
@@ -230,17 +218,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a2c88386c1118a0",
+  "active": "c1185415cf3a0975",
   "lastOpenFiles": [
+    "7. School/BWL/Solidaritätszuschlag.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/Kaufman.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
-    "7. School/BWL/Handelsregister.md",
     "7. School/BWL/Firma.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/Handelsregister.md",
     "7. School/BWL/[[Firma]].md",
     "7. School/BWL/Fantasiefirma.md",
     "7. School/BWL/Mischfirma.md",
     "7. School/BWL/Personenfirma.md",
     "7. School/BWL/Sachfirma.md",
-    "7. School/BWL/Kaufman.md",
     "7. School/BWL/Formkaufmann.md",
     "7. School/BWL/Kannkaufmann.md",
     "7. School/BWL/Istkaufmann.md",
@@ -248,7 +239,6 @@
     "7. School/BWL/HGB.md",
     "7. School/BWL/Gewerbebetrieb.md",
     "8. Files/Pasted image 20240420094300.png",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Jahreszinsen.md",
     "7. School/BWL/Effektivzins.md",
     "7. School/BWL/Nominalzins.md",
@@ -257,8 +247,6 @@
     "7. School/BWL/Grundschuldkredit.md",
     "7. School/BWL/Sicherungsübereignung.md",
     "8. Files/Kreditsicherheit 2024-04-19 18.41.21.excalidraw.md",
-    "7. School/BWL/Unternehmensformen.md",
-    "7. School/BWL/Bürgschaft.md",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/BWL SteuerKlassen.png",
     "8. Files/Attention gradient.png",
