@@ -56,21 +56,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbd7e4a831a6109b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Gewerbebetrieb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Gewerbebetrieb.md",
+                "file": "7. School/BWL/Handelsgewerbe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Gewerbebetrieb.md",
+                "file": "7. School/BWL/Handelsgewerbe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Gewerbebetrieb.md",
+                "file": "7. School/BWL/Handelsgewerbe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Gewerbebetrieb.md"
+                "file": "7. School/BWL/Handelsgewerbe.md"
               }
             }
           },
@@ -254,12 +242,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd7e4a831a6109b",
+  "active": "0aa5c04a7701d426",
   "lastOpenFiles": [
+    "7. School/BWL/HGB.md",
     "7. School/BWL/Handelsgewerbe.md",
     "7. School/BWL/Gewerbebetrieb.md",
+    "8. Files/Pasted image 20240420094300.png",
     "7. School/BWL/Kaufman.md",
-    "7. School/BWL/HGB.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Jahreszinsen.md",
@@ -285,13 +274,11 @@
     "8. Files/Attention gradient.png",
     "8. Files/BWL alle Versicherungen.png",
     "8. Files/Dopamin 2024-02-09 16.48.56.excalidraw.md",
-    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
     "8. Files/Pasted image 20240115163626.png",
     "8. Files/Pasted Image 20240113140600_527.png",
     "8. Files/Pasted image 20240113142014.png",
     "8. Files/Pasted Image 20240113141109_708.jpg",
     "8. Files/Pasted image 20240113142019.png",
-    "8. Files/Pasted Image 20240114161948_557.png",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
     "7. School/GGK/DDR",
     "7. School/GGK",
