@@ -44,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c71403b598117ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Unternehmen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Unternehmen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Unternehmen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Unternehmen.md",
+                "file": "7. School/BWL/Kaufman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Unternehmen.md"
+                "file": "7. School/BWL/Kaufman.md"
               }
             }
           },
@@ -242,12 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71403b598117ca1",
+  "active": "72122bfd42aca68e",
   "lastOpenFiles": [
+    "7. School/BWL/Unternehmen.md",
     "7. School/BWL/Kaufman.md",
     "7. School/BWL/Handelsgewerbe.md",
     "7. School/BWL/Gewerbebetrieb.md",
-    "7. School/BWL/Unternehmen.md",
     "7. School/BWL/Betrieb.md",
     "2. New",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
