@@ -1,14 +1,15 @@
 ---
 File Creation date: 2024-04-21
 ---
-| Notariell                 |
-| ------------------------- |
-| 25000€                    |
-| Konstitutiv               |
-| Geschäftsführer           |
-| Geschäftsführer           |
-| Imverhältnis der Einlagen |
-| beschränkt                |
+| Gesellschaftsvertrag        | Notariell                 |
+| --------------------------- | ------------------------- |
+| Mindestkapital              | 25000€                    |
+| Eintrag ins Handelsregister | Konstitutiv               |
+| Geschäftsführung            | Geschäftsführer           |
+| Vertretung                  | Geschäftsführer           |
+| Gewinnverteilung            | Imverhältnis der Einlagen |
+| [[Haftung von Unternehmen]] | beschränkt                |
+| Firma                       | Ja                        |
 # Organe
 [[Gesellschafter]]
 [[Aufsichtsrat]] (>500 Mitarbeiter)
