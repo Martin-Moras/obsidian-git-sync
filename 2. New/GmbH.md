@@ -18,3 +18,5 @@ File Creation date: 2024-04-21
 **Nach** Eintrag ins [[Handelsregister]]: [[Beschränkte Haftung]]
 
 [[Stammeinlage]]
+[[Stammkapital]]
+[[Geschäftsteil]]
