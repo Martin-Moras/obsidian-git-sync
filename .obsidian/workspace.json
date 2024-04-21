@@ -214,18 +214,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
-      "obsidian-advanced-slides:Show Slide Preview": true,
-      "obsidian-full-calendar:Open Full Calendar": true,
-      "templater-obsidian:Templater": true,
       "markdown-importer:Open format converter": true,
       "audio-recorder:Start/stop recording": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9a6e6e73b938b21a",
