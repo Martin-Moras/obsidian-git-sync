@@ -103,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md"
+              }
             }
           },
           {
