@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "7. School/BWL/Handelsrechtliche Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754cb5d8c3ccad1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "7. School/BWL/Unternehmensformen.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6e6e73b938b21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/GmbH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "2. New/GmbH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "2. New/GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "2. New/GmbH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md"
+                "file": "2. New/GmbH.md"
               }
             }
           },
@@ -203,13 +228,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c726342998994694",
+  "active": "9a6e6e73b938b21a",
   "lastOpenFiles": [
+    "2. New/Geschäftsführungsmacht.md",
+    "2. New/GmbH.md",
+    "2. New/Vertretungsmacht.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "2. New/Gesellschafterversammlung.md",
+    "2. New/Aufsichtsrat.md",
+    "2. New/Gesellschafter.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/BwL.md",
-    "7. School/BWL/Unternehmensformen.md",
-    "2. New/GmbH.md",
-    "2. New/Gesellschafterversammlung.md",
     "2. New/Geschäftsteil.md",
     "2. New/Stammeinlage.md",
     "2. New/Stammkapital.md",
@@ -228,11 +257,7 @@
     "7. School/BWL/Unternehmen.md",
     "7. School/BWL/Handelsgewerbe.md",
     "7. School/BWL/Gewerbebetrieb.md",
-    "7. School/BWL/Betrieb.md",
     "2. New",
-    "7. School/BWL/Firma.md",
-    "7. School/BWL/HGB.md",
-    "7. School/BWL/Solidaritätszuschlag.md",
     "8. Files/Pasted image 20240420094300.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/Attention gradient.png",
