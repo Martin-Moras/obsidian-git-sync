@@ -11,8 +11,12 @@
             "id": "c726342998994694",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Annuitätendarlehen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7. School/BWL/Annuitätendarlehen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/BWL/Annuitätendarlehen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/BWL/Annuitätendarlehen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/BWL/Annuitätendarlehen.md"
+              }
             }
           },
           {
@@ -194,7 +203,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "e9e53cfd78508078",
+  "active": "c726342998994694",
   "lastOpenFiles": [
     "2. New/ToDo.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
