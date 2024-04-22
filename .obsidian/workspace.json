@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0eaa0dd1f0889d38",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Fractal node notes.md",
+                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Fractal node notes.md",
+                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Fractal node notes.md",
+                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Fractal node notes.md"
+                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md"
               }
             }
           },
@@ -222,15 +232,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18a990172c8d8cdb",
+  "active": "0eaa0dd1f0889d38",
   "lastOpenFiles": [
+    "2. New/Fractal node notes.md",
+    "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
     "8. Files/Fractal node notes connection shape.excalidraw.md",
     "2. New/Coding ideas.md",
     "3. Computer/Coding/Coding.md",
     "7. School/BWL/BwL.md",
     "1. Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "1. Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "2. New/Fractal node notes.md",
     "5. Private/Projects/Fractal node verse.md",
     "5. Private/Ideas/Ideas.md",
     "7. School/BWL/GmbH.md",
@@ -250,7 +261,6 @@
     "5. Private/Goals.md",
     "3. Computer/Rust.md",
     "7. School/BWL/Handelsgewerbe.md",
-    "7. School/Englisch/English.md",
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
