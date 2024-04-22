@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "2dd5bce65d70d247",
+            "id": "b628588b123286f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Coding/Coding.md",
+                "file": "7. School/BWL/GmbH.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,11 +100,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Coding/Coding.md",
+                "file": "7. School/BWL/GmbH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -123,7 +123,7 @@
                   "repelStrength": 12.3958333333333,
                   "linkStrength": 1,
                   "linkDistance": 89,
-                  "scale": 0.4325915825682407,
+                  "scale": 0.6488873738523608,
                   "close": true
                 }
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Coding/Coding.md",
+                "file": "7. School/BWL/GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Coding/Coding.md",
+                "file": "7. School/BWL/GmbH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Coding/Coding.md"
+                "file": "7. School/BWL/GmbH.md"
               }
             }
           },
@@ -232,10 +232,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9e53cfd78508078",
+  "active": "b628588b123286f8",
   "lastOpenFiles": [
+    "7. School/BWL/Aufsichtsrat.md",
+    "7. School/BWL/Geschäftsführer.md",
+    "7. School/BWL/GmbH.md",
+    "5. Private/Ideas/Ideas.md",
+    "5. Private/Ideas/Minecraft tree spirit craft.md",
+    "5. Private/Projects/Write a Book.md",
+    "5. Private/Projects/better teacher.md",
+    "5. Private/Projects/All pictures.md",
+    "5. Private/Projects/My Goals.md",
+    "5. Private/Goals.md",
+    "5. Private/Projects/Fractal node.md",
+    "3. Computer/Coding/Coding.md",
+    "3. Computer/Rust.md",
     "7. School/BWL/Handelsgewerbe.md",
-    "2. New/Volle Haftung.md",
+    "7. School/BWL/Volle Haftung.md",
     "7. School/BWL/Handelsregister.md",
     "7. School/BWL/Formkaufmann.md",
     "7. School/Englisch/English.md",
@@ -245,22 +258,9 @@
     "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/BWL/Handelsrechtliche Grundlagen.md",
     "7. School/BWL/Unternehmensformen.md",
-    "2. New/GmbH.md",
-    "2. New/Prokuristen.md",
-    "2. New/Gesamtgeschäftsführung.md",
-    "2. New/Geschäftsführungsmacht.md",
-    "2. New/Vertretungsmacht.md",
-    "2. New/Gesellschafterversammlung.md",
-    "2. New/Aufsichtsrat.md",
-    "2. New/Gesellschafter.md",
-    "2. New/Geschäftsteil.md",
-    "2. New/Stammeinlage.md",
-    "2. New/Stammkapital.md",
+    "7. School/BWL/Prokuristen.md",
+    "7. School/BWL/Gesamtgeschäftsführung.md",
     "8. Files/BWL SteuerKlassen.png",
-    "7. School/BWL/Annuitätendarlehen.md",
-    "2. New/ToDo.md",
-    "2. New/Haftung von Unternehmen.md",
-    "2. New/Unbeschränkte Haftung.md",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
