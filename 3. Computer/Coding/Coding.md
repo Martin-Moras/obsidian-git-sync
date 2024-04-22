@@ -1,7 +1,6 @@
-
 code writen in [[C]] or [[Python]] will run on every Computer / CPU.
 
-
+[[Coding ideas]]
 ## Languages
 
 1. [[Assembly]]
