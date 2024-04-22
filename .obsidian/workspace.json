@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md"
+                "file": "8. Files/Fractal node notes.excalidraw.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
+                "file": "8. Files/Fractal node notes.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
+                "file": "8. Files/Fractal node notes.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
+                "file": "8. Files/Fractal node notes.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md"
+                "file": "8. Files/Fractal node notes.excalidraw.md"
               }
             }
           },
@@ -234,8 +234,10 @@
   },
   "active": "0eaa0dd1f0889d38",
   "lastOpenFiles": [
+    "1. Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
+    "1. Excalidraw/Scripts/Downloaded/Repeat Texts.md",
     "2. New/Fractal node notes.md",
-    "8. Files/Fractal node notes 2024-04-22 17.24.25.excalidraw.md",
+    "8. Files/Fractal node notes.excalidraw.md",
     "8. Files/Fractal node notes connection shape.excalidraw.md",
     "2. New/Coding ideas.md",
     "3. Computer/Coding/Coding.md",
@@ -259,8 +261,6 @@
     "5. Private/Projects/All pictures.md",
     "5. Private/Projects/My Goals.md",
     "5. Private/Goals.md",
-    "3. Computer/Rust.md",
-    "7. School/BWL/Handelsgewerbe.md",
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
