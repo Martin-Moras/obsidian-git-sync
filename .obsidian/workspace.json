@@ -52,19 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52889a6225f6428b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "8. Files/Pasted image 20240323175104.png"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8. Files/Pasted image 20240323175104.png",
+                "file": "4. Human/Emotions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Pasted image 20240323175104.png",
+                "file": "4. Human/Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Pasted image 20240323175104.png",
+                "file": "4. Human/Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Pasted image 20240323175104.png"
+                "file": "4. Human/Emotions.md"
               }
             }
           },
@@ -254,10 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52889a6225f6428b",
+  "active": "8a28f88b100b5277",
   "lastOpenFiles": [
-    "4. Human/Emotions.md",
     "8. Files/Pasted image 20240323175104.png",
+    "4. Human/Emotions.md",
     "8. Files/Fractal node notes.excalidraw.md",
     "1. Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
     "1. Excalidraw/Scripts/Downloaded/Repeat Texts.md",
