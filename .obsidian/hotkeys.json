@@ -80,5 +80,15 @@
       ],
       "key": "S"
     }
+  ],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }

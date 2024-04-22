@@ -1,4 +1,4 @@
-[[Programing]]
+[[Coding]]
 [[Ai]]
 [[Raspbary pi]]
 [[Bitcoin]]
