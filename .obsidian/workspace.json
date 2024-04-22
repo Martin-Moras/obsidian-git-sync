@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18a990172c8d8cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Private/Projects/Fractal node verse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Coding ideas.md",
+                "file": "5. Private/Projects/Fractal node verse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Coding ideas.md",
+                "file": "5. Private/Projects/Fractal node verse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Coding ideas.md",
+                "file": "5. Private/Projects/Fractal node verse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Coding ideas.md"
+                "file": "5. Private/Projects/Fractal node verse.md"
               }
             }
           },
@@ -242,10 +254,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a32c08d94e8c4d66",
+  "active": "18a990172c8d8cdb",
   "lastOpenFiles": [
-    "5. Private/Projects/Fractal node.md",
     "2. New/Coding ideas.md",
+    "2. New/Fractal node notes.md",
+    "5. Private/Projects/Fractal node verse.md",
     "5. Private/Ideas/Ideas.md",
     "3. Computer/Coding/Coding.md",
     "7. School/BWL/GmbH.md",
@@ -269,7 +282,6 @@
     "7. School/Englisch/English Grama.md",
     "7. School/Englisch/Work with English contents.md",
     "7. School/BWL/BwL.md",
-    "7. School/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
