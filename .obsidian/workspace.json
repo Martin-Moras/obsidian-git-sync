@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a4556e464c5e74",
+        "id": "7393f51712d51c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "b8de49d688ae1df9",
+            "id": "9770537793cac425",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Computer/Networking/CoLayers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. Computer/Networking/CoLayers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Computer/Networking/CoLayers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Computer/Networking/CoLayers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Computer/Networking/CoLayers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,12 +209,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8de49d688ae1df9",
+  "active": "9770537793cac425",
   "lastOpenFiles": [
-    "3. Computer/Networking/HTTPS 443.md",
+    "3. Computer/Networking/Pasted image 20230524153716.png",
+    "3. Computer/Bitcoin",
+    "Untitled",
+    "3. Computer/Networking/Ports/Well-known ports.md",
+    "3. Computer/Networking/OSI Layers",
+    "3. Computer/Networking/Ports/UDP.md",
+    "3. Computer/Bitcoin/proof of work.md",
+    "3. Computer/Networking/Ports/Telnet 23.md",
+    "3. Computer/Networking/Ports/SSH 22.md",
+    "3. Computer/Networking/Ports/ports.md",
+    "3. Computer/Networking/Ports/POP3 110.md",
+    "3. Computer/Networking/Ports/FTP 21.md",
+    "3. Computer/Games.md",
+    "3. Computer/Networking/Ports",
+    "5. Private/Minecraft.md",
+    "3. Computer/Networking/Pasted image 20230524155355.png",
+    "3. Computer/Hacking",
+    "3. Computer/Coding/Vulcan.md",
+    "3. Computer/Networking/OSI Layers/Physical Layer.md",
+    "3. Computer/Networking/MAC address.md",
+    "3. Computer/Networking/Ports/MBR.md",
+    "3. Computer/Networking/OSI Layers/OSI Layers.md",
+    "3. Computer/Networking/Ports/HTTPS 443.md",
     "3. Computer/Coding/Maschiene code.md",
     "3. Computer/Networking",
-    "3. Computer/Networking/Application layer.md",
+    "3. Computer/Networking/OSI Layers/Application layer.md",
     "5. Private/Goals/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Fractal node mind.md",
     "5. Private/Goals/Fractal verse",
@@ -232,39 +245,16 @@
     "5. Private/Goals/Write a Book.md",
     "2. New/Cryptography.md",
     "5. Private/Goals/My Goals.md",
-    "5. Private/Goals/Fractal node verse.md",
-    "2. New/Fractal node chat.md",
-    "5. Private/Goals/Fractal verse/Fractal node web.md",
-    "5. Private/Goals/All pictures.md",
-    "5. Private/Goals/Publication.md",
-    "5. Private/Goals/Fractal verse/Fractal node notes.md",
-    "4. Human/Emotions.md",
     "8. Files/Pasted image 20240323175104.png",
-    "8. Files/Fractal node notes.excalidraw.md",
     "1. Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
-    "1. Excalidraw/Scripts/Downloaded/Repeat Texts.md",
-    "8. Files/Fractal node notes connection shape.excalidraw.md",
-    "3. Computer/Coding/Coding.md",
-    "7. School/BWL/BwL.md",
     "1. Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "1. Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "5. Private/Ideas/Ideas.md",
-    "7. School/BWL/GmbH.md",
-    "7. School/BWL/Gesellschafterversammlung.md",
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
     "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
     "8. Files/Attention gradient.png",
     "8. Files/BWL alle Versicherungen.png",
-    "8. Files/Pasted image 20240115163626.png",
-    "8. Files/Pasted Image 20240113140600_527.png",
     "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
-    "7. School/GGK/DDR",
-    "7. School/GGK",
-    "7. School/Ethik",
-    "7. School/Englisch",
-    "7. School/Deutsch",
-    "7. School/BWL"
+    "7. School/GGK/DDR"
   ]
 }
