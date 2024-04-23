@@ -100,7 +100,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.44444444444444425,
+                  "scale": 0.33236764984915407,
                   "close": true
                 }
               }
@@ -220,6 +220,12 @@
   },
   "active": "695380a3fef8b2f2",
   "lastOpenFiles": [
+    "2. New/Fractal.md",
+    "5. Private/Goals/My Goals.md",
+    "5. Private/Goals/Publication.md",
+    "2. New/[[Make.md",
+    "2. New/Make.md",
+    "5. Private/Goals/Make the world a better place.md",
     "5. Private/Goals/Fractal verse/Fractal node mind.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "3. Computer/Coding/Learn c++ graphics.md",
@@ -247,14 +253,8 @@
     "3. Computer/Networking/Ports/MBR.md",
     "3. Computer/Networking/OSI Layers/OSI Layers.md",
     "3. Computer/Networking/Ports/HTTPS 443.md",
-    "3. Computer/Coding/Maschiene code.md",
     "3. Computer/Networking",
-    "3. Computer/Networking/OSI Layers/Application layer.md",
     "5. Private/Goals/Fractal verse",
-    "5. Private/Goals.md",
-    "5. Private/Questions.md",
-    "5. Private/Goals/Write a Book.md",
-    "2. New/Cryptography.md",
     "8. Files/Pasted image 20240323175104.png",
     "1. Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
     "1. Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
