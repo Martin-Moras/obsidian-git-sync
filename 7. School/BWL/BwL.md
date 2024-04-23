@@ -6,5 +6,6 @@
 [[BwL Bewerbung]]
 [[Marketing]]
 [[Geschäftsfähigkeit]]
+[[Konjunktur]]
 
 [[Sundar Pichai Ausarbeitung]]

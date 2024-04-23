@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "df8b7d86eaa42c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Konjunktur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a2cc33e7b98739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Konjunktur indikatoren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e80d4c6011fae46a",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Konjunktur indikatoren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Konjunktur indikatoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Konjunktur indikatoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/BwL.md"
+                "file": "2. New/Konjunktur indikatoren.md"
               }
             }
           },
@@ -231,34 +256,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "695380a3fef8b2f2",
+  "active": "f0a2cc33e7b98739",
   "lastOpenFiles": [
-    "2. New/Beschränkt Geschäftsfähig.md",
-    "2. New/Geschäftsfähigkeit.md",
-    "2. New/Geschäftsunfähigkeit.md",
+    "2. New/Konjunktur.md",
+    "2. New/Konjunktur indikatoren.md",
     "7. School/BWL/BwL.md",
-    "7. School/BWL/Gehaltsabrechnung.md",
+    "7. School/BWL/Gesellschafterversammlung.md",
+    "7. School/BWL/Gesellschafter.md",
+    "7. School/BWL/Geschäftsteil.md",
+    "7. School/BWL/Geschäftsführungsmacht.md",
+    "7. School/BWL/Gesamtgeschäftsführung.md",
+    "7. School/BWL/Aufsichtsrat.md",
+    "2. New/Gewinnverteilung.md",
+    "2. New/Geschäftsunfähigkeit.md",
+    "2. New/Geschäftsfähigkeit.md",
+    "2. New/Einlage.md",
+    "2. New/BwL Bewerbung.md",
+    "2. New/Beschränkt Geschäftsfähig.md",
     "2. New/Versicherung.md",
+    "2. New/[[Make.md",
+    "7. School/BWL/Gehaltsabrechnung.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "7. School/BWL/Solidaritätszuschlag.md",
     "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/GmbH.md",
-    "2. New/Gewinnverteilung.md",
     "2. New/Einlagen.md",
-    "2. New/Einlage.md",
     "7. School/BWL/Stammeinlage.md",
     "7. School/BWL/Stammkapital.md",
     "2. New/Marketing.md",
-    "2. New/BwL Bewerbung.md",
-    "7. School/BWL/Aufsichtsrat.md",
-    "7. School/BWL/Gesellschafter.md",
-    "7. School/BWL/Kaufman.md",
-    "5. Private/Future plans.md",
-    "6. Time/Calendar/2024-05-20 Pfingstferien.md",
-    "5. Private/Pressent.md",
-    "6. Time/Calendar/2024-05-02 Tv exam.md",
-    "6. Time/Calendar/2024-05-26 yxcscs.md",
-    "6. Time/Calendar/(Every ) Pfingst ferien.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
