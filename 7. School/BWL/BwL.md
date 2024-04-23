@@ -1,8 +1,10 @@
 [[Unternehmensformen]]
-[[Sundar Pichai Ausarbeitung]]
 [[Gehaltsabrechnung]]
 [[Verkauf]]
 [[Darlehen]]
 [[Handelsrechtliche Grundlagen]]
 [[BwL Bewerbung]]
 [[Marketing]]
+[[Geschäftsfähigkeit]]
+
+[[Sundar Pichai Ausarbeitung]]
