@@ -7,9 +7,15 @@ File Creation date: 2024-04-21
 | Eintrag ins Handelsregister | Konstitutiv               |
 | Geschäftsführung            | Geschäftsführer           |
 | Vertretung                  | Geschäftsführer           |
-| Gewinnverteilung            | Imverhältnis der Einlagen |
+| [[Gewinnverteilung]]        | Imverhältnis der Einlagen |
 | [[Haftung von Unternehmen]] | beschränkt                |
 | Firma                       | Ja                        |
+Gesellschaft mit beschränkter Haftung (GmbH) 
+ist ein [[Formkaufmann]]
+
+# Vorteile
+1. [[Beschränkte Haftung]]
+2. 
 # Organe
 [[Gesellschafter]]
 [[Aufsichtsrat]] (>500 Mitarbeiter)
