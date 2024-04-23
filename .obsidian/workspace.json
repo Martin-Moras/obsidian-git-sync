@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3a1d7817fbb6cc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Geschäftsfähigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e80d4c6011fae46a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Geschäftsunfähigkeit.md",
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Geschäftsunfähigkeit.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Geschäftsunfähigkeit.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Geschäftsunfähigkeit.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
@@ -244,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e80d4c6011fae46a",
+  "active": "695380a3fef8b2f2",
   "lastOpenFiles": [
+    "2. New/Beschränkt Geschäftsfähig.md",
     "2. New/Geschäftsfähigkeit.md",
     "2. New/Geschäftsunfähigkeit.md",
-    "2. New/Beschränkt Geschäftsfähig.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Gehaltsabrechnung.md",
     "2. New/Versicherung.md",
