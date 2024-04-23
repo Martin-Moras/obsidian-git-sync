@@ -20,7 +20,7 @@ ist ein [[Formkaufmann]]
 ## [[Gesellschafter]]
 keine [Kaufmänner](Kaufman)
 [[Aufsichtsrat]] 
-Sobald eine GmbH mehr als 500 Mittglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
+Sobald eine GmbH mehr als 500 Mitglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
 ## [[Gesellschafterversammlung]]
 
 ## [[Geschäftsführer]]

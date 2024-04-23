@@ -13,34 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "5. Private/Future plans.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e80d4c6011fae46a",
+            "id": "0dd9513a2aa46b28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fd5e299acbca15f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/GmbH.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -90,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a5cb76512b96cf49",
@@ -103,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md",
+                "file": "5. Private/Future plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +109,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.33236764984915407,
+                  "scale": 0.49855147477373063,
                   "close": true
                 }
               }
@@ -152,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md",
+                "file": "5. Private/Future plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md",
+                "file": "5. Private/Future plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md"
+                "file": "5. Private/Future plans.md"
               }
             }
           },
@@ -217,6 +200,14 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac5bb5c7aa36335b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
               "state": {}
             }
           }
@@ -244,12 +235,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e80d4c6011fae46a",
+  "active": "c952aa9d58802157",
   "lastOpenFiles": [
-    "7. School/BWL/GmbH.md",
-    "7. School/BWL/Aufsichtsrat.md",
-    "2. New/Geschäftsunfähigkeit.md",
+    "5. Private/Future plans.md",
+    "7. School/BWL/Versicherung.md",
+    "7. School/BWL/Marketing.md",
+    "7. School/BWL/Konjunktur indikatoren.md",
+    "7. School/BWL/Konjunktur.md",
+    "7. School/BWL/Gewinnverteilung.md",
+    "7. School/BWL/Geschäftsunfähigkeit.md",
+    "7. School/BWL/Geschäftsfähigkeit.md",
+    "7. School/BWL/Einlage.md",
+    "7. School/BWL/BwL Bewerbung.md",
+    "7. School/BWL/Beschränkt Geschäftsfähig.md",
     "7. School/BWL/BwL.md",
+    "7. School/School.md",
+    "7. School/BWL/Aufsichtsrat.md",
+    "7. School/BWL/GmbH.md",
+    "2. New/Geschäftsunfähigkeit.md",
     "2. New/Konjunktur.md",
     "2. New/Konjunktur indikatoren.md",
     "7. School/BWL/Gesellschafterversammlung.md",
@@ -260,18 +263,6 @@
     "2. New/Gewinnverteilung.md",
     "2. New/Geschäftsfähigkeit.md",
     "2. New/Einlage.md",
-    "2. New/BwL Bewerbung.md",
-    "2. New/Beschränkt Geschäftsfähig.md",
-    "2. New/Versicherung.md",
-    "2. New/[[Make.md",
-    "7. School/BWL/Gehaltsabrechnung.md",
-    "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
-    "7. School/BWL/Solidaritätszuschlag.md",
-    "7. School/BWL/Unternehmensformen.md",
-    "2. New/Einlagen.md",
-    "7. School/BWL/Stammeinlage.md",
-    "7. School/BWL/Stammkapital.md",
-    "2. New/Marketing.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
