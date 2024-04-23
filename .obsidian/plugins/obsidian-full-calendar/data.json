@@ -14,11 +14,6 @@
       "type": "local",
       "color": "#0045e6",
       "directory": "6. Time/Calendar"
-    },
-    {
-      "type": "dailynote",
-      "color": "#18c00c",
-      "heading": "DAy"
     }
   ],
   "defaultCalendar": 0,
