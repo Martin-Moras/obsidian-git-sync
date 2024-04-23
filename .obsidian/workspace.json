@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "df8b7d86eaa42c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Konjunktur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a2cc33e7b98739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Konjunktur indikatoren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e80d4c6011fae46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. New/Geschäftsunfähigkeit.md",
+                "file": "7. School/BWL/Aufsichtsrat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd5e299acbca15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/GmbH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Konjunktur indikatoren.md",
+                "file": "7. School/BWL/Aufsichtsrat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Konjunktur indikatoren.md",
+                "file": "7. School/BWL/Aufsichtsrat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Konjunktur indikatoren.md",
+                "file": "7. School/BWL/Aufsichtsrat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Konjunktur indikatoren.md"
+                "file": "7. School/BWL/Aufsichtsrat.md"
               }
             }
           },
@@ -256,19 +244,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0a2cc33e7b98739",
+  "active": "e80d4c6011fae46a",
   "lastOpenFiles": [
+    "7. School/BWL/GmbH.md",
+    "7. School/BWL/Aufsichtsrat.md",
+    "2. New/Geschäftsunfähigkeit.md",
+    "7. School/BWL/BwL.md",
     "2. New/Konjunktur.md",
     "2. New/Konjunktur indikatoren.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Gesellschafterversammlung.md",
     "7. School/BWL/Gesellschafter.md",
     "7. School/BWL/Geschäftsteil.md",
     "7. School/BWL/Geschäftsführungsmacht.md",
     "7. School/BWL/Gesamtgeschäftsführung.md",
-    "7. School/BWL/Aufsichtsrat.md",
     "2. New/Gewinnverteilung.md",
-    "2. New/Geschäftsunfähigkeit.md",
     "2. New/Geschäftsfähigkeit.md",
     "2. New/Einlage.md",
     "2. New/BwL Bewerbung.md",
@@ -279,7 +268,6 @@
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
     "7. School/BWL/Solidaritätszuschlag.md",
     "7. School/BWL/Unternehmensformen.md",
-    "7. School/BWL/GmbH.md",
     "2. New/Einlagen.md",
     "7. School/BWL/Stammeinlage.md",
     "7. School/BWL/Stammkapital.md",
