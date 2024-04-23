@@ -44,19 +44,19 @@
             }
           },
           {
-            "id": "b7129a4d32586adc",
+            "id": "84b3815a53a74b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Aufsichtsrat.md",
+                "file": "2. New/Gewinnverteilung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "2. New/Gewinnverteilung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "2. New/Gewinnverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "2. New/Gewinnverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/GmbH.md"
+                "file": "2. New/Gewinnverteilung.md"
               }
             }
           },
@@ -256,11 +256,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a45d7ec1a5969974",
+  "active": "84b3815a53a74b87",
   "lastOpenFiles": [
     "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/GmbH.md",
+    "2. New/Gewinnverteilung.md",
     "7. School/BWL/Aufsichtsrat.md",
+    "7. School/BWL/Gesellschafter.md",
+    "7. School/BWL/Kaufman.md",
     "7. School/BWL/BwL.md",
     "5. Private/Future plans.md",
     "6. Time/Calendar/2024-05-20 Pfingstferien.md",
@@ -282,9 +285,6 @@
     "2. New/IPA to speech.md",
     "2. New/IPA.md",
     "5. Private/Goals/Publication.md",
-    "5. Private/Goals/My Goals.md",
-    "2. New/Fractal.md",
-    "2. New/[[Make.md",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
     "Untitled",

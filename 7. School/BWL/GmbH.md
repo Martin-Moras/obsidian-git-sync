@@ -1,24 +1,26 @@
 ---
 File Creation date: 2024-04-21
 ---
-| Gesellschaftsvertrag        | Notariell                 |
-| --------------------------- | ------------------------- |
-| Mindestkapital              | 25000€                    |
-| Eintrag ins Handelsregister | Konstitutiv               |
-| Geschäftsführung            | Geschäftsführer           |
-| Vertretung                  | Geschäftsführer           |
-| [[Gewinnverteilung]]        | Imverhältnis der Einlagen |
-| [[Haftung von Unternehmen]] | beschränkt                |
-| Firma                       | Ja                        |
+| Gesellschaftsvertrag        | Notariell                  |
+| --------------------------- | -------------------------- |
+| Mindestkapital              | 25000€                     |
+| Eintrag ins Handelsregister | Konstitutiv                |
+| Geschäftsführung            | Geschäftsführer            |
+| Vertretung                  | Geschäftsführer            |
+| [[Gewinnverteilung]]        | Im Verhältnis der Einlagen |
+| [[Haftung von Unternehmen]] | beschränkt                 |
+| Firma                       | Ja                         |
 Gesellschaft mit beschränkter Haftung (GmbH) 
 ist ein [[Formkaufmann]]
 
 # Vorteile
 1. [[Beschränkte Haftung]]
-2. 
+2. [[Geschäftsführer]] kann eine andere Person als ein [[Gesellschafter]] sein.
 # Organe
-[[Gesellschafter]]
-[[Aufsichtsrat]] (>500 Mitarbeiter)
+## [[Gesellschafter]]
+keine [Kaufmänner](Kaufman)
+[[Aufsichtsrat]] 
+Sobald eine GmbH mehr als 500 Mittglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
 ## [[Gesellschafterversammlung]]
 
 ## [[Geschäftsführer]]
@@ -28,5 +30,7 @@ Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]].
 **Nach** Eintrag ins [[Handelsregister]]: [[Beschränkte Haftung]]
 
 [[Stammeinlage]]
-[[Stammkapital]]
+# [[Stammkapital]]
+25.000€
+# [[Gewinnverteilung]]
 [[Geschäftsteil]]
