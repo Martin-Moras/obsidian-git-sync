@@ -86,6 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "5. Private/Future plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Private/Future plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Private/Future plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Time/Calendar/(Every S,F,W,R,T,M,U) Sumer holidays.md"
+                "file": "5. Private/Future plans.md"
               }
             }
           },
