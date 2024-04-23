@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e80d4c6011fae46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Geschäftsunfähigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Geschäftsfähigkeit.md",
+                "file": "2. New/Geschäftsunfähigkeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Geschäftsfähigkeit.md",
+                "file": "2. New/Geschäftsunfähigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Geschäftsfähigkeit.md",
+                "file": "2. New/Geschäftsunfähigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Geschäftsfähigkeit.md"
+                "file": "2. New/Geschäftsunfähigkeit.md"
               }
             }
           },
@@ -232,10 +244,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a1d7817fbb6cc82",
+  "active": "e80d4c6011fae46a",
   "lastOpenFiles": [
-    "7. School/BWL/BwL.md",
     "2. New/Geschäftsfähigkeit.md",
+    "2. New/Geschäftsunfähigkeit.md",
+    "2. New/Beschränkt Geschäftsfähig.md",
+    "7. School/BWL/BwL.md",
     "7. School/BWL/Gehaltsabrechnung.md",
     "2. New/Versicherung.md",
     "8. Files/Gehaltsabrechnung 2024-02-08 12.45.30.excalidraw.md",
@@ -258,8 +272,6 @@
     "6. Time/Calendar/2024-05-02 Tv exam.md",
     "6. Time/Calendar/2024-05-26 yxcscs.md",
     "6. Time/Calendar/(Every ) Pfingst ferien.md",
-    "6. Time/Calendar/asdwf(Every T,W,R,F,S,M,U) pfingst ferien.md",
-    "6. Time/Calendar/2024-05-26 afdsf.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
