@@ -32,5 +32,6 @@ Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]].
 [[Stammeinlage]]
 # [[Stammkapital]]
 25.000€
+Das Stammkapital wird durch die [[Stammeinlage]]n gedeckt. Aber mindestens die Hälfte der [[Stammeinlage]]n muss Geld sein. Die andere Hälfte darf auch aus Immobilien bestehen.
 # [[Gewinnverteilung]]
 [[Geschäftsteil]]
