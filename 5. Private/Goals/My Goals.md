@@ -6,8 +6,8 @@
 [[Learn origami ]]
 Do Yoga every day 
 [[Coding ideas]]
-# Big
-[[Fractal node verse]]
-[[Publication]]
-[[Make the world a better place ]]
 [[Write a Book]]
+# Order
+1. [[Fractal node mind]]
+2. [[Publication]]
+3. [ ] [[Make the world a better place ]]
