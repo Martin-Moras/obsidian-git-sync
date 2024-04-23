@@ -49,7 +49,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. New/Einlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9170f499d3aefb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. New/Gewinnverteilung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2317ed28abaaf0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Stammkapital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1bdbd71c05c4a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/Stammeinlage.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Gewinnverteilung.md",
+                "file": "2. New/Einlagen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Gewinnverteilung.md",
+                "file": "2. New/Einlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Gewinnverteilung.md",
+                "file": "2. New/Einlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Gewinnverteilung.md"
+                "file": "2. New/Einlagen.md"
               }
             }
           },
@@ -258,9 +294,12 @@
   },
   "active": "84b3815a53a74b87",
   "lastOpenFiles": [
-    "7. School/BWL/Unternehmensformen.md",
-    "7. School/BWL/GmbH.md",
+    "7. School/BWL/Stammeinlage.md",
+    "2. New/Einlagen.md",
     "2. New/Gewinnverteilung.md",
+    "7. School/BWL/Stammkapital.md",
+    "7. School/BWL/GmbH.md",
+    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Aufsichtsrat.md",
     "7. School/BWL/Gesellschafter.md",
     "7. School/BWL/Kaufman.md",
@@ -282,9 +321,6 @@
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "2. New/Fractal node language.md",
     "3. Computer/Coding/Coding Goals.md",
-    "2. New/IPA to speech.md",
-    "2. New/IPA.md",
-    "5. Private/Goals/Publication.md",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
     "Untitled",
