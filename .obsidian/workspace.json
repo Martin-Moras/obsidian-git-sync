@@ -86,7 +86,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Future plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Future plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Future plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Future plans.md"
+                "file": "6. Time/Calendar/(Every S,F,W,R,T,M,U) Sumer holidays.md"
               }
             }
           },
@@ -235,9 +232,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c952aa9d58802157",
+  "active": "0dd9513a2aa46b28",
   "lastOpenFiles": [
     "5. Private/Future plans.md",
+    "6. Time/Calendar/(Every S,F,W,R,T,M,U) Sumer holidays.md",
+    "6. Time/Calendar/2024-07-11 Graduation party,.md",
+    "6. Time/Calendar/2024-05-17 Math exam.md",
+    "6. Time/Calendar/2024-05-15 English exam.md",
+    "6. Time/Calendar/2024-05-13 German exam.md",
+    "6. Time/Calendar/2024-05-08 Bwl exam.md",
     "7. School/BWL/Versicherung.md",
     "7. School/BWL/Marketing.md",
     "7. School/BWL/Konjunktur indikatoren.md",
@@ -257,12 +260,6 @@
     "2. New/Konjunktur indikatoren.md",
     "7. School/BWL/Gesellschafterversammlung.md",
     "7. School/BWL/Gesellschafter.md",
-    "7. School/BWL/Geschäftsteil.md",
-    "7. School/BWL/Geschäftsführungsmacht.md",
-    "7. School/BWL/Gesamtgeschäftsführung.md",
-    "2. New/Gewinnverteilung.md",
-    "2. New/Geschäftsfähigkeit.md",
-    "2. New/Einlage.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
