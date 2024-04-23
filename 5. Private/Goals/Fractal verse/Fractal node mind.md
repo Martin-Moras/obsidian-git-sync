@@ -1,8 +1,8 @@
 ---
 File Creation date: 2024-03-21
 ---
+[Fractal node mind Vault](obsidian://open?vault=Fractal%20mind%20theory&file=Home)
 # Awareness
-
 # Nodes
 ## Cognitive processing 
 - Personalities 
