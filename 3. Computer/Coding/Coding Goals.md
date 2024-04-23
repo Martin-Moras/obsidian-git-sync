@@ -6,6 +6,6 @@ File Creation date: 2024-04-22
 [[diy circuit board]]
 [[SHA-256]]
 [[Cryptography]]
-
+[[IPA to speech]]
 # Fractal node
 ![[Fractal node verse#To Code]]

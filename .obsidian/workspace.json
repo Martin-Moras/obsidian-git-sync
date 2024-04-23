@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b09dfbe3952068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Computer/Coding/Coding Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42e2567bbea0d82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/IPA to speech.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "2. New/IPA to speech.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "2. New/IPA to speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "2. New/IPA to speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Goals/My Goals.md"
+                "file": "2. New/IPA to speech.md"
               }
             }
           },
@@ -218,18 +243,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "695380a3fef8b2f2",
+  "active": "42e2567bbea0d82e",
   "lastOpenFiles": [
-    "2. New/Fractal.md",
-    "5. Private/Goals/My Goals.md",
+    "2. New/IPA.md",
+    "2. New/IPA to speech.md",
+    "3. Computer/Coding/Coding Goals.md",
+    "2. New/Fractal node language.md",
+    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "5. Private/Goals/Publication.md",
+    "5. Private/Goals/My Goals.md",
+    "2. New/Fractal.md",
     "2. New/[[Make.md",
     "2. New/Make.md",
     "5. Private/Goals/Make the world a better place.md",
     "5. Private/Goals/Fractal verse/Fractal node mind.md",
-    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "3. Computer/Coding/Learn c++ graphics.md",
-    "3. Computer/Coding/Coding Goals.md",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
     "Untitled",
@@ -250,9 +278,6 @@
     "3. Computer/Coding/Vulcan.md",
     "3. Computer/Networking/OSI Layers/Physical Layer.md",
     "3. Computer/Networking/MAC address.md",
-    "3. Computer/Networking/Ports/MBR.md",
-    "3. Computer/Networking/OSI Layers/OSI Layers.md",
-    "3. Computer/Networking/Ports/HTTPS 443.md",
     "3. Computer/Networking",
     "5. Private/Goals/Fractal verse",
     "8. Files/Pasted image 20240323175104.png",
