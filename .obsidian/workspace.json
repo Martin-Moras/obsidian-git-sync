@@ -26,9 +26,55 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "2e63092c5627e211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf36da9827f2a190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Fractal node code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57c71f0ee234fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Hotkey tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1113e45375a9a94a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Future plans.md"
+                "file": "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md"
               }
             }
           },
@@ -235,10 +281,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dd9513a2aa46b28",
+  "active": "1113e45375a9a94a",
   "lastOpenFiles": [
-    "6. Time/Calendar/(Every U,M,T,W,R,F,S) Sumer holidays.md",
+    "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
+    "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md",
+    "2. New/Hotkey tree.md",
+    "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
+    "2. New/Fractal node code.md",
+    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "5. Private/Future plans.md",
+    "6. Time/Calendar/(Every U,M,T,W,R,F,S) Sumer holidays.md",
     "6. Time/Calendar/(Every S,F,W,R,T,M,U) Sumer holidays.md",
     "6. Time/Calendar/2024-07-11 Graduation party,.md",
     "6. Time/Calendar/2024-05-17 Math exam.md",
@@ -257,12 +309,6 @@
     "7. School/BWL/Beschränkt Geschäftsfähig.md",
     "7. School/BWL/BwL.md",
     "7. School/School.md",
-    "7. School/BWL/Aufsichtsrat.md",
-    "7. School/BWL/GmbH.md",
-    "2. New/Geschäftsunfähigkeit.md",
-    "2. New/Konjunktur.md",
-    "2. New/Konjunktur indikatoren.md",
-    "7. School/BWL/Gesellschafterversammlung.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",

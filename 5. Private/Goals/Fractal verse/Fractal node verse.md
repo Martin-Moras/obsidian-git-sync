@@ -3,11 +3,12 @@ File Creation date: 2024-04-13
 ---
 [[Fractal node language]]
 [[Fractal node mind]]
+[[Fractal node math]]
 # To Code
 [[Fractal node notes]]
 [[Fractal node web]]
-[[Fractal mind game]]
-[[Fractal node code]]
-[[Fractal node Ai]]
 [[Fractal node chat]]
-[[Fractal node math]]
+[[Fractal node code]]
+[[Fractal node OS]]
+[[Fractal node Ai]]
+[[Fractal mind game]]
