@@ -1,0 +1,1 @@
+Create a window which goes through all combinations of black and white pixels.
