@@ -20,15 +20,11 @@
             }
           },
           {
-            "id": "41254819bc21e915",
+            "id": "9c673cbdb6ef6e31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Time/2024-05-02 Tv exam.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -102,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6. Time/2024-05-02 Tv exam.md",
+                "file": "5. Private/Future plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Time/2024-05-02 Tv exam.md",
+                "file": "5. Private/Future plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Time/2024-05-02 Tv exam.md",
+                "file": "5. Private/Future plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Time/2024-05-02 Tv exam.md"
+                "file": "5. Private/Future plans.md"
               }
             }
           },
@@ -280,10 +276,11 @@
       }
     ]
   },
-  "active": "41254819bc21e915",
+  "active": "e9e53cfd78508078",
   "lastOpenFiles": [
+    "6. Time/Calendar",
+    "6. Time/Calendar/2024-05-02 Tv exam.md",
     "5. Private/Future plans.md",
-    "6. Time/2024-05-02 Tv exam.md",
     "5. Private/Pressent.md",
     "5. Private/my problems.md",
     "5. Private/Me.md",
@@ -311,7 +308,6 @@
     "3. Computer/Networking/Ports/UDP.md",
     "3. Computer/Bitcoin/proof of work.md",
     "3. Computer/Networking/Ports/Telnet 23.md",
-    "3. Computer/Networking/Ports/SSH 22.md",
     "3. Computer/Networking/Ports",
     "3. Computer/Networking/Pasted image 20230524155355.png",
     "3. Computer/Hacking",
