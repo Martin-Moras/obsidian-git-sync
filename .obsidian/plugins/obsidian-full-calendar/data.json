@@ -9,6 +9,11 @@
       "type": "ical",
       "color": "#00ff88",
       "url": "https://calendar.google.com/calendar/ical/martin.moras%40web.de/private-6806121f93266e3942796ec92bf96f77/basic.ics"
+    },
+    {
+      "type": "local",
+      "color": "#004de6",
+      "directory": "6. Time"
     }
   ],
   "defaultCalendar": 0,

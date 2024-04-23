@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41254819bc21e915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Time/2024-05-02 Tv exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0a0782683085a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Private/Pressent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "6. Time/2024-05-02 Tv exam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "6. Time/2024-05-02 Tv exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Future plans.md",
+                "file": "6. Time/2024-05-02 Tv exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Future plans.md"
+                "file": "6. Time/2024-05-02 Tv exam.md"
               }
             }
           },
@@ -218,13 +243,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "695380a3fef8b2f2",
+  "floating": {
+    "id": "44a2a48688f069f4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4b3a9c81930e5f90",
+        "type": "window",
+        "children": [
+          {
+            "id": "8720da5050049019",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c4eba41dc7b8e0b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5. Private/my problems.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1320,
+        "y": 166,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "41254819bc21e915",
   "lastOpenFiles": [
+    "5. Private/Future plans.md",
+    "6. Time/2024-05-02 Tv exam.md",
+    "5. Private/Pressent.md",
+    "5. Private/my problems.md",
     "5. Private/Me.md",
     "5. Private/Ideas/Ideas.md",
     "3. Computer/Games.md",
     "3. Computer/Minecraft.md",
-    "5. Private/Future plans.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "2. New/Fractal node language.md",
     "3. Computer/Coding/Coding Goals.md",
@@ -247,9 +312,6 @@
     "3. Computer/Bitcoin/proof of work.md",
     "3. Computer/Networking/Ports/Telnet 23.md",
     "3. Computer/Networking/Ports/SSH 22.md",
-    "3. Computer/Networking/Ports/ports.md",
-    "3. Computer/Networking/Ports/POP3 110.md",
-    "3. Computer/Networking/Ports/FTP 21.md",
     "3. Computer/Networking/Ports",
     "3. Computer/Networking/Pasted image 20230524155355.png",
     "3. Computer/Hacking",
