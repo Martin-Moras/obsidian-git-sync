@@ -1,5 +1,3 @@
-[[what is CAD]]
-[[diy circuit board]]
-[[SHA-256]]
-[[Cryptography]]
-Hygiene 
+- [[what is CAD]]
+- Hygiene 
+- Is meditating always better than listening to audio books ???

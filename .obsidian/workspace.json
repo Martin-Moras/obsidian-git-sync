@@ -4,59 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "185d5656520c7ec0",
+        "id": "a2a4556e464c5e74",
         "type": "tabs",
         "children": [
           {
-            "id": "a32c08d94e8c4d66",
+            "id": "b8de49d688ae1df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. New/Coding ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18a990172c8d8cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Goals/Write a Book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c194a5f626428eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Goals/My Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b9ef6ca11364583d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "705c563f75b77ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Goals/Fractal node mind.md",
+                "file": "3. Computer/Networking/CoLayers.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "3. Computer/Networking/CoLayers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "3. Computer/Networking/CoLayers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Goals/My Goals.md",
+                "file": "3. Computer/Networking/CoLayers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Goals/My Goals.md"
+                "file": "3. Computer/Networking/CoLayers.md"
               }
             }
           },
@@ -261,19 +218,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c194a5f626428eb",
+  "active": "b8de49d688ae1df9",
   "lastOpenFiles": [
-    "5. Private/Goals/Fractal node mind.md",
-    "5. Private/Goals/Fractal node verse.md",
-    "5. Private/Goals/My Goals.md",
-    "2. New/Fractal node chat.md",
-    "2. New/Fractal node web.md",
-    "2. New/Coding ideas.md",
-    "5. Private/Goals/All pictures.md",
-    "5. Private/Goals/Write a Book.md",
+    "3. Computer/Networking/HTTPS 443.md",
+    "3. Computer/Coding/Maschiene code.md",
+    "3. Computer/Networking",
+    "3. Computer/Networking/Application layer.md",
+    "5. Private/Goals/Coding Goals.md",
+    "5. Private/Goals/Fractal verse/Fractal node mind.md",
+    "5. Private/Goals/Fractal verse",
     "5. Private/Goals.md",
+    "5. Private/Questions.md",
+    "5. Private/Goals/Write a Book.md",
+    "2. New/Cryptography.md",
+    "5. Private/Goals/My Goals.md",
+    "5. Private/Goals/Fractal node verse.md",
+    "2. New/Fractal node chat.md",
+    "5. Private/Goals/Fractal verse/Fractal node web.md",
+    "5. Private/Goals/All pictures.md",
     "5. Private/Goals/Publication.md",
-    "2. New/Fractal node notes.md",
+    "5. Private/Goals/Fractal verse/Fractal node notes.md",
     "4. Human/Emotions.md",
     "8. Files/Pasted image 20240323175104.png",
     "8. Files/Fractal node notes.excalidraw.md",
@@ -287,11 +251,6 @@
     "5. Private/Ideas/Ideas.md",
     "7. School/BWL/GmbH.md",
     "7. School/BWL/Gesellschafterversammlung.md",
-    "7. School/BWL/Handelsregister.md",
-    "7. School/BWL/Volle Haftung.md",
-    "7. School/BWL/Formkaufmann.md",
-    "7. School/BWL/Gesamtgeschäftsführung.md",
-    "7. School/BWL/Gesellschafter.md",
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
@@ -306,8 +265,6 @@
     "7. School/Ethik",
     "7. School/Englisch",
     "7. School/Deutsch",
-    "7. School/BWL",
-    "7. School/Bearbeitungsprozesse Einkauf",
-    "7. School"
+    "7. School/BWL"
   ]
 }
