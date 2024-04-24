@@ -1,6 +1,35 @@
 ---
 File Creation date: 2024-04-13
 ---
+- [Text](#text)
+	- [Intro](#intro)
+	- [The potential](#the-potential)
+- [Text](#text)
+	- [Intro](#intro)
+	- [The potential](#the-potential)
+	- [Realisation](#realisation)
+- [Nodes](#nodes)
+	- [Core nodes](#core-nodes)
+- [Fractal node projects](#fractal-node-projects)
+	- [To Code](#to-code)
+- [Theories](#theories)
+	- [The more nodes someone knows the more intelligent he is](#the-more-nodes-someone-knows-the-more-intelligent-he-is)
+		- [What supports this theory](#what-supports-this-theory)
+			- [sdf](#sdf)
+				- [sdf](#sdf)
+					- [sdfde](#sdfde)
+	- [Realisation](#realisation)
+- [Nodes](#nodes)
+	- [Core nodes](#core-nodes)
+- [Fractal node projects](#fractal-node-projects)
+	- [To Code](#to-code)
+- [Theories](#theories)
+	- [The more nodes someone knows the more intelligent he is](#the-more-nodes-someone-knows-the-more-intelligent-he-is)
+		- [What supports this theory](#what-supports-this-theory)
+			- [sdf](#sdf)
+				- [sdf](#sdf)
+				- [sdfde](#sdfde)
+
 # Text
 ## Intro
 **Everything is a fractal node**. Everything can be defined as an **object**. Every object is made out of **more tiny objects** which each **interact** with each other. And every one of these objects is made out of more objects. And you can subdivide objects on and on until you can't anymore. Here you come to the **core objects**. Some have their own rules, properties and states, others share theirs. 
@@ -41,3 +70,6 @@ The more nodes about [economics](BwL) I know, the more intelligent I am about ec
 
 
 create new nodes based on the ones you already know
+#### sdf 
+##### sdf
+###### sdfde
