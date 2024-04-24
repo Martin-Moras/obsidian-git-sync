@@ -6,7 +6,7 @@ Or do they. Maybe, core objects all have the same rules. Like in the [[String th
 
 # Nodes
 ## Core nodes
-In [[Fractal node web]]
+ 
 
 # Fractal node projects 
 [[Fractal node language]]
@@ -21,3 +21,11 @@ In [[Fractal node web]]
 [[Fractal node Ai]]
 [[Fractal mind game]]
 [[Fractal node files]]
+# Teories
+## The more nodes someone knows the more intelligent he is
+In [[Fractal node web]], [[Fractal node math]], [[Fractal node code]] there will be some core nodes that everyone will know. If you connect that now to [[Intelligence]], than you can define ones [[Intelligence]] by how many nodes one knows and can work with.
+### What supports this theory
+The more nodes about [economics](BwL) 
+
+
+create new nodes based on the ones you already know
