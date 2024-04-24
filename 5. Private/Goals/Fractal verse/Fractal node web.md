@@ -5,16 +5,19 @@ File Creation date: 2024-04-23
 ## Nodes
 ## Conections
 ## Tags???
-## Groups
+## Organisation
+### Search engine
+find out how a search engine works (google) and see how it could be implemented.
+### Groups
 A collared, semi transparent background which is behind nodes of one topic. e.g. coding related nodes: blue background, Biology related nodes: green background.
 - arrange nodes so that the more general nodes are lighter and the less general nodes are darker
 - arrange nodes roughly on a collar wheel 
-### General nodes
+#### General nodes
 how general is a node
 factors:
 - how many nodes are based on that node
 - if it applies to a specific case or if it is a concept that can be applied to a wide variety of situations
-## Dimensions
+### Dimensions
 - adding a third spacial dimension can also simplify ordering and filtering nodes and topics
 - adding a **time** dimension to it can also simplify ordering and filtering nodes and topics
 - maybe there isn't a fixed amount of dimensions and one can just a position on a dimensional axe
