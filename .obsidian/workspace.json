@@ -62,9 +62,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a91ace78e18d0896",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "a5cb76512b96cf49",
@@ -257,7 +265,7 @@
       }
     ]
   },
-  "active": "e91cf8c0939c853c",
+  "active": "a91ace78e18d0896",
   "lastOpenFiles": [
     "5. Private/Goals/Fractal verse/Fractal node web.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
