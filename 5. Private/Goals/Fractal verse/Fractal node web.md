@@ -5,7 +5,7 @@ File Creation date: 2024-04-23
 # How it works
 ## Nodes
 ### Text
-
+Nodes either use natural language or [[Fractal node language]]. Everyone can decide how much he wants to split up his nodes.
 ## Connections
 
 ## Organisation
