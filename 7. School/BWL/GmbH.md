@@ -12,16 +12,16 @@ File Creation date: 2024-04-21
 | Firma                       | Ja                         |
 Gesellschaft mit beschränkter Haftung (GmbH) 
 ist ein [[Formkaufmann]]
-
+Kann von nur einer person gegründet werden
 # Vorteile
 1. [[Beschränkte Haftung]]
 2. [[Geschäftsführer]] kann eine andere Person als ein [[Gesellschafter]] sein.
-# Organe
-## [[Gesellschafter]]
+# 3 Organe
+## 1. [[Gesellschafter]]
 keine [Kaufmänner](Kaufman)
-## [[Gesellschafterversammlung]]
+## 2. [[Gesellschafterversammlung]]
 
-## [[Geschäftsführer]]
+## 3. [[Geschäftsführer]]
 Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]]. Wenn es mehrere [[Geschäftsführer]] gibt, gilt die [[Gesamtgeschäftsführung]].
 # Haftung
 **Vor** Eintrag ins [[Handelsregister]]: [[Volle Haftung]]

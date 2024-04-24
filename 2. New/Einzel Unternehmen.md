@@ -1,6 +1,8 @@
 ---
 File Creation date: 2024-04-24
 ---
+**Abkürzung**: [[e.K.]]
 Kann von nur einer person gegründet werden
-# Mindestkapital
-50000€
+
+# Vorteile
+- schnellere Eintscheidungen wie
