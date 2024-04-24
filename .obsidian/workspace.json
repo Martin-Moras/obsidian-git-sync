@@ -18,45 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "abbe97728b66e3a9",
-        "type": "split",
-        "children": [
-          {
-            "id": "e2184228c3afcc12",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c28e33e331a21aab",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "5ba5f3e166f48f49",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cd4581d93acf1905",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -115,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -292,8 +248,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 3326,
-        "y": 74,
+        "x": 404,
+        "y": 480,
         "width": 788,
         "height": 600,
         "maximize": false,
@@ -301,7 +257,7 @@
       }
     ]
   },
-  "active": "6b51cec32658d6b7",
+  "active": "e91cf8c0939c853c",
   "lastOpenFiles": [
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "7. School/BWL/BwL.md",
