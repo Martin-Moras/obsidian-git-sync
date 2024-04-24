@@ -28,6 +28,7 @@ The fractal verse is a way of understanding our world. A frame work which not on
 And that's exactly what I did. (explain my fn project concepts)
 # Nodes
 ## Core nodes
+[[Fn connection]]
  
 
 # Fractal node projects 
