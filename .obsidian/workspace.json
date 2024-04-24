@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "7. School/BWL/Handelsregister.md",
+                    "file": "2. New/Gesellschaftsvertrag.md",
                     "mode": "source",
                     "source": false
                   }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "2. New/Gesellschaftsvertrag.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.747827212160596,
+                  "scale": 0.49855147477373063,
                   "close": true
                 }
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "2. New/Gesellschaftsvertrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md",
+                "file": "2. New/Gesellschaftsvertrag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Handelsregister.md"
+                "file": "2. New/Gesellschaftsvertrag.md"
               }
             }
           },
@@ -266,6 +266,8 @@
   },
   "active": "cd4581d93acf1905",
   "lastOpenFiles": [
+    "2. New/Formfrei.md",
+    "7. School/BWL/Handelsregister.md",
     "7. School/BWL/GmbH.md",
     "2. New/Gesellschaftsvertrag.md",
     "7. School/BWL/Unternehmensformen.md",
@@ -286,12 +288,10 @@
     "2. New/Konstitutiv.md",
     "2. New/Gesellschaftstype.md",
     "2. New/Kapitalgesellschaft.md",
-    "7. School/BWL/Handelsregister.md",
     "2. New/Deklaratorisch.md",
     "7. School/BWL/GbR.md",
     "2. New/Gesamtvertretung.md",
     "7. School/BWL/Gesellschafterversammlung.md",
-    "7. School/BWL/Aufsichtsrat.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
