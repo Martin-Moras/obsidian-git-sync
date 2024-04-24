@@ -1,9 +1,16 @@
 ---
 File Creation date: 2024-04-13
 ---
+# Intro
 **Everything is a fractal node**. Everything can be defined as an **object**. Every object is made out of **more tiny objects** which each **interact** with each other. And every one of these objects is made out of more objects. And you can subdivide objects on and on until you can't anymore. Here you come to the **core objects**. Some have their own rules, properties and states, others share theirs. 
 Or do they. Maybe, core objects all have the same rules. Like in the [[String theory]]. Or maybe in not all systems all core objects have the same rules, but in the best systems that's the case.
-
+# The potential
+The fractal verse is a way of understanding our world. A frame work which not only helps us to understand the world but a framework which we can use to re imagine our world. We can also use this frame work to create our tools. Like:
+- Language
+- Math
+- Way of writing and taking notes 
+-  Computer programs
+-  Internet
 # Nodes
 ## Core nodes
  
