@@ -7,5 +7,6 @@
 [[Marketing]]
 [[Geschäftsfähigkeit]]
 [[Konjunktur]]
+[[Vertragsgüligkeit]]
 
 [[Sundar Pichai Ausarbeitung]]
