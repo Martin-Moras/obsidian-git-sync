@@ -17,7 +17,7 @@ Abkürzung: [[e.K.]]
 - [[Doppelte Buchhaltung]] ist Pflicht
 - Es gibt viele Einzelunternehmen (ca. 2 mio)
 - Es gibt auch große Einzelunternehmen (Triegema)
-# [[Kreditwürdigkeit#Kreditwürdigkeit eines Einzelunternehmen s]]
+# ![[Kreditwürdigkeit#Kreditwürdigkeit eines Einzelunternehmen s]]
 # Vorteile
 - **schnellere Entscheidungen** weil er sich mit niemandem absprechen muss
 - er ist sein **eigener Chef**
