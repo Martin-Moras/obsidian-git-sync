@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07bda04d9506364d",
+            "id": "e91cf8c0939c853c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/BwL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "894bb0e0f435c5c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kommanditist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.14771895548851277,
+                  "scale": 0.49855147477373063,
                   "close": true
                 }
               }
@@ -140,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7. School/BWL/Unternehmensformen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,13 +220,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "894bb0e0f435c5c0",
+  "active": "e91cf8c0939c853c",
   "lastOpenFiles": [
     "7. School/BWL/BwL.md",
+    "2. New/Untitled.md",
+    "7. School/BWL/GmbH.md",
+    "7. School/BWL/Formkaufmann.md",
     "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Haftung von Unternehmen.md",
     "2. New/Einzel Unternehmen.md",
-    "7. School/BWL/GmbH.md",
     "2. New/OHG.md",
     "2. New/KG.md",
     "2. New/e.K..md",
@@ -266,8 +248,6 @@
     "5. Private/Future plans.md",
     "2. New/Hotkey tree.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
-    "2. New/Fractal node code.md",
-    "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
