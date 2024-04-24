@@ -1,9 +1,23 @@
 ---
 File Creation date: 2024-04-24
 ---
-**Abkürzung**: [[e.K.]]
-Kann von nur einer person gegründet werden
-
+| Kriterien Bezeichnung       | [[Einzelunternehmen]]    |
+| --------------------------- | ------------------------ |
+| [[Gesellschaftstype]]       | [[Personengesellschaft]] |
+| Gesellschaftsvertrag        | nein                     |
+| [[Mindestkapital]]          | nein                     |
+| Eintrag ins Handelsregister | deklaratorisch           |
+| Geschäftsführung            | Einzel                   |
+| Vertretung                  | Einzel                   |
+| Gewinnverteilung            | Keine                    |
+| [[Haftung von Unternehmen]] | [[Volle Haftung]]        |
+| Firma                       | Ja                       |
+Abkürzung: [[e.K.]]
+- Kann von nur einer person gegründet werden
+- [[Doppelte Buchhaltung]] ist Pflicht
+- Es gibt viele Einzelunternehmen (ca. 2 mio)
+- Es gibt auch große Einzelunternehmen (Triegema)
+# [[Kreditwürdigkeit#Kreditwürdigkeit eines Einzelunternehmen s]]
 # Vorteile
 - **schnellere Entscheidungen** weil er sich mit niemandem absprechen muss
 - er ist sein **eigener Chef**
