@@ -9,4 +9,9 @@
 [[Konjunktur]]
 [[Vertragsgüligkeit]]
 
+# Begriffe
+#askJohn [[Einzelgeschäftsführungsbefugniss]]
+#askJohn [[Gesamtgeschäftsführungbefugniss]]
+
+
 [[Sundar Pichai Ausarbeitung]]

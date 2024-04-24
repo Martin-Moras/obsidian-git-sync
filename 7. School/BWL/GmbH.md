@@ -1,6 +1,7 @@
 ---
 File Creation date: 2024-04-21
 ---
+
 | Gesellschaftsvertrag        | Notariell                  |
 | --------------------------- | -------------------------- |
 | Mindestkapital              | 25000€                     |
@@ -22,7 +23,7 @@ keine [Kaufmänner](Kaufman)
 ## 2. [[Gesellschafterversammlung]]
 
 ## 3. [[Geschäftsführer]]
-Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]]. Wenn es mehrere [[Geschäftsführer]] gibt, gilt die [[Gesamtgeschäftsführung]].
+Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]]. Wenn es mehrere [[Geschäftsführer]] gibt, gilt die [[Gesamtgeschäftsführung]]. Der Geschäftsführer muss kein [[Gesellschafter]] sein
 # Haftung
 **Vor** Eintrag ins [[Handelsregister]]: [[Volle Haftung]]
 **Nach** Eintrag ins [[Handelsregister]]: [[Beschränkte Haftung]]
