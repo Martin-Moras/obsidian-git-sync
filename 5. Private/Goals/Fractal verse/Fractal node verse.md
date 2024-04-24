@@ -4,9 +4,6 @@ File Creation date: 2024-04-13
 - [Text](#text)
 	- [Intro](#intro)
 	- [The potential](#the-potential)
-- [Text](#text)
-	- [Intro](#intro)
-	- [The potential](#the-potential)
 	- [Realisation](#realisation)
 - [Nodes](#nodes)
 	- [Core nodes](#core-nodes)
@@ -15,20 +12,6 @@ File Creation date: 2024-04-13
 - [Theories](#theories)
 	- [The more nodes someone knows the more intelligent he is](#the-more-nodes-someone-knows-the-more-intelligent-he-is)
 		- [What supports this theory](#what-supports-this-theory)
-			- [sdf](#sdf)
-				- [sdf](#sdf)
-					- [sdfde](#sdfde)
-	- [Realisation](#realisation)
-- [Nodes](#nodes)
-	- [Core nodes](#core-nodes)
-- [Fractal node projects](#fractal-node-projects)
-	- [To Code](#to-code)
-- [Theories](#theories)
-	- [The more nodes someone knows the more intelligent he is](#the-more-nodes-someone-knows-the-more-intelligent-he-is)
-		- [What supports this theory](#what-supports-this-theory)
-			- [sdf](#sdf)
-				- [sdf](#sdf)
-				- [sdfde](#sdfde)
 
 # Text
 ## Intro
@@ -70,6 +53,3 @@ The more nodes about [economics](BwL) I know, the more intelligent I am about ec
 
 
 create new nodes based on the ones you already know
-#### sdf 
-##### sdf
-###### sdfde
