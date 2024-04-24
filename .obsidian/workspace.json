@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "file": "2. New/Hotkey tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "file": "2. New/Hotkey tree.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "file": "2. New/Hotkey tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
+                "file": "2. New/Hotkey tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md"
+                "file": "2. New/Hotkey tree.md"
               }
             }
           },
@@ -249,8 +249,8 @@
   },
   "active": "2e63092c5627e211",
   "lastOpenFiles": [
-    "2. New/Hotkey tree.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
+    "2. New/Hotkey tree.md",
     "2. New/Fractal node code.md",
     "8. Files/Hotkey tree 2024-04-23 21.20.20.excalidraw.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
