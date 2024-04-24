@@ -32,31 +32,43 @@
             }
           },
           {
-            "id": "15e839bd9a8f6c52",
+            "id": "ed1ac6fd90c24724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. New/Gesellschaftsvertrag.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8a1352e510ec625",
+            "id": "d94061badd91a4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. New/Gesamtvertretung.md",
+                "file": "2. New/Gesellschaftstype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80c64d8d04c57925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Kapitalgesellschaft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Gesamtvertretung.md",
+                "file": "2. New/Kapitalgesellschaft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Gesamtvertretung.md",
+                "file": "2. New/Kapitalgesellschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Gesamtvertretung.md",
+                "file": "2. New/Kapitalgesellschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Gesamtvertretung.md"
+                "file": "2. New/Kapitalgesellschaft.md"
               }
             }
           },
@@ -263,11 +275,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8a1352e510ec625",
+  "active": "80c64d8d04c57925",
   "lastOpenFiles": [
     "2. New/Gesellschaftsvertrag.md",
-    "2. New/Gesamtvertretung.md",
+    "2. New/Kapitalgesellschaft.md",
+    "2. New/Gesellschaftstype.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/GbR.md",
     "7. School/BWL/GmbH.md",
+    "2. New/Gesamtvertretung.md",
     "7. School/BWL/Gesellschafterversammlung.md",
     "7. School/BWL/Aufsichtsrat.md",
     "7. School/BWL/BwL.md",
@@ -288,10 +304,6 @@
     "7. School/BWL/Versicherung.md",
     "7. School/BWL/Marketing.md",
     "7. School/BWL/Konjunktur indikatoren.md",
-    "7. School/BWL/Konjunktur.md",
-    "7. School/BWL/Gewinnverteilung.md",
-    "7. School/BWL/Geschäftsunfähigkeit.md",
-    "7. School/BWL/Geschäftsfähigkeit.md",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
