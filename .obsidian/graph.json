@@ -5,20 +5,13 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#askJohn  ",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "file:Fractal",
-      "color": {
-        "a": 1,
-        "rgb": 12720895
       }
     }
   ],
@@ -27,11 +20,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 4.05572916666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.0364583333333333,
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3003387451171875,
-  "close": true
+  "scale": 0.0889892578125,
+  "close": false
 }
