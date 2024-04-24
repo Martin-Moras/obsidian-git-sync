@@ -23,6 +23,7 @@ And that's exactly what I did. (explain my fn project concepts)
 [[Fractal node mind]]
 [[Fractal node math]]
 ## To Code
+
 [[Fractal node notes]]
 [[Fractal node web]]
 [[Fractal node chat]]
@@ -31,6 +32,7 @@ And that's exactly what I did. (explain my fn project concepts)
 [[Fractal node Ai]]
 [[Fractal mind game]]
 [[Fractal node files]]
+
 # Theories
 ## The more nodes someone knows the more intelligent he is
 In [[Fractal node web]], [[Fractal node math]], [[Fractal node code]] there will be some core nodes that everyone will know. If you connect that now to [[Intelligence]], than you can define ones [[Intelligence]] by how many nodes one knows and **can work with**.
