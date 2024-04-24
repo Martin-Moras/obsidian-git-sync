@@ -18,6 +18,41 @@
             }
           }
         ]
+      },
+      {
+        "id": "abbe97728b66e3a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "e2184228c3afcc12",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c28e33e331a21aab",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "5ba5f3e166f48f49",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cd4581d93acf1905",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ae35418cbbd1ada6",
@@ -220,13 +256,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e91cf8c0939c853c",
+  "active": "cd4581d93acf1905",
   "lastOpenFiles": [
+    "5. Private/Goals/Fractal verse/Fractal node notes.md",
+    "5. Private/Goals/Fractal verse/Fractal node verse.md",
+    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/BwL.md",
     "2. New/Untitled.md",
     "7. School/BWL/GmbH.md",
     "7. School/BWL/Formkaufmann.md",
-    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Haftung von Unternehmen.md",
     "2. New/Einzel Unternehmen.md",
     "2. New/OHG.md",
@@ -246,8 +284,6 @@
     "7. School/BWL/Gesellschafterversammlung.md",
     "7. School/BWL/Aufsichtsrat.md",
     "5. Private/Future plans.md",
-    "2. New/Hotkey tree.md",
-    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",

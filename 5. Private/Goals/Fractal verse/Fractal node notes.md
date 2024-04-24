@@ -1,7 +1,8 @@
 ---
 File Creation date: 2024-04-22
 ---
-# Notes
+code the first version as a obsidian plugin.
+# Nodes
 ## Colors
 object
 ajective

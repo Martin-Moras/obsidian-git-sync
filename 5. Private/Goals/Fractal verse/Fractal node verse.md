@@ -12,3 +12,4 @@ File Creation date: 2024-04-13
 [[Fractal node OS]]
 [[Fractal node Ai]]
 [[Fractal mind game]]
+[[Fractal node files]]

@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#askJohn  ",
@@ -18,13 +18,13 @@
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.98854166666667,
-  "lineSizeMultiplier": 3.5453125,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 4.05572916666667,
+  "collapse-forces": true,
   "centerStrength": 0.0364583333333333,
-  "repelStrength": 20,
+  "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.01171875,
+  "scale": 0.45050811767578125,
   "close": false
 }
