@@ -30,12 +30,14 @@
             }
           },
           {
-            "id": "9504e9609494535d",
+            "id": "8b50cb03cb288925",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md"
+                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md",
+                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md",
+                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md",
+                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md"
+                "file": "5. Private/Goals/Fractal verse/Fractal node web.md"
               }
             }
           },
@@ -292,11 +294,11 @@
       }
     ]
   },
-  "active": "9504e9609494535d",
+  "active": "8b50cb03cb288925",
   "lastOpenFiles": [
+    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "2. New/Fn connection.md",
     "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md",
-    "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "8. Files/Fractal node notes connection shape.excalidraw.md",
     "5. Private/Goals/Fractal node language.md",
     "5. Private/Goals/Fractal verse/Fractal node notes.md",

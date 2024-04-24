@@ -1,10 +1,13 @@
 ---
 File Creation date: 2024-04-23
 ---
-# FracNode Web
+
+# How it works
 ## Nodes
-## Conections
-## Tags???
+### Text
+
+## Connections
+
 ## Organisation
 ### Search engine
 find out how a search engine works (google) and see how it could be implemented.
@@ -26,6 +29,9 @@ Possible dimensions:
 - 2, 3 spacial in real life (would be helpful for historic events and news articles and astronomy)
 - 1 time added to the web
 - 1 time happened in real life (would be helpful for historic events and news articles)
+### Tags
+### Color
+### Icon or picture
 ## Accounts
 ### Profile
 You can design your profile how you want. You can connect it to your Interests and hobbies. You can also create notes within your account, where you can show your ongoing projects, opinions:
@@ -34,6 +40,8 @@ You can design your profile how you want. You can connect it to your Interests a
 - Profession
 - Interests
 - Projects
+You can also design a profile for a dead person (e.g. Albert Einstein). Than his workings are still all organised and if one wants to find out more about him, one can easily do that.
+
 ### Account groups
 Accounts can also be in groups. Like a family is in one group, and employees of one company.
 ### Connect accounts 
@@ -42,3 +50,6 @@ you can also make connections between accounts. Like brother, mother, grandpa or
 ### Restricted access 
 - Password
 - Invitation
+## Ui
+- Like obsidian
+- [[Hotkey tree]]
