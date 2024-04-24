@@ -27,12 +27,16 @@ Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]].
 **Vor** Eintrag ins [[Handelsregister]]: [[Volle Haftung]]
 **Nach** Eintrag ins [[Handelsregister]]: [[Beschränkte Haftung]]
 
-[[Stammeinlage]]
+# Auflösung
+Zur Auflösung einer GmbH kann folgendes führen:
+- Pleite #askJohn auch schon wenn unter 
+- [[Gesellschafter]] lösen die GmbH freiwillig auf
+# [[Stammeinlage]]
 # [[Stammkapital]]
+# [[Mindestkapital]] 
 25.000€
-Das Stammkapital wird durch die [[Stammeinlage]]n gedeckt. Aber mindestens die Hälfte der [[Stammeinlage]]n muss Geld sein. Die andere Hälfte darf auch aus Immobilien bestehen.
 # [[Gewinnverteilung]]
-[[Geschäftsteil]]
+# [[Geschäftsteil]]
 
 # [[Aufsichtsrat]] 
 Sobald eine GmbH mehr als 500 Mitglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
