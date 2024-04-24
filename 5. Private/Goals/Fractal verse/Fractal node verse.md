@@ -1,7 +1,13 @@
 ---
 File Creation date: 2024-04-13
 ---
-Everything is a fractal node. Everything can be defined as an object. Every object is made out of more tiny objects which each interact with each other. And every one of these objects is made out of more objects. And you can subdivide objects on and on until you can't anymore. Here you come to the core objects. Some have their own rules, properties and states, others share theirs. Or do they. Maybe, core objects all have the same rules. Like in the [[String theory]]
+**Everything is a fractal node**. Everything can be defined as an **object**. Every object is made out of **more tiny objects** which each **interact** with each other. And every one of these objects is made out of more objects. And you can subdivide objects on and on until you can't anymore. Here you come to the **core objects**. Some have their own rules, properties and states, others share theirs. 
+Or do they. Maybe, core objects all have the same rules. Like in the [[String theory]]. Or maybe in not all systems all core objects have the same rules, but in the best systems that's the case.
+
+# Nodes
+## Core nodes
+In [[Fractal node web]]
+
 # Fractal node projects 
 [[Fractal node language]]
 [[Fractal node mind]]
