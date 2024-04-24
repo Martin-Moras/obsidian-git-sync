@@ -45,8 +45,12 @@
                 "id": "cd4581d93acf1905",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. School/BWL/Handelsregister.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7. School/BWL/Handelsregister.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.49855147477373063,
+                  "scale": 0.747827212160596,
                   "close": true
                 }
               }
@@ -143,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae35418cbbd1ada6",
@@ -160,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/BWL/Handelsregister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/BWL/Handelsregister.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/BWL/Handelsregister.md"
+              }
             }
           },
           {
@@ -258,16 +266,19 @@
   },
   "active": "cd4581d93acf1905",
   "lastOpenFiles": [
+    "7. School/BWL/GmbH.md",
+    "2. New/Gesellschaftsvertrag.md",
+    "7. School/BWL/Unternehmensformen.md",
+    "2. New/Personengesellschaft.md",
+    "2. New/OHG.md",
+    "7. School/BWL/Beschränkte Haftung.md",
     "5. Private/Goals/Fractal verse/Fractal node notes.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
-    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/BwL.md",
     "2. New/Untitled.md",
-    "7. School/BWL/GmbH.md",
     "7. School/BWL/Formkaufmann.md",
     "7. School/BWL/Haftung von Unternehmen.md",
     "2. New/Einzel Unternehmen.md",
-    "2. New/OHG.md",
     "2. New/KG.md",
     "2. New/e.K..md",
     "2. New/AG.md",
@@ -275,15 +286,12 @@
     "2. New/Konstitutiv.md",
     "2. New/Gesellschaftstype.md",
     "2. New/Kapitalgesellschaft.md",
-    "2. New/Personengesellschaft.md",
-    "2. New/Gesellschaftsvertrag.md",
     "7. School/BWL/Handelsregister.md",
     "2. New/Deklaratorisch.md",
     "7. School/BWL/GbR.md",
     "2. New/Gesamtvertretung.md",
     "7. School/BWL/Gesellschafterversammlung.md",
     "7. School/BWL/Aufsichtsrat.md",
-    "5. Private/Future plans.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
