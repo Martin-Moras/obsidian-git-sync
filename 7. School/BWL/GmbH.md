@@ -19,8 +19,6 @@ ist ein [[Formkaufmann]]
 # Organe
 ## [[Gesellschafter]]
 keine [Kaufmänner](Kaufman)
-[[Aufsichtsrat]] 
-Sobald eine GmbH mehr als 500 Mitglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
 ## [[Gesellschafterversammlung]]
 
 ## [[Geschäftsführer]]
@@ -35,3 +33,7 @@ Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]].
 Das Stammkapital wird durch die [[Stammeinlage]]n gedeckt. Aber mindestens die Hälfte der [[Stammeinlage]]n muss Geld sein. Die andere Hälfte darf auch aus Immobilien bestehen.
 # [[Gewinnverteilung]]
 [[Geschäftsteil]]
+
+# [[Aufsichtsrat]] 
+Sobald eine GmbH mehr als 500 Mitglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.
+# [[Gesellschaftsvertrag]]
