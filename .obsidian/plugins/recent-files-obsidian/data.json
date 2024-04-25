@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Vertretung",
+      "path": "2. New/Vertretung.md"
+    },
+    {
       "basename": "Vertretungsmacht",
       "path": "7. School/BWL/Vertretungsmacht.md"
     },
     {
+      "basename": "BwL",
+      "path": "7. School/BWL/BwL.md"
+    },
+    {
       "basename": "Unternehmensformen",
       "path": "7. School/BWL/Unternehmensformen.md"
+    },
+    {
+      "basename": "GmbH",
+      "path": "7. School/BWL/GmbH.md"
     },
     {
       "basename": "Haftung von Unternehmen",
@@ -41,10 +53,6 @@
       "path": "7. School/BWL/Kaufman.md"
     },
     {
-      "basename": "GmbH",
-      "path": "7. School/BWL/GmbH.md"
-    },
-    {
       "basename": "Geschäftsanteil",
       "path": "7. School/BWL/Geschäftsanteil.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Kannkaufmann",
       "path": "7. School/BWL/Kannkaufmann.md"
-    },
-    {
-      "basename": "BwL",
-      "path": "7. School/BWL/BwL.md"
     },
     {
       "basename": "Konjunktur",

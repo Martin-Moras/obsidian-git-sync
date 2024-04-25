@@ -25,6 +25,7 @@ File Creation date: 2024-04-21
 | [[Gewinnverteilung]]        | Im Verhältnis der Einlagen |
 | [[Haftung von Unternehmen]] | beschränkt                 |
 | Firma                       | Ja                         |
+[[GmbH info.png]]
 Gesellschaft mit beschränkter Haftung (GmbH) 
 ist ein [[Formkaufmann]]
 Kann von nur einer person gegründet werden

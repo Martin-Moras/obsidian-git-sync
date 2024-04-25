@@ -8,12 +8,14 @@
 [[Geschäftsfähigkeit]]
 [[Vertragsgüligkeit]]
 [[Lagerhaltung]]
-
 # Kleine und unverbundene Themen
 [[Hersteller finden]]
 [[Quantitativer Angebotsvergleich]]
 [[Qualitativer Angebotsvergleich]]
 [[Konjunktur]]
+[[Industrie und Handelskammer (IHK)]]
+[[Vertretung]]
+
 # Begriffe
 
 
