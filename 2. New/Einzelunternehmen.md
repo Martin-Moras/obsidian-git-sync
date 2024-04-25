@@ -23,7 +23,7 @@ Abkürzung: [[e.K.]]
 - er ist sein **eigener Chef**
 - keine [[Gewinnverteilung]]
 # Nachteile
-- weniger [[Eigenkapital]] #askJohn Warum?
+- warscheinlich weniger [[Eigenkapital]]
 - alleinige, [[Unbeschränkte Haftung]], [[Volle Haftung]] #askJohn ist [[Volle Haftung]] und [[Unbeschränkte Haftung]] das gleiche?
 - alleiniges Risiko
 - weniger Fachkompetenz

@@ -10,6 +10,7 @@
 [[Vertragsgüligkeit]]
 
 # Begriffe
+nicht lernen
 #askJohn [[Einzelgeschäftsführungsbefugniss]]
 #askJohn [[Gesamtgeschäftsführungbefugniss]]
 

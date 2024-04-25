@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
+                "file": "7. School/BWL/Gesellschafterversammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bindend",
+                "query": "tag:#askJohn  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a5cb76512b96cf49",
@@ -108,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
+                "file": "7. School/BWL/Gesellschafterversammlung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
+                "file": "7. School/BWL/Gesellschafterversammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node web.md",
+                "file": "7. School/BWL/Gesellschafterversammlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Goals/Fractal verse/Fractal node web.md"
+                "file": "7. School/BWL/Gesellschafterversammlung.md"
               }
             }
           },
@@ -296,6 +297,18 @@
   },
   "active": "8b50cb03cb288925",
   "lastOpenFiles": [
+    "7. School/BWL/Geschäftsführer.md",
+    "7. School/BWL/Gesellschafterversammlung.md",
+    "7. School/BWL/Gesellschafter.md",
+    "7. School/BWL/Geschäftsteil.md",
+    "7. School/BWL/Gesamtgeschäftsführung.md",
+    "7. School/BWL/Geschäftsführungsmacht.md",
+    "2. New/Gesamtvertretung.md",
+    "2. New/Einzelunternehmen.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/Aufsichtsrat.md",
+    "7. School/BWL/Beschränkte Haftung.md",
+    "5. Private/Goals/Fractal verse/Fractal node web.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "2. New/Fn connection.md",
     "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md",
@@ -303,25 +316,13 @@
     "5. Private/Goals/Fractal node language.md",
     "5. Private/Goals/Fractal verse/Fractal node notes.md",
     "8. Files/Fractal node notes.excalidraw.md",
-    "5. Private/Goals/Fractal verse/Fractal node web.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Unternehmensformen.md",
     "2. New/Personengesellschaft.md",
     "7. School/BWL/GmbH.md",
     "7. School/BWL/Handelsregister.md",
     "7. School/BWL/Gewinnverteilung.md",
-    "7. School/BWL/Gesamtgeschäftsführung.md",
-    "2. New/Gesamtvertretung.md",
     "2. New/Vertragsgüligkeit.md",
     "2. New/Gesellschaftsvertrag.md",
-    "2. New/Formfrei.md",
-    "2. New/OHG.md",
-    "7. School/BWL/Beschränkte Haftung.md",
-    "2. New/Untitled.md",
-    "7. School/BWL/Formkaufmann.md",
-    "7. School/BWL/Haftung von Unternehmen.md",
-    "2. New/Einzel Unternehmen.md",
-    "2. New/KG.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
