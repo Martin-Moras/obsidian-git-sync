@@ -1,72 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Marketing Instrumente",
-      "path": "2. New/Marketing Instrumente.md"
+      "basename": "Coding Goals",
+      "path": "3. Computer/Coding/Coding Goals.md"
     },
     {
-      "basename": "Konditionenpolitik",
-      "path": "2. New/Konditionenpolitik.md"
+      "basename": "Hotkey tree",
+      "path": "5. Private/Goals/Fractal verse/Hotkey tree.md"
     },
     {
-      "basename": "Produktpolitik",
-      "path": "2. New/Produktpolitik.md"
-    },
-    {
-      "basename": "Marketing",
-      "path": "7. School/BWL/Marketing.md"
-    },
-    {
-      "basename": "Kommunikationspolitik",
-      "path": "2. New/Kommunikationspolitik.md"
-    },
-    {
-      "basename": "Werbung",
-      "path": "2. New/Werbung.md"
-    },
-    {
-      "basename": "Werbeträger",
-      "path": "2. New/Werbeträger.md"
-    },
-    {
-      "basename": "Werbemittel",
-      "path": "2. New/Werbemittel.md"
-    },
-    {
-      "basename": "Lagerhaltungs Formeln",
-      "path": "2. New/Lagerhaltungs Formeln.md"
+      "basename": "Unternehmensformen",
+      "path": "7. School/BWL/Unternehmensformen.md"
     },
     {
       "basename": "BwL",
       "path": "7. School/BWL/BwL.md"
     },
     {
-      "basename": "Distributionspolitik",
-      "path": "2. New/Distributionspolitik.md"
-    },
-    {
-      "basename": "Preispolitik",
-      "path": "2. New/Preispolitik.md"
+      "basename": "Marketing",
+      "path": "7. School/BWL/Marketing.md"
     },
     {
       "basename": "Sundar Pichai Ausarbeitung",
       "path": "7. School/Sundar Pichai Ausarbeitung.md"
     },
     {
-      "basename": "Vertretung",
-      "path": "2. New/Vertretung.md"
-    },
-    {
-      "basename": "Vertragsgüligkeit",
-      "path": "2. New/Vertragsgüligkeit.md"
-    },
-    {
       "basename": "Vertretungsmacht",
       "path": "7. School/BWL/Vertretungsmacht.md"
-    },
-    {
-      "basename": "Unternehmensformen",
-      "path": "7. School/BWL/Unternehmensformen.md"
     },
     {
       "basename": "GmbH",
@@ -81,36 +41,12 @@
       "path": "7. School/BWL/Gewinnverteilung.md"
     },
     {
-      "basename": "Gesellschaftsvertrag",
-      "path": "2. New/Gesellschaftsvertrag.md"
-    },
-    {
-      "basename": "Notariell",
-      "path": "2. New/Notariell.md"
-    },
-    {
-      "basename": "Formfrei",
-      "path": "2. New/Formfrei.md"
-    },
-    {
-      "basename": "Gesamtvertretung",
-      "path": "2. New/Gesamtvertretung.md"
-    },
-    {
-      "basename": "Verlustverteilung",
-      "path": "2. New/Verlustverteilung.md"
-    },
-    {
       "basename": "Kaufman",
       "path": "7. School/BWL/Kaufman.md"
     },
     {
       "basename": "Geschäftsanteil",
       "path": "7. School/BWL/Geschäftsanteil.md"
-    },
-    {
-      "basename": "Einzelunternehmen",
-      "path": "2. New/Einzelunternehmen.md"
     },
     {
       "basename": "Kannkaufmann",
@@ -125,10 +61,6 @@
       "path": "Digital Garden Homepage.md"
     },
     {
-      "basename": "OHG",
-      "path": "2. New/OHG.md"
-    },
-    {
       "basename": "(Every S,F,R,W,T,M,U) Barcelona",
       "path": "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md"
     },
@@ -137,24 +69,12 @@
       "path": "5. Private/Goals/Fractal verse/Fractal node verse.md"
     },
     {
-      "basename": "Lagerhaltung",
-      "path": "2. New/Lagerhaltung.md"
-    },
-    {
       "basename": "Prokuristen",
       "path": "7. School/BWL/Prokuristen.md"
     },
     {
-      "basename": "KG",
-      "path": "2. New/KG.md"
-    },
-    {
       "basename": "Handelsregister",
       "path": "7. School/BWL/Handelsregister.md"
-    },
-    {
-      "basename": "Persönliche Haftung",
-      "path": "2. New/Persönliche Haftung.md"
     },
     {
       "basename": "Volle Haftung",
@@ -169,36 +89,12 @@
       "path": "7. School/BWL/Gesellschafter.md"
     },
     {
-      "basename": "Qualitativer Angebotsvergleich",
-      "path": "2. New/Qualitativer Angebotsvergleich.md"
-    },
-    {
-      "basename": "Quantitativer Angebotsvergleich",
-      "path": "2. New/Quantitativer Angebotsvergleich.md"
-    },
-    {
-      "basename": "Verkaufs Schema",
-      "path": "2. New/Verkaufs Schema.md"
-    },
-    {
-      "basename": "Bezugskosten",
-      "path": "2. New/Bezugskosten.md"
-    },
-    {
-      "basename": "Hersteller finden",
-      "path": "2. New/Hersteller finden.md"
-    },
-    {
       "basename": "Geschäftsführungsmacht",
       "path": "7. School/BWL/Geschäftsführungsmacht.md"
     },
     {
       "basename": "Gesamtgeschäftsführung",
       "path": "7. School/BWL/Gesamtgeschäftsführung.md"
-    },
-    {
-      "basename": "Aufsichtsrat",
-      "path": "7. School/BWL/Aufsichtsrat.md"
     }
   ],
   "omittedPaths": [],

@@ -7,5 +7,6 @@ File Creation date: 2024-04-22
 [[SHA-256]]
 [[Cryptography]]
 [[IPA to speech]]
+[[Hotkey tree]]
 # Fractal node
 ![[Fractal node verse#To Code]]
