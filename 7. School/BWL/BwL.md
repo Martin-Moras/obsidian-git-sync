@@ -9,10 +9,11 @@
 [[Konjunktur]]
 [[Vertragsgüligkeit]]
 
+
+
+[[Hersteller finden]]
 # Begriffe
-nicht lernen
-#askJohn [[Einzelgeschäftsführungsbefugniss]]
-#askJohn [[Gesamtgeschäftsführungbefugniss]]
+
 
 
 [[Sundar Pichai Ausarbeitung]]

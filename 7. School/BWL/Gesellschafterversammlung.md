@@ -3,6 +3,7 @@ File Creation date: 2024-04-21
 ---
 
 was ist eine [[Gesellschafterversammlung]] #askJohn 
+bestimmt das was der [[Geschäftsführer]] nicht darf: [[Geschäftsführer#darf nicht]]
 Wie berechnet man Stimmen #askJohn
 $$
 \frac{Einlage}{50}
