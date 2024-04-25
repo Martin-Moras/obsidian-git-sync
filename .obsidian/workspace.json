@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40d6c4b85a5535f2",
+        "id": "d9624baaedbdb735",
         "type": "tabs",
         "children": [
           {
-            "id": "954fb1a6d0cb07d8",
+            "id": "0577e48d01113324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "5. Private/Leif.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "5. Private/Leif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "5. Private/Leif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "5. Private/Leif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden Homepage.md"
+                "file": "5. Private/Leif.md"
               }
             }
           },
@@ -227,10 +227,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "954fb1a6d0cb07d8",
+  "active": "0577e48d01113324",
   "lastOpenFiles": [
-    "7. School/BWL/BwL.md",
     "Digital Garden Homepage.md",
+    "7. School/BWL/BwL.md",
     "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/Deutsch/Deutsch.md",
     "7. School/Deutsch/Der kluge Richter-Tagebuch.md",

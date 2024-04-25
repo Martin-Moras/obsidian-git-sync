@@ -14,6 +14,8 @@ File Creation date: 2024-04-25
 	2. relax
 		1. breath
 		2. meditate
+		3. now
+		4. this is ok
 	3. therapy
 		1. observe mind
 		2. heal mind 
