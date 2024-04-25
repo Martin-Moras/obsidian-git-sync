@@ -13,6 +13,7 @@
 
 [[Hersteller finden]]
 [[Quantitativer Angebotsvergleich]]
+[[Qualitativer Angebotsvergleich]]
 # Begriffe
 
 
