@@ -20,5 +20,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "digitalgarden",
   "multi-properties",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-linter"
 ]

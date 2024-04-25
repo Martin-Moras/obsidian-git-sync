@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "7. School/BWL/BwL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Leif.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
@@ -202,7 +202,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,9 +228,11 @@
   },
   "active": "954fb1a6d0cb07d8",
   "lastOpenFiles": [
-    "5. Private/Leif.md",
-    "7. School/BWL/BwL.md",
+    "7. School/BWL/Bürgschaft.md",
     "Digital Garden Homepage.md",
+    "7. School/BWL/BwL.md",
+    "7. School/BWL/BwL Bewerbung.md",
+    "5. Private/Leif.md",
     "3. Computer/Coding/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
     "2. New/Fn connection.md",
@@ -251,8 +254,6 @@
     "7. School/BWL/OHG.md",
     "7. School/BWL/Notariell.md",
     "7. School/BWL/Mindestkapital.md",
-    "7. School/BWL/Marketing Instrumente.md",
-    "7. School/BWL/Lagerhaltungs Formeln.md",
     "8. Files/GmbH info.png",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
