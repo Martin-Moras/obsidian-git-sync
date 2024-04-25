@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee9bdd836345da4",
+        "id": "c62e45b3edebdb4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5fff1951421b85",
+            "id": "2e2174c99fdf1d10",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {}
             }
           }
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a5cb76512b96cf49",
@@ -193,14 +192,6 @@
               "type": "git-history-view",
               "state": {}
             }
-          },
-          {
-            "id": "ac5bb5c7aa36335b",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-sidebar-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -226,8 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a5fff1951421b85",
+  "active": "2e2174c99fdf1d10",
   "lastOpenFiles": [
+    "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
+    "6. Time/Calendar/(Every ) Barcelona.md",
+    "6. Time/Calendar/(Every ) asdfasd.md",
+    "6. Time/Calendar/(Every S,F,R,W,T,M,U) sdfsdf.md",
+    "6. Time/Calendar/(Every S,F,R,W,T,M,U) asdfsdf.md",
+    "6. Time/Calendar/2024-07-01 dxgsdfg.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "7. School/BWL/BwL.md",
     "2. New/Lagerhaltung.md",
@@ -248,12 +245,6 @@
     "2. New/Lagerhaltungs Formeln.md",
     "2. New/Qualitativer Angebotsvergleich.md",
     "2. New/Quantitativer Angebotsvergleich.md",
-    "2. New/Verkaufs Schema.md",
-    "2. New/Bezugskosten.md",
-    "2. New/Hersteller finden.md",
-    "7. School/BWL/Geschäftsteil.md",
-    "7. School/BWL/Geschäftsführungsmacht.md",
-    "7. School/BWL/Gesamtgeschäftsführung.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
