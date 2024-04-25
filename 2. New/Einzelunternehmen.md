@@ -12,6 +12,7 @@ File Creation date: 2024-04-24
 | Gewinnverteilung            | Keine                    |
 | [[Haftung von Unternehmen]] | [[Volle Haftung]]        |
 | Firma                       | Ja                       |
+| [[Kaufman]]                 | Kann                     |
 Abkürzung: [[e.K.]]
 - Kann von nur einer person gegründet werden
 - [[Doppelte Buchhaltung]] ist Pflicht

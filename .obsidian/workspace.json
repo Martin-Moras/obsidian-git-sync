@@ -34,16 +34,55 @@
               {
                 "id": "56fcced77f4852b0",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "7. School/BWL/BwL.md",
+                    "file": "7. School/BWL/Unternehmensformen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "e984d31ab9f0fde5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. New/Einzelunternehmen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8398f5b37a6406a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. School/BWL/Kaufman.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d164a361aeefc38c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. School/BWL/Kannkaufmann.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "e9667c49b976c505",
@@ -52,9 +91,11 @@
               {
                 "id": "8f5a2a9741e26b4a",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "pinned": true
                 }
               }
             ]
@@ -126,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7. School/BWL/Kannkaufmann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/BWL/Kannkaufmann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/BWL/Kannkaufmann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +255,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/BWL/Kannkaufmann.md"
+              }
             }
           },
           {
@@ -263,9 +309,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8f5a2a9741e26b4a",
+  "active": "d164a361aeefc38c",
   "lastOpenFiles": [
+    "7. School/BWL/Kaufman.md",
+    "7. School/BWL/Kannkaufmann.md",
+    "2. New/Einzelunternehmen.md",
+    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/BwL.md",
+    "7. School/BWL/Konjunktur.md",
     "Digital Garden Homepage.md",
     "2. New/OHG.md",
     "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
@@ -286,11 +337,6 @@
     "7. School/BWL/GmbH.md",
     "2. New/Gesellschaftsvertrag.md",
     "7. School/BWL/Gesellschafterversammlung.md",
-    "2. New/Formfrei.md",
-    "2. New/Notariell.md",
-    "7. School/BWL/Gesellschafter.md",
-    "2. New/Einzelunternehmen.md",
-    "2. New/Lagerhaltungs Formeln.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
