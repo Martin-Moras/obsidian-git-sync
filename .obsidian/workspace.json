@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Verkaufs Schema.md",
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Verkaufs Schema.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Verkaufs Schema.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Verkaufs Schema.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
@@ -306,11 +306,11 @@
       }
     ]
   },
-  "active": "5fffad4e2bb8ebde",
+  "active": "bde6bd3c397362f2",
   "lastOpenFiles": [
-    "2. New/Bezugskosten.md",
-    "2. New/Verkaufs Schema.md",
     "2. New/Quantitativer Angebotsvergleich.md",
+    "2. New/Verkaufs Schema.md",
+    "2. New/Bezugskosten.md",
     "7. School/BWL/BwL.md",
     "2. New/Hersteller finden.md",
     "7. School/BWL/Geschäftsteil.md",
