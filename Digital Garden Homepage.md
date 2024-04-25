@@ -4,5 +4,3 @@ dg-home: true
 dg-publish: true
 ---
 Homepage
-2
-3

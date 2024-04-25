@@ -11,8 +11,12 @@
             "id": "954fb1a6d0cb07d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Digital Garden Homepage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Digital Garden Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Garden Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Digital Garden Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Digital Garden Homepage.md"
+              }
             }
           },
           {
