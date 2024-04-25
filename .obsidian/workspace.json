@@ -32,8 +32,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a33f11524811d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Marketing Instrumente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f904885204c89146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. New/Produktpolitik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "080f8633b968b9c9",
@@ -142,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Produktpolitik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Produktpolitik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "2. New/Produktpolitik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/BwL.md"
+                "file": "2. New/Produktpolitik.md"
               }
             }
           },
@@ -284,9 +309,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fa7970859f2e73ff",
+  "active": "f904885204c89146",
   "lastOpenFiles": [
+    "2. New/Marketing Instrumente.md",
+    "2. New/Produktpolitik.md",
     "7. School/BWL/Marketing.md",
+    "2. New/Fragearten.md",
+    "7. School/Sundar Pichai Ausarbeitung.md",
     "7. School/BWL/BwL.md",
     "2. New/Vertretung.md",
     "2. New/Vertragsgüligkeit.md",
@@ -309,10 +338,6 @@
     "Digital Garden Homepage.md",
     "2. New/OHG.md",
     "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
-    "6. Time/Calendar/(Every ) Barcelona.md",
-    "6. Time/Calendar/(Every ) asdfasd.md",
-    "6. Time/Calendar/(Every S,F,R,W,T,M,U) sdfsdf.md",
-    "6. Time/Calendar/(Every S,F,R,W,T,M,U) asdfsdf.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",

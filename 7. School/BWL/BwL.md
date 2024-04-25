@@ -16,8 +16,6 @@
 [[Industrie und Handelskammer (IHK)]]
 [[Vertretung]]
 
-# Begriffe
-
 
 
 [[Sundar Pichai Ausarbeitung]]
