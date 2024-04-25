@@ -9,7 +9,7 @@
 [[Vertragsgüligkeit]]
 [[Lagerhaltung]]
 
-# Kleine und unverbundene themen
+# Kleine und unverbundene Themen
 [[Hersteller finden]]
 [[Quantitativer Angebotsvergleich]]
 [[Qualitativer Angebotsvergleich]]

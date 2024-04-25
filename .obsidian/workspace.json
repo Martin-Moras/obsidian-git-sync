@@ -10,29 +10,57 @@
           {
             "id": "fa7970859f2e73ff",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "7. School/BWL/BwL.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "355f376d0e590182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Garden Homepage.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
+        ]
+      },
+      {
+        "id": "080f8633b968b9c9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ffc7ed617bd4296",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56fcced77f4852b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. School/BWL/BwL.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e9667c49b976c505",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f5a2a9741e26b4a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digital Garden Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Digital Garden Homepage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,7 +263,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "355f376d0e590182",
+  "active": "8f5a2a9741e26b4a",
   "lastOpenFiles": [
     "7. School/BWL/BwL.md",
     "Digital Garden Homepage.md",
