@@ -1,7 +1,6 @@
 ---
 File Creation date: 2024-04-25
-dg-home: true
+dg-home: false
 dg-publish: true
 ---
-Homepage
 [martin-personal-vault.vercel.app](https://martin-personal-vault.vercel.app/)

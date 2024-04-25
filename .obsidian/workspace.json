@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden Homepage.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -228,14 +228,14 @@
   },
   "active": "954fb1a6d0cb07d8",
   "lastOpenFiles": [
+    "Digital Garden Homepage.md",
+    "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/Deutsch/Deutsch.md",
     "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
-    "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/BWL/Blancokredit.md",
     "7. School/BWL/BwL Bewerbung.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Bürgschaft.md",
-    "Digital Garden Homepage.md",
     "5. Private/Leif.md",
     "3. Computer/Coding/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
