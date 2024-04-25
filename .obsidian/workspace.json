@@ -82,6 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Private/Goals/Fractal verse/Fractal node verse.md"
+              }
             }
           },
           {
@@ -254,8 +259,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 404,
-        "y": 480,
+        "x": 1231,
+        "y": 354,
         "width": 788,
         "height": 600,
         "maximize": false,
@@ -263,7 +268,7 @@
       }
     ]
   },
-  "active": "3a5fff1951421b85",
+  "active": "6b51cec32658d6b7",
   "lastOpenFiles": [
     "7. School/BWL/BwL.md",
     "2. New/Lagerhaltung.md",
