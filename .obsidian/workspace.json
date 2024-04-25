@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e2174c99fdf1d10",
+            "id": "fa7970859f2e73ff",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7. School/BWL/BwL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +108,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.49855147477373063,
+                  "scale": 0.7023319615912207,
                   "close": true
                 }
               }
@@ -129,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7. School/BWL/BwL.md"
+              }
             }
           },
           {
@@ -217,8 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e2174c99fdf1d10",
+  "active": "9b9afeb4184adb90",
   "lastOpenFiles": [
+    "2. New/OHG.md",
+    "7. School/BWL/BwL.md",
     "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
     "6. Time/Calendar/(Every ) Barcelona.md",
     "6. Time/Calendar/(Every ) asdfasd.md",
@@ -226,7 +237,6 @@
     "6. Time/Calendar/(Every S,F,R,W,T,M,U) asdfsdf.md",
     "6. Time/Calendar/2024-07-01 dxgsdfg.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
-    "7. School/BWL/BwL.md",
     "2. New/Lagerhaltung.md",
     "7. School/BWL/Haftung von Unternehmen.md",
     "7. School/BWL/Vertretungsmacht.md",
@@ -244,7 +254,6 @@
     "2. New/Einzelunternehmen.md",
     "2. New/Lagerhaltungs Formeln.md",
     "2. New/Qualitativer Angebotsvergleich.md",
-    "2. New/Quantitativer Angebotsvergleich.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
