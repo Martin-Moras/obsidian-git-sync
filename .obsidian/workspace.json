@@ -44,41 +44,8 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "e984d31ab9f0fde5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "7. School/BWL/Gewinnverteilung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8398f5b37a6406a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "7. School/BWL/Kaufman.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1e9bdf71036c73a7",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "e9667c49b976c505",
@@ -163,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Gewinnverteilung.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Gewinnverteilung.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Gewinnverteilung.md",
+                "file": "7. School/BWL/Unternehmensformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Gewinnverteilung.md"
+                "file": "7. School/BWL/Unternehmensformen.md"
               }
             }
           },
@@ -305,11 +272,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e984d31ab9f0fde5",
+  "active": "56fcced77f4852b0",
   "lastOpenFiles": [
-    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/Gewinnverteilung.md",
+    "2. New/Gesellschaftsvertrag.md",
+    "2. New/Notariell.md",
+    "2. New/Formfrei.md",
+    "2. New/Gesamtvertretung.md",
+    "2. New/Verlustverteilung.md",
     "7. School/BWL/Kaufman.md",
+    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/GmbH.md",
     "7. School/BWL/Geschäftsanteil.md",
     "2. New/Einzelunternehmen.md",
@@ -328,11 +300,6 @@
     "2. New/Lagerhaltung.md",
     "7. School/BWL/Haftung von Unternehmen.md",
     "7. School/BWL/Vertretungsmacht.md",
-    "7. School/BWL/Prokuristen.md",
-    "2. New/KG.md",
-    "7. School/BWL/Handelsregister.md",
-    "2. New/Persönliche Haftung.md",
-    "7. School/BWL/Volle Haftung.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
