@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "1587a16d9980586b",
+            "id": "bdd1baad07e4d095",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,45 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "950dbf8efef21a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Kommunikationspolitik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c64f8a42b22de60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Werbung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4522a62a6b4d9d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Werbeträger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "080f8633b968b9c9",
@@ -191,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. New/Werbeträger.md",
+                "file": "2. New/Marketing Instrumente.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. New/Werbeträger.md",
+                "file": "2. New/Marketing Instrumente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. New/Werbeträger.md",
+                "file": "2. New/Marketing Instrumente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. New/Werbeträger.md"
+                "file": "2. New/Marketing Instrumente.md"
               }
             }
           },
@@ -333,20 +297,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "4522a62a6b4d9d84",
+  "active": "bdd1baad07e4d095",
   "lastOpenFiles": [
+    "2. New/Konditionenpolitik.md",
+    "2. New/Marketing Instrumente.md",
+    "2. New/Produktpolitik.md",
+    "7. School/BWL/Marketing.md",
+    "2. New/Kommunikationspolitik.md",
     "2. New/Werbung.md",
     "2. New/Werbeträger.md",
     "2. New/Werbemittel.md",
     "2. New/Lagerhaltungs Formeln.md",
-    "2. New/Kommunikationspolitik.md",
-    "2. New/Marketing Instrumente.md",
-    "7. School/BWL/Marketing.md",
     "7. School/BWL/BwL.md",
     "2. New/Fragearten.md",
     "2. New/Distributionspolitik.md",
     "2. New/Preispolitik.md",
-    "2. New/Produktpolitik.md",
     "7. School/Sundar Pichai Ausarbeitung.md",
     "2. New/Vertretung.md",
     "2. New/Vertragsgüligkeit.md",
@@ -361,7 +326,6 @@
     "2. New/Formfrei.md",
     "2. New/Gesamtvertretung.md",
     "2. New/Verlustverteilung.md",
-    "7. School/BWL/Kaufman.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",

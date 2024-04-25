@@ -6,4 +6,5 @@ File Creation date: 2024-04-25
 - Zeitung
 - Zeitschriften
 - Internet
-- Kon
+- Kino
+- Außenwerbung(Plakat)
