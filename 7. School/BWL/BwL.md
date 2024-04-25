@@ -6,14 +6,14 @@
 [[BwL Bewerbung]]
 [[Marketing]]
 [[Geschäftsfähigkeit]]
-[[Konjunktur]]
 [[Vertragsgüligkeit]]
 [[Lagerhaltung]]
 
-
+# Kleine und unverbundene themen
 [[Hersteller finden]]
 [[Quantitativer Angebotsvergleich]]
 [[Qualitativer Angebotsvergleich]]
+[[Konjunktur]]
 # Begriffe
 
 
