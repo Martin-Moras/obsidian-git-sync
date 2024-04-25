@@ -30,7 +30,7 @@
   "userIgnoreFilters": [
     "1. Excalidraw/"
   ],
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "newFileFolderPath": "2. New",
   "showInlineTitle": false,
   "pdfExportSettings": {

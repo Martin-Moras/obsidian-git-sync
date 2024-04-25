@@ -31,3 +31,9 @@ Abkürzung: [[e.K.]]
 - geringere [[
 - Kreditwürdigkeit]]
 - hohe Arbeitsbelastung
+# Vorteile für Angestellte
+- Familiäre Athmosphäre
+# Nachteile für Angestellte
+- Risiko, dass der [[Betrieb]] pleite geht
+- Keine größere Sozialleistungen
+- Den Launen des Chefs ausgeliefert

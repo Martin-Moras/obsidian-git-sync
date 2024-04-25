@@ -1,6 +1,20 @@
 ---
 File Creation date: 2024-04-21
 ---
+- [Vorteile](#vorteile)
+- [3 Organe](#3-organe)
+	- [1. [[Gesellschafter]]](#1-gesellschafter)
+	- [2. [[Gesellschafterversammlung]]](#2-gesellschafterversammlung)
+	- [3. [[Geschäftsführer]]](#3-gesch%C3%A4ftsf%C3%BChrer)
+- [Haftung](#haftung)
+- [Auflösung](#aufl%C3%B6sung)
+- [[[Stammeinlage]]](#stammeinlage)
+- [[[Stammkapital]]](#stammkapital)
+- [[[Mindestkapital]]](#mindestkapital)
+- [[[Gewinnverteilung]]](#gewinnverteilung)
+- [[[Geschäftsteil]]](#gesch%C3%A4ftsteil)
+- [[[Aufsichtsrat]]](#aufsichtsrat)
+- [[[Gesellschaftsvertrag]]](#gesellschaftsvertrag)
 
 | Gesellschaftsvertrag        | Notariell                  |
 | --------------------------- | -------------------------- |

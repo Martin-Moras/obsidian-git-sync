@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. New/Einzelunternehmen.md",
+                    "file": "7. School/BWL/GmbH.md",
                     "mode": "source",
                     "source": false
                   }
@@ -68,21 +68,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "d164a361aeefc38c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "7. School/BWL/Kannkaufmann.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "e9667c49b976c505",
@@ -167,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Kannkaufmann.md",
+                "file": "7. School/BWL/GmbH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Kannkaufmann.md",
+                "file": "7. School/BWL/GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Kannkaufmann.md",
+                "file": "7. School/BWL/GmbH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Kannkaufmann.md"
+                "file": "7. School/BWL/GmbH.md"
               }
             }
           },
@@ -309,11 +297,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d164a361aeefc38c",
+  "active": "e984d31ab9f0fde5",
   "lastOpenFiles": [
+    "2. New/Einzelunternehmen.md",
     "7. School/BWL/Kaufman.md",
     "7. School/BWL/Kannkaufmann.md",
-    "2. New/Einzelunternehmen.md",
     "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Konjunktur.md",

@@ -1,11 +1,18 @@
 ---
 File Creation date: 2024-04-20
 ---
+- [Definition](#definition)
+- [Kannkaufmann Rechte und Pflichten](#kannkaufmann-rechte-und-pflichten)
+- [Vorteile](#vorteile)
+- [Nachteile](#nachteile)
+- [Beispiel](#beispiel)
+
 # Definition
 Landwirte und Kleingewerbetreibende **können** freiwillig Kaufmann sein.
 # Kannkaufmann Rechte und Pflichten
 - **Registerpflicht:** Sie hat der Kannkaufmann mit der **Eintragung ins Handelsregister** erfüllt. 
 - **ordnungsgemäße Buchführung:** inklusive jährlicher [Gewinn- und Verlustrechnung](https://studyflix.de/wirtschaft/guv-2331) , [Inventur](https://studyflix.de/wirtschaft/inventur-inventar-1015) , Eröffnungs- und Schlussbilanz
+- **Doppelte Buchführung**
 - **Publizitätspflicht** (gilt für Personengesellschaften)**:** Der Jahresabschluss muss im **Bundesanzeiger** veröffentlicht werden, wenn von folgenden Kriterien **zwei zutreffen**: Bilanzsumme > 65 Mio. €, Umsatz > 130 Mio. €, mehr als 5.000 Mitarbeiter
 - **Firmenname:** Das Unternehmen braucht einen **passenden** Namen inklusive Rechtsform. 
 - **Pflichtangaben auf [Geschäftsbriefen](https://studyflix.de/jobs/karriere-tipps/geschaftsbrief-5974) , Faxen und E-Mails:** Unternehmensname mit Rechtsform, Ort des Firmensitzes, zuständiges Registergericht, Handelsregisternummer, Telefonnummer, E-Mail
