@@ -9,5 +9,8 @@ $$
 $$
 ## UH vergrößern
 ### Jahresabsatz vergrößern
-- Werbung
+- [[Werbung]] 
+- Sortiment attraktiver gestalten
+- Preisnachlässe 
 ### Durchschnittlicher LB vergrößern
+- Geringerer Lagerbestand

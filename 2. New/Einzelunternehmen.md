@@ -24,7 +24,7 @@ Abkürzung: [[e.K.]]
 - keine [[Gewinnverteilung]]
 # Nachteile
 - warscheinlich weniger [[Eigenkapital]]
-- alleinige, [[Unbeschränkte Haftung]], [[Volle Haftung]] #askJohn ist [[Volle Haftung]] und [[Unbeschränkte Haftung]] das gleiche?
+- alleinige, [[Unbeschränkte Haftung]], [[Volle Haftung]] #askJohn ist [[Volle Haftung]] und [[Unbeschränkte Haftung]] das gleiche? Ja
 - alleiniges Risiko
 - weniger Fachkompetenz
 - geringere [[
