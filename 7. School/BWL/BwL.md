@@ -12,6 +12,7 @@
 
 
 [[Hersteller finden]]
+[[Quantitativer Angebotsvergleich]]
 # Begriffe
 
 

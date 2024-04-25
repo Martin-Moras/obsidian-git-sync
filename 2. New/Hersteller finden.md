@@ -7,4 +7,4 @@ Wie kann man einen Hersteller für ein bestimmtes Produkt finden.
 - Nachschlagewerke
 - Fachzeitschrift
 - Messen + Ausstellungen
-- Lieferanten direkt fr
+- Lieferanten direkt fragen
