@@ -1,7 +1,14 @@
 ---
 File Creation date: 2024-04-23
 ---
-# Im Verhältnis der Einlagen
+# Im Verhältnis der Einlagen ([[GmbH]])
+| [[Gesellschafter]] | [[Einlage]]n | Verhältnis                                  | [[Gewinn]]verteilung              |
+| ------------------ | ------------ | ------------------------------------------- | --------------------------------- |
+| A                  |              | = $\frac{Einlagen}{Summe\, der}, einlagen}$ | = $Verhältnis * Gesamtgewinn$     |
+| B                  |              | = $\frac{Einlagen}{Summe der einlagen}$<br> | = $Verhältnis * Gesamtgewinn$<br> |
+| C                  |              | = $\frac{Einlagen}{Summe der einlagen}$<br> | = $Verhältnis * Gesamtgewinn$<br> |
+| D                  |              | = $\frac{Einlagen}{Summe der einlagen}$<br> | = $Verhältnis * Gesamtgewinn$<br> |
+| Summe              |              | Verhältnis summe                            | Gesamtgewinn                      |
 Bsp:
 
 | [[Gesellschafter]] | [[Einlage]]n | Verhältnis | [[Gewinn]]verteilung |

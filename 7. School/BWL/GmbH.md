@@ -51,7 +51,7 @@ Zur Auflösung einer GmbH kann folgendes führen:
 # [[Mindestkapital]] 
 25.000€
 # [[Gewinnverteilung]]
-# [[Geschäftsteil]]
+# [[Geschäftsanteil]]
 
 # [[Aufsichtsrat]] 
 Sobald eine GmbH mehr als 500 Mitglieder hat **muss** sie einen [[Aufsichtsrat]] haben. Vorher ist es unnötig.

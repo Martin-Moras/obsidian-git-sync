@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "7. School/BWL/GmbH.md",
+                    "file": "7. School/BWL/Gewinnverteilung.md",
                     "mode": "source",
                     "source": false
                   }
@@ -67,6 +67,14 @@
                     "mode": "source",
                     "source": false
                   }
+                }
+              },
+              {
+                "id": "1e9bdf71036c73a7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
@@ -155,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "7. School/BWL/Gewinnverteilung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "7. School/BWL/Gewinnverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
+                "file": "7. School/BWL/Gewinnverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/GmbH.md"
+                "file": "7. School/BWL/Gewinnverteilung.md"
               }
             }
           },
@@ -299,10 +307,13 @@
   },
   "active": "e984d31ab9f0fde5",
   "lastOpenFiles": [
-    "2. New/Einzelunternehmen.md",
-    "7. School/BWL/Kaufman.md",
-    "7. School/BWL/Kannkaufmann.md",
     "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/Gewinnverteilung.md",
+    "7. School/BWL/Kaufman.md",
+    "7. School/BWL/GmbH.md",
+    "7. School/BWL/Geschäftsanteil.md",
+    "2. New/Einzelunternehmen.md",
+    "7. School/BWL/Kannkaufmann.md",
     "7. School/BWL/BwL.md",
     "7. School/BWL/Konjunktur.md",
     "Digital Garden Homepage.md",
@@ -322,9 +333,6 @@
     "7. School/BWL/Handelsregister.md",
     "2. New/Persönliche Haftung.md",
     "7. School/BWL/Volle Haftung.md",
-    "7. School/BWL/GmbH.md",
-    "2. New/Gesellschaftsvertrag.md",
-    "7. School/BWL/Gesellschafterversammlung.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
