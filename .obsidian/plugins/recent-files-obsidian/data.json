@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Produktpolitik",
-      "path": "2. New/Produktpolitik.md"
+      "basename": "Werbeträger",
+      "path": "2. New/Werbeträger.md"
+    },
+    {
+      "basename": "Werbung",
+      "path": "2. New/Werbung.md"
+    },
+    {
+      "basename": "Werbemittel",
+      "path": "2. New/Werbemittel.md"
+    },
+    {
+      "basename": "Lagerhaltungs Formeln",
+      "path": "2. New/Lagerhaltungs Formeln.md"
+    },
+    {
+      "basename": "Kommunikationspolitik",
+      "path": "2. New/Kommunikationspolitik.md"
     },
     {
       "basename": "Marketing Instrumente",
@@ -13,12 +29,24 @@
       "path": "7. School/BWL/Marketing.md"
     },
     {
-      "basename": "Sundar Pichai Ausarbeitung",
-      "path": "7. School/Sundar Pichai Ausarbeitung.md"
-    },
-    {
       "basename": "BwL",
       "path": "7. School/BWL/BwL.md"
+    },
+    {
+      "basename": "Distributionspolitik",
+      "path": "2. New/Distributionspolitik.md"
+    },
+    {
+      "basename": "Preispolitik",
+      "path": "2. New/Preispolitik.md"
+    },
+    {
+      "basename": "Produktpolitik",
+      "path": "2. New/Produktpolitik.md"
+    },
+    {
+      "basename": "Sundar Pichai Ausarbeitung",
+      "path": "7. School/Sundar Pichai Ausarbeitung.md"
     },
     {
       "basename": "Vertretung",
@@ -137,10 +165,6 @@
       "path": "7. School/BWL/Gesellschafter.md"
     },
     {
-      "basename": "Lagerhaltungs Formeln",
-      "path": "2. New/Lagerhaltungs Formeln.md"
-    },
-    {
       "basename": "Qualitativer Angebotsvergleich",
       "path": "2. New/Qualitativer Angebotsvergleich.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Geschäftsführer",
       "path": "7. School/BWL/Geschäftsführer.md"
-    },
-    {
-      "basename": "Beschränkte Haftung",
-      "path": "7. School/BWL/Beschränkte Haftung.md"
-    },
-    {
-      "basename": "Fractal node web",
-      "path": "5. Private/Goals/Fractal verse/Fractal node web.md"
-    },
-    {
-      "basename": "Fn connection",
-      "path": "2. New/Fn connection.md"
-    },
-    {
-      "basename": "Fn connection 2024-04-25 00.16.32.excalidraw",
-      "path": "8. Files/Fn connection 2024-04-25 00.16.32.excalidraw.md"
-    },
-    {
-      "basename": "Fractal node notes connection shape.excalidraw",
-      "path": "8. Files/Fractal node notes connection shape.excalidraw.md"
-    },
-    {
-      "basename": "Fractal node language",
-      "path": "5. Private/Goals/Fractal node language.md"
     }
   ],
   "omittedPaths": [],
