@@ -44,8 +44,21 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "6d79589fe6b61e29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. School/BWL/Vertretungsmacht.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "e9667c49b976c505",
@@ -130,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Vertretungsmacht.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Vertretungsmacht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md",
+                "file": "7. School/BWL/Vertretungsmacht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Unternehmensformen.md"
+                "file": "7. School/BWL/Vertretungsmacht.md"
               }
             }
           },
@@ -272,8 +285,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "56fcced77f4852b0",
+  "active": "6d79589fe6b61e29",
   "lastOpenFiles": [
+    "7. School/BWL/Unternehmensformen.md",
+    "7. School/BWL/Haftung von Unternehmen.md",
     "7. School/BWL/Gewinnverteilung.md",
     "2. New/Gesellschaftsvertrag.md",
     "2. New/Notariell.md",
@@ -281,7 +296,6 @@
     "2. New/Gesamtvertretung.md",
     "2. New/Verlustverteilung.md",
     "7. School/BWL/Kaufman.md",
-    "7. School/BWL/Unternehmensformen.md",
     "7. School/BWL/GmbH.md",
     "7. School/BWL/Geschäftsanteil.md",
     "2. New/Einzelunternehmen.md",
@@ -298,7 +312,6 @@
     "6. Time/Calendar/2024-07-01 dxgsdfg.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
     "2. New/Lagerhaltung.md",
-    "7. School/BWL/Haftung von Unternehmen.md",
     "7. School/BWL/Vertretungsmacht.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
