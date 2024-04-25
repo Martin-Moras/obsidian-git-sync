@@ -8,7 +8,7 @@
 [[Geschäftsfähigkeit]]
 [[Konjunktur]]
 [[Vertragsgüligkeit]]
-
+[[Lagerhaltung]]
 
 
 [[Hersteller finden]]

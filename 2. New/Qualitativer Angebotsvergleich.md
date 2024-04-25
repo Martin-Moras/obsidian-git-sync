@@ -6,5 +6,5 @@ File Creation date: 2024-04-25
 - Service
 - Bestehende Geschäftsbeziehungen  
 - Lieferzeit
-- Entfernung zum Liferanten
-- 
+- Entfernung zum Lieferanten
+- Image (Marken Klamoten)
