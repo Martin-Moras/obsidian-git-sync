@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden Homepage.md",
+                "file": "7. School/BWL/BwL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden Homepage.md"
+                "file": "7. School/BWL/BwL.md"
               }
             }
           },
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +228,7 @@
   },
   "active": "954fb1a6d0cb07d8",
   "lastOpenFiles": [
+    "Digital Garden Homepage.md",
     "3. Computer/Coding/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
     "2. New/Fn connection.md",
@@ -254,7 +254,6 @@
     "7. School/BWL/Lagerhaltungs Formeln.md",
     "7. School/BWL/Lagerhaltung.md",
     "7. School/BWL/Kreditwürdigkeit.md",
-    "7. School/BWL/Konstitutiv.md",
     "8. Files/GmbH info.png",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
