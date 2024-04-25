@@ -1,7 +1,7 @@
 {
-  "githubRepo": "",
-  "githubToken": "",
-  "githubUserName": "",
+  "githubRepo": "obsidian-git-sync",
+  "githubToken": "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",
+  "githubUserName": "Martin-Moras",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
