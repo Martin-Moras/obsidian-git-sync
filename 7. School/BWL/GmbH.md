@@ -30,7 +30,7 @@ Der Geschäftsführer hat [[Geschäftsführungsmacht]] und [[Vertretungsmacht]].
 
 # Auflösung
 Zur Auflösung einer GmbH kann folgendes führen:
-- Pleite #askJohn auch schon wenn unter 
+- Pleite #askJohn auch schon wenn unter  [[Mindestkapital]] . Ja
 - [[Gesellschafter]] lösen die GmbH freiwillig auf
 # [[Stammeinlage]]
 # [[Stammkapital]]

@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c88622139d4f8747",
+        "id": "8ee9bdd836345da4",
         "type": "tabs",
         "children": [
           {
-            "id": "e91cf8c0939c853c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "bde6bd3c397362f2",
+            "id": "3a5fff1951421b85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/BwL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3fc50e052e65b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. New/Lagerhaltung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdee2887a339e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. School/BWL/GmbH.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/GmbH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7. School/BWL/GmbH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -307,17 +263,25 @@
       }
     ]
   },
-  "active": "afdee2887a339e76",
+  "active": "3a5fff1951421b85",
   "lastOpenFiles": [
+    "7. School/BWL/BwL.md",
+    "2. New/Lagerhaltung.md",
+    "7. School/BWL/Haftung von Unternehmen.md",
+    "7. School/BWL/Vertretungsmacht.md",
+    "7. School/BWL/Prokuristen.md",
+    "2. New/KG.md",
+    "7. School/BWL/Handelsregister.md",
+    "2. New/Persönliche Haftung.md",
+    "7. School/BWL/Volle Haftung.md",
+    "7. School/BWL/GmbH.md",
     "2. New/Gesellschaftsvertrag.md",
     "7. School/BWL/Gesellschafterversammlung.md",
     "2. New/Formfrei.md",
     "2. New/Notariell.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Gesellschafter.md",
     "2. New/Einzelunternehmen.md",
     "2. New/Lagerhaltungs Formeln.md",
-    "2. New/Lagerhaltung.md",
     "2. New/Qualitativer Angebotsvergleich.md",
     "2. New/Quantitativer Angebotsvergleich.md",
     "2. New/Verkaufs Schema.md",
@@ -327,14 +291,6 @@
     "7. School/BWL/Geschäftsführungsmacht.md",
     "7. School/BWL/Gesamtgeschäftsführung.md",
     "5. Private/Goals/Fractal verse/Fractal node verse.md",
-    "7. School/BWL/Aufsichtsrat.md",
-    "7. School/BWL/Prokuristen.md",
-    "7. School/BWL/Haftung von Unternehmen.md",
-    "7. School/BWL/Geschäftsführer.md",
-    "2. New/Gesamtvertretung.md",
-    "7. School/BWL/Beschränkte Haftung.md",
-    "5. Private/Goals/Fractal verse/Fractal node web.md",
-    "2. New/Fn connection.md",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",
     "3. Computer/Networking/Pasted image 20230524153716.png",
