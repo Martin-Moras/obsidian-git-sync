@@ -11,7 +11,7 @@
   "noteSettingsIsInitialized": true,
   "siteName": "Digital Garden",
   "mainLanguage": "en",
-  "slugifyEnabled": true,
+  "slugifyEnabled": false,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
   "showNoteIconOnTitle": false,
