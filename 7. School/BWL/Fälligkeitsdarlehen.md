@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 File Creation date: 2024-04-19
 ---
 Man Zahlt alles im letzten Jahr ab. Die anderen Jahre zahlt man nur Zinsen.

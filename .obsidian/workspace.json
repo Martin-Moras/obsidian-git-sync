@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "Digital Garden Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "Digital Garden Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "Digital Garden Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/BwL.md",
+                "file": "Digital Garden Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/BwL.md"
+                "file": "Digital Garden Homepage.md"
               }
             }
           },
@@ -228,10 +228,14 @@
   },
   "active": "954fb1a6d0cb07d8",
   "lastOpenFiles": [
+    "7. School/Deutsch/Deutsch.md",
+    "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
+    "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
+    "7. School/BWL/Blancokredit.md",
+    "7. School/BWL/BwL Bewerbung.md",
+    "7. School/BWL/BwL.md",
     "7. School/BWL/Bürgschaft.md",
     "Digital Garden Homepage.md",
-    "7. School/BWL/BwL.md",
-    "7. School/BWL/BwL Bewerbung.md",
     "5. Private/Leif.md",
     "3. Computer/Coding/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
@@ -250,10 +254,6 @@
     "7. School/BWL/Produktpolitik.md",
     "7. School/BWL/Preispolitik.md",
     "7. School/BWL/Persönliche Haftung.md",
-    "7. School/BWL/Personengesellschaft.md",
-    "7. School/BWL/OHG.md",
-    "7. School/BWL/Notariell.md",
-    "7. School/BWL/Mindestkapital.md",
     "8. Files/GmbH info.png",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "6. Time/Calendar",

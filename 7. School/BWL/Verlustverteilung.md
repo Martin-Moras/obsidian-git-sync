@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 File Creation date: 2024-04-25
 ---
 Die [[Gewinnverteilung]] berechnet man genau so wie die [[Verlustverteilung]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Fragearten
 - Eisbrecher Fragen
 - Geschlossene Fragen
