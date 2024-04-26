@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "Digital Garden Homepage.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "Digital Garden Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "Digital Garden Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Leif.md",
+                "file": "Digital Garden Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Private/Leif.md"
+                "file": "Digital Garden Homepage.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "0577e48d01113324",
   "lastOpenFiles": [
+    "7. School/BWL/BwL.md",
+    "Digital Garden Homepage.md",
+    "5. Private/Leif.md",
     "6. Time/Calendar/2024-07-11 Graduation party,.md",
     "6. Time/Calendar/2024-05-20 Pfingstferien.md",
     "6. Time/Calendar/2024-05-17 Math exam.md",
@@ -239,15 +242,12 @@
     "6. Time/Calendar/(Every U,M,T,W,R,F,S) Sumer holidays.md",
     "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
     "6. Time/Calendar",
-    "Digital Garden Homepage.md",
-    "7. School/BWL/BwL.md",
     "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
     "7. School/Deutsch/Deutsch.md",
     "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
     "7. School/BWL/Blancokredit.md",
     "7. School/BWL/BwL Bewerbung.md",
     "7. School/BWL/Bürgschaft.md",
-    "5. Private/Leif.md",
     "3. Computer/Coding/Coding Goals.md",
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
     "2. New/Fn connection.md",
