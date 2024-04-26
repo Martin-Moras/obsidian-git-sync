@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d9624baaedbdb735",
+        "id": "04046978f19661ca",
         "type": "tabs",
         "children": [
           {
-            "id": "0577e48d01113324",
+            "id": "3bb755e7c0ac24ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. School/BWL/Einlage.md",
+                "file": "5. Private/Leif.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. School/BWL/Einlage.md",
+                "file": "5. Private/Leif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. School/BWL/Einlage.md",
+                "file": "5. Private/Leif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. School/BWL/Einlage.md",
+                "file": "5. Private/Leif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. School/BWL/Einlage.md"
+                "file": "5. Private/Leif.md"
               }
             }
           },
@@ -227,11 +227,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0577e48d01113324",
+  "active": "3bb755e7c0ac24ce",
   "lastOpenFiles": [
-    "Digital Garden Homepage.md",
-    "7. School/BWL/BwL.md",
+    "Templates/Untitled.md",
     "5. Private/Leif.md",
+    "2. New/Untitled.md",
+    "Untitled.md",
+    "2. New",
+    "Digital Garden Homepage.md",
+    "7. School/BWL/Einlage.md",
+    "7. School/BWL/BwL.md",
     "6. Time/Calendar/2024-07-11 Graduation party,.md",
     "6. Time/Calendar/2024-05-20 Pfingstferien.md",
     "6. Time/Calendar/2024-05-17 Math exam.md",
@@ -252,15 +257,10 @@
     "5. Private/Goals/Fractal verse/Hotkey tree.md",
     "2. New/Fn connection.md",
     "5. Private/Goals/Fractal verse/Fractal node code.md",
-    "5. Private/Goals/Fractal verse/Fn connection.md",
-    "7. School/BWL/Werbung.md",
-    "7. School/BWL/Werbeträger.md",
-    "7. School/BWL/Werbemittel.md",
     "8. Files/GmbH info.png",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "3. Computer/Networking/Pasted image 20230524153716.png",
     "3. Computer/Bitcoin",
-    "Untitled",
     "3. Computer/Networking/OSI Layers",
     "3. Computer/Networking/Ports",
     "3. Computer/Networking/Pasted image 20230524155355.png",

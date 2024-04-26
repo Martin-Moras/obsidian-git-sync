@@ -4,7 +4,8 @@ File Creation date: 2024-04-25
 - ads
 	- can't focus
 - Prüfungsangst
-	- schaffe es nicht
+	- I won't make it
+	- fear from math
 
 
 # Programm
