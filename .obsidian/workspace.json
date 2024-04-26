@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "04046978f19661ca",
+        "id": "33768aa09a6aa60c",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb755e7c0ac24ce",
+            "id": "3d2a76a946af507f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Private/Leif.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "5. Private/Leif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Private/Leif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Private/Leif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Private/Leif.md"
+              }
             }
           },
           {
@@ -219,8 +228,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3bb755e7c0ac24ce",
+  "active": "3d2a76a946af507f",
   "lastOpenFiles": [
+    "7. School/BWL/Unternehmensformen/GmbH.md",
     "5. Private/Me.md",
     "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/Blancokredit.md",
@@ -246,7 +256,6 @@
     "7. School/BWL/Unternehmensformen/Kaufman.md",
     "7. School/BWL/Unternehmensformen/Kapitalgesellschaft.md",
     "7. School/BWL/Unternehmensformen/Kannkaufmann.md",
-    "7. School/BWL/Unternehmensformen/Istkaufmann.md",
     "7. School/BWL/Unternehmensformen",
     "2. New",
     "6. Time/Calendar",
