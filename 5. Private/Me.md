@@ -2,6 +2,7 @@
 [[Thoughts ]]
 [[Pressent]]
 [[My Goals]]
+[[Questions]]
 [[Obligations]]
 [[My parts]]
 

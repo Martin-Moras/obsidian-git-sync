@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Me",
+      "path": "5. Private/Me.md"
+    },
+    {
+      "basename": "Kreditsicherheit",
+      "path": "7. School/BWL/Kreditsicherheit.md"
+    },
+    {
+      "basename": "Blancokredit",
+      "path": "7. School/BWL/Blancokredit.md"
+    },
+    {
       "basename": "Leif",
       "path": "5. Private/Leif.md"
     },
     {
       "basename": "Digital Garden Homepage",
       "path": "Digital Garden Homepage.md"
-    },
-    {
-      "basename": "Einlage",
-      "path": "7. School/BWL/Einlage.md"
     },
     {
       "basename": "BwL",
@@ -29,16 +37,8 @@
       "path": "7. School/Deutsch/Der kluge Richter-Tagebuch.md"
     },
     {
-      "basename": "Blancokredit",
-      "path": "7. School/BWL/Blancokredit.md"
-    },
-    {
       "basename": "BwL Bewerbung",
       "path": "7. School/BWL/BwL Bewerbung.md"
-    },
-    {
-      "basename": "Bürgschaft",
-      "path": "7. School/BWL/Bürgschaft.md"
     },
     {
       "basename": "Coding Goals",
@@ -49,10 +49,6 @@
       "path": "5. Private/Goals/Fractal verse/Hotkey tree.md"
     },
     {
-      "basename": "Unternehmensformen",
-      "path": "7. School/BWL/Unternehmensformen.md"
-    },
-    {
       "basename": "Marketing",
       "path": "7. School/BWL/Marketing.md"
     },
@@ -61,68 +57,8 @@
       "path": "7. School/Sundar Pichai Ausarbeitung.md"
     },
     {
-      "basename": "Vertretungsmacht",
-      "path": "7. School/BWL/Vertretungsmacht.md"
-    },
-    {
-      "basename": "GmbH",
-      "path": "7. School/BWL/GmbH.md"
-    },
-    {
-      "basename": "Haftung von Unternehmen",
-      "path": "7. School/BWL/Haftung von Unternehmen.md"
-    },
-    {
-      "basename": "Gewinnverteilung",
-      "path": "7. School/BWL/Gewinnverteilung.md"
-    },
-    {
-      "basename": "Kaufman",
-      "path": "7. School/BWL/Kaufman.md"
-    },
-    {
-      "basename": "Geschäftsanteil",
-      "path": "7. School/BWL/Geschäftsanteil.md"
-    },
-    {
-      "basename": "Kannkaufmann",
-      "path": "7. School/BWL/Kannkaufmann.md"
-    },
-    {
       "basename": "Konjunktur",
       "path": "7. School/BWL/Konjunktur.md"
-    },
-    {
-      "basename": "Fractal node verse",
-      "path": "5. Private/Goals/Fractal verse/Fractal node verse.md"
-    },
-    {
-      "basename": "Prokuristen",
-      "path": "7. School/BWL/Prokuristen.md"
-    },
-    {
-      "basename": "Handelsregister",
-      "path": "7. School/BWL/Handelsregister.md"
-    },
-    {
-      "basename": "Volle Haftung",
-      "path": "7. School/BWL/Volle Haftung.md"
-    },
-    {
-      "basename": "Gesellschafterversammlung",
-      "path": "7. School/BWL/Gesellschafterversammlung.md"
-    },
-    {
-      "basename": "Gesellschafter",
-      "path": "7. School/BWL/Gesellschafter.md"
-    },
-    {
-      "basename": "Geschäftsführungsmacht",
-      "path": "7. School/BWL/Geschäftsführungsmacht.md"
-    },
-    {
-      "basename": "Gesamtgeschäftsführung",
-      "path": "7. School/BWL/Gesamtgeschäftsführung.md"
     }
   ],
   "omittedPaths": [],

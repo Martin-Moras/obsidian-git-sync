@@ -11,12 +11,8 @@
             "id": "3bb755e7c0ac24ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Private/Leif.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a5cb76512b96cf49",
@@ -85,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Private/Leif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Private/Leif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Private/Leif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Private/Leif.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,34 +221,35 @@
   },
   "active": "3bb755e7c0ac24ce",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
-    "5. Private/Leif.md",
-    "2. New/Untitled.md",
-    "Untitled.md",
-    "2. New",
-    "Digital Garden Homepage.md",
-    "7. School/BWL/Einlage.md",
-    "7. School/BWL/BwL.md",
-    "6. Time/Calendar/2024-07-11 Graduation party,.md",
-    "6. Time/Calendar/2024-05-20 Pfingstferien.md",
-    "6. Time/Calendar/2024-05-17 Math exam.md",
-    "6. Time/Calendar/2024-05-15 English exam.md",
-    "6. Time/Calendar/2024-05-13 German exam.md",
-    "6. Time/Calendar/2024-05-08 Bwl exam.md",
-    "6. Time/Calendar/2024-05-02 Tv exam.md",
-    "6. Time/Calendar/(Every U,M,T,W,R,F,S) Sumer holidays.md",
-    "6. Time/Calendar/(Every S,F,R,W,T,M,U) Barcelona.md",
-    "6. Time/Calendar",
-    "7. School/BWL/Bearbeitungsprozesse Einkauf/Verkauf.md",
-    "7. School/Deutsch/Deutsch.md",
-    "7. School/Deutsch/Der kluge Richter-Tagebuch.md",
+    "5. Private/Me.md",
+    "7. School/BWL/Kreditsicherheit.md",
     "7. School/BWL/Blancokredit.md",
-    "7. School/BWL/BwL Bewerbung.md",
-    "7. School/BWL/Bürgschaft.md",
-    "3. Computer/Coding/Coding Goals.md",
-    "5. Private/Goals/Fractal verse/Hotkey tree.md",
-    "2. New/Fn connection.md",
-    "5. Private/Goals/Fractal verse/Fractal node code.md",
+    "5. Private/Leif.md",
+    "7. School/BWL/Unternehmensformen/Volle Haftung.md",
+    "7. School/BWL/Unternehmensformen/Vertretungsmacht.md",
+    "7. School/BWL/Unternehmensformen/Vertretung.md",
+    "7. School/BWL/Unternehmensformen/Versicherung.md",
+    "7. School/BWL/Unternehmensformen/Verlustverteilung.md",
+    "7. School/BWL/Unternehmensformen/Unternehmensformen.md",
+    "7. School/BWL/Unternehmensformen/Unternehmen.md",
+    "7. School/BWL/Unternehmensformen/Sachfirma.md",
+    "7. School/BWL/Unternehmensformen/Prokuristen.md",
+    "7. School/BWL/Unternehmensformen/Persönliche Haftung.md",
+    "7. School/BWL/Unternehmensformen/Personengesellschaft.md",
+    "7. School/BWL/Unternehmensformen/Personenfirma.md",
+    "7. School/BWL/Unternehmensformen/OHG.md",
+    "7. School/BWL/Unternehmensformen/Notariell.md",
+    "7. School/BWL/Unternehmensformen/Nominalzins.md",
+    "7. School/BWL/Unternehmensformen/Mischfirma.md",
+    "7. School/BWL/Unternehmensformen/Konstitutiv.md",
+    "7. School/BWL/Unternehmensformen/KG.md",
+    "7. School/BWL/Unternehmensformen/Kaufman.md",
+    "7. School/BWL/Unternehmensformen/Kapitalgesellschaft.md",
+    "7. School/BWL/Unternehmensformen/Kannkaufmann.md",
+    "7. School/BWL/Unternehmensformen/Istkaufmann.md",
+    "7. School/BWL/Unternehmensformen",
+    "2. New",
+    "6. Time/Calendar",
     "8. Files/GmbH info.png",
     "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
     "3. Computer/Networking/Pasted image 20230524153716.png",
@@ -273,7 +266,6 @@
     "8. Files/BWL SteuerKlassen.png",
     "2. New",
     "8. Files/Pasted image 20240420094300.png",
-    "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg",
-    "7. School/GGK/DDR/DDR Vortrag TTS.mp3"
+    "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg"
   ]
 }
