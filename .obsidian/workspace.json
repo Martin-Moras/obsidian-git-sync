@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "41f59215e53dc094",
+    "id": "882da2c1947f9d12",
     "type": "split",
     "children": [
       {
-        "id": "33768aa09a6aa60c",
+        "id": "2e719ab7fa16c466",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2a76a946af507f",
+            "id": "fbfe74cb3ef3ae29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "8. Files/Manifestation 2024-05-14 11.43.14.excalidraw.md"
+              }
             }
           }
         ]
@@ -21,30 +23,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f556f0ddf6727ac4",
+    "id": "54d6de0eb894fd23",
     "type": "split",
     "children": [
       {
-        "id": "2e07b4b867401a3e",
+        "id": "a0e3084922761e6e",
         "type": "tabs",
         "children": [
           {
-            "id": "e9e53cfd78508078",
+            "id": "6a895c62bf5c7139",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "a5564c6be4d8982e",
+            "id": "afdb83dc5103dcec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#askJohn  ",
+                "query": "asia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +56,7 @@
             }
           },
           {
-            "id": "851e51c6466e12f9",
+            "id": "0ac8990ca3aeced5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -62,74 +64,54 @@
             }
           },
           {
-            "id": "a91ace78e18d0896",
+            "id": "67ae9fce13236c35",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "a5cb76512b96cf49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b9afeb4184adb90",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -2.4,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.119791666666667,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4682213077274804,
-                  "close": true
-                }
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ae35418cbbd1ada6",
+    "id": "1e7a2c2c152b1143",
     "type": "split",
     "children": [
       {
-        "id": "ffbdcfd7c944ab96",
+        "id": "566ca603455948ca",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8a2981cce45318",
+            "id": "d165e514c52fbad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfe2631abebe0cec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6815b659ac07f27a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8. Files/Manifestation 2024-05-14 11.43.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,131 +123,98 @@
             }
           },
           {
-            "id": "6289f01a1ae0a59a",
+            "id": "059f309bed828508",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8. Files/Manifestation 2024-05-14 11.43.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c952aa9d58802157",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "25e94c43a91174a6",
+            "id": "6e731be6e00843cd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "15cf8d298b9d1efd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebd180df05e84eed",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f664ad48f4fe4e4",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "state": {
+                "file": "8. Files/Manifestation 2024-05-14 11.43.14.excalidraw.md"
+              }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": true,
-      "audio-recorder:Start/stop recording": true,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3d2a76a946af507f",
+  "active": "fbfe74cb3ef3ae29",
   "lastOpenFiles": [
-    "5. Private/Leif.md",
-    "7. School/BWL/Unternehmensformen/GmbH.md",
+    "2. New/Manifestation.md",
+    "4. Human/Sex/Sex.md",
+    "2. New/Orgasm.md",
+    "2. New/Explosive orgasm.md",
+    "2. New/Implosive orgasm.md",
+    "8. Files/Manifestation 2024-05-14 15.12.36.excalidraw.md",
+    "8. Files/Manifestation 2024-05-14 11.43.14.excalidraw.md",
+    "4. Human/Brain/Sigmund Freud.md",
+    "4. Human/Brain/Psychoanalytic Theory.md",
+    "4. Human/Sex",
+    "4. Human/Brain/Memory.md",
+    "4. Human/Human.md",
+    "4. Human/Brain",
+    "5. Private/Goals/Intentions.md",
     "5. Private/Me.md",
-    "7. School/BWL/Kreditsicherheit.md",
-    "7. School/BWL/Blancokredit.md",
-    "7. School/BWL/Unternehmensformen/Volle Haftung.md",
-    "7. School/BWL/Unternehmensformen/Vertretungsmacht.md",
-    "7. School/BWL/Unternehmensformen/Vertretung.md",
-    "7. School/BWL/Unternehmensformen/Versicherung.md",
-    "7. School/BWL/Unternehmensformen/Verlustverteilung.md",
-    "7. School/BWL/Unternehmensformen/Unternehmensformen.md",
-    "7. School/BWL/Unternehmensformen/Unternehmen.md",
-    "7. School/BWL/Unternehmensformen/Sachfirma.md",
-    "7. School/BWL/Unternehmensformen/Prokuristen.md",
-    "7. School/BWL/Unternehmensformen/Persönliche Haftung.md",
-    "7. School/BWL/Unternehmensformen/Personengesellschaft.md",
-    "7. School/BWL/Unternehmensformen/Personenfirma.md",
-    "7. School/BWL/Unternehmensformen/OHG.md",
-    "7. School/BWL/Unternehmensformen/Notariell.md",
-    "7. School/BWL/Unternehmensformen/Nominalzins.md",
-    "7. School/BWL/Unternehmensformen/Mischfirma.md",
-    "7. School/BWL/Unternehmensformen/Konstitutiv.md",
-    "7. School/BWL/Unternehmensformen/KG.md",
-    "7. School/BWL/Unternehmensformen/Kaufman.md",
-    "7. School/BWL/Unternehmensformen/Kapitalgesellschaft.md",
-    "7. School/BWL/Unternehmensformen/Kannkaufmann.md",
-    "7. School/BWL/Unternehmensformen",
-    "2. New",
-    "6. Time/Calendar",
-    "8. Files/GmbH info.png",
-    "1. Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
-    "3. Computer/Networking/Pasted image 20230524153716.png",
-    "3. Computer/Bitcoin",
-    "3. Computer/Networking/OSI Layers",
-    "3. Computer/Networking/Ports",
-    "3. Computer/Networking/Pasted image 20230524155355.png",
-    "3. Computer/Hacking",
-    "3. Computer/Networking",
-    "5. Private/Goals/Fractal verse",
-    "8. Files/Pasted image 20240323175104.png",
-    "1. Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
-    "1. Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "2. New/Untitled 1.md",
+    "5. Private/Goals/Goals.md",
+    "5. Private/Goals/Make the world a beautiful place.md",
+    "8. Files/Make the world a better place 2024-01-31 19.10.44.excalidraw.md",
+    "5. Private/Goals/Publication.md",
+    "2. New/Fractal node mind.md",
+    "2. New/Fractal node verse.md",
+    "3. Computer/Coding/Coding Goals.md",
+    "2. New/Backpacking.md",
+    "5. Private/Future plans.md",
+    "1. Excalidraw/IFS Teil Model.excalidraw.md",
+    "7. School/BWL/BwL.md",
+    "8. Files/Self Shadow work.jpeg",
+    "8. Files/Richard Schwatz portrait.png",
+    "8. Files/Pasted Image 20240130141512_139.jpg",
+    "8. Files/Kreditsicherheit 2024-04-19 19.07.58.excalidraw.md",
     "8. Files/BWL SteuerKlassen.png",
+    "8. Files/BWL alle Versicherungen.png",
     "2. New",
+    "2.",
+    "Templates",
     "8. Files/Pasted image 20240420094300.png",
-    "8. Files/BWL Gehaltsabrechnung Aufgabe 2024.02.08.jpg"
+    "8. Files/Pasted image 20240323175104.png",
+    "8. Files/Pasted image 20240317181232.png",
+    "8. Files/Pasted image 20240208124148.jpg",
+    "8. Files/Pasted image 20240208100846.jpg",
+    "8. Files",
+    "7. School/GGK/DDR/DDR Vortrag TTS.mp3",
+    "7. School/GGK/DDR",
+    "7. School/BWL/Unternehmensformen",
+    "7. School/BWL/Bearbeitungsprozesse Einkauf"
   ]
 }

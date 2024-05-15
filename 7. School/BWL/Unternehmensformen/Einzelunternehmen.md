@@ -29,8 +29,7 @@ Abkürzung: [[e.K.]]
 - alleinige, [[Unbeschränkte Haftung]], [[Volle Haftung]] #askJohn ist [[Volle Haftung]] und [[Unbeschränkte Haftung]] das gleiche? Ja
 - alleiniges Risiko
 - weniger Fachkompetenz
-- geringere [[
-- Kreditwürdigkeit]]
+- geringere [[Kreditwürdigkeit]]
 - hohe Arbeitsbelastung
 # Vorteile für Angestellte
 - Familiäre Athmosphäre

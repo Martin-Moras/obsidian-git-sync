@@ -13,13 +13,6 @@
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "file:Fractal",
-      "color": {
-        "a": 1,
-        "rgb": 6892031
-      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +25,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.059326171875,
+  "scale": 0.09248815955110715,
   "close": true
 }

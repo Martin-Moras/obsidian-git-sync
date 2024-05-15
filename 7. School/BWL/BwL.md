@@ -19,7 +19,8 @@ dg-publish: true
 [[Konjunktur]]
 [[Industrie und Handelskammer (IHK)]]
 [[Vertretung]]
-
+[[BwL Flyer]]
+[[Eigentumsvorbehalt]]
 
 
 [[Sundar Pichai Ausarbeitung]]
